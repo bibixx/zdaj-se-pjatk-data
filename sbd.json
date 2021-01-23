@@ -568,7 +568,7 @@
     },
     {
       "question": "Relacja R ma atrybut a. Jaka liczba może być wynikiem wykonania instrukcji SELECT Count(*) FROM R WHERE a<a <img=\"\" src=\"question.png\" height=\"16\" width=\"16\" onclick=\"window.open('?comment=660','komentarze','width=560,height=360')\">      </a>",
-      "id": 660,
+      "id": null,
       "comments": null,
       "answers": [
         {
@@ -12036,6 +12036,29 @@
         },
         {
           "answer": "W dwóch punktach w czasie trwania tej samej transakcji odczy tego samego pola daje różne wyniki",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "<span id=\"docs-internal-guid-8bb78be7-7fff-4e21-753f-f095beb98a82\"><span>Dane są trzy tabele Klienci(Id_Klienta, Imie, Nazwisko), Produkty(Id_Produktu, Nazwa, Cena) oraz Zakupy(Id_Klienta, Id_Produktu, Ilosc). Wskaż poprawne zapytanie SQL znajdujące imiona i nazwiska klientów, którzy zakupili co najmniej jeden produkt.</span></span>",
+      "id": 3348,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span id=\"docs-internal-guid-3cc89725-7fff-7528-36ff-af57bfb107f0\"><span>SELECT DISTINCT Imie, Nazwisko FROM Klienci, Zakupy WHERE Klienci.Id_Klienta = Zakupy.Id_Klienta;</span></span>",
+          "correct": true
+        },
+        {
+          "answer": "<span id=\"docs-internal-guid-e3132b6c-7fff-fdf8-83e6-04e7b9b3f316\"><span>SELECT DISTINCT Imie, Nazwisko FROM Klienci LEFT OUTER JOIN Zakupy ON Klienci.Id_Klienta = Zakupy.Id_Klienta;</span></span>",
+          "correct": false
+        },
+        {
+          "answer": "<span id=\"docs-internal-guid-21806570-7fff-2b76-a203-2a8c35807b00\"><span>SELECT Imie, Nazwisko FROM Klienci;</span></span>",
+          "correct": false
+        },
+        {
+          "answer": "<span id=\"docs-internal-guid-36fcbaa8-7fff-5439-b6ba-03aa218c3be2\"><span>SELECT DISTINCT Imie, Nazwisko FROM Klienci, Zakupy, Produkty WHERE Klienci.Id_Klienta = Zakupy.Id_Klienta AND Produkty.Id_Produktu = Zakupy.Id_Produktu;</span></span>",
           "correct": true
         }
       ]

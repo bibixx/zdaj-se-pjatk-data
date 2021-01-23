@@ -59,6 +59,16 @@
           "author": "~Simi@95.49.*.*",
           "comment": "Komendy netroute, etroute i routeip na moim linuxie nie istnieją\nJeśli chodzi o odpowiedź wyżej, to chyba nie wiesz wszystkiego,\n+route\n+ip route\n+ip route list\n-route list!\n+netstat",
           "date": "04-02-2020 01:25:40"
+        },
+        {
+          "author": "~anon@83.29.*.*",
+          "comment": "proszę o zaznaczenie odp netstat oraz route",
+          "date": "11-01-2021 22:54:11"
+        },
+        {
+          "author": "~anon@83.29.*.*",
+          "comment": "a jak nie ma to można dodać :D ",
+          "date": "11-01-2021 22:54:24"
         }
       ],
       "answers": [
@@ -113,6 +123,11 @@
           "author": "~Szuchow@93.105.*.*",
           "comment": "cyt. z Rossa - \"W określonym łączu węzeł nadawczy kapsułkuje datagram w ramce warstwy łącza danych i umieszcza ją w łączu\"",
           "date": "08-02-2019 22:19:55"
+        },
+        {
+          "author": "~anon@83.29.*.*",
+          "comment": "Pytanie pełne brzmi:\n\"W warstwie łącza danych mówimy o:\"\nOdp: ramkach",
+          "date": "11-01-2021 22:56:31"
         }
       ],
       "answers": [
@@ -2527,6 +2542,11 @@
           "author": "~aaa@2a02:a312:6042:3100:e5a2:5838:363:5742",
           "comment": "SMTP JEST STANOWE POZDRAWIAM MYKHI",
           "date": "02-02-2020 13:54:45"
+        },
+        {
+          "author": "~pojebalo@79.184.*.*",
+          "comment": "was",
+          "date": "11-01-2021 21:04:36"
         }
       ],
       "answers": [

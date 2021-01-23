@@ -617,7 +617,7 @@
     },
     {
       "question": "Relacja R ma atrybut a. Jaka liczba może być wynikiem wykonania instrukcji SELECT Count(*) FROM R WHERE a<a <img=\"\" src=\"question.png\" height=\"16\" width=\"16\" onclick=\"window.open('?comment=337','komentarze','width=560,height=360')\">      </a>",
-      "id": 337,
+      "id": null,
       "comments": null,
       "answers": [
         {

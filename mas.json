@@ -65,7 +65,18 @@
     {
       "question": "Architektura kilient-serwer sprzyja redukcji ruchu sieciowego.&nbsp;",
       "id": 1964,
-      "comments": null,
+      "comments": [
+        {
+          "author": "~janpapaj@162.158.*.*",
+          "comment": "CO?!",
+          "date": "30-06-2019 03:00:47"
+        },
+        {
+          "author": "~wyklady@2a02:a317:213c:1700:8c9d:4ae1:1b2:15d4",
+          "comment": "Zależy pewnie z czym porównasz :) W wykładach jest przedstawione, że zmniejsza ruch sieciowy, gdyż wysyła tylko odpowiedź, a nie dane potrzebne do jej wyliczenia",
+          "date": "11-07-2020 21:43:15"
+        }
+      ],
       "answers": [
         {
           "answer": "TAK",
@@ -125,7 +136,18 @@
     {
       "question": "Atrybut klasowy ma zawsze stałą wartość.",
       "id": 1968,
-      "comments": null,
+      "comments": [
+        {
+          "author": "~PCH@89.70.*.*",
+          "comment": "Atrybut klasowy ma tę samą wartość dla wszystkich obiektów danej klasy - wykład MAS",
+          "date": "01-07-2020 13:17:14"
+        },
+        {
+          "author": "~anon@37.130.*.*",
+          "comment": "Taka sama wartość, a stała wartość to jednak trochę różnica",
+          "date": "01-07-2020 14:35:18"
+        }
+      ],
       "answers": [
         {
           "answer": "TAK",
@@ -647,6 +669,21 @@
     {
       "question": "<table width=\"64\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col width=\"64\"></colgroup>\n<tbody>\n<tr>\n<td width=\"64\" height=\"20\">\n<table width=\"1067\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col width=\"1067\"></colgroup>\n<tbody>\n<tr>\n<td width=\"1067\" height=\"20\">Asocjacji to grupa powiązań o tej samej semantyce i strukturze.</td>\n</tr>\n</tbody>\n</table>\n</td>\n</tr>\n</tbody>\n</table>",
       "id": 3239,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "TAK",
+          "correct": true
+        },
+        {
+          "answer": "NIE",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "<span>Adnotacje </span><span>wyko</span><span>r</span><span>zys</span><span>tywan</span><span>e</span><span> w technologii Hibernate </span><span>mogą dotyczyć </span><span>m. in. </span><span>asocjacji </span><span>mapowanej klasy.</span>",
+      "id": 3347,
       "comments": null,
       "answers": [
         {

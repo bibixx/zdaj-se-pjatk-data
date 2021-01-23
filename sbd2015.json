@@ -5556,6 +5556,351 @@
           "correct": false
         }
       ]
+    },
+    {
+      "question": "<span id=\"docs-internal-guid-cd3fb89f-7fff-0464-2db4-186e8aebe104\"><span>Zaznacz poprawne stwierdzenia dotyczące przestrzeni tabel (Oracle) oraz grup plików (MS SQL):</span></span>",
+      "id": 3349,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span id=\"docs-internal-guid-7a419867-7fff-4ea0-b50d-a4248710cb40\"><span>Grupie plików odpowiada zawsze dokładnie jeden fizyczny dysk twardy</span></span>",
+          "correct": false
+        },
+        {
+          "answer": "<span id=\"docs-internal-guid-13e21dcd-7fff-6efe-2152-bd774df0fb73\"><span>Przestrzeń tabel ma zawsze określony dokładnie jeden plik dyskowy</span></span>",
+          "correct": false
+        },
+        {
+          "answer": "<span id=\"docs-internal-guid-d6a247f0-7fff-931c-2fc5-817379fb7a83\"><span>Do przestrzeni tabel można przypisać wiele plików dyskowych</span></span>",
+          "correct": true
+        },
+        {
+          "answer": "<span id=\"docs-internal-guid-cb0d63fb-7fff-b56c-6746-988c320b2e4e\"><span>Do przestrzeni tabel można przydzielić określone tabele bazy danych</span></span>",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "<span id=\"docs-internal-guid-4b8532cf-7fff-c3f3-e757-862076fc4c05\"><span>Zaznacz poprawne stwierdzenia dotyczące indeksów opartych na B+drzewie:</span></span>",
+      "id": 3350,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span id=\"docs-internal-guid-41787c90-7fff-1250-adc2-4d2f9d25136c\"><span>Gdy na kolumnę założymy indeks pogrupowany, rekordy w tabeli będą uporządkowane względem tej kolumny</span></span>",
+          "correct": true
+        },
+        {
+          "answer": "<span id=\"docs-internal-guid-f3759ae4-7fff-3156-0670-7922e3652b54\"><span>Indeks niepogrupowany lepiej sprawdza się od pogrupowanego w przypadku wyszukiwania zakresowego</span></span>",
+          "correct": false
+        },
+        {
+          "answer": "<span id=\"docs-internal-guid-1283c1c5-7fff-58aa-1b0d-38a0fe76f6ad\"><span>Indeks niepogrupowany lepiej wspiera sortowanie niż pogrupowany</span></span>",
+          "correct": false
+        },
+        {
+          "answer": "<span id=\"docs-internal-guid-6fda3415-7fff-74e6-457c-503cc739f75e\"><span>Może istnieć wiele indeksów niepogrupowanych na jednej tabeli</span></span>",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "<span id=\"docs-internal-guid-0f6a4ed0-7fff-2981-3ab8-73beff24c367\"><span>Które z poniższych stwierdzeń jest prawdziwe w PL/SQL</span></span>",
+      "id": 3351,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span id=\"docs-internal-guid-37a176b6-7fff-c1e6-a63c-b8f382587379\"><span>Można używać zmiennych niedeklarowanych</span></span>",
+          "correct": false
+        },
+        {
+          "answer": "<span id=\"docs-internal-guid-67cc90f1-7fff-e54f-ebc4-cfeff7361a52\"><span>Zmienna typu tekstowego jest przed jej zainicjowaniem pustym stringiem (ciągiem znaków zerowej długości)</span></span>",
+          "correct": false
+        },
+        {
+          "answer": "<span id=\"docs-internal-guid-cbd1986c-7fff-0260-230a-706da5448926\"><span>Zmienne mogą być deklarowane wyłącznie w blokach anonimowych</span></span>",
+          "correct": false
+        },
+        {
+          "answer": "<span id=\"docs-internal-guid-bc1dd0cf-7fff-2901-0e39-2cd371063f6c\"><span>Zmienna zadeklarowana w bloku zagnieżdżonym nie jest widoczna w bloku zewnętrznym</span></span>",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "<span id=\"docs-internal-guid-8107cc83-7fff-0873-b47b-6dbc17d98308\"><span>Wskazać poprawne zapytanie SQL znajdujące średni zarobek pracowników z drugiej klasy zarobkowej</span></span>",
+      "id": 3352,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span id=\"docs-internal-guid-f833531d-7fff-34f1-5a42-9f7a2ceab2b6\"><span>SELECT AVG(sal) FROM emp WHERE sal &gt;= (SELECT losal FROM salgrade WHERE grade = 2) AND sal &lt;= (SELECT hisal FROM salgrade WHERE grade = 2);</span></span>",
+          "correct": true
+        },
+        {
+          "answer": "<span id=\"docs-internal-guid-9f2cc313-7fff-5c48-6390-0f3596505d24\"><span>SELECT AVG(sal) FROM emp, salgrade WHERE grade = 2 AND sal BETWEEN losal AND hisal GROUP BY.grade;</span></span>",
+          "correct": false
+        },
+        {
+          "answer": "<span id=\"docs-internal-guid-1634debb-7fff-7765-99e5-4d42f896bc2b\"><span>SELECT AVG(sal) FROM emp, salgrade WHERE grade = 2 AND sal BETWEEN losal AND hisal;</span></span>",
+          "correct": true
+        },
+        {
+          "answer": "<span id=\"docs-internal-guid-7cc0e370-7fff-96c6-a669-e1b436dc8d81\"><span>SELECT AVG(sal) FROM emp, salgrade WHERE grade = 2 AND sal &gt;= losal AND sal &lt;= hisal GROUP BY grade;</span></span>",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "<span id=\"docs-internal-guid-13c2a483-7fff-57e0-3258-8c0e71b5d6ee\"><span>Wyniki procedury T-SQL mogą być zwrócone przez</span></span>",
+      "id": 3353,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span id=\"docs-internal-guid-411b85a7-7fff-83e8-37ec-b9ecc2c0f685\"><span>Result Set</span></span>",
+          "correct": true
+        },
+        {
+          "answer": "<span id=\"docs-internal-guid-d04cca16-7fff-a0b6-4518-635bd0a0fe2f\"><span>Zmienną wiązania</span></span>",
+          "correct": false
+        },
+        {
+          "answer": "<span id=\"docs-internal-guid-d7e74c29-7fff-bacd-0e9f-7b5ee354d668\"><span>Zmienną typu OUTPUT</span></span>",
+          "correct": true
+        },
+        {
+          "answer": "<span id=\"docs-internal-guid-4939c8eb-7fff-e33a-585c-c931184ddd54\"><span>Dyrektywę RETURN</span></span>",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "<span id=\"docs-internal-guid-d2158a1d-7fff-64b3-470a-be8f50b451b9\"><span>Która z poniższych instrukcji może zostać użyta w bloku PL/SQL</span></span>",
+      "id": 3354,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span id=\"docs-internal-guid-b9ff243d-7fff-b978-a13a-b3fb333c7cd2\"><span>ALTER</span></span>",
+          "correct": false
+        },
+        {
+          "answer": "<span id=\"docs-internal-guid-5b4b152c-7fff-d5b5-33f3-30ff6163ca99\"><span>ROLLBACK</span></span>",
+          "correct": false
+        },
+        {
+          "answer": "<span id=\"docs-internal-guid-d2194d18-7fff-ee04-aba1-5efa9efcd36c\"><span>SELECT</span></span>",
+          "correct": true
+        },
+        {
+          "answer": "<span id=\"docs-internal-guid-1191300c-7fff-098f-12d3-04d4b8e502b8\"><span>INSERT</span></span>",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "<span id=\"docs-internal-guid-039b26b8-7fff-6f0d-1853-336fb83be81a\"><span>Wyzwalacz w PL/SQL</span></span>",
+      "id": 3355,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span id=\"docs-internal-guid-2b6e6bc7-7fff-9b70-8a91-856972a609a9\"><span>W wyzwalaczu wierszowym (FOR EACH ROW) można zmieniać wartości aktualizowanego wiersza używając :NEW</span></span>",
+          "correct": true
+        },
+        {
+          "answer": "<span id=\"docs-internal-guid-5051f787-7fff-b8eb-abe8-df88de81f28c\"><span>Działanie wyzwalacza może dotyczyć poszczególnych wierszy tabeli</span></span>",
+          "correct": true
+        },
+        {
+          "answer": "<span id=\"docs-internal-guid-5ae58998-7fff-dfab-378f-100bdddaefc6\"><span>Działanie wyzwalacza może dotyczyć całej tabeli, bez rozróżniania jej wierszy</span></span>",
+          "correct": true
+        },
+        {
+          "answer": "<span id=\"docs-internal-guid-88a19a34-7fff-04ff-900c-5fc18d2dca72\"><span>Może być uruchomiony po wykonaniu instrukcji SQL, która go zainicjowała</span></span>",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "<span id=\"docs-internal-guid-722b2ff0-7fff-6dec-a2f0-40393d8a840f\"><span>Pakiet w PL/SQL</span></span>",
+      "id": 3356,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span id=\"docs-internal-guid-c495ca0b-7fff-d5c6-7146-0eb04d6477a8\"><span>Część publiczna (specyfikacja) pakietu jest opcjonalna</span></span>",
+          "correct": true
+        },
+        {
+          "answer": "<span id=\"docs-internal-guid-dfe47372-7fff-f6f1-ec73-0c5ccc542513\"><span>Zmienne zadeklarowane w części prywatnej pakietu są widoczne w jego części publicznej</span></span>",
+          "correct": false
+        },
+        {
+          "answer": "<span id=\"docs-internal-guid-a0b15513-7fff-16a1-e67d-14bceb3f541e\"><span>Składa się z części publicznej (specyfikacji pakietu) i prywatnej (ciała pakietu)</span></span>",
+          "correct": true
+        },
+        {
+          "answer": "<span id=\"docs-internal-guid-b1fd523c-7fff-379f-395b-ab3bfe707426\"><span>Deklaracja zmiennych może odbywać się w części prywatnej pakietu</span></span>",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "<span id=\"docs-internal-guid-98744468-7fff-c336-8555-e548061562ad\"><span>Dane są trzy tabele Klienci(Id_Klienta, Imie, Nazwisko), Produkty(Id_Produktu, Nazwa, Cena) oraz Zakupy(Id_Klienta, Id_Produktu, Ilosc). Wskazać poprawne zapytanie SQL znajdujące imiona i nazwiska klientów, którzy zakupili produkt o nazwie Pralka.</span></span>",
+      "id": 3357,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span id=\"docs-internal-guid-5ba3cd21-7fff-1154-8904-7c0c278ae66d\"><span>SELECT Imie, Nazwisko FROM Klienci, Produkty, Zakupy WHERE Klienci.Id_Klienta = Zakupy.IdKlienta AND Produkty.Id_Produktu = Zakupy.Id_Produktu AND Nazwa = 'Pralka';</span></span>",
+          "correct": true
+        },
+        {
+          "answer": "<span id=\"docs-internal-guid-e4719119-7fff-2b98-7116-fd3e236210b2\"><span>SELECT Imie, Nazwisko FROM Klienci INNER JOIN Produkty ON Produkty.Id_Produktu = Klienci.Id_ Klienta WHERE Produkty.Nazwa = 'Pralka';</span></span>",
+          "correct": false
+        },
+        {
+          "answer": "<span id=\"docs-internal-guid-4221cead-7fff-498d-3f2e-b74a6e691b18\"><span>SELECT Imie, Nazwisko FROM Klienci, Produkty WHERE Nazwa = 'Pralka';</span></span>",
+          "correct": false
+        },
+        {
+          "answer": "<span id=\"docs-internal-guid-94a641e3-7fff-76b9-2947-872776ec73d3\"><span>SELECT Imie, Nazwisko FROM Produkty WHERE Nazwa = 'Pralka';</span></span>",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "<span id=\"docs-internal-guid-6f8e38fb-7fff-a3c0-6097-f4ffe6fb3ef9\"><span>Wyzwalacz w bazie danych</span></span>",
+      "id": 3358,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span id=\"docs-internal-guid-56a666b3-7fff-cff3-ccd6-19f4a59b8c63\"><span>Jest uruchamiany przez polecenie DML na tabeli, z którą jest związany wyzwalacz</span></span>",
+          "correct": true
+        },
+        {
+          "answer": "<span id=\"docs-internal-guid-b23a64eb-7fff-ebd2-5172-f8f3805aca24\"><span>Może być wyłączany i włączany</span></span>",
+          "correct": true
+        },
+        {
+          "answer": "<span id=\"docs-internal-guid-fa186833-7fff-175f-4d89-4ba4e4fc8c6a\"><span>Jest obiektem tworzonym przez polecenie CREATE</span></span>",
+          "correct": true
+        },
+        {
+          "answer": "<span id=\"docs-internal-guid-99f6aaae-7fff-3d30-fbe8-632adc75c7e2\"><span>Pozwala jednakowo obsługiwać wszystkie procesy wykonujące operacje DML na tabeli, z którą związany jest wyzwalacz</span></span>",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "<span id=\"docs-internal-guid-fb1472fe-7fff-bc99-2c7e-191e82abaea1\"><span>Serwer baz danych może zarządzać współbieżnością dzięki:</span></span>",
+      "id": 3359,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span id=\"docs-internal-guid-93d046db-7fff-09d6-0ccf-5942f8d37ee9\"><span>materializacji</span></span>",
+          "correct": false
+        },
+        {
+          "answer": "<span id=\"docs-internal-guid-1769d9d8-7fff-2033-7187-958842de0b56\"><span>wielowersyjności</span></span>",
+          "correct": true
+        },
+        {
+          "answer": "<span id=\"docs-internal-guid-bee7b3cc-7fff-3fff-71f6-693d35bcf5c1\"><span>denormalizacji</span></span>",
+          "correct": false
+        },
+        {
+          "answer": "<span id=\"docs-internal-guid-9382ee64-7fff-5978-c808-a8690cc1d2e3\"><span>blokadom</span></span>",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "<span id=\"docs-internal-guid-6f1d0dc1-7fff-7a9d-9ded-dc2be01ea775\"><span>W wyzwalaczu T-SQL można aktualizować dane:</span></span>",
+      "id": 3360,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span id=\"docs-internal-guid-60a1fd88-7fff-1e63-5b9c-55a9b5fd13b8\"><span>Tylko w tabelach INSERTED i DELETED</span></span>",
+          "correct": false
+        },
+        {
+          "answer": "<span id=\"docs-internal-guid-d5ec6d3d-7fff-3c3e-dad4-fd802161ca9b\"><span>Z poziomu wyzwalacza nie wolno zmieniać danych w żadnych tabelach</span></span>",
+          "correct": false
+        },
+        {
+          "answer": "<span id=\"docs-internal-guid-b6947b37-7fff-5745-4d89-54c82983748b\"><span>We wszystkicj tabelach, poza INSERTED i DELETED</span></span>",
+          "correct": true
+        },
+        {
+          "answer": "<span id=\"docs-internal-guid-131554e0-7fff-7754-5003-c1c0a79ce32c\"><span>Tylko w tabeli, z którą jest związany wyzwalacz</span></span>",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "<span id=\"docs-internal-guid-3ccadbce-7fff-938e-1f1d-5d754b28020b\"><span>Dane są dwie tabele Osoby(Imie, Nazwisko, Zarobki, Id_działu) oraz Działy(Id_działu, Nazwa). Które z następujących instrukcji są poprawnymi instrukcjami SQL w Oracle</span></span>",
+      "id": 3361,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span id=\"docs-internal-guid-50a224d0-7fff-5da9-fd47-aee2ec93602e\"><span>SELECT Osoby.Nazwisko, Działy.Nazwa FROM Osoby, Działy WHERE Osoby.Id_działu = Działy.Id_działu GROUP BY Osoby.Nazwisko;</span></span>",
+          "correct": false
+        },
+        {
+          "answer": "<span id=\"docs-internal-guid-6e5b9303-7fff-8616-83d2-204244a5efc0\"><span>DELETE FROM Osoby, Działy WHERE Osoby.Nazwisko=’KOWALSKI’ AND Działy.Nazwa=’KASA’;</span></span>",
+          "correct": false
+        },
+        {
+          "answer": "<span id=\"docs-internal-guid-736ea687-7fff-a567-a46e-24f59263f6ce\"><span>UPDATE Osoby SET Id_działu = NULL;</span></span>",
+          "correct": true
+        },
+        {
+          "answer": "<span id=\"docs-internal-guid-776462a3-7fff-d30d-66cc-8dce1375271d\"><span>INSERT INTO Osoby VALUES ('Jan', 'Kowalski', 2000) WHERE Osoby.Id_działu = 23;</span></span>",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "<span id=\"docs-internal-guid-3fc033cd-7fff-d9fb-5538-1699c19a956e\"><span>Jakiego typu wyzwalacza trzeba użyć w celu jednoczesnego wstawienia danych do trzech tabel poprzez perspektywę:</span></span>",
+      "id": 3362,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "BEFORE",
+          "correct": false
+        },
+        {
+          "answer": "<span id=\"docs-internal-guid-6d55ce94-7fff-fb82-5e8b-a491b3c37d06\"><span>żadnego, bo nie można do tego wykorzystać wyzwalacza</span></span>",
+          "correct": false
+        },
+        {
+          "answer": "<span id=\"docs-internal-guid-f4398839-7fff-29d7-efc0-33a80c31a160\"><span>INSTEAD OF</span></span>",
+          "correct": true
+        },
+        {
+          "answer": "AFTER",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "<span id=\"docs-internal-guid-8ec0b05d-7fff-447e-f487-ba0c5a27794f\"><span>Strategia \"tylko indeks\" (indeks pokrywający):</span></span>",
+      "id": 3363,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span id=\"docs-internal-guid-e43797cc-7fff-ca2b-aee2-9e3be266ac23\"><span>polega na tym, że gdy wszystkie kolumny użyte w zapytaniu są zawarte w indeksie, serwer nie musi sięgać do danych.</span></span>",
+          "correct": true
+        },
+        {
+          "answer": "<span id=\"docs-internal-guid-91917056-7fff-20e9-7071-94fd7d5fd1cb\"><span>polega na tym, że istnieje tylko jeden indeks na kluczu głównym tabeli.</span></span>",
+          "correct": false
+        },
+        {
+          "answer": "<span id=\"docs-internal-guid-d886e322-7fff-610c-d305-6c976b691f34\"><span>może być osiągnięta przy pomocy indeksu złożonego (jeden indeks na kilku kolumnach).</span></span>",
+          "correct": true
+        },
+        {
+          "answer": "<span id=\"docs-internal-guid-ae875dd4-7fff-84bc-2296-14d4c99f5277\"><span>może być osiągnięta przy pomocy indeksu z dołączonymi kolumnami (included columns).</span></span>",
+          "correct": false
+        }
+      ]
     }
   ]
 }

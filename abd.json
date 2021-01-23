@@ -2671,6 +2671,397 @@
       ]
     },
     {
+      "question": "&nbsp;<p></p>\n<p>Wskaż poprawne stwierdzenia dotyczące kont logowania (logins) i użytkowników (users) w MS SQL</p>\n<p>\n          </p>",
+      "id": 3323,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "&nbsp;<p></p>\n<p>Konto logowania (login) jest zawsze tworzone dla jednej bazy danych</p>\n<p></p>",
+          "correct": false
+        },
+        {
+          "answer": "&nbsp;<p></p>\n<p>Użytkownik (user) aby mógł działać, musi być związany z jakimś kontem logowania (login).</p>\n<p></p>",
+          "correct": true
+        },
+        {
+          "answer": "&nbsp;<p></p>\n<table width=\"665\" cellspacing=\"0\" cellpadding=\"2\"><colgroup><col width=\"661\"> </colgroup>\n<tbody>\n<tr>\n<td width=\"661\">\n<p>Możemy stworzyć wielu użytkowników (user) na bazie jednego konta logowania (login) w jednej bazie danych</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p></p>",
+          "correct": false
+        },
+        {
+          "answer": "&nbsp;<p></p>\n<p>Dla konta logowania (login) możemy bezpośrednio przypisać prawo SELECT do tabeli.</p>\n<p></p>",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "&nbsp;<p></p>\n<p><span><span><span><span><span><span><span><span>Czy PostgreSQL obsługuje następujące indeksy?</span></span></span></span></span></span></span></span></p>\n<p>\n          </p>",
+      "id": 3324,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "&nbsp;<p></p>\n<p align=\"left\">Indeks typu hash</p>\n<p></p>",
+          "correct": true
+        },
+        {
+          "answer": "&nbsp;<p></p>\n<p align=\"left\">Indeksy oparty na B drzewie (pogrupowany)</p>\n<p></p>",
+          "correct": true
+        },
+        {
+          "answer": "&nbsp;<p></p>\n<p align=\"left\">Indeks oparty na B drzewie (niepogrupowany)</p>\n<p></p>",
+          "correct": false
+        },
+        {
+          "answer": "&nbsp;<p></p>\n<p>Indeks typu WDS</p>\n<p></p>",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "&nbsp;<p></p>\n<p>Wskaż poprawne stwierdzenia dotyczące schematów w MS SQL Server:</p>\n<p>\n          </p>",
+      "id": 3325,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "&nbsp;<p></p>\n<p>Schemat nie może istnieć bez powiązanej z nim roli.</p>\n<p></p>",
+          "correct": false
+        },
+        {
+          "answer": "&nbsp;<p></p>\n<p>Do schematu może należeć wiele tabel.</p>\n<p></p>",
+          "correct": true
+        },
+        {
+          "answer": "&nbsp;<p></p>\n<p>Tabela może należeć do wielu schematów.</p>\n<p></p>",
+          "correct": false
+        },
+        {
+          "answer": "&nbsp;<p></p>\n<p>Do schematu może należeć wielu użytkowników.</p>\n<p></p>",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "&nbsp;<p></p>\n<p>Jaką wartość powinniśmy zwrócić z funkcji wykorzystywanej jako wyzwalacz?</p>\n<p>\n          </p>",
+      "id": 3326,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "&nbsp;<p></p>\n<p><span><span><span><span><span><span><span><span>Z wyzwalacza musimy zwracać zmienną wierszową, której struktura będzie dokładnie taka sama jak struktura wiersza tabeli na której uruchomiliśmy wyzwalacz.</span></span></span></span></span></span></span></span></p>\n<p></p>",
+          "correct": false
+        },
+        {
+          "answer": "&nbsp;<p></p>\n<table width=\"665\" cellspacing=\"0\" cellpadding=\"2\"><colgroup><col width=\"661\"> </colgroup>\n<tbody>\n<tr>\n<td width=\"661\">\n<p>Z wyzwalacza musimy zwracać wartość NULL lub zmienną wierszową, której struktura będzie dokładnie taka sama jak struktura wiersza tabeli na której uruchomiliśmy wyzwalacz.</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p></p>",
+          "correct": false
+        },
+        {
+          "answer": "&nbsp;<p></p>\n<p><span><span><span><span><span><span><span><span>Z wyzwalacza musimy zwracać wartość NULL.</span></span></span></span></span></span></span></span></p>\n<p></p>",
+          "correct": false
+        },
+        {
+          "answer": "&nbsp;<p></p>\n<p><span><span><span><span><span><span><span><span>Z wyzwalacza możemy zwrócić dowolną wartość (INT, VARCHAR, ...)</span></span></span></span></span></span></span></span></p>\n<p></p>",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "&nbsp;<p></p>\n<p>W MS SQL Server wykonywana była pełna kopia zapasowa w nocy z soboty na niedzielę. W każdy inny dzień o tej samej porze była wykonywana kopia różnicowa. W godzinach: 10, 12, 14 i 16 w każdy dzień roboczy była wykonywana kopa dziennika transakcji. Awaria nastąpiła w czwartek o godz. 13:00. Z których kopii zapasowych i w jakiej kolejności odtworzysz bazę danych?</p>\n<p>\n          </p>",
+      "id": 3327,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "&nbsp;<p></p>\n<p>Najpierw pełny z weekendu, następnie różnicowy z nocy ze środy na czwartek, następnie wszystkie logi od poniedziałku do środy.</p>\n<p></p>",
+          "correct": false
+        },
+        {
+          "answer": "&nbsp;<p></p>\n<p>Najpierw pełny z weekendu, następnie różnicowy z nocy z środy na czwartek, następnie wszystkie po kolei logi z czwartku.</p>\n<p></p>",
+          "correct": true
+        },
+        {
+          "answer": "&nbsp;<p></p>\n<p>Najpierw pełny z weekendu, następnie wszystkie różnicowe wykonane po pełnym, następnie logi z czwartku.</p>\n<p></p>",
+          "correct": false
+        },
+        {
+          "answer": "&nbsp;<p></p>\n<p>Najpierw pełny z weekendu, następnie wszystkie różnicowe wykonane po pełnym, następnie wszystkie logi wykonane po pełnym.</p>\n<p></p>",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "&nbsp;<p></p>\n<p>Wybierz prawdziwe stwierdzenia dotyczące kopii zapasowych w MS SQL Server:</p>\n<p>\n          </p>",
+      "id": 3328,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "&nbsp;<p></p>\n<p>Kopia różnicowa (differential backup) zawiera wszystkie zmiany, które zaszły w bazie danych od czasu wykonania ostatniej jakiejkolwiek kopii zapasowej.</p>\n<p></p>",
+          "correct": false
+        },
+        {
+          "answer": "&nbsp;<p></p>\n<p>Kopia różnicowa (differential backup) zawiera wszystkie zmiany, które zaszły w bazie danych od czasu wykonania ostatniej kopii pełnej.</p>\n<p></p>",
+          "correct": true
+        },
+        {
+          "answer": "&nbsp;<p></p>\n<p>Kopia dziennika transakcji (transaction log backup) zawiera zawsze wszystkie zmiany, które zaszły w bazie danych od czasu wykonania ostatniej kopii pełnej lub różnicowej.</p>\n<p></p>",
+          "correct": false
+        },
+        {
+          "answer": "&nbsp;<p></p>\n<p>Kopia dziennika transakcji (transaction log backup) zawiera wszystkie zmiany, które zaszły w bazie danych od czasu wykonania ostatniej kopii dziennika transakcji.</p>\n<p></p>",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "&nbsp;<p></p>\n<p>Zaznacz poprawne stwierdzenia na rozszerzenie PostgresFDW</p>\n<p>\n          </p>",
+      "id": 3329,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "&nbsp;<p></p>\n<p>Pozwala na komunikację z zewnętrznym serwerem PostgreSQL</p>\n<p></p>",
+          "correct": true
+        },
+        {
+          "answer": "&nbsp;<p></p>\n<table width=\"665\" cellspacing=\"0\" cellpadding=\"2\"><colgroup><col width=\"661\"> </colgroup>\n<tbody>\n<tr>\n<td width=\"661\">\n<p>Rozszerzenie nie jest domyślnie dostępne. W celu jego instalacji należy jednorazowo uruchomić komendę CREATE EXTENSION postgres_fdw w ramach konkretnej bazy danych.</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p></p>",
+          "correct": false
+        },
+        {
+          "answer": "&nbsp;<p></p>\n<p>W celu stworzenia roli należy najpierw dodać login</p>\n<p></p>",
+          "correct": false
+        },
+        {
+          "answer": "&nbsp;<p></p>\n<p>Pozwala na komunikację z dowolnym serwerem/relacyjną bazą danych</p>\n<p></p>",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "&nbsp;<p></p>\n<p><span><span><span><span><span><span><span><span>Rozważ następujące zapytanie SQL:</span></span></span></span></span></span></span></span><br> <br> <span><span><span><span><span>select fname, lname from person</span></span></span></span></span><br> <span><span><span><span><span>where&nbsp;</span></span></span></span></span>fname='Anna' or lname='Kowalska';<br> <br> Jaki zestaw indeksów będzie w tym wypadku najkorzystniejszy<br> z poniższych?</p>\n<p>\n          </p>",
+      "id": 3330,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "&nbsp;<p></p>\n<p><span><span><span><span><span><span><span><span>create index index1 on person(fname, lname);&nbsp;</span></span></span></span></span></span></span></span></p>\n<p></p>",
+          "correct": false
+        },
+        {
+          "answer": "&nbsp;<p></p>\n<p><span><span><span><span><span><span><span><span>create index index1 on person(lname, fname);&nbsp;</span></span></span></span></span></span></span></span></p>\n<p></p>",
+          "correct": false
+        },
+        {
+          "answer": "&nbsp;<p></p>\n<p><span><span><span><span><span><span><span><span>create index index1 on person(fname);&nbsp;<br> create index index2 on person(lname);</span></span></span></span></span></span></span></span></p>\n<p></p>",
+          "correct": true
+        },
+        {
+          "answer": "&nbsp;<p></p>\n<p>Żadne z wymienionych rozwiązań nie przyspieszy zapytania</p>\n<p></p>",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "&nbsp;<p></p>\n<p>Które z poniższych fragmentów reprezentuje poprawną składnię pozwalającą na stworzenie<br> funkcji?</p>\n<p>\n          </p>",
+      "id": 3331,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "&nbsp;<p></p>\n<p>CREATE OR REPLACE FUNCTION public.dodaj(<br> &nbsp; &nbsp; firstname text,<br> &nbsp; &nbsp; lastname text,<br> &nbsp; &nbsp; address text)<br> &nbsp; RETURNS void AS<br> $BODY$<br> DECLARE avg_sal numeric;<br> BEGIN<br> avg_sal:=(SELECT COALESCE(AVG(Salary),0) FROM Client);<br> INSERT INTO Client (FirstName, LastName, Address, Salary) VALUES(FirstName, LastName, Address, avg_sal);<br> END;<br> $BODY$<br> &nbsp; LANGUAGE plpgsql VOLATILE<br> &nbsp; COST 100;</p>\n<p></p>",
+          "correct": false
+        },
+        {
+          "answer": "&nbsp;<p></p>\n<p>CREATE OR REPLACE FUNCTION public.dodaj(<br> &nbsp; &nbsp; firstname text,<br> &nbsp; &nbsp; lastname text,<br> &nbsp; &nbsp; address text)<br> $BODY$<br> DECLARE avg_sal numeric:=(SELECT COALESCE(AVG(Salary),0) FROM Client);<br> BEGIN<br> INSERT INTO Client (FirstName, LastName, Address, Salary) VALUES(FirstName, LastName, Address, avg_sal);<br> END;<br> $BODY$<br> &nbsp; LANGUAGE plpgsql VOLATILE<br> &nbsp; COST 100;</p>\n<p></p>",
+          "correct": false
+        },
+        {
+          "answer": "&nbsp;<p></p>\n<p>CREATE OR REPLACE FUNCTION public.dodaj(<br> &nbsp; &nbsp; firstname text,<br> &nbsp; &nbsp; lastname text,<br> &nbsp; &nbsp; address text)<br> &nbsp; RETURNS void AS</p>\n<p>&nbsp;</p>\n<p>$BODY$<br> BEGIN<br> DECLARE avg_sal numeric:=(SELECT COALESCE(AVG(Salary),0) FROM Client);<br> INSERT INTO Client (FirstName, LastName, Address, Salary) VALUES(FirstName, LastName, Address, avg_sal);<br> END;<br> $BODY$<br> &nbsp; LANGUAGE plpgsql VOLATILE<br> &nbsp; COST 100;</p>\n<p>&nbsp;</p>\n<p></p>\n<p></p>",
+          "correct": false
+        },
+        {
+          "answer": "&nbsp;<p></p>\n<p>CREATE OR REPLACE FUNCTION public.dodaj(<br> &nbsp; &nbsp; firstname text,<br> &nbsp; &nbsp; lastname text,<br> &nbsp; &nbsp; address text)<br> &nbsp; RETURNS void AS<br> $BODY$<br> DECLARE avg_sal numeric:=(SELECT COALESCE(AVG(Salary),0) FROM Client);<br> BEGIN<br> INSERT INTO Client (FirstName, LastName, Address, Salary) VALUES(FirstName, LastName, Address, avg_sal);<br> END;<br> $BODY$<br> &nbsp; LANGUAGE plpgsql VOLATILE<br> &nbsp; COST 100;</p>\n<p></p>",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "&nbsp;<p></p>\n<p>Wskaż poprawne stwierdzenia dotyczące zaplanowanych zadań (jobs) w MS SQL Server:</p>\n<p>\n          </p>",
+      "id": 3332,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "&nbsp;<p></p>\n<p>Job może zapisać swój wynik w dzienniku systemowym.</p>\n<p></p>",
+          "correct": true
+        },
+        {
+          "answer": "&nbsp;<p></p>\n<p>Job może uruchomić polecenie SQL.</p>\n<p></p>",
+          "correct": true
+        },
+        {
+          "answer": "&nbsp;<p></p>\n<p>Job może uruchomić procedurę składowaną.</p>\n<p></p>",
+          "correct": true
+        },
+        {
+          "answer": "&nbsp;<p></p>\n<p>Job może uruchomić komendę systemu operacyjnego.</p>\n<p></p>",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "&nbsp;<p></p>\n<p>Jaki jest typ zwracany przez funkcję, która będzie wykorzystana jako wyzwalacz (RETURN ?)?</p>\n<p>&nbsp;</p>\n<pre><span><span><span><span><span><span><span><span>CREATE FUNCTION trig_name() RETURNS </span></span></span></span></span></span></span></span><strong><span><span><span><span><span><span><span>?</span></span></span></span></span></span></span></strong><span><span><span><span><span><span><span> AS $trig_name$</span></span></span></span></span></span></span>\n<span><span> <span><span><span>BEGIN</span></span></span></span></span>\n<span><span><span><span><span>...</span></span></span></span></span></pre>\n<p>\n          </p>",
+      "id": 3333,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "&nbsp;<p></p>\n<p>INT</p>\n<p></p>",
+          "correct": false
+        },
+        {
+          "answer": "&nbsp;<p></p>\n<p>VOID</p>\n<p></p>",
+          "correct": false
+        },
+        {
+          "answer": "&nbsp;<p></p>\n<p>NUMERIC</p>\n<p></p>",
+          "correct": false
+        },
+        {
+          "answer": "&nbsp;<p></p>\n<p>TRIGGER</p>\n<p></p>",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "&nbsp;<p></p>\n<p>Zaznacz poprawne stwierdzenia dotyczące indeksów w MS SQL Server</p>\n<p>\n          </p>",
+      "id": 3334,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "&nbsp;<p></p>\n<p>Może istnieć tylko jeden indeks pogrupowany na jednej tabeli</p>\n<p></p>",
+          "correct": true
+        },
+        {
+          "answer": "&nbsp;<p></p>\n<p>Indeks niepogrupowany układa dane w kolejności kolumny, na której założony jest indeks</p>\n<p></p>",
+          "correct": false
+        },
+        {
+          "answer": "&nbsp;<p></p>\n<p>Indeks pogrupowany może lepiej wspierać sortowanie niż niepogrupowany</p>\n<p></p>",
+          "correct": true
+        },
+        {
+          "answer": "&nbsp;<p></p>\n<p>Indeks pogrupowany układa dane w kolejności kolumny, na której założony jest indeks</p>\n<p></p>",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "&nbsp;<p></p>\n<p>Wybierz prawdziwe stwierdzenia dotyczące kopii zapasowych w MS SQL Server:</p>\n<p>\n          </p>",
+      "id": 3335,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "&nbsp;<p></p>\n<p>Jedna, pełna kopia zapasowa może być rozdystrybuowana na kilka plików</p>\n<p></p>",
+          "correct": true
+        },
+        {
+          "answer": "&nbsp;<p></p>\n<p>Kopia zapasowa bazy danych użytkownika nie zawiera uprawnień na poziomie obiektów</p>\n<p></p>",
+          "correct": false
+        },
+        {
+          "answer": "&nbsp;<p></p>\n<p>Jeden plik może zawierać wiele kopii zapasowych różnych baz danych.</p>\n<p></p>",
+          "correct": true
+        },
+        {
+          "answer": "&nbsp;<p></p>\n<p>Kopia zapasowa zawiera również obiekty takie jak procedury składowane czy wyzwalacze.</p>\n<p></p>",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "&nbsp;<p></p>\n<p>Które z poniższych sposobów na nadanie wartości zmiennej wewnątrz bloku BEGIN/END jest poprawny w plpgsql?</p>\n<p>\n          </p>",
+      "id": 3336,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "&nbsp;<p></p>\n<p>DECLARE avg_sal numeric;<br> BEGIN<br> <strong>select avg(sal) into avg_sal from client;</strong><br> END;</p>\n<p></p>",
+          "correct": false
+        },
+        {
+          "answer": "&nbsp;<p></p>\n<p>$BODY$<br> <strong>DECLARE avg_sal numeric:=(SELECT COALESCE(AVG(Salary),0) FROM Client);</strong><br> BEGIN<br> <br> END;</p>\n<p></p>",
+          "correct": false
+        },
+        {
+          "answer": "&nbsp;<p></p>\n<p>DECLARE avg_sal numeric;<br> BEGIN<br> select avg(sal) into avg_sal from client;<br> END;</p>\n<p></p>",
+          "correct": false
+        },
+        {
+          "answer": "&nbsp;<p></p>\n<p>$BODY$<br> DECLARE avg_sal numeric;<br> BEGIN<br> <strong>avg_sal:=10;</strong><br> END;</p>\n<p></p>",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "&nbsp;<p></p>\n<p>Zaznacz poprawne stwierdzenia dotyczące plików i grup plików (filegroup) w MS SQL Server</p>\n<p>\n          </p>",
+      "id": 3337,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "&nbsp;<p></p>\n<p>Wszystkie pliki z grupy plików (filegroup) muszą znajdować się w tym samym folderze.</p>\n<p></p>",
+          "correct": false
+        },
+        {
+          "answer": "&nbsp;<p></p>\n<p>Istnieje zawsze jedna domyślna grupa plików (filegroup), do której trafiają nowe obiekty, gdy nie określimy, do której grupy mają trafić.</p>\n<p></p>",
+          "correct": false
+        },
+        {
+          "answer": "&nbsp;<p></p>\n<p>Nie ma możliwości aby bezpośrednio określić, do którego pliku trafi tabela, lecz możemy określić, do której grupy plików (filegroup) trafi</p>\n<p></p>",
+          "correct": false
+        },
+        {
+          "answer": "&nbsp;<p></p>\n<p>Plik bazy danych może należeć do wielu grup plików.</p>\n<p></p>",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "&nbsp;<p></p>\n<p>W MS SQL Server nadano użytkownikowi prawa SELECT i INSERT na poziomie tabeli \"emp\". Należy on też do roli \"kadry\", która ma prawa: SELECT i UPDATE na tej tabeli. Należy też do roli \"księgowość\", która ma prawa SELECT i DELETE, lecz DENY na UPDATE. Jakie instrukcje będzie mógł wykonać użytkownik na tej tabeli?</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>\n          </p>",
+      "id": 3338,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "&nbsp;<p></p>\n<p>INSERT</p>\n<p></p>",
+          "correct": true
+        },
+        {
+          "answer": "&nbsp;<p></p>\n<p>DELETE</p>\n<p></p>",
+          "correct": true
+        },
+        {
+          "answer": "&nbsp;<p></p>\n<p>UPDATE</p>\n<p></p>",
+          "correct": false
+        },
+        {
+          "answer": "&nbsp;<p></p>\n<p>SELECT</p>\n<p></p>",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "&nbsp;<p></p>\n<p><span><span><span><span><span><span><span><span>Rozważ następujące zapytanie SQL:</span></span></span></span></span></span></span></span></p>\n<p>&nbsp;</p>\n<p><span><span><span><span><span><span><span><span>select idperson, fname, lname, birthdate from person</span></span></span></span></span></span></span></span><br> <span><span><span><span><span><span><span><span>where fname='Anna' and birthdate='01-01-2001';</span></span></span></span></span></span></span></span></p>\n<p>&nbsp;</p>\n<p><span><span><span><span><span><span><span><span>Który z poniższych indeksów realizuję strategię \"tylko indeks\"?</span></span></span></span></span></span></span></span></p>\n<p>&nbsp;</p>\n<p><span><span><span><span><span><span><span><span></span></span></span></span></span></span></span></span></p>\n<p>&nbsp;</p>\n<p><span><span><span><span><span><span><span><span></span></span></span></span></span></span></span></span></p>\n<p>\n          </p>",
+      "id": 3339,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "&nbsp;<p></p>\n<p>create index index1 ON person USING GIN (birthdate, fname);</p>\n<p></p>",
+          "correct": false
+        },
+        {
+          "answer": "&nbsp;<p></p>\n<p>create index index1 ON person using gin(birthdate); <br> create index index2 ON person using btree (fname);</p>\n<p></p>",
+          "correct": false
+        },
+        {
+          "answer": "&nbsp;<p></p>\n<p>create index index1 on person(birthdate, fname, idperson);</p>\n<p></p>",
+          "correct": true
+        },
+        {
+          "answer": "&nbsp;<p></p>\n<p>create index index1 on person(fname); <br> create index index2 on person(birthdate);</p>\n<p></p>",
+          "correct": false
+        }
+      ]
+    },
+    {
       "question": "Któr z uprawnień są najsilniejsze?",
       "id": 3031,
       "comments": [

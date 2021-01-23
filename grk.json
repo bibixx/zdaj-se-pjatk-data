@@ -579,7 +579,18 @@
     {
       "question": "<p class=\"MsoListParagraph\"><!--[if !supportLists]--><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><!--[endif]--><strong><span lang=\"PL\">Rzutowanie</span></strong></p>",
       "id": 2596,
-      "comments": null,
+      "comments": [
+        {
+          "author": "~s16395@212.180.*.*",
+          "comment": "z punktu widzenia grk internetowe: ogólnie lepiej będzie napisać ostrosłup ścięty, wygląda że odpowiedzi są na odwrót bo to rzut perspektywiczny będzie dawać ostrosłup a równoległy prostopadłościan, w ostatnim nie jest napisane czy jest równoległy, czy perspektywiczny, więc przyjąłbym wtedy fałsz?",
+          "date": "03-09-2018 22:53:43"
+        },
+        {
+          "author": "~KGracki@185.186.*.*",
+          "comment": "Nie",
+          "date": "16-12-2020 15:18:56"
+        }
+      ],
       "answers": [
         {
           "answer": "<span lang=\"PL\">w rzucie równoległym ortogonalnym odcinki równoległe do siebie pozostają równoległe po wykonaniu rzutowania na płaszczyznę ekranu</span>",

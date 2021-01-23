@@ -4209,7 +4209,18 @@
     {
       "question": "Rozważmy tablicę <img src=\"https://pja.mykhi.org/generatory2.0/grafika/1265731491376.gif\" border=\"0\\\"> reprezentującą <img src=\"https://pja.mykhi.org/generatory2.0/grafika/1265731491391.gif\" border=\"0\\\"> -elementowy ciąg różnych liczb naturalnych: <img src=\"https://pja.mykhi.org/generatory2.0/grafika/1265731491407.gif\" border=\"0\\\"> . Do posortowania owej tablicy stosujemy algorytm SelectionSort. Które z poniższych zdań jest prawdziwe? Uwaga! Przy zliczaniu przestawień elementów bierzemy pod uwagę jedynie transpozycje między różnymi indeksami tablicy <img src=\"https://pja.mykhi.org/generatory2.0/grafika/1265731491423.gif\" border=\"0\\\"> .",
       "id": 1583,
-      "comments": null,
+      "comments": [
+        {
+          "author": "~anon@46.112.*.*",
+          "comment": "Chyba a nie powinno by błędne? Przecież przy pierwszych 4 iteracjacj będzie wykonano 26 porównań, a po pierwszych 6 - 33",
+          "date": "11-02-2019 17:28:38"
+        },
+        {
+          "author": "~gosc@31.186.*.*",
+          "comment": "a nie przypadkiem przy 4 22 a przy 6 27",
+          "date": "18-01-2021 19:21:35"
+        }
+      ],
       "answers": [
         {
           "answer": "Wykonanie pierwszych <img src=\"https://pja.mykhi.org/generatory2.0/grafika/1265731491548.gif\" border=\"0\\\"> iteracji pętli zewnętrznej algorytmu wymaga wykonania o co najwyżej <img src=\"https://pja.mykhi.org/generatory2.0/grafika/1265731491563.gif\" border=\"0\\\"> porównań elementów tablicy <img src=\"https://pja.mykhi.org/generatory2.0/grafika/1265731491579.gif\" border=\"0\\\"> mniej niż w przypadku wykonania pierwszych <img src=\"https://pja.mykhi.org/generatory2.0/grafika/1265731491595.gif\" border=\"0\\\"> iteracji rozważanego algorytmu",
@@ -5724,6 +5735,11 @@
           "author": "~anon@2a01:110f:1505:3600:b97b:909f:2446:f056",
           "comment": "W przypadku drzewa BST można od razu z tablicy wyjściowej usunąć te elementy i dopiero potem tworzyć drzewo. Efekt jest ten sam.\nPREORDER wychodzi: 2,0,10,3,5,13,14. Odpowiedź a) jest poprawna",
           "date": "01-02-2020 14:18:17"
+        },
+        {
+          "author": "~dz@94.172.*.*",
+          "comment": "moim zdaniem odp a niepoprawna",
+          "date": "21-01-2021 18:12:49"
         }
       ],
       "answers": [
