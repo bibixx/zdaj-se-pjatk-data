@@ -1,14 +1,6 @@
 {
-  "updatedAt": 1611424195495,
+  "updatedAt": 1611487029161,
   "pages": [
-    {
-      "title": "1 (1)",
-      "id": "1_(1)"
-    },
-    {
-      "title": "1 (ABD)",
-      "id": "1_(abd)"
-    },
     {
       "title": "Administrowanie bazami danych (ABD)",
       "id": "abd"
@@ -38,14 +30,6 @@
       "id": "bsi_ang_2018"
     },
     {
-      "title": "BYT_P (BYT)",
-      "id": "byt"
-    },
-    {
-      "title": "Edukacja dla bezpieczeństwa (EDB)",
-      "id": "edb"
-    },
-    {
       "title": "Fizyka k1 (FIZK1)",
       "id": "fizk1"
     },
@@ -70,24 +54,12 @@
       "id": "ppb_ang"
     },
     {
-      "title": "Matematyka Dyskretna - edux - 2012 ZIMA (MAD2012A)",
-      "id": "mad2012a"
-    },
-    {
       "title": "Matematyka Dyskretna 2020 (MAD)",
       "id": "mad"
     },
     {
       "title": "Modelowanie i Analiza Systemów informacyjnych (MAS)",
       "id": "mas"
-    },
-    {
-      "title": "Narzędzia Sztucznej Inteligencji (NAI)",
-      "id": "nai"
-    },
-    {
-      "title": "Prawne Podstawy Działalności Gospodarczej (PPB)",
-      "id": "ppb"
     },
     {
       "title": "Rachunkowość Podmiotow Gospodarczych (RPG)",
@@ -114,10 +86,6 @@
       "id": "sko2"
     },
     {
-      "title": "SYSTEM DOSKONALENIA KOMPETENCJI PROGRAMISTYCZNYCH (SDKP)",
-      "id": "sdkp"
-    },
-    {
       "title": "Systemy Baz Danych (SBD)",
       "id": "sbd"
     },
@@ -138,16 +106,8 @@
       "id": "tak_ang"
     },
     {
-      "title": "Technologie i Platformy Chmury  Obliczeniowej (TPC)",
-      "id": "tpc"
-    },
-    {
       "title": "Technologie Internetu (TIN)",
       "id": "tin"
-    },
-    {
-      "title": "Technologie Internetu - 2017 (TIN)",
-      "id": "tin2017"
     },
     {
       "title": "Wstęp do systemów informacyjnych (WSI)",

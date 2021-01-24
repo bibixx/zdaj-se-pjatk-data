@@ -3,7 +3,7 @@
   "id": "grk",
   "data": [
     {
-      "question": "<p class=\"MsoListParagraph\"><!--[if !supportLists]--><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><!--[endif]--><strong><span lang=\"PL\">Podstawowe algorytmy techniki rastrowej.</span></strong></p>",
+      "question": "<p class=\"MsoListParagraph\"><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><strong><span lang=\"PL\">Podstawowe algorytmy techniki rastrowej.</span></strong></p>",
       "id": 2570,
       "comments": null,
       "answers": [
@@ -26,7 +26,7 @@
       ]
     },
     {
-      "question": "<p class=\"MsoListParagraph\"><!--[if !supportLists]--><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><!--[endif]--><strong><span lang=\"PL\">Podstawowe algorytmy techniki rastrowej.</span></strong></p>",
+      "question": "<p class=\"MsoListParagraph\"><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><strong><span lang=\"PL\">Podstawowe algorytmy techniki rastrowej.</span></strong></p>",
       "id": 2571,
       "comments": null,
       "answers": [
@@ -125,7 +125,7 @@
       ]
     },
     {
-      "question": "<p class=\"MsoNoSpacing\"><!--[if !supportLists]--><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><!--[endif]--><strong><span lang=\"PL\">Rysowanie odcinka na rastrze</span></strong></p>",
+      "question": "<p class=\"MsoNoSpacing\"><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><strong><span lang=\"PL\">Rysowanie odcinka na rastrze</span></strong></p>",
       "id": 2576,
       "comments": null,
       "answers": [
@@ -206,7 +206,7 @@
       ]
     },
     {
-      "question": "<p class=\"MsoNoSpacing\"><!--[if !supportLists]--><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><!--[endif]--><strong><span lang=\"PL\">Transformacje geometryczne na płaszczyźnie</span></strong></p>",
+      "question": "<p class=\"MsoNoSpacing\"><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><strong><span lang=\"PL\">Transformacje geometryczne na płaszczyźnie</span></strong></p>",
       "id": 2579,
       "comments": null,
       "answers": [
@@ -229,7 +229,7 @@
       ]
     },
     {
-      "question": "<p class=\"MsoNoSpacing\"><strong><span lang=\"PL\"><span>&nbsp; &nbsp; &nbsp;</span></span></strong><!--[endif]--><strong><span lang=\"PL\">Współrzędne</span></strong></p>",
+      "question": "<p class=\"MsoNoSpacing\"><strong><span lang=\"PL\"><span>&nbsp; &nbsp; &nbsp;</span></span></strong><strong><span lang=\"PL\">Współrzędne</span></strong></p>",
       "id": 2580,
       "comments": null,
       "answers": [
@@ -252,7 +252,7 @@
       ]
     },
     {
-      "question": "<p class=\"MsoNoSpacing\"><strong><span lang=\"PL\"><span>&nbsp; &nbsp; &nbsp;&nbsp;</span></span></strong><!--[endif]--><strong><span lang=\"PL\">Algorytmy wypełniania i obcinania</span></strong></p>",
+      "question": "<p class=\"MsoNoSpacing\"><strong><span lang=\"PL\"><span>&nbsp; &nbsp; &nbsp;&nbsp;</span></span></strong><strong><span lang=\"PL\">Algorytmy wypełniania i obcinania</span></strong></p>",
       "id": 2581,
       "comments": null,
       "answers": [
@@ -275,7 +275,7 @@
       ]
     },
     {
-      "question": "<p class=\"MsoNoSpacing\"><strong><span lang=\"PL\"><span>&nbsp; &nbsp; &nbsp;</span></span></strong><!--[endif]--><strong><span lang=\"PL\">Krzywe i powierzchnia Beziera</span></strong></p>",
+      "question": "<p class=\"MsoNoSpacing\"><strong><span lang=\"PL\"><span>&nbsp; &nbsp; &nbsp;</span></span></strong><strong><span lang=\"PL\">Krzywe i powierzchnia Beziera</span></strong></p>",
       "id": 2582,
       "comments": null,
       "answers": [
@@ -321,7 +321,7 @@
       ]
     },
     {
-      "question": "<p class=\"MsoNoSpacing\"><strong><span lang=\"PL\"><span>&nbsp; &nbsp; &nbsp; &nbsp;</span></span></strong><!--[endif]--><strong><span lang=\"PL\">Aliasing</span></strong></p>",
+      "question": "<p class=\"MsoNoSpacing\"><strong><span lang=\"PL\"><span>&nbsp; &nbsp; &nbsp; &nbsp;</span></span></strong><strong><span lang=\"PL\">Aliasing</span></strong></p>",
       "id": 2584,
       "comments": null,
       "answers": [
@@ -344,7 +344,7 @@
       ]
     },
     {
-      "question": "<p class=\"MsoNoSpacing\"><strong><span lang=\"PL\"><span>&nbsp; &nbsp; &nbsp;&nbsp;</span></span></strong><!--[endif]--><strong><span lang=\"PL\">Aliasing</span></strong></p>",
+      "question": "<p class=\"MsoNoSpacing\"><strong><span lang=\"PL\"><span>&nbsp; &nbsp; &nbsp;&nbsp;</span></span></strong><strong><span lang=\"PL\">Aliasing</span></strong></p>",
       "id": 2585,
       "comments": null,
       "answers": [
@@ -363,7 +363,7 @@
       ]
     },
     {
-      "question": "<p class=\"MsoNoSpacing\"><strong><span lang=\"PL\"><span>&nbsp; &nbsp;&nbsp;</span></span></strong><!--[endif]--><strong><span lang=\"PL\">Tor</span></strong><span lang=\"PL\"> <strong>wyświetlania</strong></span></p>",
+      "question": "<p class=\"MsoNoSpacing\"><strong><span lang=\"PL\"><span>&nbsp; &nbsp;&nbsp;</span></span></strong><strong><span lang=\"PL\">Tor</span></strong><span lang=\"PL\"> <strong>wyświetlania</strong></span></p>",
       "id": 2586,
       "comments": null,
       "answers": [
@@ -386,7 +386,7 @@
       ]
     },
     {
-      "question": "<p class=\"MsoNoSpacing\"><strong><span lang=\"PL\"><span>&nbsp;&nbsp;</span></span></strong><!--[endif]--><strong><span lang=\"PL\">Tor</span></strong><span lang=\"PL\"> <strong>wyświetlania</strong></span></p>",
+      "question": "<p class=\"MsoNoSpacing\"><strong><span lang=\"PL\"><span>&nbsp;&nbsp;</span></span></strong><strong><span lang=\"PL\">Tor</span></strong><span lang=\"PL\"> <strong>wyświetlania</strong></span></p>",
       "id": 2587,
       "comments": null,
       "answers": [
@@ -409,7 +409,7 @@
       ]
     },
     {
-      "question": "<p class=\"MsoNoSpacing\"><strong><span lang=\"PL\"><span>&nbsp; &nbsp; &nbsp; &nbsp;</span></span></strong><!--[endif]--><strong><span lang=\"PL\">Algorytm</span></strong><span lang=\"PL\"> <strong>Bresenhama</strong></span></p>",
+      "question": "<p class=\"MsoNoSpacing\"><strong><span lang=\"PL\"><span>&nbsp; &nbsp; &nbsp; &nbsp;</span></span></strong><strong><span lang=\"PL\">Algorytm</span></strong><span lang=\"PL\"> <strong>Bresenhama</strong></span></p>",
       "id": 2588,
       "comments": null,
       "answers": [
@@ -428,7 +428,7 @@
       ]
     },
     {
-      "question": "<p class=\"MsoNoSpacing\"><strong><span lang=\"PL\"><span>&nbsp; &nbsp; &nbsp;</span></span></strong><!--[endif]--><strong><span lang=\"PL\">Karty graficzne:</span></strong></p>",
+      "question": "<p class=\"MsoNoSpacing\"><strong><span lang=\"PL\"><span>&nbsp; &nbsp; &nbsp;</span></span></strong><strong><span lang=\"PL\">Karty graficzne:</span></strong></p>",
       "id": 2589,
       "comments": null,
       "answers": [
@@ -447,7 +447,7 @@
       ]
     },
     {
-      "question": "<p class=\"MsoNoSpacing\"><strong><span lang=\"PL\"><span>&nbsp; &nbsp; &nbsp; &nbsp;</span></span></strong><!--[endif]--><strong><span lang=\"PL\">Diagram Voronoi</span></strong></p>",
+      "question": "<p class=\"MsoNoSpacing\"><strong><span lang=\"PL\"><span>&nbsp; &nbsp; &nbsp; &nbsp;</span></span></strong><strong><span lang=\"PL\">Diagram Voronoi</span></strong></p>",
       "id": 2590,
       "comments": null,
       "answers": [
@@ -466,7 +466,7 @@
       ]
     },
     {
-      "question": "<p class=\"MsoNoSpacing\"><strong><span lang=\"PL\"><span>&nbsp; &nbsp; &nbsp;&nbsp;</span></span></strong><!--[endif]--><strong><span lang=\"PL\">Sztuczna rzeczywistość</span></strong></p>",
+      "question": "<p class=\"MsoNoSpacing\"><strong><span lang=\"PL\"><span>&nbsp; &nbsp; &nbsp;&nbsp;</span></span></strong><strong><span lang=\"PL\">Sztuczna rzeczywistość</span></strong></p>",
       "id": 2591,
       "comments": null,
       "answers": [
@@ -485,7 +485,7 @@
       ]
     },
     {
-      "question": "<p class=\"MsoListParagraph\"><!--[if !supportLists]--><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><!--[endif]--><strong><span lang=\"PL\">Przekształcanie obrazów</span></strong></p>",
+      "question": "<p class=\"MsoListParagraph\"><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><strong><span lang=\"PL\">Przekształcanie obrazów</span></strong></p>",
       "id": 2592,
       "comments": null,
       "answers": [
@@ -508,7 +508,7 @@
       ]
     },
     {
-      "question": "<p class=\"MsoListParagraph\"><!--[if !supportLists]--><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><!--[endif]--><strong><span lang=\"PL\">Przekształcanie obrazów</span></strong></p>",
+      "question": "<p class=\"MsoListParagraph\"><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><strong><span lang=\"PL\">Przekształcanie obrazów</span></strong></p>",
       "id": 2593,
       "comments": null,
       "answers": [
@@ -531,7 +531,7 @@
       ]
     },
     {
-      "question": "<p class=\"MsoListParagraph\"><!--[if !supportLists]--><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><!--[endif]--><strong><span lang=\"PL\">Rzutowanie</span></strong></p>",
+      "question": "<p class=\"MsoListParagraph\"><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><strong><span lang=\"PL\">Rzutowanie</span></strong></p>",
       "id": 2594,
       "comments": null,
       "answers": [
@@ -554,7 +554,7 @@
       ]
     },
     {
-      "question": "<p class=\"MsoListParagraph\"><!--[if !supportLists]--><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><!--[endif]--><strong><span lang=\"PL\">Przekształcanie obrazów</span></strong></p>",
+      "question": "<p class=\"MsoListParagraph\"><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><strong><span lang=\"PL\">Przekształcanie obrazów</span></strong></p>",
       "id": 2595,
       "comments": null,
       "answers": [
@@ -577,7 +577,7 @@
       ]
     },
     {
-      "question": "<p class=\"MsoListParagraph\"><!--[if !supportLists]--><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><!--[endif]--><strong><span lang=\"PL\">Rzutowanie</span></strong></p>",
+      "question": "<p class=\"MsoListParagraph\"><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><strong><span lang=\"PL\">Rzutowanie</span></strong></p>",
       "id": 2596,
       "comments": [
         {
@@ -611,7 +611,7 @@
       ]
     },
     {
-      "question": "<p class=\"MsoListParagraph\"><!--[if !supportLists]--><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><!--[endif]--><strong><span lang=\"PL\">Barwa w grafice komputerowej</span></strong></p>",
+      "question": "<p class=\"MsoListParagraph\"><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><strong><span lang=\"PL\">Barwa w grafice komputerowej</span></strong></p>",
       "id": 2597,
       "comments": null,
       "answers": [
@@ -634,7 +634,7 @@
       ]
     },
     {
-      "question": "<p class=\"MsoListParagraph\"><!--[if !supportLists]--><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><!--[endif]--><strong><span lang=\"PL\">Barwa w grafice komputerowej</span></strong></p>",
+      "question": "<p class=\"MsoListParagraph\"><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><strong><span lang=\"PL\">Barwa w grafice komputerowej</span></strong></p>",
       "id": 2598,
       "comments": null,
       "answers": [
@@ -657,7 +657,7 @@
       ]
     },
     {
-      "question": "<p class=\"MsoListParagraph\"><!--[if !supportLists]--><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><!--[endif]--><strong><span lang=\"PL\">Barwa w grafice komputerowej</span></strong></p>",
+      "question": "<p class=\"MsoListParagraph\"><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><strong><span lang=\"PL\">Barwa w grafice komputerowej</span></strong></p>",
       "id": 2599,
       "comments": null,
       "answers": [
@@ -680,7 +680,7 @@
       ]
     },
     {
-      "question": "<p class=\"MsoListParagraph\"><!--[if !supportLists]--><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><!--[endif]--><strong><span lang=\"PL\">Barwa w grafice komputerowej</span></strong></p>",
+      "question": "<p class=\"MsoListParagraph\"><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><strong><span lang=\"PL\">Barwa w grafice komputerowej</span></strong></p>",
       "id": 2600,
       "comments": null,
       "answers": [
@@ -703,7 +703,7 @@
       ]
     },
     {
-      "question": "<p class=\"MsoListParagraph\"><!--[if !supportLists]--><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><!--[endif]--><strong><span lang=\"PL\">Barwa w grafice komputerowej</span></strong></p>",
+      "question": "<p class=\"MsoListParagraph\"><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><strong><span lang=\"PL\">Barwa w grafice komputerowej</span></strong></p>",
       "id": 2601,
       "comments": null,
       "answers": [
@@ -722,7 +722,7 @@
       ]
     },
     {
-      "question": "<p class=\"MsoListParagraph\"><!--[if !supportLists]--><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><!--[endif]--><strong><span lang=\"PL\">Podstawowe algorytmy rastrowe</span></strong></p>",
+      "question": "<p class=\"MsoListParagraph\"><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><strong><span lang=\"PL\">Podstawowe algorytmy rastrowe</span></strong></p>",
       "id": 2602,
       "comments": null,
       "answers": [
@@ -745,7 +745,7 @@
       ]
     },
     {
-      "question": "<p class=\"MsoListParagraph\"><!--[if !supportLists]--><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><!--[endif]--><strong><span lang=\"PL\">Podstawowe algorytmy rastrowe</span></strong></p>",
+      "question": "<p class=\"MsoListParagraph\"><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><strong><span lang=\"PL\">Podstawowe algorytmy rastrowe</span></strong></p>",
       "id": 2603,
       "comments": null,
       "answers": [
@@ -768,7 +768,7 @@
       ]
     },
     {
-      "question": "<p class=\"MsoListParagraph\"><!--[if !supportLists]--><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><!--[endif]--><strong><span lang=\"PL\">Stereoskopia</span></strong></p>",
+      "question": "<p class=\"MsoListParagraph\"><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><strong><span lang=\"PL\">Stereoskopia</span></strong></p>",
       "id": 2604,
       "comments": null,
       "answers": [
@@ -791,7 +791,7 @@
       ]
     },
     {
-      "question": "<p class=\"MsoListParagraph\"><!--[if !supportLists]--><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><!--[endif]--><strong><span lang=\"PL\">Stereoskopia</span></strong></p>",
+      "question": "<p class=\"MsoListParagraph\"><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><strong><span lang=\"PL\">Stereoskopia</span></strong></p>",
       "id": 2605,
       "comments": null,
       "answers": [
@@ -810,7 +810,7 @@
       ]
     },
     {
-      "question": "<p class=\"MsoListParagraph\"><!--[if !supportLists]--><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><!--[endif]--><strong><span lang=\"PL\">Eliminowanie powierzchni niewidocznych</span></strong></p>",
+      "question": "<p class=\"MsoListParagraph\"><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><strong><span lang=\"PL\">Eliminowanie powierzchni niewidocznych</span></strong></p>",
       "id": 2606,
       "comments": null,
       "answers": [
@@ -833,7 +833,7 @@
       ]
     },
     {
-      "question": "<p class=\"MsoListParagraph\"><!--[if !supportLists]--><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><!--[endif]--><strong><span lang=\"PL\">Eliminowanie powierzchni niewidocznych</span></strong></p>",
+      "question": "<p class=\"MsoListParagraph\"><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><strong><span lang=\"PL\">Eliminowanie powierzchni niewidocznych</span></strong></p>",
       "id": 2607,
       "comments": null,
       "answers": [
@@ -856,7 +856,7 @@
       ]
     },
     {
-      "question": "<p class=\"MsoListParagraph\"><!--[if !supportLists]--><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><!--[endif]--><strong><span lang=\"PL\">Eliminowanie powierzchni niewidocznych</span></strong></p>",
+      "question": "<p class=\"MsoListParagraph\"><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><strong><span lang=\"PL\">Eliminowanie powierzchni niewidocznych</span></strong></p>",
       "id": 2608,
       "comments": null,
       "answers": [
@@ -1556,5 +1556,5 @@
       ]
     }
   ],
-  "updatedAt": 1611423840500
+  "updatedAt": 1611487029161
 }
