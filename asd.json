@@ -188,7 +188,18 @@
     {
       "question": "Rozważmy początkowo pustą strukturę stosu <img src=\"https://pja.mykhi.org/generatory2.0/grafika/1265729816251.gif\" border=\"0\\\"> , do której wstawiono elementy: <img src=\"https://pja.mykhi.org/generatory2.0/grafika/1265729816298.gif\" border=\"0\\\"> . Następnie na strukturze <img src=\"https://pja.mykhi.org/generatory2.0/grafika/1265729816329.gif\" border=\"0\\\"> wykonano kolejno ciąg operacji: <img src=\"https://pja.mykhi.org/generatory2.0/grafika/1265729816360.gif\" border=\"0\\\"> , <img src=\"https://pja.mykhi.org/generatory2.0/grafika/1265729816376.gif\" border=\"0\\\"> , <img src=\"https://pja.mykhi.org/generatory2.0/grafika/1265729816391.gif\" border=\"0\\\"> , <img src=\"https://pja.mykhi.org/generatory2.0/grafika/1265729816438.gif\" border=\"0\\\"> , <img src=\"https://pja.mykhi.org/generatory2.0/grafika/1265729816470.gif\" border=\"0\\\"> , <img src=\"https://pja.mykhi.org/generatory2.0/grafika/1265729816485.gif\" border=\"0\\\"> , <img src=\"https://pja.mykhi.org/generatory2.0/grafika/1265729816516.gif\" border=\"0\\\"> , <img src=\"https://pja.mykhi.org/generatory2.0/grafika/1265729816532.gif\" border=\"0\\\"> . Które z poniższych zdań jest prawdziwe?",
       "id": 1685,
-      "comments": null,
+      "comments": [
+        {
+          "author": "~j@2a02:a319:803f:4100:2136:1cab:2ac6:8149",
+          "comment": "czy druga odpowiedź jest na pewno poprawna? ",
+          "date": "18-06-2020 01:21:53"
+        },
+        {
+          "author": "~gosc@31.186.*.*",
+          "comment": "tak\n",
+          "date": "26-01-2021 21:27:26"
+        }
+      ],
       "answers": [
         {
           "answer": "<img src=\"https://pja.mykhi.org/generatory2.0/grafika/1265729816563.gif\" border=\"0\\\">",
@@ -3989,7 +4000,18 @@
     {
       "question": "Rozważmy początkowo pustą strukturę stosu <img src=\"https://pja.mykhi.org/generatory2.0/grafika/1265731697595.gif\" border=\"0\\\"> , do której wstawiono elementy: <img src=\"https://pja.mykhi.org/generatory2.0/grafika/1265731697610.gif\" border=\"0\\\"> . Następnie na strukturze <img src=\"https://pja.mykhi.org/generatory2.0/grafika/1265731697626.gif\" border=\"0\\\"> wykonano kolejno ciąg operacji: <img src=\"https://pja.mykhi.org/generatory2.0/grafika/1265731697641.gif\" border=\"0\\\"> , <img src=\"https://pja.mykhi.org/generatory2.0/grafika/1265731697657.gif\" border=\"0\\\"> , <img src=\"https://pja.mykhi.org/generatory2.0/grafika/1265731697688.gif\" border=\"0\\\"> , <img src=\"https://pja.mykhi.org/generatory2.0/grafika/1265731697704.gif\" border=\"0\\\"> , <img src=\"https://pja.mykhi.org/generatory2.0/grafika/1265731697720.gif\" border=\"0\\\"> , <img src=\"https://pja.mykhi.org/generatory2.0/grafika/1265731697735.gif\" border=\"0\\\"> , <img src=\"https://pja.mykhi.org/generatory2.0/grafika/1265731697751.gif\" border=\"0\\\"> , <img src=\"https://pja.mykhi.org/generatory2.0/grafika/1265731697766.gif\" border=\"0\\\"> . Które z poniższych zdań jest prawdziwe?",
       "id": 1593,
-      "comments": null,
+      "comments": [
+        {
+          "author": "~cfc@178.42.*.*",
+          "comment": "ostatni podpunkt jest rowniez poprawny.",
+          "date": "10-02-2014 16:17:58"
+        },
+        {
+          "author": "~co@89.64.*.*",
+          "comment": "po wszystkich operacjach TOP(S) wynosi 13\n\n13 nie jest mniejsze bądź równe 3",
+          "date": "04-02-2021 21:49:07"
+        }
+      ],
       "answers": [
         {
           "answer": "<img src=\"https://pja.mykhi.org/generatory2.0/grafika/1265731697954.gif\" border=\"0\\\">",
@@ -5740,6 +5762,16 @@
           "author": "~dz@94.172.*.*",
           "comment": "moim zdaniem odp a niepoprawna",
           "date": "21-01-2021 18:12:49"
+        },
+        {
+          "author": "~gosc@31.186.*.*",
+          "comment": "poprawna mam napisany pod to program i mówi ze jest poprawna\n",
+          "date": "24-01-2021 19:41:21"
+        },
+        {
+          "author": "~gosc@31.186.*.*",
+          "comment": "Wypisanie przez VLR PreOrder:   2-0-10-3-5-13-14-\nWypisanie przez LVR InOrder:    0-2-3-5-10-13-14-\nWypisanie przez LRV PostOrder:  0-5-3-14-13-10-2-",
+          "date": "24-01-2021 19:41:43"
         }
       ],
       "answers": [
@@ -6599,5 +6631,5 @@
       ]
     }
   ],
-  "updatedAt": 1611487029161
+  "updatedAt": 1612471812219
 }

@@ -1214,6 +1214,11 @@
           "author": "~anon@78.133.*.*",
           "comment": "No na pewno nie tracert, bo Tracert to polecenie, które zwraca listę routerów na ścieżce do adresu Adres IP.",
           "date": "31-01-2014 14:06:13"
+        },
+        {
+          "author": "~g@91.207.*.*",
+          "comment": "Netscan skanuje porty TCP, więc Tracert jest jedyną poprawną odpowiedzią",
+          "date": "01-02-2021 08:59:08"
         }
       ],
       "answers": [
@@ -2263,6 +2268,11 @@
           "author": "~masło@87.207.*.*",
           "comment": "W prawie każdym punkcie ;P",
           "date": "03-02-2015 09:59:12"
+        },
+        {
+          "author": "~MT@91.207.*.*",
+          "comment": "nieuwierzytelniony* xd",
+          "date": "01-02-2021 10:19:15"
         }
       ],
       "answers": [
@@ -2720,6 +2730,11 @@
           "author": "~Nick@79.185.*.*",
           "comment": "MD5 jest algorytmem haszujacym wiec jest to rowniez algorytm z kluczem tajnym *",
           "date": "04-02-2014 23:28:51"
+        },
+        {
+          "author": "~t@91.207.*.*",
+          "comment": "Ja bym nie zaznaczał MD5, wg. wykładu:\nhttps://edu.pjwstk.edu.pl/wyklady/bsi/scb/index46.html\n•\tTajne: skipjack, IDEA, RC2, RC4, RC5, DES, 3DES\n•\tPubliczne: RSA, DSA, El Gamal\n•\tAlgorytmy skrótu (nieodwracalne): MD5, SHA\n\n\n",
+          "date": "01-02-2021 11:03:17"
         }
       ],
       "answers": [
@@ -2859,6 +2874,11 @@
           "author": "~anon@159.205.*.*",
           "comment": "Wydaje mi się, że 'asymetryczne' znaczy, że dane są inaczej odszyfrowywane, niż szyfrowane (np. w RSA). Funkcje hashujące szyfrują dane, ale nie da się ich już odszyfrować i dlatego jest asymetryczny. Chyba..",
           "date": "04-02-2014 23:40:22"
+        },
+        {
+          "author": "~anon@91.207.*.*",
+          "comment": "md5 isn't really symmetric or asymmetric encryption because it isn't reversible either symmetrically or asymmetrically. It's a Message Digest (secure hash) algorithm. It's not encryption, it's a digest. If you didn't salt it, it's not particularly secure, but they're asking you the wrong question.\n\n\nTylko Haval,DSA,RSA,ElGamal poprawne, nie rozważamy MD5 jako sy / asy",
+          "date": "01-02-2021 11:16:52"
         }
       ],
       "answers": [
@@ -3023,7 +3043,23 @@
     {
       "question": "Czym jest Kryptologia?",
       "id": 299,
-      "comments": null,
+      "comments": [
+        {
+          "author": "~hm@94.172.*.*",
+          "comment": "to chyba d też powinna byc poprawna w takim razie",
+          "date": "09-02-2020 11:42:40"
+        },
+        {
+          "author": "~anon@91.207.*.*",
+          "comment": "Popieram",
+          "date": "01-02-2021 11:27:50"
+        },
+        {
+          "author": "~anon@91.207.*.*",
+          "comment": "Chociaż jeśli Kryptografia to nauka o zabezpieczaniu informacji, a Kryptoanaliza to nauka łamania szyfrów oraz Kryptologia składa się z dwóch powyższych to powinniśmy mieć te 2 odpowiedzi włączone tutaj. Trochę konsekwencji, bo to jest rozjazd logiczny.",
+          "date": "01-02-2021 11:31:55"
+        }
+      ],
       "answers": [
         {
           "answer": "nauka o zabezpieczaniu informacji i analizowaniu szyfrów",
@@ -3655,5 +3691,5 @@
       ]
     }
   ],
-  "updatedAt": 1611487029161
+  "updatedAt": 1612471812219
 }

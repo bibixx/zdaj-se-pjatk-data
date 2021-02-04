@@ -3425,6 +3425,11 @@
           "author": "~sram@79.98.*.*",
           "comment": "psa jak sra\n",
           "date": "03-02-2020 23:48:12"
+        },
+        {
+          "author": "~2137@83.9.*.*",
+          "comment": "karta sieciowe.",
+          "date": "01-02-2021 15:29:51"
         }
       ],
       "answers": [
@@ -5970,6 +5975,11 @@
           "author": "~??@178.235.*.*",
           "comment": "czyli żadna  odpowiedź nie jest poprawna? Na egzaminie też się tak może zdarzyć?",
           "date": "04-01-2019 11:13:36"
+        },
+        {
+          "author": "~~anon@88.11@83.24.*.*",
+          "comment": "Poprawna to \"tabularyzować wartości wielomianów, które przybliżają znane funkcje\", pozostałe błędne",
+          "date": "01-02-2021 15:22:24"
         }
       ],
       "answers": [
@@ -6603,6 +6613,16 @@
           "author": "mykhi",
           "comment": "odznaczam ostatnią",
           "date": "11-02-2020 00:24:34"
+        },
+        {
+          "author": "~user@185.233.*.*",
+          "comment": "ostatnia jest poprawna\n",
+          "date": "24-01-2021 14:52:24"
+        },
+        {
+          "author": "~anon@185.233.*.*",
+          "comment": "2^(2*2^3)=2^16=65536 - z wykłady nr 6 tak str.13.",
+          "date": "24-01-2021 14:54:27"
         }
       ],
       "answers": [
@@ -7829,7 +7849,23 @@
     {
       "question": "<p class=\"MsoNormal\"><span>Czy poprawne są poniższe działania w systemie zmiennopozycyjnym z wykładu?</span></p>",
       "id": 3318,
-      "comments": null,
+      "comments": [
+        {
+          "author": "~kmwtw@2a01:110f:d01:c100:2d0e:7fc0:71ae:f4dc",
+          "comment": "A tutaj przypadkiem 1. nie jest poprawna?",
+          "date": "04-02-2021 14:39:54"
+        },
+        {
+          "author": "~rescik@2a02:a310:45d:f280:e14e:f830:68ab:5850",
+          "comment": "wydaje mi się że nie",
+          "date": "04-02-2021 14:46:02"
+        },
+        {
+          "author": "~anon@2a01:110f:d01:c100:2d0e:7fc0:71ae:f4dc",
+          "comment": "A, słusznie, nie jest\n",
+          "date": "04-02-2021 15:11:13"
+        }
+      ],
       "answers": [
         {
           "answer": "<p class=\"MsoNormal\">010 0111 + 011 0100 = 011 0111</p>",
@@ -8305,5 +8341,5 @@
       ]
     }
   ],
-  "updatedAt": 1611487029161
+  "updatedAt": 1612471812219
 }
