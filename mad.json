@@ -140,6 +140,44 @@
       ]
     },
     {
+      "question": "Wariancja zmiennej losowej zawsze",
+      "id": 3382,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "jest dodatnia,",
+          "correct": false
+        },
+        {
+          "answer": "należy do zakresu [0,1],",
+          "correct": false
+        },
+        {
+          "answer": "jest nieujemna.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Liczba podzbiorów zbioru {A,B,C,D,E} o parzystej liczbie elementów jest:",
+      "id": 3383,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "równa 16",
+          "correct": false
+        },
+        {
+          "answer": "parzysta",
+          "correct": true
+        },
+        {
+          "answer": "równa 20",
+          "correct": false
+        }
+      ]
+    },
+    {
       "question": "Relacja określona następująco: R = { (x,y)&nbsp;<span>∈</span>&nbsp;R x R: ( x*y = 1) } jest",
       "id": 3384,
       "comments": [
@@ -175,5 +213,5 @@
       ]
     }
   ],
-  "updatedAt": 1612490410511
+  "updatedAt": 1612576809457
 }

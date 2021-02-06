@@ -5022,7 +5022,22 @@
           "correct": true
         }
       ]
+    },
+    {
+      "question": "Czy w modelu internetowym istnieje warstwa sesji?",
+      "id": 3385,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "Tak",
+          "correct": false
+        },
+        {
+          "answer": "Nie",
+          "correct": true
+        }
+      ]
     }
   ],
-  "updatedAt": 1612490410511
+  "updatedAt": 1612576809457
 }

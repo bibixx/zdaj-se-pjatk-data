@@ -4589,7 +4589,26 @@
           "correct": true
         }
       ]
+    },
+    {
+      "question": "The following parts are connected to a bus",
+      "id": 3386,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "RAM",
+          "correct": true
+        },
+        {
+          "answer": "AC cable",
+          "correct": false
+        },
+        {
+          "answer": "HDD",
+          "correct": true
+        }
+      ]
     }
   ],
-  "updatedAt": 1612490410511
+  "updatedAt": 1612576809457
 }

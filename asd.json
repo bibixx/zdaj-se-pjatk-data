@@ -465,7 +465,18 @@
     {
       "question": "Rozważmy tablicę <img src=\"https://pja.mykhi.org/generatory2.0/grafika/1265729225751.gif\" border=\"0\\\"> reprezentującą <img src=\"https://pja.mykhi.org/generatory2.0/grafika/1265729225782.gif\" border=\"0\\\"> -elementowy ciąg różnych liczb naturalnych: <img src=\"https://pja.mykhi.org/generatory2.0/grafika/1265729225813.gif\" border=\"0\\\"> . Do posortowania owej tablicy stosujemy algorytm InsertionSort. Które z poniższych zdań jest prawdziwe? Uwaga! Przy zliczaniu przestawień elementów bierzemy pod uwagę jedynie transpozycje między różnymi indeksami tablicy <img src=\"https://pja.mykhi.org/generatory2.0/grafika/1265729225876.gif\" border=\"0\\\"> .",
       "id": 1670,
-      "comments": null,
+      "comments": [
+        {
+          "author": "~inb4@178.235.*.*",
+          "comment": "według mnie tutaj żadna odpowiedź nie jest prawidłowa ponieważ po 4 iteracjach mamy 8 porównań a po 6 jest porównań 13...",
+          "date": "30-01-2017 17:51:20"
+        },
+        {
+          "author": "~anon@89.74.*.*",
+          "comment": "+1\n",
+          "date": "05-02-2021 23:50:02"
+        }
+      ],
       "answers": [
         {
           "answer": "Po pierwszych <img src=\"https://pja.mykhi.org/generatory2.0/grafika/1265729226126.gif\" border=\"0\\\"> iteracjach pętli zewnętrznej algorytmu postać tablicy <img src=\"https://pja.mykhi.org/generatory2.0/grafika/1265729226157.gif\" border=\"0\\\"> jest następująca: <img src=\"https://pja.mykhi.org/generatory2.0/grafika/1265729226188.gif\" border=\"0\\\">",
@@ -1493,7 +1504,18 @@
     {
       "question": "Analizujemy częściową poprawność algorytmu. Powinniśmy więc sprawdzić:",
       "id": 1216,
-      "comments": null,
+      "comments": [
+        {
+          "author": "~anon@2a01:110f:1505:3600:807c:cd97:eeb3:4d06",
+          "comment": "wydaje mi się że odpowiedź a jest niepoprawna \n\nMówimy, że algorytm jest częsciowo poprawny gdy:\nJEŻELI się zatrzyma to wynik jest poprawny. \n\nPrzy całkowitej poprawności sprawdzamy jeszcze \"własność stopu\" czyli czy algorytm zatrzyma się dla każdych danych w skończonej licznie kroków \n\ncałkowita poprawność = częściowa poprawność + wartość stopu\n\nczęściowa poprawność != całkowita poprawność",
+          "date": "10-02-2020 11:50:49"
+        },
+        {
+          "author": "~anon@89.64.*.*",
+          "comment": "pierwsze można odrzucić na podstawie info z wykładu Sydowa: http://users.pja.edu.pl/~msyd/wyka-pl/correctness1-pl.pdf",
+          "date": "05-02-2021 17:59:19"
+        }
+      ],
       "answers": [
         {
           "answer": "własność stopu",
@@ -6384,6 +6406,11 @@
           "author": "~asd@89.230.*.*",
           "comment": "??????????????????????????",
           "date": "10-02-2020 15:40:46"
+        },
+        {
+          "author": "~pch@77.252.*.*",
+          "comment": "co się odpier",
+          "date": "05-02-2021 18:28:00"
         }
       ],
       "answers": [
@@ -6595,6 +6622,16 @@
           "author": "~no@89.64.*.*",
           "comment": "PCH miał dokładnie to samo na próbnym. Tablica powinna być int A[17] a nie A[16]. A z odpowiedzi zaznaczył \"17 znajdzie się po wszystkich wprowadzonych wartościach\" i też mu dało że błędnie XD",
           "date": "04-02-2021 21:55:03"
+        },
+        {
+          "author": "~no@89.64.*.*",
+          "comment": "i dobrze że błędnie, bo 17 ma indeks równy 12",
+          "date": "05-02-2021 21:11:33"
+        },
+        {
+          "author": "~no@89.64.*.*",
+          "comment": "ej, ale to wtedy wychodzi że pierwsze jest źle...",
+          "date": "05-02-2021 21:25:18"
         }
       ],
       "answers": [
@@ -6636,5 +6673,5 @@
       ]
     }
   ],
-  "updatedAt": 1612490410511
+  "updatedAt": 1612576809457
 }

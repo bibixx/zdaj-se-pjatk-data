@@ -533,7 +533,18 @@
     {
       "question": "w architekturze klient-serwer do głównych ról klienta należy:",
       "id": 2639,
-      "comments": null,
+      "comments": [
+        {
+          "author": "~Myk@37.47.*.*",
+          "comment": "Pozdrawaim pana komendanta 29c <3",
+          "date": "08-02-2018 21:15:17"
+        },
+        {
+          "author": "~anon@83.142.*.*",
+          "comment": "klient nie zapewnia interfejsu, bo on z niego korzysta ",
+          "date": "05-02-2021 12:41:38"
+        }
+      ],
       "answers": [
         {
           "answer": "przetwarzanie zapytań SQL",
@@ -3718,7 +3729,72 @@
           "correct": false
         }
       ]
+    },
+    {
+      "question": "Do ekosystemu rozwiązań bezpieczeństwa urządzeń mobilnych należą:",
+      "id": 3387,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "MAM<br>Mobile Application Management",
+          "correct": false
+        },
+        {
+          "answer": "EuroM.I.N.D.&nbsp;<br>European Monitoring Investigation and Enforcement Divission",
+          "correct": false
+        },
+        {
+          "answer": "MCD&nbsp;<br>Mobile Content Defense",
+          "correct": false
+        },
+        {
+          "answer": "MDM<br>Mobile Device Management<br><br>A.R.M.O.R.<br>Altered, Rebuild Mobility and Operational Response Aplication",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Do ekosystemu rozwiązań bezpieczeństwa urządzeń mobilnych należą:",
+      "id": 3388,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "MAM<br>Mobile Application Management",
+          "correct": false
+        },
+        {
+          "answer": "EuroM.I.N.D.&nbsp;<br>European Monitoring Investigation and Enforcement Divission",
+          "correct": false
+        },
+        {
+          "answer": "MCD&nbsp;<br>Mobile Content Defense",
+          "correct": false
+        },
+        {
+          "answer": "MDM<br>Mobile Device Management<br><br>A.R.M.O.R.<br>Altered, Rebuild Mobility and Operational Response Aplication",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wyzwania związane z mobilnością to: (prawidłowe odp. do weryfikacji)",
+      "id": 3389,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "Skala Kardaszowa",
+          "correct": false
+        },
+        {
+          "answer": "Produktywność",
+          "correct": false
+        },
+        {
+          "answer": "Wybieranie Impulsowe",
+          "correct": false
+        }
+      ]
     }
   ],
-  "updatedAt": 1612490410511
+  "updatedAt": 1612576809457
 }
