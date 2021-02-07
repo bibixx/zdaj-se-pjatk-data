@@ -1,13 +1,9 @@
 {
-  "updatedAt": 1612576809457,
+  "updatedAt": 1612663210371,
   "pages": [
     {
       "title": "Administrowanie bazami danych (ABD)",
       "id": "abd"
-    },
-    {
-      "title": "Algorytmy i Struktury Danych - edux (ASD)",
-      "id": "asd"
     },
     {
       "title": "Aplikacje Baz Danych (APBD)",

@@ -915,7 +915,18 @@
     {
       "question": "Metoda ścieżki krytycznej służy do",
       "id": 130,
-      "comments": null,
+      "comments": [
+        {
+          "author": "~anon@159.205.*.*",
+          "comment": "dobre\n",
+          "date": "29-01-2017 14:45:09"
+        },
+        {
+          "author": "~anon@79.184.*.*",
+          "comment": "A przypadkiem to nie jest maksymalny czas?",
+          "date": "06-02-2021 15:17:41"
+        }
+      ],
       "answers": [
         {
           "answer": "znajdowania najkrótszej drogi w grafie",
@@ -8104,6 +8115,11 @@
           "author": "~yesverymuch@79.184.*.*",
           "comment": "Strzelałbym, że do \"wzmacniania sygnału przy transmisji danych\", ale still nie mam pewnego źródła",
           "date": "03-02-2020 22:53:39"
+        },
+        {
+          "author": "~pch@83.24.*.*",
+          "comment": "prawidłowa to do zapamiętywania danych, tutaj żadna poprawna",
+          "date": "06-02-2021 17:29:12"
         }
       ],
       "answers": [
@@ -8346,5 +8362,5 @@
       ]
     }
   ],
-  "updatedAt": 1612576809457
+  "updatedAt": 1612663210371
 }

@@ -1293,6 +1293,11 @@
           "author": "~JDay@91.230.*.*",
           "comment": "Aktor: osoba pełniąca jakąś funckcje / posiadajaca uprawnienia np. dyrektor, nauczyciel\n-----------\nPrzypadek uzycia: jakas funkcja przypisana do aktorow np. wstaw ocene, przypisz dydaktyka",
           "date": "01-03-2019 11:03:03"
+        },
+        {
+          "author": "~edward.ącki@83.5.*.*",
+          "comment": "no kurwa jak moze byc przez dowolna liczbe to moze byc kurwa przez jenego no halo???",
+          "date": "07-02-2021 01:58:49"
         }
       ],
       "answers": [
@@ -3082,6 +3087,11 @@
           "author": "mykhi",
           "comment": "da",
           "date": "11-02-2020 22:14:47"
+        },
+        {
+          "author": "~lubieschabowe2137@83.5.*.*",
+          "comment": "ja bym wolal niezniszczalnosc jednak",
+          "date": "07-02-2021 02:01:25"
         }
       ],
       "answers": [
@@ -3139,6 +3149,21 @@
           "author": "~anon@188.146.*.*",
           "comment": "nie 3 tylko 2\nw kanbanie nie ma sztywnych ram czasowych",
           "date": "07-02-2020 22:22:59"
+        },
+        {
+          "author": "~anon@83.5.*.*",
+          "comment": "chyba 5, moim zdaniem ma sens",
+          "date": "07-02-2021 01:40:44"
+        },
+        {
+          "author": "~lizeogury69@83.5.*.*",
+          "comment": "chyba 5, moim zdaniem ma sens",
+          "date": "07-02-2021 01:40:48"
+        },
+        {
+          "author": "~lizeogury69@83.5.*.*",
+          "comment": "chyba 5, moim zdaniem ma sens",
+          "date": "07-02-2021 01:40:54"
         }
       ],
       "answers": [
@@ -3796,5 +3821,5 @@
       ]
     }
   ],
-  "updatedAt": 1612576809457
+  "updatedAt": 1612663210371
 }

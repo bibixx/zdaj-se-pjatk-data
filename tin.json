@@ -1212,7 +1212,7 @@
       ]
     },
     {
-      "question": "<p class=\"MsoListParagraphCxSpFirst\"><strong>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></strong><strong>Wyrażenie XPath w postaci /lista/student/imie[2] zwróci:</strong></p>\n<p class=\"MsoListParagraphCxSpMiddle\"><span><strong>&nbsp;</strong></span></p>",
+      "question": "Wyrażenie XPath w postaci /lista/student/imie[2] zwróci:",
       "id": 2159,
       "comments": [
         {
@@ -1224,23 +1224,43 @@
           "author": "~pch@79.191.*.*",
           "comment": "potwierdzam, pokazywal wykladowca przykladowe",
           "date": "04-02-2018 20:00:33"
+        },
+        {
+          "author": "~maciejka@89.64.*.*",
+          "comment": "Prosimy o zaznaczenie odpowiedzi \"wszystkie drugie imiona studentów w dokumencie\" :)",
+          "date": "06-02-2021 17:42:24"
+        },
+        {
+          "author": "mykhi",
+          "comment": "zaznaczam dodatkowo b)",
+          "date": "06-02-2021 18:33:32"
+        },
+        {
+          "author": "~maciejka@89.64.*.*",
+          "comment": "Te odpowiedzi się wykluczają a wykładowca mówił, że tylko jedna jest poprawna, więc odznacz a) \"drugie imię pierwszego studenta zapisanego w dokumencie\"",
+          "date": "06-02-2021 19:22:27"
+        },
+        {
+          "author": "mykhi",
+          "comment": "odznaczam a)",
+          "date": "06-02-2021 20:52:24"
         }
       ],
       "answers": [
         {
           "answer": "drugie imię pierwszego studenta zapisanego w dokumencie",
+          "correct": false
+        },
+        {
+          "answer": "wszystkie drugie imiona studentów w dokumencie",
           "correct": true
         },
         {
-          "answer": "<span>&nbsp;&nbsp;&nbsp;</span><span>wszystkie drugie imiona studentów w dokumencie</span>",
+          "answer": "imię lub imiona drugiego studenta w dokumencie",
           "correct": false
         },
         {
-          "answer": "<span>&nbsp;&nbsp;&nbsp;</span><span>imię lub imiona drugiego studenta w dokumencie</span>",
-          "correct": false
-        },
-        {
-          "answer": "<span>&nbsp;&nbsp;&nbsp;</span><span>elementy student, które posiadają dokładnie po 2 podelementy imię</span>",
+          "answer": "elementy student, które posiadają dokładnie po 2 podelementy imię",
           "correct": false
         }
       ]
@@ -2031,5 +2051,5 @@
       ]
     }
   ],
-  "updatedAt": 1612576809457
+  "updatedAt": 1612663210371
 }
