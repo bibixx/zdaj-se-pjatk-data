@@ -6744,9 +6744,25 @@
       ]
     },
     {
-      "question": "<table width=\"100%\">\n<tbody>\n<tr bgcolor=\"#ffffdd\">\n<td colspan=\"4\">Które z poniższych operacji arytmetycznych spowodują błąd wykonania (przepełnienie lub inny) w procesorze 8-bitowym, zakładając reprezentację liczb całkowitych metodą uzupełnień do 2?</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>",
+      "question": "Które z poniższych operacji arytmetycznych spowodują błąd wykonania (przepełnienie lub inny) w procesorze 8-bitowym, zakładając reprezentację liczb całkowitych metodą uzupełnień do 2?",
       "id": 3064,
-      "comments": null,
+      "comments": [
+        {
+          "author": "~anon@89.64.*.*",
+          "comment": "nie powinno być 10-100?",
+          "date": "04-02-2019 17:16:13"
+        },
+        {
+          "author": "~anon@83.24.*.*",
+          "comment": "wydaje mi się że nie bo zakres w 8-bitowy procesorze wynosi od -128 do 127",
+          "date": "07-02-2021 15:44:49"
+        },
+        {
+          "author": "~AntoniBanderas@217.138.*.*",
+          "comment": "2 poprawne",
+          "date": "07-02-2021 16:44:26"
+        }
+      ],
       "answers": [
         {
           "answer": "<table width=\"100%\">\n<tbody>\n<tr bgcolor=\"#dddddd\">\n<td>10 - 100<br><br></td>\n</tr>\n</tbody>\n</table>",
@@ -8362,5 +8378,5 @@
       ]
     }
   ],
-  "updatedAt": 1612663210371
+  "updatedAt": 1612749609821
 }

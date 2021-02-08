@@ -2839,6 +2839,16 @@
           "author": "~anon@2a02:a311:4345:4880:58c1:29cc:a596:6b41",
           "comment": "a tu są dobre odp?",
           "date": "11-02-2020 21:05:08"
+        },
+        {
+          "author": "~optimusKEK@83.5.*.*",
+          "comment": "tak mi sie wydaje, że odp nr 1 jest błędna, no chyba, że się mylę ",
+          "date": "07-02-2021 15:41:46"
+        },
+        {
+          "author": "~anonek@91.207.*.*",
+          "comment": "@optimusKEK też miałem taką rozkminę, bardziej by mi pasowało jakby była mowa o kluczu głównym, ale może jednak jest poprawna, bo klucz obcy tabeli jest kluczem głównym w swojej tabeli czyli według definicji jest jednoznaczym identyfikatorem wiersza w tej swojej tabeli. Jakby ktoś jeszcze mógł potwierdzić czy odp 1 poprawna byłoby super xdd",
+          "date": "07-02-2021 15:49:24"
         }
       ],
       "answers": [
@@ -3821,5 +3831,5 @@
       ]
     }
   ],
-  "updatedAt": 1612663210371
+  "updatedAt": 1612749609821
 }

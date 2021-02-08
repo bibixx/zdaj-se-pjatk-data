@@ -1803,6 +1803,11 @@
           "author": "~twoj stary@159.205.*.*",
           "comment": "uwierzytelnienie to to samo co autentykacja baranie",
           "date": "06-02-2019 22:29:17"
+        },
+        {
+          "author": "~maciejka@89.64.*.*",
+          "comment": "Mykhi, jak możesz to odznacz odpowiedź d) \"uwierzytelnienie\" i zaznacz odp. b) \"Autoryzacja\"",
+          "date": "07-02-2021 16:19:57"
         }
       ],
       "answers": [
@@ -1837,6 +1842,16 @@
           "author": "~xd@37.47.*.*",
           "comment": "Jest",
           "date": "02-02-2020 14:06:14"
+        },
+        {
+          "author": "~maciejka@89.64.*.*",
+          "comment": "Mykhi, jak możesz to zaznacz odp. d) \"Post\" jako prawidłową",
+          "date": "07-02-2021 16:36:20"
+        },
+        {
+          "author": "mykhi",
+          "comment": "done",
+          "date": "07-02-2021 18:29:20"
         }
       ],
       "answers": [
@@ -1854,7 +1869,7 @@
         },
         {
           "answer": "Post",
-          "correct": false
+          "correct": true
         }
       ]
     },
@@ -1960,12 +1975,22 @@
           "author": "~anon@79.143.*.*",
           "comment": "@mykhi, zmień odpowiedź na ID, please",
           "date": "05-02-2021 18:31:57"
+        },
+        {
+          "author": "~anon@89.64.*.*",
+          "comment": "Mykhi, jak możesz to odznacz odpowiedź a) \"DATE\" i zaznacz d) \"ID\"",
+          "date": "07-02-2021 15:36:43"
+        },
+        {
+          "author": "mykhi",
+          "comment": "zrobione jak wyżej ^",
+          "date": "07-02-2021 18:28:56"
         }
       ],
       "answers": [
         {
           "answer": "DATE",
-          "correct": true
+          "correct": false
         },
         {
           "answer": "INT",
@@ -1977,7 +2002,7 @@
         },
         {
           "answer": "ID",
-          "correct": false
+          "correct": true
         }
       ]
     },
@@ -2051,5 +2076,5 @@
       ]
     }
   ],
-  "updatedAt": 1612663210371
+  "updatedAt": 1612749609821
 }
