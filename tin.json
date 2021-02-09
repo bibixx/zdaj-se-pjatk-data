@@ -1266,6 +1266,75 @@
       ]
     },
     {
+      "question": "Ataki typu cross-site scripting (XSS) opierają się na:",
+      "id": 3393,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "Stworzeniu witryny o podobnym adresie udającej zaufany serwis",
+          "correct": false
+        },
+        {
+          "answer": "Spowodowaniu wyświetlenia przez zaufaną witrynę kodu realizującego atak",
+          "correct": true
+        },
+        {
+          "answer": "Przekierowaniu komunikacji HTTPS do wrogiego serwisu",
+          "correct": false
+        },
+        {
+          "answer": "Lukach w bezpieczeństwie interpretera skryptów w przeglądarce użytkownika",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Adres IP 192.168.0.1 należy do puli adresów:",
+      "id": 3394,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "multicast (rozgłaszania grupowego)",
+          "correct": false
+        },
+        {
+          "answer": "prywatnych (nierutowalnych)",
+          "correct": true
+        },
+        {
+          "answer": "pętli zwrotnej",
+          "correct": false
+        },
+        {
+          "answer": "broadcast",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Stosowane w RoR nazwenictwo, które np. każe nazwać kontroler tak jak obsługiwaną przezeń encję, tylko z użyciem liczby mnogiej, jest przejawem zasady:",
+      "id": 3395,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "Don't Repeat Yourself",
+          "correct": false
+        },
+        {
+          "answer": "Model View Controller",
+          "correct": false
+        },
+        {
+          "answer": "Lokalności odwołań",
+          "correct": false
+        },
+        {
+          "answer": "Convention over Configuration",
+          "correct": false
+        }
+      ]
+    },
+    {
       "question": "&nbsp;<p></p>\n<p class=\"MsoListParagraph\"><strong><span><span>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></strong><strong>Ataki typu „SQL injection” polegają na:</strong>\n          </p>",
       "id": 2160,
       "comments": null,
@@ -1808,6 +1877,21 @@
           "author": "~maciejka@89.64.*.*",
           "comment": "Mykhi, jak możesz to odznacz odpowiedź d) \"uwierzytelnienie\" i zaznacz odp. b) \"Autoryzacja\"",
           "date": "07-02-2021 16:19:57"
+        },
+        {
+          "author": "~kek@79.191.*.*",
+          "comment": "ale uwierzytelnienie jest git\nhttps://pl.wikipedia.org/wiki/Uwierzytelnianie",
+          "date": "08-02-2021 10:34:12"
+        },
+        {
+          "author": "~anon@83.6.*.*",
+          "comment": "gicior jest autoryzacja to sprawdzanie czy osoba ma dostęp do jakiś zasobów a uwierzytelnianie/autentykacja to sprawdzenie czy osoba jest tym za kogo się podaje (np. poprzez login i hasło) ",
+          "date": "08-02-2021 10:51:13"
+        },
+        {
+          "author": "mykhi",
+          "comment": "jest tak jak ~anon@83.6.*.* mówi, authentication != authorization",
+          "date": "08-02-2021 11:01:11"
         }
       ],
       "answers": [
@@ -1826,6 +1910,52 @@
         {
           "answer": "uwierzytelnienie",
           "correct": true
+        }
+      ]
+    },
+    {
+      "question": "W&nbsp;<em>Ruby on rails&nbsp;</em>pliki .erb (Embedded Ruby) spotkamy w roli:",
+      "id": 3391,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "Widoku",
+          "correct": true
+        },
+        {
+          "answer": "Modelu",
+          "correct": false
+        },
+        {
+          "answer": "Kontrolera",
+          "correct": false
+        },
+        {
+          "answer": "Rutera",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Adres IP 192.168.1.1 należy do puli adresów:",
+      "id": 3392,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "multicast (rozgłaszania grupowego)",
+          "correct": false
+        },
+        {
+          "answer": "prywatnych (nierutowalnych)",
+          "correct": true
+        },
+        {
+          "answer": "pętli zwrotnej&nbsp;",
+          "correct": false
+        },
+        {
+          "answer": "broadcast",
+          "correct": false
         }
       ]
     },
@@ -2074,7 +2204,133 @@
           "correct": true
         }
       ]
+    },
+    {
+      "question": "Kaskadowe arkusze stylów (CSS):",
+      "id": 3396,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "Są interpretowane po stronie serwera",
+          "correct": false
+        },
+        {
+          "answer": "Pozwalają usprawnić ładowanie korzystających z nich stron",
+          "correct": false
+        },
+        {
+          "answer": "Wymagają przygotowania stron w postaci zgodnej z XHTML",
+          "correct": false
+        },
+        {
+          "answer": "Wykluczają możliwość zastosowania grafiki wektorowej",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Do technologii dynamicznych stron WWW nie zaliczamy:",
+      "id": 3397,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "PHP",
+          "correct": false
+        },
+        {
+          "answer": "Ruby on Rails",
+          "correct": false
+        },
+        {
+          "answer": "Apletów Javy",
+          "correct": false
+        },
+        {
+          "answer": "JSP i JSF",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Kod JavaScript możemy umieszczać (podaj kompletną odpowiedź):",
+      "id": 3398,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "W plikach zewnętrznych oraz wewnątrz elementu head lub body dokumentu HTML",
+          "correct": false
+        },
+        {
+          "answer": "Tylko w plikach zewnętrznych względem dokumentu HTML - by nie naruszyć reguł poprawności składniowych HTML",
+          "correct": false
+        },
+        {
+          "answer": "W plikach zewnętrznych oraz wewnątrz elementu body dokumentu HTML",
+          "correct": false
+        },
+        {
+          "answer": "W plikach zewnętrznych oraz wewnątrz elementu head dokumentu HTML",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wyrażenie w języku Ruby&nbsp;<strong>:xyz.class</strong> zwróci:",
+      "id": 3399,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "klasę Method",
+          "correct": false
+        },
+        {
+          "answer": "klasę Symbol",
+          "correct": false
+        },
+        {
+          "answer": "błąd - literały w języku Ruby nie implementują metod",
+          "correct": false
+        },
+        {
+          "answer": "błąd - wyrażenie rozpoczęte dwukropkiem niezgodne ze składnią języka",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Selektor CSS sformułowany jako&nbsp;<strong>h1 + p</strong> selekcjonuje element[y]",
+      "id": 3400,
+      "comments": [
+        {
+          "author": "~anonim@2a02:a319:803e:5900:bc57:6609:49b:87c6",
+          "comment": "można zaznaczyć 3",
+          "date": "08-02-2021 20:41:50"
+        },
+        {
+          "author": "~ja@31.178.*.*",
+          "comment": "Poprawna odpowiedź: [Elementy p występujące bezpośrednio po elementach h1]",
+          "date": "09-02-2021 00:41:21"
+        }
+      ],
+      "answers": [
+        {
+          "answer": "Elementy p występujące wewnątrz elementu h1",
+          "correct": false
+        },
+        {
+          "answer": "Elementy h1 oraz elementy p",
+          "correct": false
+        },
+        {
+          "answer": "Elementy p występujące bezpośrednio po elementach h1",
+          "correct": false
+        },
+        {
+          "answer": "Elementy h1 mające klasę o nazwie p",
+          "correct": false
+        }
+      ]
     }
   ],
-  "updatedAt": 1612749609821
+  "updatedAt": 1612836009806
 }

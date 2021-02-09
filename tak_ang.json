@@ -1150,7 +1150,23 @@
     {
       "question": "<span lang=\"EN-US\">The idea of using punch cards was first realized by</span>",
       "id": 2699,
-      "comments": null,
+      "comments": [
+        {
+          "author": "~anon@95.160.*.*",
+          "comment": "Shouldn't the right answer be Hollerith? https://www.thoughtco.com/computer-punch-cards-4074957",
+          "date": "11-02-2020 10:15:45"
+        },
+        {
+          "author": "~random.exe@94.232.*.*",
+          "comment": "According to pch's presentations. Jocquard used kind of punched cards to automate weaving, whereas Hollerith improved them and introduced in data processing. Relatively speaking, what Jocquard used was first. ",
+          "date": "08-02-2021 13:29:05"
+        },
+        {
+          "author": "~random.exe@94.232.*.*",
+          "comment": "Joseph de Vaucanson* instead of Jocquard*.\n",
+          "date": "08-02-2021 13:30:20"
+        }
+      ],
       "answers": [
         {
           "answer": "<span lang=\"EN-US\">Jacques de Vaucanson</span>",
@@ -4620,5 +4636,5 @@
       ]
     }
   ],
-  "updatedAt": 1612749609821
+  "updatedAt": 1612836009806
 }

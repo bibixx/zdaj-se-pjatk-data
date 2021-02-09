@@ -1546,6 +1546,16 @@
           "author": "~xDDDDDDDDDDDDDDDDDD@5.173.*.*",
           "comment": "XDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD",
           "date": "03-02-2020 22:42:38"
+        },
+        {
+          "author": "~co jest do@195.164.*.*",
+          "comment": "wtf xd",
+          "date": "08-02-2021 21:13:28"
+        },
+        {
+          "author": "~MarcinNajman@79.184.*.*",
+          "comment": "Widzieliście Krzysia Stanowskiego?",
+          "date": "09-02-2021 02:55:12"
         }
       ],
       "answers": [
@@ -1777,6 +1787,11 @@
           "author": "~anon@31.182.*.*",
           "comment": "Ech ci rabini . . .",
           "date": "05-02-2020 00:31:25"
+        },
+        {
+          "author": "~AAAAAAAAAAAAAAAAAAAAAA@83.5.*.*",
+          "comment": "jeden powie tak, drugi powie nie",
+          "date": "08-02-2021 18:15:26"
         }
       ],
       "answers": [
@@ -2849,6 +2864,16 @@
           "author": "~anonek@91.207.*.*",
           "comment": "@optimusKEK też miałem taką rozkminę, bardziej by mi pasowało jakby była mowa o kluczu głównym, ale może jednak jest poprawna, bo klucz obcy tabeli jest kluczem głównym w swojej tabeli czyli według definicji jest jednoznaczym identyfikatorem wiersza w tej swojej tabeli. Jakby ktoś jeszcze mógł potwierdzić czy odp 1 poprawna byłoby super xdd",
           "date": "07-02-2021 15:49:24"
+        },
+        {
+          "author": "~anon@5.173.*.*",
+          "comment": "\"Klucz obcy jest to jedna lub więcej kolumn, których wartości występują jako wartości ustalonego klucza głównego lub jednoznacznego w tej lub innej tabeli i są interpretowane jako wskaźniki do wierszy w tej drugiej tabeli.\" więc 1 powinno być git",
+          "date": "08-02-2021 16:42:06"
+        },
+        {
+          "author": "~bruh@79.191.*.*",
+          "comment": "IMO obcy jednoznaczny identyfikator wiersza w tabeli nie pasuje bo mowa tu o wierszu, w którym ten klucz obcy występuje. Mając podany klucz obcy i konfrontując go z tabelą nie jesteśmy w stanie jednoznacznie zidentyfikować tego konkretnego wiersza, ponieważ pare wierszy może mieć ten sam klucz obcy. Mocno dyskusyjne sformułowanie, ponieważ ten klucz obcy będąc kluczem głównym w swojej tabeli dopiero wtedy jednoznacznie identyfikuje wiersz.",
+          "date": "08-02-2021 16:44:58"
         }
       ],
       "answers": [
@@ -2873,7 +2898,23 @@
     {
       "question": "Z poniższej listy wybierz własności, jakie charakteryzują Aktora przypadków użycia:",
       "id": 3253,
-      "comments": null,
+      "comments": [
+        {
+          "author": "~anon@37.47.*.*",
+          "comment": "2 też poprawne ",
+          "date": "04-02-2020 22:03:56"
+        },
+        {
+          "author": "~klapek@178.235.*.*",
+          "comment": "ale o czym Ty mowisz?",
+          "date": "08-02-2021 22:21:55"
+        },
+        {
+          "author": "~sandał@89.70.*.*",
+          "comment": "klapek ma racje 2 niepoprawne ",
+          "date": "08-02-2021 22:23:01"
+        }
+      ],
       "answers": [
         {
           "answer": "takie pojęcie nie istnieje",
@@ -3174,6 +3215,11 @@
           "author": "~lizeogury69@83.5.*.*",
           "comment": "chyba 5, moim zdaniem ma sens",
           "date": "07-02-2021 01:40:54"
+        },
+        {
+          "author": "~haker@83.31.*.*",
+          "comment": "\"Wieksza elastycznosc procesu w Kanban niz w Scrum\" - poprawna odp",
+          "date": "08-02-2021 20:25:56"
         }
       ],
       "answers": [
@@ -3198,7 +3244,18 @@
     {
       "question": "Dziedziczenie to:",
       "id": 3262,
-      "comments": null,
+      "comments": [
+        {
+          "author": "~MBiel@178.42.*.*",
+          "comment": "3",
+          "date": "15-02-2020 08:52:18"
+        },
+        {
+          "author": "~anon@83.24.*.*",
+          "comment": "Trzecia poprawna",
+          "date": "08-02-2021 20:05:04"
+        }
+      ],
       "answers": [
         {
           "answer": "opis grupy obiektów, które współdziela ten sam zbiór wartości",
@@ -3540,6 +3597,16 @@
           "author": "~belmondziak@2a02:a310:45d:f280:e14e:f830:68ab:5850",
           "comment": "@belmondo ma rację",
           "date": "04-02-2021 21:01:56"
+        },
+        {
+          "author": "~belmondziarz@79.191.*.*",
+          "comment": "dokladnie",
+          "date": "08-02-2021 19:15:14"
+        },
+        {
+          "author": "~SancoBart@195.164.*.*",
+          "comment": "1, 3, 4 potwierdzam",
+          "date": "08-02-2021 21:51:45"
         }
       ],
       "answers": [
@@ -3768,7 +3835,18 @@
     {
       "question": "Do ekosystemu rozwiązań bezpieczeństwa urządzeń mobilnych należą:",
       "id": 3387,
-      "comments": null,
+      "comments": [
+        {
+          "author": "~Pls_help_Iam_under_the_water_brbrbrrr_69@80.48.*.*",
+          "comment": "Ktoś zna może odpowiedź?",
+          "date": "08-02-2021 20:58:55"
+        },
+        {
+          "author": "~Baszszar al-Asad@83.142.*.*",
+          "comment": "prawdopodobnie MAM i MDM",
+          "date": "08-02-2021 21:13:43"
+        }
+      ],
       "answers": [
         {
           "answer": "MAM<br>Mobile Application Management",
@@ -3831,5 +3909,5 @@
       ]
     }
   ],
-  "updatedAt": 1612749609821
+  "updatedAt": 1612836009806
 }

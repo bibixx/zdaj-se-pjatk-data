@@ -202,6 +202,11 @@
           "author": "~anon@91.230.*.*",
           "comment": "lusio xDDDD",
           "date": "28-11-2019 10:31:15"
+        },
+        {
+          "author": "~xd@79.190.*.*",
+          "comment": "xd",
+          "date": "08-02-2021 20:52:11"
         }
       ],
       "answers": [
@@ -1554,6 +1559,11 @@
           "author": "~anon@79.184.*.*",
           "comment": "Flags\n    A three-bit field follows and is used to control or identify fragments. They are (in order, from most significant to least significant):\n\n        bit 0: Reserved; must be zero.[note 1]\n        bit 1: Don't Fragment (DF)\n        bit 2: More Fragments (MF)\n\nhttps://en.wikipedia.org/wiki/IPv4#Flags\n\nJak coś będzie trzeba się kłócić :D ",
           "date": "07-02-2018 15:13:35"
+        },
+        {
+          "author": "~siwydym@2a02:a317:2244:2b00:8535:9526:7ab:3153",
+          "comment": "flaga w pakiecie IP i definiuje przez ile urządzeń przełączających warstwy sieci, dany pakiet może być przesłany ??",
+          "date": "08-02-2021 17:49:32"
         }
       ],
       "answers": [
@@ -1966,7 +1976,23 @@
     {
       "question": "PGP używa kluczy:",
       "id": 609,
-      "comments": null,
+      "comments": [
+        {
+          "author": "~anon@2a01:110f:1505:3600:6c3d:b128:e610:3907",
+          "comment": "Czy to na pewno jest poprawna odpowiedź? \nWg. Wikipedii (https://pl.wikipedia.org/wiki/Pretty_Good_Privacy) \"Weryfikacja kluczy opiera się o sieć zaufania (web of trust)\"\n\nTo jest równoznaczne z kluczem publicznym i prywatnym? ",
+          "date": "29-01-2020 21:23:09"
+        },
+        {
+          "author": "~waper@91.205.*.*",
+          "comment": "jeszcze jak",
+          "date": "08-02-2021 20:59:41"
+        },
+        {
+          "author": "~waper@91.205.*.*",
+          "comment": "chodzi o to, że jeśli ktoś udostepnia swój klucz publiczny to inny zainteresowani tym kluczem ufają, że ta osoba co go udostępnia jest tą osobą która ich interesuje\n\nnp chcesz se wysłać maila zaszyfrowanego do Richarda Stallmana to on udostepnia swój klucz PGP na swojej stronie i ufasz, że to jest naprawde jego kluczi on twoją wiadomość przeczyta \n",
+          "date": "08-02-2021 21:04:44"
+        }
+      ],
       "answers": [
         {
           "answer": "wielokrotnych",
@@ -2547,6 +2573,11 @@
           "author": "~pojebalo@79.184.*.*",
           "comment": "was",
           "date": "11-01-2021 21:04:36"
+        },
+        {
+          "author": "~debil@91.205.*.*",
+          "comment": "SMTP sessions are stateful, with both parties carefully maintaining a\n   common view of the current state.\n\nvia rfc5321 sekcja 2.3.6",
+          "date": "09-02-2021 00:27:18"
         }
       ],
       "answers": [
@@ -2976,6 +3007,16 @@
           "author": "mykhi",
           "comment": "zaznaczam 1",
           "date": "03-02-2020 23:43:05"
+        },
+        {
+          "author": "~Zespół@91.205.*.*",
+          "comment": "w sumie też, że wyłączony bym dał\nbo jak jest wyłączony to port ma zamknięty xD",
+          "date": "08-02-2021 22:02:26"
+        },
+        {
+          "author": "~wtf@2a02:a317:2244:2b00:e50a:f0c4:e898:4f00",
+          "comment": "i to bedzie git ",
+          "date": "08-02-2021 22:10:35"
         }
       ],
       "answers": [
@@ -3025,6 +3066,11 @@
           "author": "~Won Tyr@89.64.*.*",
           "comment": "zależy która wersja http bo 1.0 jest bezstanowy a 1.1 + są już stanowe",
           "date": "06-02-2019 13:03:34"
+        },
+        {
+          "author": "~s@83.28.*.*",
+          "comment": "For example, HTTP is an example of a stateless protocol layered on top of TCP, a stateful protocol, z czego wynika ze HTTP jest bezstanowy",
+          "date": "08-02-2021 18:33:27"
         }
       ],
       "answers": [
@@ -3596,6 +3642,11 @@
           "author": "~NoIPanPawel@185.186.*.*",
           "comment": "odpowiedzi jest poprawna",
           "date": "27-11-2019 14:38:09"
+        },
+        {
+          "author": "~tesrxhcgjv@185.205.*.*",
+          "comment": "pytanie 97 takie samo, a odpowiedzi inne",
+          "date": "08-02-2021 14:01:13"
         }
       ],
       "answers": [
@@ -5039,5 +5090,5 @@
       ]
     }
   ],
-  "updatedAt": 1612749609821
+  "updatedAt": 1612836009806
 }

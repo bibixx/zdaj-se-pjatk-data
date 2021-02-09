@@ -5364,6 +5364,25 @@
       ]
     },
     {
+      "question": "Nigdy nie uzyskamy przepełnienia zmiennopozycyjnego w kodzie uzupełnieniowym do 2",
+      "id": 3390,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "odejmując liczbę dodatnią od dodatniej",
+          "correct": true
+        },
+        {
+          "answer": "odejmując liczbę ujemną od ujemnej",
+          "correct": true
+        },
+        {
+          "answer": "negując liczbę",
+          "correct": false
+        }
+      ]
+    },
+    {
       "question": "Do problemów NP-zupełnych należy problem",
       "id": 2211,
       "comments": [
@@ -8378,5 +8397,5 @@
       ]
     }
   ],
-  "updatedAt": 1612749609821
+  "updatedAt": 1612836009806
 }

@@ -296,7 +296,18 @@
     {
       "question": "PGP używa kluczy:",
       "id": 2642,
-      "comments": null,
+      "comments": [
+        {
+          "author": "~twoja_mama@91.230.*.*",
+          "comment": "PGP encryption uses a serial combination of hashing, data compression, symmetric-key cryptography - Wiki: https://en.wikipedia.org/wiki/Pretty_Good_Privacy",
+          "date": "04-02-2019 14:52:03"
+        },
+        {
+          "author": "~s@83.28.*.*",
+          "comment": "symetrycznych",
+          "date": "08-02-2021 04:07:30"
+        }
+      ],
       "answers": [
         {
           "answer": "kluczy Geanta",
@@ -363,5 +374,5 @@
       ]
     }
   ],
-  "updatedAt": 1612749609821
+  "updatedAt": 1612836009806
 }
