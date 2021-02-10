@@ -1314,7 +1314,23 @@
     {
       "question": "Stosowane w RoR nazwenictwo, które np. każe nazwać kontroler tak jak obsługiwaną przezeń encję, tylko z użyciem liczby mnogiej, jest przejawem zasady:",
       "id": 3395,
-      "comments": null,
+      "comments": [
+        {
+          "author": "~Frugo@2a02:a319:4044:6500:ed1d:352b:7eb0:ca15",
+          "comment": "Poprawna: MVC",
+          "date": "09-02-2021 04:32:18"
+        },
+        {
+          "author": "~ty@2a02:a311:403b:5100:2850:a244:9ab6:a5d9",
+          "comment": "podbijam",
+          "date": "09-02-2021 10:48:36"
+        },
+        {
+          "author": "mykhi",
+          "comment": "zaznaczam",
+          "date": "09-02-2021 20:26:01"
+        }
+      ],
       "answers": [
         {
           "answer": "Don't Repeat Yourself",
@@ -1322,7 +1338,7 @@
         },
         {
           "answer": "Model View Controller",
-          "correct": false
+          "correct": true
         },
         {
           "answer": "Lokalności odwołań",
@@ -2231,7 +2247,18 @@
     {
       "question": "Do technologii dynamicznych stron WWW nie zaliczamy:",
       "id": 3397,
-      "comments": null,
+      "comments": [
+        {
+          "author": "~Frugo@2a02:a319:4044:6500:ed1d:352b:7eb0:ca15",
+          "comment": "Odp: Apletów Javy",
+          "date": "09-02-2021 04:09:14"
+        },
+        {
+          "author": "mykhi",
+          "comment": "zaznaczam",
+          "date": "09-02-2021 09:42:26"
+        }
+      ],
       "answers": [
         {
           "answer": "PHP",
@@ -2243,7 +2270,7 @@
         },
         {
           "answer": "Apletów Javy",
-          "correct": false
+          "correct": true
         },
         {
           "answer": "JSP i JSF",
@@ -2258,7 +2285,7 @@
       "answers": [
         {
           "answer": "W plikach zewnętrznych oraz wewnątrz elementu head lub body dokumentu HTML",
-          "correct": false
+          "correct": true
         },
         {
           "answer": "Tylko w plikach zewnętrznych względem dokumentu HTML - by nie naruszyć reguł poprawności składniowych HTML",
@@ -2310,6 +2337,16 @@
           "author": "~ja@31.178.*.*",
           "comment": "Poprawna odpowiedź: [Elementy p występujące bezpośrednio po elementach h1]",
           "date": "09-02-2021 00:41:21"
+        },
+        {
+          "author": "mykhi",
+          "comment": "zaznaczam",
+          "date": "09-02-2021 09:43:48"
+        },
+        {
+          "author": "~ty@2a02:a311:403b:5100:2850:a244:9ab6:a5d9",
+          "comment": "nie zaznaczone jeszcze",
+          "date": "09-02-2021 10:44:04"
         }
       ],
       "answers": [
@@ -2323,14 +2360,999 @@
         },
         {
           "answer": "Elementy p występujące bezpośrednio po elementach h1",
-          "correct": false
+          "correct": true
         },
         {
           "answer": "Elementy h1 mające klasę o nazwie p",
           "correct": false
         }
       ]
+    },
+    {
+      "question": "<span>XML oraz SGML nazywamy meta-językami, gdyż:</span>",
+      "id": 3401,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span>Stosują znaczniki</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>Służą wyłącznie zapisowi metadanych</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>Każdy dokument musi mieć obowiązkowo wyspecyfikowany schemat, stanowiący jego metadane</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>Dostarczają rozwiązań dla zdefiniowania dowolnych nowych języków dziedzinowych</span>",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "<span>Treść ciasteczka jest przekazywana pomiędzy serwerem a przeglądarką:</span>",
+      "id": 3402,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span>jako ciało komunikatu o metodzie POST</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>poza protokołem HTTP</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>jako jeden z nagłówków HTTP</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>wewnątrz części nagłówkowej dokumentu HTML</span>",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "<span>Wskaż wadę tradycyjnych technologii tzw. \"rozproszonych obiektów\":</span>",
+      "id": 3403,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span>Brak środków dla definiowania abstrakcyjnych interfejsów</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>Brak usług dla wyszukiwania dostępnych obiektów</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>Niemożność współpracy z programami napisanymi w innych językach programowania</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>Specyficzny dla danej technologii, binarny protokół komunikacyjny</span>",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "<span>Która z poniższych&nbsp;</span><span>nie jest</span><span>&nbsp;technologią działającą po stronie serwera:</span>",
+      "id": 3404,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span>NodeJS</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>BackboneJS</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>Mongo</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>ExpressJS</span>",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "<span>Dokumenty w XHTML w porównaniu z dokumentami HTML cechuje:</span>",
+      "id": 3405,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span>Zastąpienie arkuszy stylów CSS arkuszami XSL-FO</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>Mniej zdyscyplinowana składnia</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>Możliwość przetwarzania przez języki dla XML (np. XSLT, XQuery)</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>Brak wsparcia dla tworzenia tabel (elementy table)</span>",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Pokazany niżej element XML \"wzórPodpisu\" określimy jako element:<p></p>\n<p>&lt;klient&gt;</p>\n<p>&lt;nazwisko&gt;Jan Kowalski&lt;/nazwisko&gt;</p>\n<p>&lt;wzórPodpisu plik=\"jk3434.jpg\" /&gt;</p>\n<p>&lt;/klient&gt;</p>\n<p>&nbsp;\n          </p>",
+      "id": 3406,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "pusty",
+          "correct": true
+        },
+        {
+          "answer": "o zawartości mieszanej",
+          "correct": false
+        },
+        {
+          "answer": "niepoprawny składniowo",
+          "correct": false
+        },
+        {
+          "answer": "o zawartości znakowej",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Ciasteczka (cookies) umożliwiają skryptom:",
+      "id": 3407,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "prześledzenie aktywności użytkownika w innych serwisach",
+          "correct": false
+        },
+        {
+          "answer": "odczytanie bez ingerencji użytkownika jego adresu e-mail i loginu w systemie operacyjnym",
+          "correct": false
+        },
+        {
+          "answer": "instalację kodu uruchamianego przy starcie przeglądarki",
+          "correct": false
+        },
+        {
+          "answer": "zapis informacji w po stronie przeglądarki i jej odczyt",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Poniższy dokument XML jest:",
+      "id": 3408,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "Niepoprawny",
+          "correct": false
+        },
+        {
+          "answer": "Poprawny składniowo i strukturalnie",
+          "correct": false
+        },
+        {
+          "answer": "Poprawny strukturalnie (valid)",
+          "correct": false
+        },
+        {
+          "answer": "Poprawny składniowo (well formed)",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "By zrealizować ochronę dostępu do stron WWW za pomocą loginu i hasła potrzeba:",
+      "id": 3409,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "Wystarczy odpowiednio skonfigurowany serwer statycznych stron WWW",
+          "correct": true
+        },
+        {
+          "answer": "Niezbędna jest obsługa cookies po stronie serwera",
+          "correct": false
+        },
+        {
+          "answer": "Zapewnić, że przeglądarka klienta obsługuje skrypty oraz cookies",
+          "correct": false
+        },
+        {
+          "answer": "Instalacji na serwerze WWW którejś z technologii dynamicznych stron WWW",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Interfejs DOM <strong>nie pozwala</strong> skryptom JavaScript na:",
+      "id": 3410,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "przeszukiwanie dokumentów HTML zgromadzonych w katalogu domowym użytkownika",
+          "correct": true
+        },
+        {
+          "answer": "modyfikacje stylów CSS przypisanych do elementu",
+          "correct": false
+        },
+        {
+          "answer": "usuwanie istniejących elementów w dokumencie HTML",
+          "correct": false
+        },
+        {
+          "answer": "tworzenie nowych węzłów dokumentu",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "<span>Technologii dynamicznych stron WWW nie charakteryzuje:</span>",
+      "id": 3411,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span>możliwość przeniesienia większości obliczeń na stronę klienta</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>możliwość generowania dokumentów na żądanie</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>możliwość budowy aplikacji opartych na bazach danych</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>możliwość ograniczania dostępu klientom w oparciu o ich adres IP</span>",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Dostęp do cookie może uzyskać strona:",
+      "id": 3412,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "strona z tej samej domeny, o ile definicja danego cookie na to zezwoliła",
+          "correct": true
+        },
+        {
+          "answer": "wyłącznie ta, z której cookie zostało założone",
+          "correct": false
+        },
+        {
+          "answer": "dowolna, o ile autor skryptu będzie znał nazwę zapisanego cookie",
+          "correct": false
+        },
+        {
+          "answer": "każda strona z tej samej domeny, z której założono cookie",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "System DNS stanowi:",
+      "id": 3413,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "bazę danych rozproszoną hierarchicznie na dowolnym szczeblu nazw",
+          "correct": true
+        },
+        {
+          "answer": "scentralizowaną bazę danych",
+          "correct": false
+        },
+        {
+          "answer": "bazę danych rozproszoną w oparciu o segmenty adresu IP",
+          "correct": false
+        },
+        {
+          "answer": "scentralizowaną bazę z pewną liczbą zapasowych replik",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wyrażenia ścieżkowe XPath&nbsp;<strong><span>nie</span></strong>&nbsp;służą w XSLT:",
+      "id": 3414,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "Określaniu wzorca, do którego dopasowywany jest szablon",
+          "correct": false
+        },
+        {
+          "answer": "Wskazywaniu zawartości, która ma zostać umieszczona w dokumencie wynikowym",
+          "correct": false
+        },
+        {
+          "answer": "Wskazywaniu lokalizacji pliku z dokumentem wejściowym",
+          "correct": true
+        },
+        {
+          "answer": "Wskazywaniu miejsca, w którym należy uruchomić szablony",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "EJS (Embedded JavaScript) jest technologią:",
+      "id": 3415,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "stosowaną w programowaniu mikrokontrolerów dla urządzeń mobilnych",
+          "correct": false
+        },
+        {
+          "answer": "serwerową, dedykowaną dla definicji modeli",
+          "correct": false
+        },
+        {
+          "answer": "serwerową, dedykowaną dla definicji widoków",
+          "correct": true
+        },
+        {
+          "answer": "kliencką (przeglądarkową) służącą tworzeniu szablonów",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Która z poniższych&nbsp;<span><strong>nie jest</strong></span> technologią działającą po stronie serwera",
+      "id": 3416,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "Mongo",
+          "correct": false
+        },
+        {
+          "answer": "ExpressJS",
+          "correct": false
+        },
+        {
+          "answer": "AngularJS",
+          "correct": true
+        },
+        {
+          "answer": "NodeJS",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Technologię aktywnych stron WWW charakteryzuje:",
+      "id": 3417,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "możliwość zaimplementowania specyficznych kontrolek interfejsu użytkownika",
+          "correct": true
+        },
+        {
+          "answer": "możliwość autentykacji użytkownika przez formularz WWW",
+          "correct": false
+        },
+        {
+          "answer": "możliwość budowy aplikacji opartych na serwerowej bazie danych&nbsp;",
+          "correct": false
+        },
+        {
+          "answer": "brak dostępu do mechanizmu cookies",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Pokazany obok element XML <em>zamowienie&nbsp;</em>jest:<p></p>\n<p>&lt;zamowienie idZam=\"xyz1234\" /&gt;\n          </p>",
+      "id": 3418,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "Elementem o zawartości elementowej",
+          "correct": false
+        },
+        {
+          "answer": "Elementem o zawartości mieszanej",
+          "correct": false
+        },
+        {
+          "answer": "Elementem pustym",
+          "correct": true
+        },
+        {
+          "answer": "Poprawnym strukturalnie (valid)",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Pokazany niżej element XML \"wzórPodpisu\" określimy jako element:<br>&lt;klient&gt;<br>&lt;nazwisko&gt;Jan Kowalski&lt;/nazwisko&gt;<br>&lt;wzórPodpisu plik=\"ad31241.jpg\" /&gt;<br>&lt;/klient&gt;",
+      "id": 3419,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "niepoprawny składniowo",
+          "correct": false
+        },
+        {
+          "answer": "o zawartości znakowej",
+          "correct": false
+        },
+        {
+          "answer": "o zawartości mieszanej",
+          "correct": false
+        },
+        {
+          "answer": "pusty",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Do tworzenia serwisów adresowanych do szerokiego grona odbiorców, z racji kompatybilności i ekonomiki aktualizacji najbardziej wskazany jest model:",
+      "id": 3420,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "\"klient-broker-serwer\"",
+          "correct": false
+        },
+        {
+          "answer": "\"grubego klienta\"",
+          "correct": false
+        },
+        {
+          "answer": "\"dostawy WWW\"",
+          "correct": false
+        },
+        {
+          "answer": "\"cienkiego klienta\"",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Dla skryptu JS działającego w przeglądarce obiekt-korzeń reprezentujący dostępne środowisko znajdziemy pod nazwą:",
+      "id": 3421,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "document",
+          "correct": false
+        },
+        {
+          "answer": "env",
+          "correct": false
+        },
+        {
+          "answer": "window",
+          "correct": true
+        },
+        {
+          "answer": "console",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Klasyczne wyrażenie funkcyjne JS różni od składni 'arrow function' ( ()=&gt;{} ):",
+      "id": 3422,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "możliwość deklarowania tylko w ramach definicji class",
+          "correct": false
+        },
+        {
+          "answer": "sposób wiązania właściwości this",
+          "correct": true
+        },
+        {
+          "answer": "konieczność translacji tych drugich po stronie serwera (nie są częścią specyfikacji języka JS)",
+          "correct": false
+        },
+        {
+          "answer": "Wyłącznie składnia",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "MongoDB zaliczamy do systemów baz danych:",
+      "id": 3423,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "opartych na modelu relacyjnym",
+          "correct": false
+        },
+        {
+          "answer": "opartych na modelu dokumentowym",
+          "correct": true
+        },
+        {
+          "answer": "opartych na modelu grafowym",
+          "correct": false
+        },
+        {
+          "answer": "zaprojektowanych do działania po stronie przeglądarki",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Która z poniższych <strong>nie jest</strong> technologią działającą po stronie serwera:",
+      "id": 3424,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "NodeJS",
+          "correct": false
+        },
+        {
+          "answer": "Mongo",
+          "correct": false
+        },
+        {
+          "answer": "ExpressJS",
+          "correct": false
+        },
+        {
+          "answer": "BackboneJS",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Przekształcenie XSLT wymaga, aby poprawnym składniowo XML był dokument:",
+      "id": 3425,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "Wejściowy",
+          "correct": true
+        },
+        {
+          "answer": "Wyjściowy",
+          "correct": false
+        },
+        {
+          "answer": "Wejściowy i wyjściowy",
+          "correct": false
+        },
+        {
+          "answer": "Żaden z nich nie musi być w postaci XML",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Selektor CSS sformułowany jako ul, ol selekcjonuje elementy[y]",
+      "id": 3426,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "&lt;ol&gt;&lt;/ol&gt; oraz &lt;ul&gt;&lt;/ul&gt;",
+          "correct": true
+        },
+        {
+          "answer": "&lt;ol&gt;_&lt;/ol&gt; zawarte wewnątrz elementu &lt;ul&gt;_&lt;/ul&gt;",
+          "correct": false
+        },
+        {
+          "answer": "&lt;ul class=\"ol\"&gt;_&lt;/ul&gt;&nbsp; &nbsp;&lt;ul class=\"ol\"&gt;_&lt;/ul&gt;",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Atrybut pełniący rolę unikalnego identyfikatora możemy w DTD zadeklarować",
+      "id": 3427,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "DTD nie umożliwia wymuszenia takiej integralności",
+          "correct": false
+        },
+        {
+          "answer": "typem IDREF",
+          "correct": false
+        },
+        {
+          "answer": "typem ID",
+          "correct": true
+        },
+        {
+          "answer": "typem PrimaryKey",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Dla określenia identyfikatora sesji przy współdziałaniu z serwisem WWW nie stosuje się:",
+      "id": 3428,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "Numeru IP klienta formułującego żądanie",
+          "correct": true
+        },
+        {
+          "answer": "Przekazywania pomiędzy stronami wartości w polu ukrytym formularza",
+          "correct": false
+        },
+        {
+          "answer": "Zapisania identyfikatora wewnątrz cookie",
+          "correct": false
+        },
+        {
+          "answer": "Generowania przez stronę parametrów dołączanych do URL podczas nawigacji",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Podtrzymanie stanu interakcji klienta z serwerem w taki sposób, że dane pozostają niedostępne dla skryptów działających po stronie przeglądarki jest cechą mechanizmu:",
+      "id": 3429,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "cookies z opcją HttpOnly",
+          "correct": true
+        },
+        {
+          "answer": "HTML5 Local Storage",
+          "correct": false
+        },
+        {
+          "answer": "HTML5 Session Storage",
+          "correct": false
+        },
+        {
+          "answer": "parametrów przekazywanych w ramach query string",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Która z metod komunikatu występuje w protokole HTTP?",
+      "id": 3430,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "POST",
+          "correct": true
+        },
+        {
+          "answer": "BODY",
+          "correct": false
+        },
+        {
+          "answer": "PING",
+          "correct": false
+        },
+        {
+          "answer": "ENCRYPT",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "System WWW charakteryzuje:",
+      "id": 3431,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "bezpołączeniowy model odwołań",
+          "correct": true
+        },
+        {
+          "answer": "zasada lokalności odwołań",
+          "correct": false
+        },
+        {
+          "answer": "zasada czasowej lokalności odwołań",
+          "correct": false
+        },
+        {
+          "answer": "przesyłanie komunikatów przy użyciu protokołu UDP",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Poniższy dokument XML jest:<p></p>\n<p><img src=\"data:image/png;base64,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\" alt=\"\">\n          </p>",
+      "id": 3432,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "Niepoprawny",
+          "correct": false
+        },
+        {
+          "answer": "Poprawny składniowo i strukturalnie",
+          "correct": false
+        },
+        {
+          "answer": "Poprawny, ale tylko strukturalnie (valid)",
+          "correct": false
+        },
+        {
+          "answer": "Poprawny, ale tylko składniowo (well formed)",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Tzw. \"3-way handshake\" występuje w protokole:",
+      "id": 3433,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "UDP",
+          "correct": false
+        },
+        {
+          "answer": "Ethernet",
+          "correct": false
+        },
+        {
+          "answer": "TCP",
+          "correct": true
+        },
+        {
+          "answer": "IP",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Dla określenia identyfikatora sesji przy współdziałaniu z serwisem WWW nie stosuje się:",
+      "id": 3434,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "Numeru IP klienta formułującego żądanie",
+          "correct": true
+        },
+        {
+          "answer": "Generowania przez stronę parametrów dołączanych do URL podczas nawigacji",
+          "correct": false
+        },
+        {
+          "answer": "Przekazywania pomiędzy stronami wartości w polu ukrytym formularza",
+          "correct": false
+        },
+        {
+          "answer": "Zapisania identyfikatora wewnątrz cookie",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Pojęcie domknięcia (closure) w języku JavaScript wiąże się z",
+      "id": 3435,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "niemożnością dodawania nowych atrybutów po utworzeniu obiektu instrukcją new",
+          "correct": false
+        },
+        {
+          "answer": "domyślnym traktowaniem atrybutów obiektu jako prywatnych",
+          "correct": false
+        },
+        {
+          "answer": "ograniczeniem środowiska działania skryptu do bieżącego okna przeglądarki",
+          "correct": false
+        },
+        {
+          "answer": "stosowaniem funkcji jako pełnoprawnego typu stosowanego do zmiennych, atrybutów oraz parametrów",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Przekształcenie XSLT wymaga, aby poprawnym składniowo XML był dokument:",
+      "id": 3436,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "Wejściowy",
+          "correct": true
+        },
+        {
+          "answer": "Wyjściowy",
+          "correct": false
+        },
+        {
+          "answer": "Żaden z nich nie musi być w postaci XML",
+          "correct": false
+        },
+        {
+          "answer": "Wejściowy i wyjściowy",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Który z poniższych zestawów słów kluczowych wchodzi w skład najświeższych wersji ECMAScript?",
+      "id": 3437,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "class, interface, init, const",
+          "correct": false
+        },
+        {
+          "answer": "class, constructor, super",
+          "correct": true
+        },
+        {
+          "answer": "interface, port, let, invariant",
+          "correct": false
+        },
+        {
+          "answer": "class, inherits, variable",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Aplety:",
+      "id": 3438,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "dysponują uprawnieniami identycznymi jak skrypty JavaScript",
+          "correct": false
+        },
+        {
+          "answer": "mają interfejs ograniczony repertuarem standardowych kontrolek HTML",
+          "correct": false
+        },
+        {
+          "answer": "muszą być podpisane cyfrowym certyfikatem",
+          "correct": false
+        },
+        {
+          "answer": "pozwalają skonstruować interfejs użytkownika wykraczający poza kontrolki HTML",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Numery portów są przekazywane w ramach:",
+      "id": 3439,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "protokołu aplikacyjnego",
+          "correct": true
+        },
+        {
+          "answer": "protokołu warstwy sprzętowej",
+          "correct": false
+        },
+        {
+          "answer": "protokołu transportowego",
+          "correct": false
+        },
+        {
+          "answer": "protokołu warstwy sieciowej",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Architektura SOA zakłada współdziałanie elementów:",
+      "id": 3440,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "interpreter JavaScript, serwer WWW, silnik serwletów",
+          "correct": false
+        },
+        {
+          "answer": "apletu, strony JSP i serwletu",
+          "correct": false
+        },
+        {
+          "answer": "brokera usług, konsumenta usług, dostawcy usług",
+          "correct": true
+        },
+        {
+          "answer": "przeglądarka, serwer aplikacji, serwer baz danych",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Instrukcja JSON.parse(JSON.stringify(obiekt)) w JavaScript umożliwia",
+      "id": 3441,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "Zaszyfrowanie i utrwalenie zawartości obiektu w pamięci po stronie przeglądarki",
+          "correct": false
+        },
+        {
+          "answer": "sklonowanie obiektu",
+          "correct": true
+        },
+        {
+          "answer": "Odebranie na serwerze żądania HTTP a następnie natychmiastowe odesłanie odpowiedzi w identycznej treści",
+          "correct": false
+        },
+        {
+          "answer": "Zapisanie kompletu atrybutów obiektu w bazie MongoDB",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Źródłem zagrożenia typu SQL Injection jest przede wszystkim (zaznacz najwłaściwsze):",
+      "id": 3442,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "łatwe do odgadnięcia hasło do bazy danych",
+          "correct": false
+        },
+        {
+          "answer": "wadliwa implementacja strony logowania",
+          "correct": false
+        },
+        {
+          "answer": "luka bezpieczeństwa w implementacji serwera WWW",
+          "correct": false
+        },
+        {
+          "answer": "nieskuteczne filtrowanie danych wejściowych przez funkcjonalność aplikacji WWW",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Podane wyrazenie XPath /osoby/osoba[@wiek&lt;60]/nazwisko zawiera:",
+      "id": 3443,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "3 predykaty",
+          "correct": false
+        },
+        {
+          "answer": "4 kroki",
+          "correct": false
+        },
+        {
+          "answer": "1 predykat",
+          "correct": true
+        },
+        {
+          "answer": "odwołanie do instrukcji przetwarzania \"wiek\"",
+          "correct": false
+        }
+      ]
     }
   ],
-  "updatedAt": 1612836009806
+  "updatedAt": 1612922410596
 }

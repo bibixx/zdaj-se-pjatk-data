@@ -6287,6 +6287,11 @@
           "author": "~anon@2a01:110f:1505:3600:c04a:e9e2:388d:f230",
           "comment": "Jeżeli dla danych rozmiaru n wykonuje się logn to dla wszystkich danych mniejszych/równych będzie się wykonywał w tym czasie \n\nJak dasz dane rozmiaru np. n! to czas wyniesie log(n!) czyli nlogn \n\nnlogn > logn czyli wykonuje się \"dłużej\" \n\nto jest po prostu na logikę i trochę przekształceń",
           "date": "09-02-2020 12:31:05"
+        },
+        {
+          "author": "~anon@2a02:a310:e13c:2b00:74cb:1215:8293:46af",
+          "comment": "ej właśnie, bo n^2 jest poprawne xd\n\npotwierdzone z egzaminu z PCH xd",
+          "date": "09-02-2021 20:58:58"
         }
       ],
       "answers": [
@@ -6411,6 +6416,16 @@
           "author": "~pch@77.252.*.*",
           "comment": "co się odpier",
           "date": "05-02-2021 18:28:00"
+        },
+        {
+          "author": "~anon@2a02:a310:e13c:2b00:74cb:1215:8293:46af",
+          "comment": "cytując PCH: \"t równe 3, to znaczy że te węzły będą co najmniej miały... yy, co najmniej miały dwa, a co najwyżej pięć elementów\"\n\nczyli dla t=5 to co najmniej 4 a co najwyżej 9 elementów",
+          "date": "09-02-2021 19:51:32"
+        },
+        {
+          "author": "~kurwa@2a02:a317:2244:2b00:1ac:f58a:bd91:3015",
+          "comment": "no sorry, ale pch to cos sie zajebal z tym",
+          "date": "09-02-2021 23:00:12"
         }
       ],
       "answers": [
@@ -6673,5 +6688,5 @@
       ]
     }
   ],
-  "updatedAt": 1612836009806
+  "updatedAt": 1612922410596
 }

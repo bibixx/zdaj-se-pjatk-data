@@ -3907,7 +3907,30 @@
           "correct": false
         }
       ]
+    },
+    {
+      "question": "Które z poniższych elementów powinno zawierać minimalne user story w Scrum",
+      "id": 3444,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<p>wskazanie uzytkownika,opis funkcjonalnosci</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": true
+        },
+        {
+          "answer": "wskazanie uzytkownika,opis funkcjonalnosci,wartość biznesowa",
+          "correct": false
+        },
+        {
+          "answer": "<p>wskazanie uzytkownika,wartość biznesowa</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": false
+        },
+        {
+          "answer": "wskazanie uzytkownika,opis funkcjonalnosci,oszacowanie rozmiaru",
+          "correct": false
+        }
+      ]
     }
   ],
-  "updatedAt": 1612836009806
+  "updatedAt": 1612922410596
 }

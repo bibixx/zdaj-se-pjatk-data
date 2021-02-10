@@ -277,7 +277,18 @@
     {
       "question": "Jaka jest wartość wyrażenia Null=Null:",
       "id": 328,
-      "comments": null,
+      "comments": [
+        {
+          "author": "~krzehan@188.146.*.*",
+          "comment": "NULL jest nieokreślone, NULL=NULL zwraca NULL które jest zarówno NULLem jak i jest nieokreślone",
+          "date": "08-02-2020 00:48:45"
+        },
+        {
+          "author": "~anon@185.153.*.*",
+          "comment": "Poprawna odpowiedź to NULL. Każda operacja porównania, arytmetyczna, konkatenacja, w której jednym z operandów jest NULL daje w wyniku NULL. (wykład 3, slajd 38)",
+          "date": "09-02-2021 21:54:23"
+        }
+      ],
       "answers": [
         {
           "answer": "jest nieokreślone",
@@ -5747,5 +5758,5 @@
       ]
     }
   ],
-  "updatedAt": 1612836009806
+  "updatedAt": 1612922410596
 }
