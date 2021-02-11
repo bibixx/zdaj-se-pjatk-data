@@ -386,7 +386,18 @@
     {
       "question": "Rozważmy tablicę <img src=\"https://pja.mykhi.org/generatory2.0/grafika/1265729278891.gif\" border=\"0\\\"> reprezentującą <img src=\"https://pja.mykhi.org/generatory2.0/grafika/1265729278923.gif\" border=\"0\\\"> -elementowy ciąg różnych liczb naturalnych: <img src=\"https://pja.mykhi.org/generatory2.0/grafika/1265729278938.gif\" border=\"0\\\"> . Do posortowania owej tablicy stosujemy algorytm InsertionSort. Które z poniższych zdań jest prawdziwe? Uwaga! Przy zliczaniu przestawień elementów bierzemy pod uwagę jedynie transpozycje między różnymi indeksami tablicy <img src=\"https://pja.mykhi.org/generatory2.0/grafika/1265729279063.gif\" border=\"0\\\"> .",
       "id": 1676,
-      "comments": null,
+      "comments": [
+        {
+          "author": "~anon@89.74.*.*",
+          "comment": "Po 4 iteracji : 6 porownan. Po 6 iteracji: 9 :>",
+          "date": "05-02-2021 23:51:30"
+        },
+        {
+          "author": "~anon@89.77.*.*",
+          "comment": "Po 6 iteracji 14 porównań",
+          "date": "10-02-2021 11:51:08"
+        }
+      ],
       "answers": [
         {
           "answer": "Wykonanie pierwszych <img src=\"https://pja.mykhi.org/generatory2.0/grafika/1265729279516.gif\" border=\"0\\\"> iteracji pętli zewnętrznej algorytmu wymaga wykonania o co najwyżej <img src=\"https://pja.mykhi.org/generatory2.0/grafika/1265729279563.gif\" border=\"0\\\"> przestawień elementów tablicy <img src=\"https://pja.mykhi.org/generatory2.0/grafika/1265729279673.gif\" border=\"0\\\"> mniej niż w przypadku wykonania pierwszych <img src=\"https://pja.mykhi.org/generatory2.0/grafika/1265729279720.gif\" border=\"0\\\"> iteracji rozważanego algorytmu",
@@ -851,7 +862,23 @@
     {
       "question": "Rozważmy kopiec binarny <img src=\"https://pja.mykhi.org/generatory2.0/grafika/1265733633938.gif\" border=\"0\\\"> typu min zaimplementowany w drzewie binarnym. Kopiec <img src=\"https://pja.mykhi.org/generatory2.0/grafika/1265733633954.gif\" border=\"0\\\"> konstruujemy z elementów ciągu <img src=\"https://pja.mykhi.org/generatory2.0/grafika/1265733633970.gif\" border=\"0\\\"> stosując szybki algorytm budowy kopca HeapConstruct. Następnie w kopcu <img src=\"https://pja.mykhi.org/generatory2.0/grafika/1265733633985.gif\" border=\"0\\\"> wykonujem <img src=\"https://pja.mykhi.org/generatory2.0/grafika/1265733634001.gif\" border=\"0\\\"> -krotnie operaję DELMIN. Które z poniższych zdań jest prawdziwe?",
       "id": 1655,
-      "comments": null,
+      "comments": [
+        {
+          "author": "~Zbowit@79.191.*.*",
+          "comment": "InOrder, który jest nieposortowany jest poprawny? Proszę o zmianę na odpowiedź niepoprawną bo to jakiś absurd.",
+          "date": "10-02-2021 10:02:22"
+        },
+        {
+          "author": "~pch@91.238.*.*",
+          "comment": "HE HE. Oj chyba nie zda Pan tego egzaminu...",
+          "date": "10-02-2021 14:08:00"
+        },
+        {
+          "author": "~anon@94.172.*.*",
+          "comment": "inorder daje posortowany ciag w drzewach BST, nie w kopcach",
+          "date": "10-02-2021 17:17:38"
+        }
+      ],
       "answers": [
         {
           "answer": "Etykiety wierzchołków drzewa-kopca <img src=\"https://pja.mykhi.org/generatory2.0/grafika/1265733634048.gif\" border=\"0\\\"> wypisane w kolejności InOrder tworzą ciąg: <img src=\"https://pja.mykhi.org/generatory2.0/grafika/1265733634063.gif\" border=\"0\\\">",
@@ -2783,6 +2810,11 @@
           "author": "~KeiserWilhelm@5.184.*.*",
           "comment": "Zebym ja ci leszczu nowej granicy polsko Pruskiej nie narysował",
           "date": "04-02-2019 23:23:28"
+        },
+        {
+          "author": "~xD@91.205.*.*",
+          "comment": "xD",
+          "date": "11-02-2021 02:17:12"
         }
       ],
       "answers": [
@@ -4904,7 +4936,18 @@
     {
       "question": "Rozważmy kopiec binarny <img src=\"https://pja.mykhi.org/generatory2.0/grafika/1265736168188.gif\" border=\"0\\\"> typu min zaimplementowany w drzewie binarnym. Kopiec <img src=\"https://pja.mykhi.org/generatory2.0/grafika/1265736168204.gif\" border=\"0\\\"> konstruujemy z elementów ciągu <img src=\"https://pja.mykhi.org/generatory2.0/grafika/1265736168220.gif\" border=\"0\\\"> stosując szybki algorytm budowy kopca HeapConstruct. Następnie w kopcu <img src=\"https://pja.mykhi.org/generatory2.0/grafika/1265736168235.gif\" border=\"0\\\"> wykonujem <img src=\"https://pja.mykhi.org/generatory2.0/grafika/1265736168251.gif\" border=\"0\\\"> -krotnie operaję DELMIN. Które z poniższych zdań jest prawdziwe?",
       "id": 1551,
-      "comments": null,
+      "comments": [
+        {
+          "author": "~anon@2a02:a310:e13c:2b00:74cb:1215:8293:46af",
+          "comment": "żadna nie jest prawidłowa.\n\nfaktyczna kolejność preorder: 6,8,11,13,10,15,12\nfaktyczna kolejność inorder: 11,8,13,6,15,10,12",
+          "date": "09-02-2021 22:08:05"
+        },
+        {
+          "author": "~a@83.3.*.*",
+          "comment": "^",
+          "date": "10-02-2021 17:41:04"
+        }
+      ],
       "answers": [
         {
           "answer": "Etykiety wierzchołków drzewa-kopca <img src=\"https://pja.mykhi.org/generatory2.0/grafika/1265736168329.gif\" border=\"0\\\"> wypisane w kolejności InOrder tworzą ciąg: <img src=\"https://pja.mykhi.org/generatory2.0/grafika/1265736168345.gif\" border=\"0\\\">",
@@ -6274,16 +6317,6 @@
           "date": "08-02-2020 23:47:46"
         },
         {
-          "author": "~anon@83.31.*.*",
-          "comment": "A jak to się w ogóle rozwiazuje? Są gdzieś przykłady na to?",
-          "date": "08-02-2020 23:48:08"
-        },
-        {
-          "author": "~anon@83.31.*.*",
-          "comment": "A jak to się w ogóle rozwiazuje? Są gdzieś przykłady na to?",
-          "date": "08-02-2020 23:48:15"
-        },
-        {
           "author": "~anon@2a01:110f:1505:3600:c04a:e9e2:388d:f230",
           "comment": "Jeżeli dla danych rozmiaru n wykonuje się logn to dla wszystkich danych mniejszych/równych będzie się wykonywał w tym czasie \n\nJak dasz dane rozmiaru np. n! to czas wyniesie log(n!) czyli nlogn \n\nnlogn > logn czyli wykonuje się \"dłużej\" \n\nto jest po prostu na logikę i trochę przekształceń",
           "date": "09-02-2020 12:31:05"
@@ -6426,6 +6459,11 @@
           "author": "~kurwa@2a02:a317:2244:2b00:1ac:f58a:bd91:3015",
           "comment": "no sorry, ale pch to cos sie zajebal z tym",
           "date": "09-02-2021 23:00:12"
+        },
+        {
+          "author": "~anon@2a02:a310:e13c:2b00:74cb:1215:8293:46af",
+          "comment": "tiaa... a tutaj ktoś zajebał się z odpowiedziami.\n\ndla t=5 to B-drzewo o wysokości 2 mamy 13 węzłów, które nie jest co najmniej pięcioma.\n\nco najwyżej 1000 elementów... no, jest to głupie ale to ma sens. tyle że według klucza to nie jest poprawne xd\n\nale! te 49 elementów mieści się w jeszcze jednym ograniczeniu.\n\"co najmniej 25\". i TO jest poprawną odpowiedzią.",
+          "date": "10-02-2021 14:28:12"
         }
       ],
       "answers": [
@@ -6688,5 +6726,5 @@
       ]
     }
   ],
-  "updatedAt": 1612922410596
+  "updatedAt": 1613008809350
 }

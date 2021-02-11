@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1612922410596,
+  "updatedAt": 1613008809350,
   "pages": [
     {
       "title": "Administrowanie bazami danych (ABD)",
@@ -88,6 +88,10 @@
     {
       "title": "Sieci Komputerowe 2 - edu - 2011 ZIMA (SKO2)",
       "id": "sko2"
+    },
+    {
+      "title": "Systemy Baz Danych (SBD)",
+      "id": "sbd"
     },
     {
       "title": "Systemy Baz Danych zima 2015 (SBD2015)",

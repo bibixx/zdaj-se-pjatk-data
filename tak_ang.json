@@ -1280,6 +1280,11 @@
           "author": "~LosPapajos@77.253.*.*",
           "comment": "All answers are correct, The mantissa are the 4 digits, and the exponent is the 3 digit part",
           "date": "02-02-2020 22:45:13"
+        },
+        {
+          "author": "~anon@188.217.*.*",
+          "comment": "yes i agree all of them are correct\n",
+          "date": "10-02-2021 17:25:45"
         }
       ],
       "answers": [
@@ -4636,5 +4641,5 @@
       ]
     }
   ],
-  "updatedAt": 1612922410596
+  "updatedAt": 1613008809350
 }

@@ -3352,7 +3352,122 @@
           "correct": false
         }
       ]
+    },
+    {
+      "question": "Projekt języka XHTML jako następcy HTML nie był podyktowany",
+      "id": 3445,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<p><span>Zwiększeniem łatwości tworzenia stron WWW w tym języku</span></p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": true
+        },
+        {
+          "answer": "<p><span>Możliwością osadzania w stronach kodu w innych językach z rodziny XML</span></p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": false
+        },
+        {
+          "answer": "<p><span>Minimalizacją zapotrzebowania na użycie języka skryptowego po stronie przeglądarki</span></p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": false
+        },
+        {
+          "answer": "<p><span>Efektywnością przetwarzania</span></p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "<p><span>W przeciwieństwie do XML Schema, specyfikacja DTD nie pozwala zadeklarować</span></p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+      "id": 3446,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<p><span>encji zewnętrznych</span></p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": false
+        },
+        {
+          "answer": "<p><span>unikalności zawartości danego elementu w ramach dokumentu</span></p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": true
+        },
+        {
+          "answer": "<p><span>unikalności danego atrybutu w ramach dokumentu</span></p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": false
+        },
+        {
+          "answer": "<span>wyliczeniowej wartości dla atrybutu (np. {\"czerwone\", \"zielone\", \"żółte\"})</span>",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "<p><span>W technologiach dokumentów dynamicznych, przechowywaniu informacji związanych ze współpracującym użytkownikiem służą zmienne</span></p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+      "id": 3447,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<p><span>Aplikacji</span></p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": false
+        },
+        {
+          "answer": "<p><span>Sesyjne</span></p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": true
+        },
+        {
+          "answer": "<p><span>Globalne</span></p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": false
+        },
+        {
+          "answer": "<p><span>Lokalne</span></p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "<p><span>Który z komunikatów nie występuje w protokole HTTP</span></p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+      "id": 3448,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<p><span>BODY</span></p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": true
+        },
+        {
+          "answer": "<p><span>HEAD</span></p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": false
+        },
+        {
+          "answer": "<p><span>GET</span></p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": false
+        },
+        {
+          "answer": "<p><span>POST</span></p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "<p><span>Poniższy dokument XML jest</span></p>\n<p><img src=\"data:image/png;base64,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\" alt=\"\"></p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+      "id": 3449,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<p><span>Poprawny, ale tylko składniowo (well formed)</span></p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": false
+        },
+        {
+          "answer": "<p><span>Niepoprawny</span></p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": false
+        },
+        {
+          "answer": "<p><span>Poprawny, ale tylko strukturalnie (valid)</span></p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": false
+        },
+        {
+          "answer": "<p><span>Poprawny składniowo a być może też strukturalnie</span></p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": true
+        }
+      ]
     }
   ],
-  "updatedAt": 1612922410596
+  "updatedAt": 1613008809350
 }

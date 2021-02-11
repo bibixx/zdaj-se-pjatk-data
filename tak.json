@@ -5862,7 +5862,18 @@
     {
       "question": "Programy komputerowe",
       "id": 2616,
-      "comments": null,
+      "comments": [
+        {
+          "author": "~xd@94.172.*.*",
+          "comment": "A edytowac w dowolnym edytorze nie mozna?",
+          "date": "06-02-2021 22:07:30"
+        },
+        {
+          "author": "~anon@188.217.*.*",
+          "comment": "ja tez tak mysle",
+          "date": "10-02-2021 16:36:33"
+        }
+      ],
       "answers": [
         {
           "answer": "Muszą zawierać krok po kroku kolejno wykonywane instrukcje",
@@ -8397,5 +8408,5 @@
       ]
     }
   ],
-  "updatedAt": 1612922410596
+  "updatedAt": 1613008809350
 }
