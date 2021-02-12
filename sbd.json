@@ -11742,6 +11742,11 @@
           "author": "~anon@46.112.*.*",
           "comment": "Constraints can be specified when the table is created with the CREATE TABLE statement, or after the table is created with the ALTER TABLE statement.\n\nhttps://www.w3schools.com/sql/sql_constraints.asp",
           "date": "07-02-2019 16:06:03"
+        },
+        {
+          "author": "~anon@2a02:a317:2140:b00:81d0:b912:b294:23ec",
+          "comment": "Alter poprawne",
+          "date": "12-02-2021 00:06:53"
         }
       ],
       "answers": [
@@ -12064,5 +12069,5 @@
       ]
     }
   ],
-  "updatedAt": 1613008809350
+  "updatedAt": 1613095210874
 }

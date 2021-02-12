@@ -305,6 +305,11 @@
           "author": "~anon@31.0.*.*",
           "comment": "no correct answer, answer b should be deleted",
           "date": "03-02-2020 20:31:53"
+        },
+        {
+          "author": "~anon@37.54.*.*",
+          "comment": "It is 1/3, no?",
+          "date": "11-02-2021 20:28:22"
         }
       ],
       "answers": [
@@ -1285,6 +1290,11 @@
           "author": "~anon@188.217.*.*",
           "comment": "yes i agree all of them are correct\n",
           "date": "10-02-2021 17:25:45"
+        },
+        {
+          "author": "mykhi",
+          "comment": "marking c as true",
+          "date": "11-02-2021 08:57:21"
         }
       ],
       "answers": [
@@ -1298,7 +1308,7 @@
         },
         {
           "answer": "<span lang=\"EN-US\">an absolute value less than 1 (because it's -1/4)</span>",
-          "correct": false
+          "correct": true
         }
       ]
     },
@@ -4641,5 +4651,5 @@
       ]
     }
   ],
-  "updatedAt": 1613008809350
+  "updatedAt": 1613095210874
 }

@@ -925,6 +925,11 @@
           "author": "~anon@79.184.*.*",
           "comment": "A przypadkiem to nie jest maksymalny czas?",
           "date": "06-02-2021 15:17:41"
+        },
+        {
+          "author": "~anon@79.184.*.*",
+          "comment": "Podbijam że chodzi chyba o maksymalny",
+          "date": "11-02-2021 17:43:13"
         }
       ],
       "answers": [
@@ -3946,6 +3951,11 @@
           "author": "~ja@89.64.*.*",
           "comment": "Skanujemy stronę do pamięci komputera\nOprogramowanie OCR rozpoznaje litery i przekształca obraz w dokument tekstowy. \nDużo trudniejsze jest rozpoznawanie pisma ręcznego(z prezentacji wykladu)Czyli 1 i 3 poprawne.\n",
           "date": "11-02-2019 17:54:33"
+        },
+        {
+          "author": "~anon@178.42.*.*",
+          "comment": "do odręcznego na wiki jest napisane ICR (intelligent character recognition)",
+          "date": "11-02-2021 19:32:38"
         }
       ],
       "answers": [
@@ -6026,6 +6036,11 @@
           "author": "~~anon@88.11@83.24.*.*",
           "comment": "Poprawna to \"tabularyzować wartości wielomianów, które przybliżają znane funkcje\", pozostałe błędne",
           "date": "01-02-2021 15:22:24"
+        },
+        {
+          "author": "~anon@89.76.*.*",
+          "comment": "Różnicową zbudował, nie udało się z analityczną.",
+          "date": "11-02-2021 21:35:07"
         }
       ],
       "answers": [
@@ -7588,7 +7603,23 @@
     {
       "question": "<div class=\"module__title js-about-item-title\"><span class=\"module__title__link\">Jak program AlphaZero pokonał mistrza szachowego G.Kasparova?<br></span></div>",
       "id": 3284,
-      "comments": null,
+      "comments": [
+        {
+          "author": "~lenny@89.76.*.*",
+          "comment": "To chyba DeepBlue, a nie AlphaZero, grał z Kasparovem",
+          "date": "17-01-2021 19:04:23"
+        },
+        {
+          "author": "~anon@79.184.*.*",
+          "comment": "Podbijam, AlphaZero z nikim nie grał\n",
+          "date": "11-02-2021 20:19:26"
+        },
+        {
+          "author": "~anon@89.76.*.*",
+          "comment": "AlphaZero ograł Stockfisha, czyli inny program działający w oparciu o odmienny algorytm. ",
+          "date": "11-02-2021 22:18:21"
+        }
+      ],
       "answers": [
         {
           "answer": "Za pomocą korzystania z ogromnej bazy danych możliwych ruchów.",
@@ -7797,7 +7828,23 @@
     {
       "question": "<p class=\"MsoNormal\">Przerwania lub żądania przerwania</p>\n<p>&nbsp;</p>",
       "id": 3312,
-      "comments": null,
+      "comments": [
+        {
+          "author": "~2137@83.9.*.*",
+          "comment": "b) popranwe",
+          "date": "01-02-2021 20:02:02"
+        },
+        {
+          "author": "~anon@79.184.*.*",
+          "comment": "Wszystkie true imo",
+          "date": "11-02-2021 20:25:01"
+        },
+        {
+          "author": "~lala@2a02:a317:223a:f900:c0e3:b5d4:1c1:39a4",
+          "comment": "is it all true ?",
+          "date": "11-02-2021 21:01:02"
+        }
+      ],
       "answers": [
         {
           "answer": "<span>mają priorytety</span>",
@@ -7835,7 +7882,18 @@
     {
       "question": "<p class=\"MsoNormal\"><span>Algorytm Euklides 3 z wykorzystaniem testu parzystości ma złożoność</span></p>",
       "id": 3314,
-      "comments": null,
+      "comments": [
+        {
+          "author": "~ass@83.24.*.*",
+          "comment": "Trzecie nie będzie poprawne?",
+          "date": "05-02-2021 19:29:07"
+        },
+        {
+          "author": "~kmwtw@2a01:110f:d01:c100:68a3:1b17:2fc4:2493",
+          "comment": "Z jakiejś prezentacji pch z MiMUW: \"Zatem złożoność algorytmu na poziomie operacji na cyfrach jest kwadratowa, czyli w tym przypadku proporcjonalna do kwadratu z logarytmu\"",
+          "date": "11-02-2021 12:47:55"
+        }
+      ],
       "answers": [
         {
           "answer": "<p class=\"MsoNormal\">sześcienną ze względu na rozmiar argumentów</p>",
@@ -8408,5 +8466,5 @@
       ]
     }
   ],
-  "updatedAt": 1613008809350
+  "updatedAt": 1613095210874
 }

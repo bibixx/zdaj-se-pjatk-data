@@ -6724,7 +6724,64 @@
           "correct": false
         }
       ]
+    },
+    {
+      "question": "Które z wymienionych algorytmów sortowania są stabilne?",
+      "id": 3451,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "queuesort",
+          "correct": false
+        },
+        {
+          "answer": "merge sort",
+          "correct": true
+        },
+        {
+          "answer": "radix sort",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "<span>Istnieje drzewo AVL</span>",
+      "id": 3452,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span>o 5 węzłach i 2 liściach</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>o 20 węzłach i 8 liściach</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>o 12 węzłach i wysokości 4</span>",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "<span>Za pomocą kopców zupełnych można</span>",
+      "id": 3453,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span>rozebrać kopiec w czasie liniowo-logarytmicznym</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>zbudować kopiec w czasie liniowym</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>posortować dane w czasie liniowo-logarytmicznym,</span>",
+          "correct": false
+        }
+      ]
     }
   ],
-  "updatedAt": 1613008809350
+  "updatedAt": 1613095210874
 }

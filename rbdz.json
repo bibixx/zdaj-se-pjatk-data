@@ -1730,6 +1730,11 @@
           "author": "~ta@89.72.*.*",
           "comment": "id_aktora i id_scenarzysty są zarówno kluczem głównym jak i kluczem obcym w relacji z tabelą Osoby",
           "date": "06-02-2020 23:08:24"
+        },
+        {
+          "author": "~m@80.238.*.*",
+          "comment": "Nie rozumiem dlaczego \"a\" nie jest poprawne..",
+          "date": "11-02-2021 20:09:54"
         }
       ],
       "answers": [
@@ -2542,5 +2547,5 @@
       ]
     }
   ],
-  "updatedAt": 1613008809350
+  "updatedAt": 1613095210874
 }
