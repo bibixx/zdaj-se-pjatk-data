@@ -3792,7 +3792,18 @@
     {
       "question": "Jeżeli dla tabel MS Access, powiązanych ze sobą relacją, klucz główny tabeli nadrzędnej realizowany jest przez \"autonumerowanie\", wówczas odpowiadające mu pole klucza obcego tabeli podrzędnej powinno mieć zadeklarowany jako typ zmiennych:",
       "id": 457,
-      "comments": null,
+      "comments": [
+        {
+          "author": "~lol@89.64.*.*",
+          "comment": "emm... a to nie jest przypadkiem autonumerowanie? czy to zmyłka i się mylę?",
+          "date": "26-06-2020 13:19:51"
+        },
+        {
+          "author": "~anon@2a01:110f:130f:6500:5832:93f3:f45a:43f4",
+          "comment": "jak by bylo autonumerowanie, to wartosc klucza w tabeli nadrzednej nie mialaby znaczenia, bo i tak w tabeli podrzednej bylaby generowana ponownie, automatycznie\n",
+          "date": "12-02-2021 20:40:55"
+        }
+      ],
       "answers": [
         {
           "answer": "long integer",
@@ -5497,6 +5508,11 @@
           "author": "~anon@46.112.*.*",
           "comment": "będzie true",
           "date": "23-06-2020 00:05:42"
+        },
+        {
+          "author": "~anon@2a01:110f:130f:6500:5832:93f3:f45a:43f4",
+          "comment": "musi byc true. jest true or... i wynik juz musi byc true, dalej pewnie wogole nie jest sprawdzane przez serwer",
+          "date": "12-02-2021 20:39:00"
         }
       ],
       "answers": [
@@ -5758,5 +5774,5 @@
       ]
     }
   ],
-  "updatedAt": 1613095210874
+  "updatedAt": 1613181610720
 }

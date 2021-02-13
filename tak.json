@@ -8464,7 +8464,235 @@
           "correct": true
         }
       ]
+    },
+    {
+      "question": "Rolą kopca systemowego jest:",
+      "id": 3454,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "archiwizacja danych",
+          "correct": false
+        },
+        {
+          "answer": "udzielanie odpowiedzi na zapytanie o dostępności segmentu pamięci o żądanej wielkości",
+          "correct": true
+        },
+        {
+          "answer": "efektywna rezerwacja i zwalnianie zaalokowanej pamięci dyanmicznej",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "W kodzie znak-moduł odwrotny dla liczb całkowitych:",
+      "id": 3455,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "jedyną operacją niepowodującą błędu jest dzielenie przez zero",
+          "correct": false
+        },
+        {
+          "answer": "istnieją dwie interpretacje zera",
+          "correct": false
+        },
+        {
+          "answer": "można zanegować każdą liczbę negując wszystkie bity",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Uniwersalna maszyna Turinga:",
+      "id": 3456,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "potrafi wykonać swój własny kod",
+          "correct": false
+        },
+        {
+          "answer": "potrawi wykonać kod dowolnej maszyny Turinga dla dowolnych danych",
+          "correct": true
+        },
+        {
+          "answer": "rozumie programy napisane w dowolnym języku programowania",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Pamięć wirtualna to kocnepcja pozwalająca na:",
+      "id": 3457,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "oprogramowanie rzeczywistości wirtualnej",
+          "correct": false
+        },
+        {
+          "answer": "korzystanie z zewnętrznych nośników pamięci w celu rozszerzenia pamięci operacyjnej",
+          "correct": false
+        },
+        {
+          "answer": "używanie większej ilości pamięci, niż się faktycznie mieści w RAM",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Aby zaimplementować mechanizm rekursji używa się:",
+      "id": 3458,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "stosu systemowego",
+          "correct": false
+        },
+        {
+          "answer": "kopca systemowego",
+          "correct": true
+        },
+        {
+          "answer": "buforów",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Notacja&nbsp;Ο",
+      "id": 3459,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "definiuje nieskończoną klasę funkcji ze zbioru liczb naturalnych w zbiór liczb rzeczywistych nieujemnych",
+          "correct": false
+        },
+        {
+          "answer": "pozwala uprościć obliczenia złożoności przez podanie asypmtotycznego ograniczenia dolnego",
+          "correct": false
+        },
+        {
+          "answer": "definiuje konkretną funkcje ze zbioru liczb naturalnych w zbiór liczb rzeczywistych nieujemnych&nbsp;",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Maszynę turinga programujemy&nbsp;",
+      "id": 3460,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "za pomocą kart perforowanych Holleitha",
+          "correct": true
+        },
+        {
+          "answer": "w ogóle nie trzeba programować maszyny turinga",
+          "correct": false
+        },
+        {
+          "answer": "definiująć graf stanów i przejść między nimi",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Programowanie obiektowe&nbsp;",
+      "id": 3461,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "wymaga istnienia programu nadzorującego, który decyduje, któremu obiektowi pozwolić na wykonanie kolejnej instrukcji",
+          "correct": false
+        },
+        {
+          "answer": "nadaje się do programowania procesów współbieżnych",
+          "correct": true
+        },
+        {
+          "answer": "pozwala wdrożyć mechanizm dziedziczenia w definicjach klas",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Następujące działania są poprawne w jedno bajtowym kodzie uzupełniającym",
+      "id": 3462,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "10101010+10101010=01010100",
+          "correct": false
+        },
+        {
+          "answer": "11111111+00000001=00000000",
+          "correct": false
+        },
+        {
+          "answer": "11111111+11111111=11111110",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Heksadecymalnie&nbsp;",
+      "id": 3463,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "FA, to binarnie 11111010",
+          "correct": true
+        },
+        {
+          "answer": "89, to binarnie 10001001",
+          "correct": true
+        },
+        {
+          "answer": "11, to binarnie 00000011",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Mechanizm przerwań",
+      "id": 3464,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "może być uruchomiony przez program",
+          "correct": false
+        },
+        {
+          "answer": "umożliwia wieloprocesowość",
+          "correct": true
+        },
+        {
+          "answer": "korzysta z kolejki priorytetowej",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Stosująć strategię alfa-beta",
+      "id": 3465,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "rozważamy arianty złożone z następujących po sobie ruchów",
+          "correct": false
+        },
+        {
+          "answer": "dostajemy ten sam wynik, co w strategii minimaksowej, tyle że szybciej",
+          "correct": false
+        },
+        {
+          "answer": "korzystamy ze statycznej funkcji oceny pozycji",
+          "correct": true
+        }
+      ]
     }
   ],
-  "updatedAt": 1613095210874
+  "updatedAt": 1613181610720
 }

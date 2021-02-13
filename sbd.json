@@ -9983,6 +9983,11 @@
           "author": "~anon@89.64.*.*",
           "comment": "Ale nie mogą być deklarowane w bloku PL/SQL tylko poza nim. Przykład z wykładu:\nACCEPT year_sal PROMPT 'Podaj roczne zarobki'\nVARIABLE sal NUMBER(8,2)\nBEGIN\n  :sal := &year_sal /12;\nEND;\n/\nPRINT sal",
           "date": "10-02-2019 13:10:57"
+        },
+        {
+          "author": "~mati_jewski@79.184.*.*",
+          "comment": "siema, w mojej prezce z plsql 1 na stronce 20 pokazuje jak sie deklaruje zmienne w bloku begin, end;. W ogole macie mistrzowie jakąś grupkę studencką z odpowiedziami do kolosów?",
+          "date": "12-02-2021 14:16:00"
         }
       ],
       "answers": [
@@ -11747,6 +11752,11 @@
           "author": "~anon@2a02:a317:2140:b00:81d0:b912:b294:23ec",
           "comment": "Alter poprawne",
           "date": "12-02-2021 00:06:53"
+        },
+        {
+          "author": "~anon@95.40.*.*",
+          "comment": "ALTER USER nie ALTER TABLE\n",
+          "date": "12-02-2021 12:24:17"
         }
       ],
       "answers": [
@@ -12069,5 +12079,5 @@
       ]
     }
   ],
-  "updatedAt": 1613095210874
+  "updatedAt": 1613181610720
 }
