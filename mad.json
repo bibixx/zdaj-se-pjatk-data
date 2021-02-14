@@ -195,6 +195,11 @@
           "author": "~anon@2a01:110f:1413:c300:812a:45a8:7ce5:22ae",
           "comment": "i całkowitą",
           "date": "31-08-2020 21:30:20"
+        },
+        {
+          "author": "~Kubson@89.69.*.*",
+          "comment": "Częściowa, to chyba częściowego porządku, czyli: zwrotna, antysymetryczna i przechodnia.",
+          "date": "13-02-2021 11:50:09"
         }
       ],
       "answers": [
@@ -213,5 +218,5 @@
       ]
     }
   ],
-  "updatedAt": 1613181610720
+  "updatedAt": 1613268010955
 }

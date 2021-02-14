@@ -539,6 +539,21 @@
           "author": "~anon@89.64.*.*",
           "comment": "nie fix'd",
           "date": "05-02-2020 17:53:51"
+        },
+        {
+          "author": "~anon@80.238.*.*",
+          "comment": "Dlaczego? Switch zmniejsza ilsoc domen kolizyjnych \"Izolują domeny kolizyjne, co zwiększa maksymalną\ncałkowitą przepustowość sieci\". Chyba, że to właśnie oznacza ich zwiększenie.",
+          "date": "13-02-2021 14:56:35"
+        },
+        {
+          "author": "~anon@83.24.*.*",
+          "comment": "jak zmniejsza? izoluje czyli zwiększa, pisząc prościej robi mniejsze kawałki. ",
+          "date": "13-02-2021 15:35:36"
+        },
+        {
+          "author": "~anon@83.24.*.*",
+          "comment": "https://edu.pjwstk.edu.pl/wyklady/wspsi/scb/index78.html 2.4 tu masz wyjasnione ",
+          "date": "13-02-2021 15:47:49"
         }
       ],
       "answers": [
@@ -723,6 +738,16 @@
           "author": "~Bezkit@2a01:110f:c98:da00:ac75:6a81:cf3:fcf6",
           "comment": "10BASE-T (10Base-T) – standard Ethernetowy, wprowadzony w 1990 roku, który pozwala urządzeniom sieciowym na komunikację z wykorzystaniem skrętki. ",
           "date": "24-11-2019 02:36:30"
+        },
+        {
+          "author": "~anon@80.238.*.*",
+          "comment": "Odpowiedź 3 wydaje się zła. 10Base2 jest wypierany przez 10BaseT (od lat 90!)",
+          "date": "13-02-2021 13:29:49"
+        },
+        {
+          "author": "~anon@83.24.*.*",
+          "comment": "Wypieranie nie oznacza, że coś przestaje być standardem, może być nie używane, ale w tym znaczeniu jest to ustalone jakieś kryterium, a nie standard w znaczeniu, że jest częściej używany. \n",
+          "date": "13-02-2021 15:40:23"
         }
       ],
       "answers": [
@@ -1243,6 +1268,11 @@
           "author": "~anon@89.72.*.*",
           "comment": "poufnosc to wtedy jak powiesz koledze ze masz dwanascie pozdrawiam serdecznie\n",
           "date": "28-11-2019 12:01:39"
+        },
+        {
+          "author": "~anon@83.24.*.*",
+          "comment": "Czy to chodzi o grę słowną? Poufność jest zachowana wtedy kiedy nadawca i zamierzony odbiorca może zrozumieć wiadomość, więc dlaczego odp 1 jest zła?",
+          "date": "13-02-2021 16:49:49"
         }
       ],
       "answers": [
@@ -3022,6 +3052,11 @@
           "author": "~wtf@2a02:a317:2244:2b00:e50a:f0c4:e898:4f00",
           "comment": "i to bedzie git ",
           "date": "08-02-2021 22:10:35"
+        },
+        {
+          "author": "~anon@83.24.*.*",
+          "comment": "@Zespół to wyzeruj sobie tak pkty. Nie da się wywnioskować z tego, że komputer jest wyłączony, co najwyżej można podejrzewać taki stan rzeczy. ",
+          "date": "13-02-2021 10:43:32"
         }
       ],
       "answers": [
@@ -3076,6 +3111,11 @@
           "author": "~s@83.28.*.*",
           "comment": "For example, HTTP is an example of a stateless protocol layered on top of TCP, a stateful protocol, z czego wynika ze HTTP jest bezstanowy",
           "date": "08-02-2021 18:33:27"
+        },
+        {
+          "author": "~anon@83.24.*.*",
+          "comment": "Nie mylcie z połączeniem trwałym i nietrwałym... ",
+          "date": "13-02-2021 12:35:40"
         }
       ],
       "answers": [
@@ -3594,7 +3634,18 @@
     {
       "question": "Wybierz prawdziwe stwierdzenia, dotyczące protokołu rutingu typu Stan Łącza (Link-State)",
       "id": 1871,
-      "comments": null,
+      "comments": [
+        {
+          "author": "~wtf@2a02:a317:2244:2b00:e50a:f0c4:e898:4f00",
+          "comment": "to jest git? rozgłasza nieprawdziwy koszt łącza?",
+          "date": "08-02-2021 21:51:21"
+        },
+        {
+          "author": "~anon@83.24.*.*",
+          "comment": "GIT, a przynajmniej zgodne z wykładami Profesora A.Smyka",
+          "date": "13-02-2021 13:47:03"
+        }
+      ],
       "answers": [
         {
           "answer": "węzeł może rozgłosić nieprawdziwy koszt ścieżki",
@@ -4089,6 +4140,11 @@
           "author": "~anon@213.216.*.*",
           "comment": "^ to jest to samo",
           "date": "08-02-2019 10:50:45"
+        },
+        {
+          "author": "~anon@83.24.*.*",
+          "comment": "VoIP to nie protokół! a tym bardziej twór ipvoice, często w pyt jest jeszcze odp IP poza oczywiście UDP. ",
+          "date": "13-02-2021 19:29:20"
         }
       ],
       "answers": [
@@ -5095,5 +5151,5 @@
       ]
     }
   ],
-  "updatedAt": 1613181610720
+  "updatedAt": 1613268010955
 }

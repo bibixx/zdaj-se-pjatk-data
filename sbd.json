@@ -12077,7 +12077,237 @@
           "correct": true
         }
       ]
+    },
+    {
+      "question": "W wyzwalaczu T-SQL",
+      "id": 3466,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "Można użwyać instrukcji ROLLBACK",
+          "correct": true
+        },
+        {
+          "answer": "Mogą być deklarowane zmienne",
+          "correct": true
+        },
+        {
+          "answer": "Można używać instrukcji DML",
+          "correct": true
+        },
+        {
+          "answer": "Można używać kursorów",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Które z poniższych stwierdzeń dotyczących perspektyw są prawdziwe",
+      "id": 3467,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "używając perspektyw możemy w ogóle nie dbać o inne sposoby ochrony danych",
+          "correct": false
+        },
+        {
+          "answer": "dzięki perspektywom każdy użytkownik bazy danych może mieć dostęp tylko do danych dotyczących jego działalności w firmie",
+          "correct": false
+        },
+        {
+          "answer": "wiersze zwracane przez perspektywy są odczytywane z tabel na żądanie",
+          "correct": true
+        },
+        {
+          "answer": "wiersze zwracane przez perspektywy są przechowywane w tabelach bazy danych",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Które z wymienionych instrukcji PL/SQL prawidłowo zadeklarują zmienną (zmienne) w PL/SQL?",
+      "id": 3468,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "DECLARE v_ile INT := 0;",
+          "correct": true
+        },
+        {
+          "answer": "DECLARE v_ala Varchar2(10), v_ile Int, v_data Date;<p></p>\n<p>BEGIN</p>\n<p>...</p>",
+          "correct": true
+        },
+        {
+          "answer": "DECLARE<p></p>\n<p>v_ala; v_ola; ,</p>\n<p>v_ula Varchar2(10);</p>\n<p>BEGIN</p>\n<p>...</p>",
+          "correct": false
+        },
+        {
+          "answer": "DECLARE v_dane emp%ROWTYPE",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Które z niżej wymienionych więzów są więzami spójności referencyjnej",
+      "id": 3469,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "Default",
+          "correct": false
+        },
+        {
+          "answer": "Unique",
+          "correct": false
+        },
+        {
+          "answer": "Refernces",
+          "correct": true
+        },
+        {
+          "answer": "Not NULL",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Które z poniższych ciągów znaków mogą być prawidłowymi nazwami zmiennych w PL/SQL?",
+      "id": 3470,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "\"alamakota\"",
+          "correct": false
+        },
+        {
+          "answer": "Lala ma psa",
+          "correct": false
+        },
+        {
+          "answer": "SELECT5",
+          "correct": true
+        },
+        {
+          "answer": "V_SELECT",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "<strong>Zakładanie indeksów jest zalecane na:</strong>",
+      "id": 3471,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "Kolumnach, po których sortujemy",
+          "correct": true
+        },
+        {
+          "answer": "Kolumnach często występujących w WHERE",
+          "correct": true
+        },
+        {
+          "answer": "kolumnach, w których wartości są często aktualizowane przez instrukcje UPDATE",
+          "correct": false
+        },
+        {
+          "answer": "kluczach obcych",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "<strong>W których z wymienionych sytuacji mówimy o problemie fantomów?</strong>",
+      "id": 3472,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "Użytkownik zobaczył rekord wprowadzony przez innego użytkownika, który nie został zatwierdzony przez COMMIT",
+          "correct": false
+        },
+        {
+          "answer": "Rekord został w obrębie jednej transakcji wprowadzony (INSERT) i od razu usunięty (DELETE)",
+          "correct": true
+        },
+        {
+          "answer": "W trakcie działania transakcji inna transakcja wykonała INSERT",
+          "correct": false
+        },
+        {
+          "answer": "W trakcie działania transakcji inna transakcja wykonała DELETE",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "<strong>Które z wymienionych mechanizmów są metodami zarządzania współbieżnością?</strong>",
+      "id": 3473,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "blokady",
+          "correct": false
+        },
+        {
+          "answer": "denormalizacja",
+          "correct": false
+        },
+        {
+          "answer": "role",
+          "correct": false
+        },
+        {
+          "answer": "wielowersyjność",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "<strong>Zaznacz poprawne stwierdzenia dotyczące kosztu planu wykonania zapytania</strong>",
+      "id": 3474,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "Jest wyświetlany w sekundach",
+          "correct": false
+        },
+        {
+          "answer": "Zależy od kosztów operacji wejścia / wyjścia oraz procesora",
+          "correct": false
+        },
+        {
+          "answer": "Może być różny w zależności czy jest to pierwsze uruchomienie zapytania czy kolejne (zapytanie korzysta z bufora)",
+          "correct": false
+        },
+        {
+          "answer": "Może być inny, jeśli zapytanie będziemy testować na innym komputerze",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "<strong>Które z wymienionych instrukcji PL/SQL prawidłowo zadeklarują zmienną (zmienne) w PL/SQL ?</strong>",
+      "id": 3475,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "DECLARE<br>&nbsp; &nbsp; v_ala Varchar2(10);<br>&nbsp; &nbsp; v_ile Int; v_data Date;<br>BEGIN<p></p>\n<p>...</p>",
+          "correct": false
+        },
+        {
+          "answer": "DECLARE v_ile INT:=0;",
+          "correct": false
+        },
+        {
+          "answer": "DECLARE v_ile sal%TYPE;",
+          "correct": false
+        },
+        {
+          "answer": "DECLARE v_ile emp.sal%TYPE;",
+          "correct": false
+        }
+      ]
     }
   ],
-  "updatedAt": 1613181610720
+  "updatedAt": 1613268010955
 }

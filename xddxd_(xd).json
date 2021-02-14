@@ -5,7 +5,18 @@
     {
       "question": "I:",
       "id": 3450,
-      "comments": null,
+      "comments": [
+        {
+          "author": "~waper@91.205.*.*",
+          "comment": "ważne pytanie",
+          "date": "12-02-2021 15:12:58"
+        },
+        {
+          "author": "~beka@78.10.*.*",
+          "comment": "XDDD",
+          "date": "13-02-2021 22:08:31"
+        }
+      ],
       "answers": [
         {
           "answer": "tak nie zdasz",
@@ -26,5 +37,5 @@
       ]
     }
   ],
-  "updatedAt": 1613181610720
+  "updatedAt": 1613268010955
 }
