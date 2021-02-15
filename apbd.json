@@ -440,7 +440,18 @@
     {
       "question": "Co oznacza termin \"problem N+1\" związany z ORM'ami?",
       "id": 3371,
-      "comments": null,
+      "comments": [
+        {
+          "author": "~darkvyl@88.156.*.*",
+          "comment": "b",
+          "date": "03-09-2020 12:19:59"
+        },
+        {
+          "author": "~anon@2a02:a310:c127:4000:d4f1:6cd7:4461:d020",
+          "comment": "Dodaj poprawna odpowiedz",
+          "date": "14-02-2021 11:37:10"
+        }
+      ],
       "answers": [
         {
           "answer": "Termin związany jest z błędem w ORM'ach, który uniemożliwia budowanie pewnych rodzajów relacji między tabelami z poziomu kodu (podejście Code-First)",
@@ -691,5 +702,5 @@
       ]
     }
   ],
-  "updatedAt": 1613268010955
+  "updatedAt": 1613354410190
 }

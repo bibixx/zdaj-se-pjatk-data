@@ -5772,7 +5772,30 @@
           "correct": false
         }
       ]
+    },
+    {
+      "question": "Wartością logiczną wyrazenia FALSE OR Null AND TRUE jest:",
+      "id": 3479,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "TRUE",
+          "correct": false
+        },
+        {
+          "answer": "Null",
+          "correct": true
+        },
+        {
+          "answer": "FALSE",
+          "correct": false
+        },
+        {
+          "answer": "0",
+          "correct": false
+        }
+      ]
     }
   ],
-  "updatedAt": 1613268010955
+  "updatedAt": 1613354410190
 }

@@ -47,7 +47,53 @@
           "correct": false
         }
       ]
+    },
+    {
+      "question": "Czy dane stwierdzenie jest prawdziwe?",
+      "id": 3477,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "Lex/Flex generuje rodzaj automatu stosowego.",
+          "correct": false
+        },
+        {
+          "answer": "Zadaniem skanera jest podział tekstu wejściowego na leksemy.",
+          "correct": true
+        },
+        {
+          "answer": "Lex/Flex służy do tworzenia analizatorów leksykalnych (skanerów).",
+          "correct": true
+        },
+        {
+          "answer": "Lex/Flex generuje rodzaj automatu skończonego.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Dana jest następująca gramatyka:<p></p>\n<p>S → aXS | bYS | ε<br>X → aXX | b<br>Y → bYY | a</p>\n<p>Język generowany przez tą gramatykę to:\n          </p>",
+      "id": 3478,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "Słowa zawierające tyle samo liter a i b",
+          "correct": true
+        },
+        {
+          "answer": "Słowa zawierające więcej liter a niż b",
+          "correct": false
+        },
+        {
+          "answer": "Pusty język",
+          "correct": false
+        },
+        {
+          "answer": "Palindromy nad alfabetem {a,b}",
+          "correct": false
+        }
+      ]
     }
   ],
-  "updatedAt": 1613268010955
+  "updatedAt": 1613354410190
 }
