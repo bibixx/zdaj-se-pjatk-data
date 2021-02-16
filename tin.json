@@ -3467,7 +3467,76 @@
           "correct": true
         }
       ]
+    },
+    {
+      "question": "Pokazany niżej element XML \"tresc\" posiada:<p></p>\n<p>&lt;tresc&gt;</p>\n<p>&amp;naglowek;</p>\n<p>Potwierdzamy przyjęcie zamówienia nr 3433</p>\n<p>&lt;/tresc&gt;\n          </p>",
+      "id": 3480,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<p>Zawartość elementową</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": false
+        },
+        {
+          "answer": "Identyfikator",
+          "correct": false
+        },
+        {
+          "answer": "Łącznie 6 encji",
+          "correct": false
+        },
+        {
+          "answer": "<p>Odnośnik do encji</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Do technologii dynamicznych stron WWW zaliczamy:",
+      "id": 3481,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<p>aplety Javy</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": false
+        },
+        {
+          "answer": "<p>JSF</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": true
+        },
+        {
+          "answer": "<p>ActiveX</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": false
+        },
+        {
+          "answer": "<p>XPath</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "<p>Wybierz odpowiedź najtrafniej charakteryzującą JSX stosowany w ramach technologii React :</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+      "id": 3482,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<p>język dziedzinowy stanowiący część frameworku BackboneJS</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": false
+        },
+        {
+          "answer": "<p>zbiór konstrukcji składniowych wprowadzonych do specyfikacji ECMAScript2016</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": false
+        },
+        {
+          "answer": "<p>mechanizm szbalonów przetwarzanych po stronie przeglądarki</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": false
+        },
+        {
+          "answer": "<p>rozwiązanie składniowe wymgajające preprocesora</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": true
+        }
+      ]
     }
   ],
-  "updatedAt": 1613354410190
+  "updatedAt": 1613440809614
 }
