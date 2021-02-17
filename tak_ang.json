@@ -4649,7 +4649,273 @@
           "correct": true
         }
       ]
+    },
+    {
+      "question": "<p>Interrupt mechanism</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+      "id": 3483,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<p>enables multiprocessing</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": true
+        },
+        {
+          "answer": "can be run by the program",
+          "correct": true
+        },
+        {
+          "answer": "<p>is part of the operating system</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "The Turk - von Kempelen's chess machine",
+      "id": 3484,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "could make moves on the board",
+          "correct": true
+        },
+        {
+          "answer": "<p>had programmed moves according to the rules of chess</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": false
+        },
+        {
+          "answer": "<p>was the first machine that could make decisions on its own</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "The role of the system heap is",
+      "id": 3485,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "possibility to choose the memory fragment to be allocated best with respect to the established criterion",
+          "correct": true
+        },
+        {
+          "answer": "<p>quick response to the query about the existence of a free memory segment of a given length,</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": true
+        },
+        {
+          "answer": "efficient booking and resoration of free memory",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "<p>Processors use registers for</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+      "id": 3486,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "loop optimization",
+          "correct": true
+        },
+        {
+          "answer": "<p>archivization of obtained results</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": false
+        },
+        {
+          "answer": "<p>memorizing intermediate results of complex calculations</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "If we represent real numbers in the two's complement 1-byte exponent and 7-bytes mantissa, with one bit hidden, then",
+      "id": 3487,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<p>all integers in the range of representability are represented</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": false
+        },
+        {
+          "answer": "adding a number with an exponent lower by 60 to any number will not change it.",
+          "correct": true
+        },
+        {
+          "answer": "adding a number with an exponent lower by 50 to any number will not change it.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "<p>Floating point addition</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+      "id": 3488,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "always gives the same result, evem when we add more than two numbers, regardless of the order in which the actions are performed",
+          "correct": false
+        },
+        {
+          "answer": "<p>may require both arguments to be denormalized</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": false
+        },
+        {
+          "answer": "<p>can return one of the arguments even though neither is zero</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "In one's complement code for integers",
+      "id": 3489,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "we have more negative than positive numbers represented",
+          "correct": false
+        },
+        {
+          "answer": "you can negate any number by negating all bits",
+          "correct": true
+        },
+        {
+          "answer": "there are two representations of zero",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "<p>Virtual memory is a concept that allows</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+      "id": 3490,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<p>using cloud computing</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": false
+        },
+        {
+          "answer": "<p>using more memory than your RAM actually fits</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": true
+        },
+        {
+          "answer": "<p>use of external storage media to expand the operating memory</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "The [start-formula]  Theta [end-formula] notation",
+      "id": 3491,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "simplifies complexity calculation by providing asymptotic upper bound",
+          "correct": true
+        },
+        {
+          "answer": "defines a concrete function from a set of natural numbers into a set of non-negative numbers.",
+          "correct": false
+        },
+        {
+          "answer": "simplifies complexity calculation by providing asymptotic lower bound",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "<p>The first Pascal compiler written by N.Wirth at the beginning of 70's</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+      "id": 3492,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "allowed splitting the generation of code into compilation and linking",
+          "correct": true
+        },
+        {
+          "answer": "<p>cost about 1000 $</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": false
+        },
+        {
+          "answer": "<p>was written in Pascal</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "<p>The number of disc cylinders is equal to</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+      "id": 3493,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<p>The number set at the formatting stage by the user</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": true
+        },
+        {
+          "answer": "The numbers of paths on one plate side",
+          "correct": true
+        },
+        {
+          "answer": "The number determined by disk manufacturer",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "<p>Are these operations performed correctly in the floating-point system from the lecture?</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+      "id": 3494,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<p>111 0111 + 000 1000 = 111 0100</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": false
+        },
+        {
+          "answer": "011 0111 + 101 0111 = 011 0111",
+          "correct": true
+        },
+        {
+          "answer": "<p>110 0111 + 110 0100 = 111 0110</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "<p>When adding two floating-point numbers we can</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+      "id": 3495,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<p>Obtain the same result as one of the arguments, even if none of them is 0</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": true
+        },
+        {
+          "answer": "<p>Obtain different results if we add them in different order</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": false
+        },
+        {
+          "answer": "<p>Obtain different result if we denormalize the other number</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "The idea to compile Pascal on a non-existing processor",
+      "id": 3496,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "Was never accomplished",
+          "correct": false
+        },
+        {
+          "answer": "Enabled compilation of programs on virtual machine",
+          "correct": true
+        },
+        {
+          "answer": "<p>Was introduced by N.Wirth in order to ease writing Pascal compilers on all types of computers</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": true
+        }
+      ]
     }
   ],
-  "updatedAt": 1613440809614
+  "updatedAt": 1613527209053
 }
