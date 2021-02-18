@@ -2042,6 +2042,11 @@
           "author": "~prezes@89.68.*.*",
           "comment": "Wiki: \"Nazwa AVL pochodzi od nazwisk rosyjskich matematyków: Adelsona-Velskiego oraz Landisa\"",
           "date": "26-01-2014 18:54:08"
+        },
+        {
+          "author": "~anon@2a02:a310:e13c:2b00:3d60:3124:1a8a:b065",
+          "comment": "to ktoś dodając to pytanie musiał się rąbnąć, bo w tym roku jest \"dwóch twórców\" co jest jak najbardziej poprawne",
+          "date": "17-02-2021 21:55:58"
         }
       ],
       "answers": [
@@ -6416,6 +6421,11 @@
           "author": "~anon@89.230.*.*",
           "comment": "a co z c  i d?",
           "date": "06-02-2020 17:09:03"
+        },
+        {
+          "author": "~anon@2a02:a310:e13c:2b00:3d60:3124:1a8a:b065",
+          "comment": "c i d według egzaminu są poprawne xd",
+          "date": "17-02-2021 20:51:02"
         }
       ],
       "answers": [
@@ -6807,6 +6817,21 @@
           "author": "mykhi",
           "comment": "poprawiam",
           "date": "16-02-2021 18:11:31"
+        },
+        {
+          "author": "~anon@89.77.*.*",
+          "comment": "Dzięki bo chciałbym to wreszcie zaliczyć xDD",
+          "date": "17-02-2021 07:23:56"
+        },
+        {
+          "author": "~anon@2a02:a310:e13c:2b00:59b1:3224:a5e5:18a7",
+          "comment": "@mykhi dzięki :D\n\n@89.77 jak my wszyscy",
+          "date": "17-02-2021 15:16:06"
+        },
+        {
+          "author": "~xD@91.205.*.*",
+          "comment": "@89.77\nktóre podejście? xD",
+          "date": "17-02-2021 22:51:17"
         }
       ],
       "answers": [
@@ -6825,5 +6850,5 @@
       ]
     }
   ],
-  "updatedAt": 1613527209053
+  "updatedAt": 1613613610648
 }

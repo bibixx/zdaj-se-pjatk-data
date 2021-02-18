@@ -7984,6 +7984,11 @@
           "author": "~anon@2a01:110f:d01:c100:2d0e:7fc0:71ae:f4dc",
           "comment": "A, słusznie, nie jest\n",
           "date": "04-02-2021 15:11:13"
+        },
+        {
+          "author": "~anon@88.156.*.*",
+          "comment": "2 nie jest poprawne, 12/64 jest lepszym przybliżeniem i jest reprezentowalne bez błędu",
+          "date": "17-02-2021 18:27:22"
         }
       ],
       "answers": [
@@ -8694,5 +8699,5 @@
       ]
     }
   ],
-  "updatedAt": 1613527209053
+  "updatedAt": 1613613610648
 }
