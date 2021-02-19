@@ -4837,6 +4837,11 @@
           "author": "~johny@89.72.*.*",
           "comment": "Też mi się wydaje że , PO USTALENIU FINALNEJ POSTACI  liczba krąwedzi odrzuconych wynosi 0.. w końcu możemy ustalić finalną postać dopiero gdy dojdziemy do wierzchołka 4 (z wagą 9)",
           "date": "09-02-2019 22:14:19"
+        },
+        {
+          "author": "~anon@2a02:a310:e13c:2b00:3d60:3124:1a8a:b065",
+          "comment": "potwierdzam: 6 krawędzi odrzucamy PRZED ustaleniem finalnej postaci, a finalną postać ustalamy wtedy i tylko wtedy, gdy przyłączymy ostatnią krawędź (3-4 bo ma wagę 9)\n\nczyli po ustaleniu finalnej postaci nic nie odrzucamy, bo nie ma co odrzucić",
+          "date": "18-02-2021 10:56:42"
         }
       ],
       "answers": [
@@ -6832,6 +6837,11 @@
           "author": "~xD@91.205.*.*",
           "comment": "@89.77\nktóre podejście? xD",
           "date": "17-02-2021 22:51:17"
+        },
+        {
+          "author": "~anon@89.77.*.*",
+          "comment": "Pierwsze podejście poprawkowe xD \n",
+          "date": "18-02-2021 07:22:44"
         }
       ],
       "answers": [
@@ -6848,7 +6858,26 @@
           "correct": true
         }
       ]
+    },
+    {
+      "question": "Do drzewa binarnych wyszukiwań d wstawiono kolejno elementy 5 3 9 4 10 6 7",
+      "id": 3511,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "Obieg prefiksowy d lewo-prawo daje kolejno 5 3 4 9 6 7 10",
+          "correct": true
+        },
+        {
+          "answer": "Obieg postfiksowy d lewo-prawo daje kolejno 4 3 7 6 10 9 5",
+          "correct": true
+        },
+        {
+          "answer": "Obieg infiksowy d prawo-lewo daje kolejno 10 9 7 6 5 4 3",
+          "correct": true
+        }
+      ]
     }
   ],
-  "updatedAt": 1613613610648
+  "updatedAt": 1613700010466
 }

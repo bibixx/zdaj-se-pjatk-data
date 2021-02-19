@@ -8471,6 +8471,25 @@
       ]
     },
     {
+      "question": "Rozważmy algorytm Kruskala w wersji:<p></p>\n<ul>\n<li>z pomocniczą kolejką priorytetową zaimplementowaną w kopcu-drzewie binarnym,</li>\n<li>operacją budowy kolejki priorytetowej PQConstruct zgodną z szybkim algorytmem konstrukcji kopca-drzewa binarnego HeapFastConstruct,</li>\n<li>z pomocniczą strukturą Find-Union zaimplementowaną w drzewie n-arnym z balansowaniem i kompresją ścieżek,</li>\n</ul>\n<p>postaci:</p>\n<p>&nbsp;</p>\n<p><img src=\"https://gakko.pjwstk.edu.pl/public/2271//ASD/Zima1516/TestyPseudokody/Kruskal.gif\" alt=\"\"></p>\n<p>dla grafu <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+G%3d(V%2cE)+%24\" alt=\"\">:</p>\n<ul>\n<li>zbiór wierzchołków grafu <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+V%3d%5c%7b+0%2c1%2c...%2c7+%5c%7d+%24\" alt=\"\">,</li>\n<li>zbiór krawędzi grafu <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+E+%24\" alt=\"\">zadany tablicą list incydencji:\n<ul>\n<li><img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+%5b0%5d%3d((2%2c5)%2c(4%2c5))+%24\" alt=\"\"></li>\n<li><img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+%5b1%5d%3d((2%2c2)%2c(3%2c4)%2c(4%2c4)%2c(6%2c1))+%24\" alt=\"\"></li>\n<li><img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+%5b2%5d%3d((0%2c5)%2c(1%2c2)%2c(4%2c1)%2c(5%2c5)%2c(7%2c5))+%24\" alt=\"\"></li>\n<li><img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+%5b3%5d%3d((1%2c4))+%24\" alt=\"\"></li>\n<li><img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+%5b4%5d%3d((0%2c5)%2c(1%2c4)%2c(2%2c1)%2c(5%2c1))+%24\" alt=\"\"></li>\n<li><img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+%5b5%5d%3d((2%2c5)%2c(4%2c1)%2c(6%2c1)%2c(7%2c5))+%24\" alt=\"\"></li>\n<li><img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+%5b6%5d%3d((1%2c1)%2c(5%2c1)%2c(7%2c4))+%24\" alt=\"\"></li>\n<li><img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+%5b7%5d%3d((2%2c5)%2c(5%2c5)%2c(6%2c4))+%24\" alt=\"\"></li>\n</ul>\n</li>\n</ul>\n<p>przedstawionego na poniższym rysunku.</p>\n<p>&nbsp;</p>\n<p><img src=\"https://gakko.pjwstk.edu.pl/public/2271//ASD/Zima1516/TestyRysunki/Kruskal/Kruskal_22.gif\" alt=\"\"></p>\n<p>Które z poniższych zdań jest prawdziwe? Uwaga! W przypadku niejednoznacznej możliwości wyboru krawędzi, jako pierwszą wybieramy krawędź, której etykiety wierzchołków krańcowych w kolejności niemalejącej tworzą mniejszą liczbę naturalną.\n          </p>",
+      "id": 3498,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "Maksymalna waga krawędzi tworzącej otrzymane drzewo rozpinające grafu <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+G+%24\" alt=\"\"> jest równa co najwyżej <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+3+%24\" alt=\"\">",
+          "correct": false
+        },
+        {
+          "answer": "Kolejność akceptowania krawędzi grafu do drzewa rozpinającego w trakcie wykonania rozważanego algorytmu jest następująca: <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+(1%2c6)%2c(2%2c4)%2c(4%2c5)%2c(5%2c6)%2c(1%2c3)%2c(6%2c7)%2c(0%2c2)+%24\" alt=\"\">",
+          "correct": true
+        },
+        {
+          "answer": "Liczba krawędzi grafu odrzuconych (ze względu na możliwość utworzenia cyklu) w trakcie konstrukcji drzewa rozpinającego, tuż po ustaleniu jego finalnej postaci, jest równa dokładnie <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+4+%24\" alt=\"\">",
+          "correct": true
+        }
+      ]
+    },
+    {
       "question": "Rolą kopca systemowego jest:",
       "id": 3454,
       "comments": null,
@@ -8699,5 +8718,5 @@
       ]
     }
   ],
-  "updatedAt": 1613613610648
+  "updatedAt": 1613700010466
 }

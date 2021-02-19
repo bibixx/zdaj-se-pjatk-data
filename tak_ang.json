@@ -4406,6 +4406,11 @@
           "author": "~anon@83.24.*.*",
           "comment": "Yea, it's a. Basic means \"right after the dot\"",
           "date": "13-02-2018 01:57:08"
+        },
+        {
+          "author": "~anon@79.184.*.*",
+          "comment": "in my opinion a) 2/5 should be correct because (2/5,4/5,3/5,1/5,2/5)=0.0110",
+          "date": "18-02-2021 11:40:21"
         }
       ],
       "answers": [
@@ -4915,7 +4920,26 @@
           "correct": true
         }
       ]
+    },
+    {
+      "question": "<p>Program AlphaZero</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+      "id": 3497,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "used Monte Carlo methods to determine the best moves",
+          "correct": true
+        },
+        {
+          "answer": "<p>used neural networks to self-learn how to play good moves</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": true
+        },
+        {
+          "answer": "was trained for several months before it was ready to play with full power",
+          "correct": false
+        }
+      ]
     }
   ],
-  "updatedAt": 1613613610648
+  "updatedAt": 1613700010466
 }
