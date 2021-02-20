@@ -12173,7 +12173,18 @@
     {
       "question": "Które z poniższych ciągów znaków mogą być prawidłowymi nazwami zmiennych w PL/SQL?",
       "id": 3470,
-      "comments": null,
+      "comments": [
+        {
+          "author": "~anon@83.6.*.*",
+          "comment": "\"alamakota\" nie jest poprawne?",
+          "date": "19-02-2021 14:41:17"
+        },
+        {
+          "author": "~anon@83.6.*.*",
+          "comment": "Sprawdziłem, powinno. Jest tak w prezentacji Systemy Baz Danych Wykład X Zaawansowane (nieco) konstrukcje PL/SQL - slajd 3.\n\nDopuszcza się tworzenie nazw ujętych w podwójne cudzysłowy i zawierające inne znaki, niż\nwyżej wymienione, np.:\nDECLARE\n\"A B C \" Varchar2(10);\nBEGIN\n\"A B C \" := 'Alamakota';\ndbms_output.put_line(\"A B C \");\nEND;",
+          "date": "19-02-2021 14:46:32"
+        }
+      ],
       "answers": [
         {
           "answer": "\"alamakota\"",
@@ -12309,5 +12320,5 @@
       ]
     }
   ],
-  "updatedAt": 1613700010466
+  "updatedAt": 1613786410140
 }
