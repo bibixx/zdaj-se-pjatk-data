@@ -1298,6 +1298,11 @@
           "author": "~edward.ącki@83.5.*.*",
           "comment": "no kurwa jak moze byc przez dowolna liczbe to moze byc kurwa przez jenego no halo???",
           "date": "07-02-2021 01:58:49"
+        },
+        {
+          "author": "~kolo@5.173.*.*",
+          "comment": "No właśnie nie może. Przecież w pkt 1 jest wyraźnie napisane, że przez DOKŁADNIE jednego Aktora, co wyklucza użycie przez dowolną liczbę Aktorów.",
+          "date": "20-02-2021 21:20:58"
         }
       ],
       "answers": [
@@ -2913,6 +2918,11 @@
           "author": "~sandał@89.70.*.*",
           "comment": "klapek ma racje 2 niepoprawne ",
           "date": "08-02-2021 22:23:01"
+        },
+        {
+          "author": "~kolo@5.173.*.*",
+          "comment": "a czemu 2 niepoprawne?",
+          "date": "20-02-2021 20:09:19"
         }
       ],
       "answers": [
@@ -3932,5 +3942,5 @@
       ]
     }
   ],
-  "updatedAt": 1613786410140
+  "updatedAt": 1613872809453
 }
