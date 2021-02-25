@@ -695,7 +695,187 @@
           "correct": false
         }
       ]
+    },
+    {
+      "question": "Współczesne edytory umożliwiają tworzenie GUI odpowiedniego dla większości aplikacji.",
+      "id": 3541,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "TAK",
+          "correct": true
+        },
+        {
+          "answer": "NIE",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Ograniczenie {ordered} dla asocjacji oznacza, że powiązania są przechowywane w pewnej kolejności",
+      "id": 3542,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "TAK",
+          "correct": true
+        },
+        {
+          "answer": "NIE",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Przechodząc z modelu obiektowego na relacyjny, atrybuty proste zastępujemy kolumnami w tabelach.",
+      "id": 3543,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "TAK",
+          "correct": true
+        },
+        {
+          "answer": "NIE",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Przy implementacji ograniczenia {subset} warto użyć metody containsKey(...) lub containsValue(...) z klasy pojemnika",
+      "id": 3544,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "TAK",
+          "correct": true
+        },
+        {
+          "answer": "NIE",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "W stosunku do architektury dwuwarstwowej, architektura trójwarstwowa posiada tak zwaną warstwę pośredniczącą",
+      "id": 3545,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "TAK",
+          "correct": true
+        },
+        {
+          "answer": "NIE",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Napisanie ograniczenia UML zwykłym tekstem poprawia precyzję informacji",
+      "id": 3546,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "TAK",
+          "correct": true
+        },
+        {
+          "answer": "NIE",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "W klasie ObjectPlus, kontener służący do przechowywania wszystkich ekstensji, może być łatwo zaimplementowany przy użyciu klasy ArrayList",
+      "id": 3547,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "TAK",
+          "correct": false
+        },
+        {
+          "answer": "NIE",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Ograniczenie {subset} może dotyczyć jednej asocjacji<p></p>\n<p>&nbsp;\n          </p>",
+      "id": 3548,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "TAK",
+          "correct": true
+        },
+        {
+          "answer": "NIE",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Możliwość zrównoleglenia prac jest ważnym czynnikiem uwzględnianym przy wyborze architektury systemu.<p></p>\n<p>&nbsp;\n          </p>",
+      "id": 3549,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "TAK",
+          "correct": true
+        },
+        {
+          "answer": "NIE",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "GUI to zagadnienia z pogranicza m.in. informatyki, psychologii, ergonomii.",
+      "id": 3550,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "TAK",
+          "correct": true
+        },
+        {
+          "answer": "NIE",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Jednym z elementów architektury dwuwarstwowej jest interfejs użytkownika",
+      "id": 3551,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "TAK",
+          "correct": true
+        },
+        {
+          "answer": "NIE",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Klasa asocjacji z modelu obiektowego, jest implementowana w modelu relacyjnym jako dwie tabele pośredniczące",
+      "id": 3552,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "TAK",
+          "correct": false
+        },
+        {
+          "answer": "NIE",
+          "correct": true
+        }
+      ]
     }
   ],
-  "updatedAt": 1613872809453
+  "updatedAt": 1614218654503
 }

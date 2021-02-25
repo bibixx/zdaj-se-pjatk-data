@@ -1,0 +1,1387 @@
+{
+  "title": "Matematyka Dyskretna 1 - 2020, Gakko (MAD1)",
+  "id": "matematyka_dyskretna_1_-_2020,_gakko_(mad1)",
+  "data": [
+    {
+      "question": "<span>Wskaż zdania prawdziwe.</span>",
+      "id": 3513,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span>Liczba kardynalna dowolnego zbioru skończonego, to liczba jego elementów.</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>Istnieje podzbiór zbioru przeliczalnego, który jest nieprzeliczalny.</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>Są dokładnie 2 liczby kardynalne alef_0 oraz continuum.</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>Dwa zbiory A i B są równoliczne wttw gdy istnieje iniekcja z A do B.</span>",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "<span>Wskaż zdania prawdziwe.</span>",
+      "id": 3514,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span>Zbiór pusty nie ma przypisanej liczby kardynalnej.</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>Alef0 jest mniejsze niż continuum.</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>Istnieje podzbiór zbioru przeliczalnego, który jest przeliczalny.</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>Dwa zbiory A i B są równoliczne wttw gdy istnieje bijekcja z A do B.</span>",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "<span>Wskaż zdania prawdziwe.</span>",
+      "id": 3515,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span>Podzbiór zbioru co najwyżej przeliczalnego jest co najwyżej przeliczalny.</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>Istnieje nadzbiór zbioru przeliczalnego, który jest nieprzeliczalny.</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>Istnieje podzbiór zbioru nieprzeliczalnego, który jest nieprzeliczalny.</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>Dwa zbiory mają przypisaną tę samą liczbę kardynalną wtedy i tylko wtedy, gdy są równoliczne.</span>",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "<span>Wskaż zdania prawdziwe.</span>",
+      "id": 3516,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span>Istnieje najmniejsza liczba kardynalna.</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>Continuum jest największą liczbą kardynalną.</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>Dwa różne zbiory nie mogą mieć przypisanej tej samej liczby kardynalnej.</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>Alef0 jest mniejsze niż continuum.</span>",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "<span>Wskaż zbiory przeliczalne.</span>",
+      "id": 3517,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span>zbiór wszystkich okręgów na płaszczyźnie, których środki leżą w punktach o współrzędnych wymiernych, a promienie są liczbami naturalnymi różnymi od zera</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>zbiór wszystkich funkcji f: N -&gt;&nbsp;{0,1,2}</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>zbiór wszystkich podzbiorów zbioru N</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>zbiór odcinków na prostej, o końcach w punktach o współrzędnych wymiernych</span>",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "<span>Wskaż zbiory przeliczalne.</span>",
+      "id": 3518,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span>zbiór wszystkich słów nad pięcioliterowym alfabetem,</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>zbiór wszystkich formuł rachunku zdań, w których wykorzystujemy tylko trzy ustalone zmienne</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>zbiór liczb naturalnych</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>zbiór wszystkich słów utworzonych z liter skończonego alfabetu</span>",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "<span>Wskaż zbiory przeliczalne.</span>",
+      "id": 3519,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span>zbiór wszystkich funkcji ze zbioru liczb parzystych w zbiór {0, 1, 2}</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>zbiór liczb całkowitych nieparzystych</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>zbiór wszystkich okręgów na płaszczyźnie o środkach w punktach o współrzędnych całkowitych</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>zbiór liczb rzeczywistych dodatnich</span>",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "<span>Wskaż zbiory przeliczalne.</span>",
+      "id": 3520,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span>zbiór liczb wymiernych ujemnych</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>zbiór wszystkich funkcji f: N -&gt; {0,1}</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>zbiór liczb rzeczywistych ujemnych</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>zbiór wszystkich słów utworzonych z liter przeliczalnego alfabetu</span>",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "<span>Rozważmy zbiór X taki, że |X| = 100. Wówczas | {X} | wynosi</span>",
+      "id": 3521,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span>1</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>100</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>101</span>",
+          "correct": false
+        },
+        {
+          "answer": "1000",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "<span>Jeśli schemat </span><img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB0AAAAkCAYAAAB15jFqAAACpUlEQVRYR9XWW8jNaRTH8c/rNDMXyuGCzI3CKJqiNMnpwkiUSNE4FVFoZkTTjJSUQ+MtZkbOMpmaCyUXDsnFDBPlYmpIQhFeN9JoMhpDOR9aenb9/duv/3/v993kqX2zn/Vf32et9XuetZo0fnXGh3iIJ4FrajBzNPrgPobhKM40EjoDF9MvYuuK/ZjYKOinGIdNmUzGf9sxplHQdfgBdzPQNamuzXloB8xGL9xO9diYBNADd0poIHxsxVdYhqfojQf4Pi+kMI503EJzcv4dumElduDLEtBPMAurMTQpdyAGJD+vqXcJpmJsxvEQbMPclIG1JaCLcR2/52z/CBHhcSW9EWXI+QKW56C7cAi/4J8S0BBLpDa7uiCg89BSgfbEcUQkBzPWkZ6fsTenxNbYHbETC3MGcV+jnmOyNe2OY/gWJzMfjEiwMH6U/p+P33CzCrk/fsSU3F5k62rae62mYdySBBPfjMIgfIFJWIRT2I1LmFMFGvWMl2cLzqf9FXiODRX77JWJukZa/ktG53AlCSvUdwan0yE+xk9VoCG6bzAdz5LyL+eyV/fbuwB7ctCo52Z8XSS2el6kiLpvqmvWf7+kzlWNgIYSo7b5NTzuIM42Alrks3C/nvQWOi0yeGfQj1qRf9GB693/PyL9IHWEep3U+t29d5beWk/aZvv3JtIJmIl/sT6NNRH95+mNjTf3javWSKOLjMdfGJzm5pgqQowx4iwtAsZ+LdAYrmKii7EmnrtY0eCj1UU7ixEl+mzhqgUaPfUaolVV1meYjBgCoru8KCTWGGk1f51wACdKjjOvfNQSaWvQP1O0f5eJsr2g+zCtLLA9oCPTrBwDXenV1vTGNQlh/Vqa2A41PZxUe+NtQo8kEZW6KpWDtTW98RJVhvDSwb4Eo3l3KN/svroAAAAASUVORK5CYII=\" alt=\"\"><span> jest niezawodną regułą wnioskowania, to formuła </span><img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFYAAAATCAYAAAAKw/ooAAAEfUlEQVRYR+2ZV6hdVRCGv6ixgSWKigVrYseGJaBGFAQLGhKRJKKIQcXeNRq7IYm9YYkakqjRBIwmNtBYUUGxYcUuVgy+2GNBUL7LbFl3ZZ2TvXPP5Z4H5+XC2bNmzf5n5p+ZfQexpAwG/gb+KTzrtp9WBP7qNqf0Z1Dm1HrAycAU4I8ucnglYDSwPDAv8e0gYANgehf52uNKCuwawK3AWcD3XeToDsBRwIvAasAY4CLgnfDxPOC38L1r3E6BvQr4CJjRD96tBZwDTGxoeztgFDA5oSaraVXgjLC1MnAPcCHwSUP7/aZeAbsJcCcwsp8o4MzIuuOB1xu8zQ0RjN+TMwb+J0CblUhfWwGnNbBdUt0U+KKPNnpRwQXA+h1wrOSTDeZh4NW4Q3DryD7AjsDNifLqwCPAucBrye/2Brn3QODXOsZb6DwO6N+3fbDRC9hHgQeipEo2twVOjAcrhO6zNS+3wRwZGbsQGFeTwy35acA2AdiPwDDgaWBm4e4ngDuA+TX9Kql5p9UxaSk2bKKnAvsDPwDnA9/EmXWAXaUCxyudnQroXC7Do1lcCbwEbBk8LNDvApcDl7Zx5KFoLM+Enk5dUuPlb49g2ri2jxfeI3x5o3D+QeAV4JoatluprA0sAE4A3m+hpP+3AesCHwNbA8sBh4S+eMwWWKeB54BdCoYsRSeF67JM8PLPIsMPAGx8JREQX9QSVeTyu8KJP9sAYNTPjkxI1QzIRlGu+fErAJvkKX0A1qMGz3tuAqywXKy+ocBlyYMbIyAfBp1OFNg1Acu6BOwsYGNgv8y6JWpABNfMasVJBkQdI1yJ5fo8MKcNAE4Cdv77Mh1HK4O0b+GsmWLG5cDK0Vs0BNt38/67A+D0uI3SZEvFBDoGWBTBeLvKWF9050zZMeapGMGOLQC7eQREiijJkGgohwHyYyU2pdMBf2+13QmS3f/LzLDZb+lVZZc+NmO9U+7ri0h9F0fTfLKBIZNNfu6ZViqONWOdFVOONZPlRTtlzomW84bAobH+lu539DHbnV9zeQyY0IbH5gJjs0P6qj/6eHXBphz7MnBtAzByVTPe5mf/aMWxrcwbhNnAvRWw/nWEcVxx0E7FSUGCdviuZG/AknTlPRzYPUap/EL5yexx6cjlaMDMHV945uh0f5TWV8lzOXdETBi/FM4JuAEX4GWVapU3+5uKA4BV6Iz930rrRuTOnfPTZoDE7Dpp2do4PgXei2ngBeBzQC5OxUw+opB1lY785Wxrx5eXUpFfbXLy1pvxwLV2cTSMn1sEw8RwtCuBXhekZZ1jXbWvB46rLqqzecm1O0WGvpV4aEPwvEDnslcM6ql+rrMnYEZ+nT2Qkmx2Rl5wFWfEak4sgXRScO9AbV5urLvFKNjjX/6t4INC9tWNdqf0bmk4Mhl4ec3tsRTkTvnVzo4N3I9CUtgSwHbD1y2bh/xtY6srrrfSRD4C1T3fCT0bnlXzXQlYf7NxyLOW40B8j10lVtiKW5f20gdHb7BpDaQY3F4bX/6hW+f+/w9CB0L0L69354I51yN6AAAAAElFTkSuQmCC\" alt=\"\"><span> jest </span>",
+      "id": 3522,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;spełnialna&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:14337,&quot;3&quot;:{&quot;1&quot;:0,&quot;3&quot;:1},&quot;14&quot;:{&quot;1&quot;:3,&quot;3&quot;:1},&quot;15&quot;:&quot;Arial&quot;,&quot;16&quot;:10}\">spełnialna</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>falsyfikowalna</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>sprzeczna</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>tautologią</span>",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "<span>Dla dowolnych niepustych podzbiorów A, B zbioru R i dowolnej funkcji f : A -&gt; B</span>",
+      "id": 3523,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span>relacja, taka że a r b wttw f(a) = f(b) jest relacją równoważności na A</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>jeśli f jest bijekcją, to relacja r taka że a r b wttw f(a) = f(b) jest relacją porządku liniowego na A</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>relacja, taka że a r b wttw f(a) = f(b) jest relacją porządku częściowego na A</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>jeśli f jest bijekcją, to relacja r taka że a r b wttw f(a) = f(b) jest relacją porządku częściowego na A</span>",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "<span>Dla dowolnych niepustych podzbiorów A, B zbioru R i dowolnej funkcji f : A -&gt; B</span>",
+      "id": 3524,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span>relacja, taka że a r b wttw f(a) = f(b) jest relacją porządku częściowego na A</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>relacja r określona w zbiorze A, taka że a r b wttw f(a) jest mniejsze lub równe f(b), jest relacją porządku na A.</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>jeśli f jest bijekcją, to relacja r określona w zbiorze A, taka że a r b wttw f(a) jest mniejsze lub równe f(b), jest relacją porządku dobrego na R,</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>jeśli f jest bijekcją, to relacja r określona w zbiorze A, taka że a r b wttw f(a) jest mniejsze lub równe f(b) jest relacją porządku liniowego na R.</span>",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "<span>Niech r będzie relacją określoną w zbiorze P(N). Wskaż relacje równoważności.</span>",
+      "id": 3525,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span>X r Y wttw | X | = | Y |</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>X r Y wttw część wspólna zbiorów X i Y jest zbiorem pustym</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>X r Y wttw część wspólna zbiorów X i Y jest równa Y</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>X r Y wttw część wspólna zbiorów X i Y jest zbiorem Y</span>",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "<span>Wskaż zdania prawdziwe (własności relacji).</span>",
+      "id": 3526,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span>Niech r będzie relacją określoną w zbiorze U ={-3,-2,0,1,4,5,6}, taką że n r m wttw 3 | (m^2 - n^2). Wówczas r jest relacją przechodnią i spójną.</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>Niech r będzie relacją określoną w zbiorze U = {-2,0,2,4,5,6 }, taką że n r m wttw n|m. Wówczas r jest relacją antysymetryczną i przechodnią.</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>Niech r będzie relacją określoną w zbiorze U = {-2,0,2,4,5,6 }, taką że n r m wttw n &lt; m. Wówczas r jest relacją przechodnią i przeciwsymetryczną.</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>Niech r będzie relacją określoną w zbiorze U ={-3,-2,0,1,4,5,6}, taką że n r m wttw 3 | (m^2 - n^2). Wówczas r jest relacją przechodnią i zwrotną.</span>",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "<span>Wskaż zdania prawdziwe (własności relacji).</span>",
+      "id": 3527,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span>Niech r będzie relacją określoną w zbiorze U = {-2,0,2,4,5,6 }, taką że n r m wttw n &lt; m. Wówczas r jest relacją przeciwzwrotną i spójną.</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>Niech r będzie relacją określoną w zbiorze U ={-3,-2,0,1,4,5,6}, taką że n r m wttw 3 | (m^2 - n^2). Wówczas jeśli r jest relacją spójną, to jest relacją przechodnią.</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>Niech r będzie relacją określoną w zbiorze U ={-3,-2,0,1,4,5,6}, taką że n r m wttw 3 | (m^2 - n^2). Wówczas jeśli r jest relacją przechodnią, to jest relacją spójną.</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>Niech r będzie relacją określoną w zbiorze liczb całkowitych, taką że n r m wttw n mod 3 = m mod 3. Wówczas r jest relacją przechodnią, symetryczną i zwrotną.</span>",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "<span>Wskaż zdania prawdziwe (własności relacji).</span>",
+      "id": 3528,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span>Niech r będzie relacją określoną w zbiorze {0, 1, 2, 3}, taką że r={(0, 1), (1, 2), (2, 3)}. Wówczas r jest relacją przeciwzwrotną i przeciwsymetryczną.</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>Niech r będzie relacją określoną w zbiorze {0, 1, 2, 3}, taką że r={(0, 1), (1, 2), (2, 3)}. Wówczas r jest relacją symetryczną w X.</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>Niech r będzie relacją określoną w zbiorze {0, 1, 2, 3}, taką że r={(0, 0), (1, 1), (2, 2), (3, 3)}. Wówczas r jest relacją symetryczną i antysymetryczną.</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>Niech r będzie relacją określoną w zbiorze {0, 1, 2, 3}, taką że r={(0, 1), (0, 2), (0, 3)}. Wówczas r jest relacją przechodnią w X.</span>",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "<span>Wskaż zdania prawdziwe (własności relacji).</span>",
+      "id": 3529,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span>Niech r będzie relacją określoną w zbiorze {0, 1, 2, 3}, taką że r={(0, 0), (1, 1), (2, 2), (3, 3)}. Wówczas r jest relacją równoważności i porządku liniowego.</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>Niech r będzie relacją określoną w zbiorze liczb naturalnych dodatnich, taką że a r b wttw a | b. Wówczas r jest relacją spójną.</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>Niech r będzie relacją określoną w zbiorze liczb całkowitych, taką że n r m wttw n mod 3 = m mod 3. Wówczas r jest relacją przeciwsymetryczną.</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>Niech r będzie relacją określoną w zbiorze liczb naturalnych dodatnich, taką że a r b wttw a | b. Wówczas r jest zwrotna.</span>",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "<span>Wskaż zdania prawdziwe (zależności między relacjami).</span>",
+      "id": 3530,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span>Każda relacja binarna r, jeśli jest przeciwsymetryczna, to jest przeciwzwrotna.</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>Każda relacja binarna r, jeśli jest antysymetryczna, to jest przeciwsymetryczna.</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>Każda relacja binarna r, jeśli nie jest relacją równoważności, to jest relacją porządku częściowego.</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>Każda relacja binarna r, jeśli jest przeciwsymetryczna, to jest antysymetryczna.</span>",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "<span>Wskaż zdania prawdziwe (zależności między relacjami).</span>",
+      "id": 3531,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span>Każda relacja binarna r, jeśli jest przeciwzwrotna, to jest przeciwsymetryczna.</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>Każda relacja binarna r, jeśli jest symetryczna, to jest spójna.</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>Każda relacja binarna r określona w zbiorze X, jeśli jest relacją porządku częściowego w X, to jest relacją porządku liniowego w X.</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>Każda relacja binarna r określona w zbiorze X, jeśli jest relacją równoważności w X, to jest relacją symetryczną w X.</span>",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "<span>Wskaż zdania prawdziwe (zależności między relacjami).</span>",
+      "id": 3532,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span>Każda relacja binarna r określona w zbiorze X, jeśli jest relacją równoważności w X, to jest relacją przechodnią w X.</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>Każda relacja binarna r określona w zbiorze X, jeśli jest relacją porządku dobrego w X, to jest relacją porządku częściowego w X.</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>Każda relacja binarna r określona w zbiorze X, jeśli jest relacją porządku częściowego w X, to jest relacją porządku dobrego w X.</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>Każda relacja binarna r określona w zbiorze X, jeśli jest relacją spójną w X, to jest relacją porządku liniowego w X.</span>",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "<span>Wskaż zdania prawdziwe (zależności między relacjami).</span>",
+      "id": 3533,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span>Każda relacja binarna r określona w zbiorze X, jeśli jest przeciwsymetryczna, to jest antysymetryczna.</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>Każda relacja binarna r określona w zbiorze X, jeśli jest przeciwsymetryczna, to jest przeciwzwrotna.</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>Każda relacja binarna r określona w zbiorze X, jeśli jest relacją przechodnią i symetryczną w X, to jest relacją równoważności w X.</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>Każda relacja binarna r określona w zbiorze X, jeśli jest relacją porządku liniowego w X, to jest relacją porządku częściowego w X.</span>",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "<span>Wskaż zdania prawdziwe (zależności między relacjami).</span>",
+      "id": 3534,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span>Każda relacja binarna r określona w zbiorze X, jeśli jest relacją porządku częściowego w X, to jest relacją równoważności w X.</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>Każda relacja binarna r określona w zbiorze X, jeśli jest relacją równoważności w X, to jest relacją porządku częściowego w X.</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>Każda relacja binarna r, jeśli jest przeciwsymetryczna, to jest antysymetryczna.</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>Każda relacja binarna r, jeśli jest przeciwsymetryczna, to jest przeciwzwrotna.</span>",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "<span>Wskaż poprawne zależności.</span>",
+      "id": 3535,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span>Jeśli v((p -&gt; (q -&gt; r)) -&gt; ((p -&gt; r) -&gt; (q -&gt; r))) = 0, to v(r) = 0.</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>Jeśli v((p -&gt; (q -&gt; r)) -&gt; ((p -&gt; r) -&gt; (q -&gt; r))) = 0, to v(r) = 1.</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>Jeśli v(a -&gt; (b -&gt; (a and b))) = 1, to v(a) = 0.</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>Jeśli v((p -&gt; s) -&gt; (s -&gt; p)) = 0, to v(p) = 0 i v(s) = 1.</span>",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "<span>Wskaż poprawne zależności.</span>",
+      "id": 3536,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span>Jeśli v((p -&gt; p) -&gt; p) = 1, to v(p) = 1. </span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>Jeśli v(p -&gt; ( - p -&gt; r)) = 1, to v(p) = 1.</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>Jeśli dla pewnego wartościowania v zachodzi v( x -&gt; ( y -&gt; ( x and y ) ) ) = 1, to v(y) = 1.</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>Jeśli dla pewnego wartościowania v zachodzi v( p or q ) = 1 oraz v( p &lt;--&gt; q) = 1, to v(p) = 0.</span>",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "<span>Wskaż poprawne zależności.</span>",
+      "id": 3537,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span>Jeśli dla pewnego wartościowania v zachodzi v( ( p -&gt; p ) -&gt; p ) = 0, to v(p) = 0.</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>Jeśli dla pewnego wartościowania v zachodzi v( ( p -&gt; q ) -&gt; (q -&gt;p) ) = 0, to v( p ) = 0. </span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>Jeśli dla pewnego wartościowania v zachodzi v( p -&gt; q ) = 1 oraz v( - q) = 1, to v(p) = 0.</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>Jeśli dla pewnego wartościowania v zachodzi v( ( w -&gt; s ) -&gt; ( - w -&gt; - s ) )=0, to v(w) = 1 i v(s) = 0. </span>",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "<span>Wskaż tautologie rachunku predykatów. W poniższych odpowiedziach zastosowano następujące oznaczenia: E - dla kwantyfikatora 'istnieje' oraz A - dla kwantyfikatora 'dla każdego'.</span>",
+      "id": 3538,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span>(Ex p(x)) and (Ex q(x)) -&gt; (Ex (p(x) and q(x)))</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>(Ax (p(x) or q(x))) -&gt; (Ax p(x)) or (Ax q(x))</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>(Ex(p(x) -&gt; q(x))) -&gt; (Ex p(x) -&gt; Ex q(x))</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>(Ex (p(x) and q(x))) -&gt; (Ex p(x)) and (Ex q(x))</span>",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "<span>Wskaż tautologie rachunku predykatów. W poniższych odpowiedziach zastosowano następujące oznaczenia: E - dla kwantyfikatora 'istnieje' oraz A - dla kwantyfikatora 'dla każdego'.</span>",
+      "id": 3539,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span>(Ax (p(x)) -&gt; q(x)) -&gt; (Ax (p(x) -&gt; Ax q(x)))</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>(Ex (p(x) or q(x))) -&gt; (Ex p(x)) or (Ex q(x)) </span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>(Ax (p(x) and q(x))) -&gt; (Ax p(x)) and (Ax q(x))</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>(Ex Ay p(x,y)) -&gt; (Ay Ex p(x,y))</span>",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "<span>Wskaż tautologie rachunku predykatów. W poniższych odpowiedziach zastosowano następujące oznaczenia: E - dla kwantyfikatora 'istnieje' oraz A - dla kwantyfikatora 'dla każdego'.</span>",
+      "id": 3540,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span>- Ax p(x) -&gt; Ex (- p(x))</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>(Ex p(x)) or (Ex q(x)) -&gt; (Ex (p(x) or q(x))) </span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>(Ax (p(x) or q(x))) -&gt; (Ex p(x) and Ex q(x))</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>- Ex p(x) -&gt; Ax (- p(x))</span>",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "<span>Wskaż zdania prawdziwe. (Wykres funkcji zdaniowej)</span>",
+      "id": 3553,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span>Wykresem funkcji zdaniowej y &lt; x^2 jest obszar płaszczyzny nad wykresem paraboli y = x^2.</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>Wykresem funkcji zdaniowej y &lt;= x+1 jest obszar płaszczyzny pod prostą y = x+1 (z prostą włącznie). </span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>Wykresem funkcji zdaniowej y &lt; x^2 jest obszar płaszczyzny pod wykresem paraboli y = x^2.</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>Wykresem funkcji zdaniowej x^2+ y^2 &lt;= 1 jest koło o środku (0,0) i promieniu 1.</span>",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "<span>Wskaż zdania prawdziwe. (Wykres funkcji zdaniowej)</span>",
+      "id": 3554,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span>Wykresem funkcji zdaniowej (x+1)^2+ (y+1)^2 &lt;= 1 jest koło o środku (0,0) i promieniu 1.</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>Wykresem funkcji zdaniowej x^2 = y^2 jest suma prostych y = x oraz y = -x.</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>Wykresem funkcji zdaniowej Ex ( y=2^x ) w zbiorze liczb rzeczywistych jest zbiór [ 0 , nieskończoność )</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>Wykresem funkcji zdaniowej Ex ( y =/= x and y^2 = x^2 ) w zbiorze liczb rzeczywistych jest zbiór R{0}</span>",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "<span>Wskaż zdania prawdziwe (obraz i przeciwobraz).</span>",
+      "id": 3555,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span>Jeśli f: R -&gt; R, f(x) = min({x,3}), to f^{-1}( {1, 2, 3} ) = N+.</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>Jeśli f: R -&gt; R, f(x) = min({x,3}), to f^{-1}( {1,2,3} ) = {1, 2, 3}.</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>Jeśli f: R -&gt; R, f(x) = min({x,3}), to f( {1,2,3} ) = N+.</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>Jeśli f: R -&gt; R, f(x) = min({x,3}), to f^{-1}(N+) = N+.</span>",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "<span>Wskaż zdania prawdziwe (obraz i przeciwobraz).</span>",
+      "id": 3556,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span>Jeśli f: R -&gt; R, f(x) = min({x,3}), to f( {1,2,3} ) = {1, 2, 3}.</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>Jeśli f: Z -&gt; Z, f(x) = x mod 5, to f^{-1}( {0, 1} ) = {5, 6}.</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>Jeśli f: R{0} -&gt; R{0}, f(x) = 1/x, to f^{-1}( A ) = ( 1, +oo), dla A= (0, 1).</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>Jeśli f: R{0} -&gt; R, f(x) = 1/x, to f( A ) = (0, 1), dla A= (1, +oo).</span>",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "<span>Wskaż zdania prawdziwe (obraz i przeciwobraz).</span>",
+      "id": 3557,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span>Jeśli f: R -&gt; R, f(x) = x^2, to f^{-1}( A ) = (-1, 1)., dla A=(-1, 1).</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>Jeśli f: Z -&gt; Z, f(x) = x mod 5, to f^{-1}( {0, 1} ) = {5, 6}.</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>Jeśli f: R -&gt; R, f(x) = min({x,3}), to f( {1,2,3} ) = N+.</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>Jeśli f: R{0} -&gt; R, f(x) = 1/x, to f( A ) = (0, +oo), dla A= (0, +oo).</span>",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "<span>Wskaż relacje r określone w zbiorze X, które są relacjami równoważności.</span>",
+      "id": 3558,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span>X = Z, r = { (x, y) : x = y }.</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>X = Z, r = {(x, y) : x - y jest podzielne przez 4}.</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>X=Z, r = { (x, y) : 3 | x wttw 3 | y }</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>X = N, r = {(x, y) : xy = 2k dla pewnej liczby całkowitej k}.</span>",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "<span>Wskaż relacje r określone w zbiorze X, które są relacjami równoważności.</span>",
+      "id": 3559,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span>X = Z, n r m wttw n mod 3 = m mod 3</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>W zbiorze liczb naturalnych od 10 do 100000000000 wprowadzamy relację, taką że x r y wttw liczba x ma tyle samo cyfr co liczba y.</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>X = {x, y, z}, r = {(x, x), (y, y), (y, z), (z, y), (z, z)}.</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>X = Z, a r b wttw a | b</span>",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "<span>Wskaż relacje r określone w zbiorze X, które są relacjami równoważności.</span>",
+      "id": 3560,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span>X = Z, r = {(x, y) : x - y jest podzielne przez 3}.</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>X = P(N), A r B wttw {0, 1}  A = {0, 1}  B.</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>X = { 1, 2, 3, 4, 5 }, r = { (x, y) : ( x-y )^2 jest mniejsze lub równe 1 } </span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>X = P(N), A r B wttw A  {0, 1} = B  {0, 1}.</span>",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "<span>Wskaż relacje r określone w zbiorze X, które są relacjami równoważności.</span>",
+      "id": 3561,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span>X = N, r = {(x, y) : max({x, y}) = x.</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>W zbiorze słów występujących jako hasła w „Słowniku języka polskiego” wprowadzamy relację, taką że x r y wttw słowo x zaczyna się na tę samą literę, co słowo y.</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>X = N, r = {(x, y) : x + y = 2k dla pewnej liczby całkowitej k}.</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>X = { 1, 2, 3, 4, 5 }, r = { (x, y) : ( x jest mniejsze równe 3 i y jest mniejsze równe 3) lub ( x &gt; 3 i y &gt; 3 ) }</span>",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "<span>Wskaż zdania prawdziwe (klasy abstrakcji).</span>",
+      "id": 3562,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span>Niech r będzie relacją określoną w zbiorze Z taką, że x r y wttw |x| = |y|. Wówczas [6] = [7].</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>Niech r będzie relacją określoną w zbiorze Z taką, że x r y wttw |x| = |y|. Wówczas [6] = [-6].</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>Niech r będzie relacją określoną w zbiorze P(N) taką, że A r B wttw A  {0, 1} = B  {0, 1}. Wówczas [ {0, 1, 3, 4} ]. = [ {0, 3, 4} ] .</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>Niech r będzie relacją określoną w zbiorze P(N) taką, że A r B wttw A  {0,1} = B  {0,1}. Wówczas r ma 4 klasy abstrakcji.</span>",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "<span>Wskaż zdania prawdziwe (klasy abstrakcji).</span>",
+      "id": 3563,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span>Relacja r taka, że x r y wttw x^2 = y^2 określona w zbiorze liczb całkowitych ma 2 klasy abstrakcji.</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>Niech r będzie relacją określoną w zbiorze P(N) taką, że A r B wttw A  {0,1} = B  {0,1}. Wówczas r ma nieskończenie wiele klas abstrakcji.</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>Relacja r = { (x, y) : 5 | (x - y) } określona w zbiorze Z ma 4 klas abstrakcji.</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>Niech r będzie relacją określoną w zbiorze P(N) taką, że A r B wttw {0, 1}  A = {0, 1}  B. Wówczas [ {0, 1} ]. = [ {0, 1, 2, 3} ] .</span>",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "<span>Wskaż zdania prawdziwe (klasy abstrakcji).</span>",
+      "id": 3564,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span>Relacja r = { (x, y) : ( x jest mniejsze lub równe 5 i y jest mniejsze lub równe 5) lub (x &gt; 5 i y &gt; 5 ) } określona w zbiorze X = { 2, 3, 4, 6, 8, 10 } ma 5 klas abstrakcji.</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>Relacja r = { (x, y) : ( x jest mniejsze lub równe 4 i y jest mniejsze lub równe 4) lub (x &gt; 4 i y &gt; 4 ) } określona w zbiorze X = { 2, 3, 4, 6, 8, 10 } ma 2 klasy abstrakcji.</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>Niech r będzie relacją określoną w zbiorze P(N) taką, że A r B wttw {0, 1}  A = {0, 1}  B. Wówczas r ma 4 klasy abstrakcji.</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>Niech r będzie relacją określoną w zbiorze P(N) taką, że A r B wttw {0, 1}  A = {0, 1}  B. Wówczas [ {1, 2, 3} ]. = [ {0, 1, 2, 3} ] .</span>",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "<span>Wskaż zdania prawdziwe (klasy abstrakcji).</span>",
+      "id": 3565,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span>Relacja r taka, że x r y wttw x^2 = y^2 określona w zbiorze liczb całkowitych ma nieskończenie wiele klas abstrakcji.</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>Relacja r = { (x, y) : 7 | (x - y) } określona w zbiorze Z ma 7 klas abstrakcji.</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>Relacja r = { (x, y) : 4 | x wttw 4 | y } w zbiorze Z ma 4 klasy abstrakcji.</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>Relacja r = { (x, y) : 3 | x wttw 3 | y } w zbiorze Z ma 2 klasy abstrakcji.</span>",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "<span>Wskaż zdania prawdziwe (elementy wyróżnione, inf, sup).</span>",
+      "id": 3566,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span>r jest relacją określoną w zbiorze X = {{1}, {1,2}, {2,3}, {1,2,3,4}, {2,3,5}}, taką że X r Y wttw X jest podzbiorem Y. Wówczas elementem najmniejszym w zbiorze uporządkowanym (X,r) jest {1}.</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>r jest relacją określoną w zbiorze X = {{1}, {1,2}, {2,3}, {1,2,3,4}, {2,3,5}}, taką że X r Y wttw X jest podzbiorem Y. Wówczas elementem największym w zbiorze uporządkowanym (X,r) jest {2,3,5}.</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>r jest relacją określoną w zbiorze X = {{1}, {1,2}, {2,3}, {1,2,3,4}, {2,3,5}}, taką że X r Y wttw X jest podzbiorem Y. Wówczas inf{ {2,3}, {1,2,3,4}} = {2,3}.</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>r jest relacją określoną w zbiorze X = {{1}, {1,2}, {2,3}, {1,2,3,4}, {2,3,5}}, taką że X r Y wttw X jest podzbiorem Y. Wówczas elementem minimalnym w zbiorze uporządkowanym (X,r) jest {1}.</span>",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "<span>Wskaż zdania prawdziwe (elementy wyróżnione, inf, sup).</span>",
+      "id": 3567,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span>r jest relacją określoną w zbiorze X = {{1}, {1,2}, {2,3}, {1,2,3,4}, {2,3,5}}, taką że X r Y wttw X jest podzbiorem Y. Wówczas elementem maksymalnym w zbiorze uporządkowanym (X,r) jest {2,3,5}.</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>r jest relacją określoną w zbiorze X = {{1}, {1,2}, {2,3}, {1,2,3,4}, {2,3,5}}, taką że X r Y wttw X jest podzbiorem Y. Wówczas sup{ {1,2}, {2,3} } = {2,3}.</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>r jest relacją określoną w zbiorze X = {{2}, {3, 4}, {4, 5}, {5, 6}, {4, 5, 6}, {5, 6, 7}, {3, 4, 5, 6}, {4, 5, 6, 7} }, taką że X r Y wttw X jest podzbiorem Y. Wówczas {4, 5, 6, 7} jest elementem największym w zbiorze uporządkowanym (X,r).</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>r jest relacją określoną w zbiorze X = {2, 5, 10, 15, 20, 25, 30}, taką że x r y wttw x | y. Wówczas 5 jest elementem minimalnym w zbiorze uporządkowanym (X,r).</span>",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "<span>Wskaż zdania prawdziwe (elementy wyróżnione, inf, sup).</span>",
+      "id": 3568,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span>r jest relacją określoną w zbiorze X = {2, 5, 10, 15, 20, 25, 30}, taką że x r y wttw x | y. Wówczas inf{20, 25} = 5.</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>r jest relacją określoną w zbiorze X = {{2}, {3, 4}, {4, 5}, {5, 6}, {4, 5, 6}, {5, 6, 7}, {3, 4, 5, 6}, {4, 5, 6, 7} }, taką że X r Y wttw X jest podzbiorem Y. Wówczas inf{ {4, 5}, {5, 6}}={5}.</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>r jest relacją określoną w zbiorze X = {1, 2, 5, 10, 15, 20, 25, 30}, taką że x r y wttw x | y. Wówczas elementem najmniejszym w zbiorze uporządkowanym (X,r) jest 1.</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>r jest relacją określoną w zbiorze X = {2, 5, 10, 15, 20, 25, 30}, taką że x r y wttw x | y. Wówczas sup{2, 5, 15} = 30.</span>",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "<span>Wskaż zdania prawdziwe (elementy wyróżnione, inf, sup).</span>",
+      "id": 3569,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span>r jest relacją określoną w zbiorze X = {{2}, {3, 4}, {4, 5}, {5, 6}, {4, 5, 6}, {5, 6, 7}, {3, 4, 5, 6}, {4, 5, 6, 7} }, taką że X r Y wttw X jest podzbiorem Y. Wówczas inf{ {4, 5}, {3, 4}}={2}.</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>r jest relacją określoną w zbiorze X = {{2}, {3, 4}, {4, 5}, {5, 6}, {4, 5, 6}, {5, 6, 7}, {3, 4, 5, 6}, {4, 5, 6, 7} }, taką że X r Y wttw X jest podzbiorem Y. Wówczas inf{ {4, 5, 6}, {5, 6, 7} }={5, 6}.</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>r jest relacją określoną w zbiorze X = {2, 5, 10, 15, 20, 25, 30}, taką że x r y wttw x | y. Wówczas inf{20, 30} = 2.</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>r jest relacją określoną w zbiorze X = {{2}, {3, 4}, {4, 5}, {5, 6}, {4, 5, 6}, {5, 6, 7}, {3, 4, 5, 6}, {4, 5, 6, 7}}, taką że X r Y wttw X jest podzbiorem Y. Wówczas {3, 4, 5, 6} jest elementem maksymalnym w zbiorze uporządkowanym (X,r).</span>",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Wskaż zdania prawdziwe (rodzaje porządków).",
+      "id": 3601,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "relacja r określoną w zbiorze P(N) taka, że X r Y wttw X jest podzbiorem Y jest relacją porządku częściowego.",
+          "correct": true
+        },
+        {
+          "answer": "<table width=\"821\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col width=\"821\"></colgroup>\n<tbody>\n<tr>\n<td class=\"xl63\" width=\"821\" height=\"21\">relacja r określoną w zbiorze N+ taka, że x r y wttw x | y jest relacją porządku dobrego.</td>\n</tr>\n</tbody>\n</table>",
+          "correct": false
+        },
+        {
+          "answer": "relacja r określoną w zbiorze N+ taka, że x r y wttw x | y jest relacją porządku częściowego.",
+          "correct": true
+        },
+        {
+          "answer": "relacja r określoną w zbiorze P(N) taka, że X r Y wttw X jest podzbiorem Y jest relacją porządku liniowego.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wskaż zdania prawdziwe (rodzaje porządków).",
+      "id": 3602,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "relacja r określoną w zbiorze Z taka, że x r y wttw x = y jest relacją porządku częściowego.",
+          "correct": true
+        },
+        {
+          "answer": "relacja r określoną w zbiorze R taka, że x r y wttw x &lt; y jest relacją porządku dobrego.",
+          "correct": false
+        },
+        {
+          "answer": "relacja r określoną w zbiorze P(N) taka, że X r Y wttw X jest podzbiorem Y jest relacją porządku dobrego",
+          "correct": false
+        },
+        {
+          "answer": "relacja r określoną w zbiorze Z taka, że x r y wttw x | y jest relacją porządku liniowego.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wskaż zdania prawdziwe (rodzaje porządków).",
+      "id": 3603,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "relacja r określoną w zbiorze Z taka, że x r y wttw x | y jest relacją porządku częściowego.",
+          "correct": false
+        },
+        {
+          "answer": "relacja r określoną w zbiorze Z taka, że x r y wttw x = y jest relacją porządku liniowego.",
+          "correct": false
+        },
+        {
+          "answer": "Niech r będzie relacją określoną w zbiorze { 2^k : k jest liczbą naturalną }, taką że a r b wttw a | b. Wówczas r jest relacją porządku dobrego.",
+          "correct": true
+        },
+        {
+          "answer": "Niech r będzie relacją określoną w zbiorze {0, 1, 2, 3}, taką że r={(0, 0), (0, 1), (0, 2), (1, 1), (1, 2), (2, 2)}. Wówczas r jest relacją porządku dobrego.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wskaż zdania prawdziwe (rodzaje porządków)",
+      "id": 3604,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "Niech r będzie relacją określoną w zbiorze wszystkich podzbiorów zbioru liczb naturalnych, taką że A r B wttw A jest podzbiorem B. Wówczas r jest relacją porządku dobrego.",
+          "correct": false
+        },
+        {
+          "answer": "Niech r będzie relacją określoną w zbiorze liczb rzeczywistych, taką że n r m wttw |n - m| &lt; 3. Wówczas r jest relacją porządku częściowego.",
+          "correct": false
+        },
+        {
+          "answer": "Niech r będzie relacją określoną w zbiorze {0, 1, 2, 3}, taką że r={ (0, 0), (0, 1), (0, 2), (1, 1), (1, 2), (2, 2), (3, 3) }. Wówczas r jest relacją porządku częściowego.",
+          "correct": true
+        },
+        {
+          "answer": "Niech r będzie relacją określoną w zbiorze liczb całkowitych, taką że a r b wttw a | b. Wówczas r jest relacją porządku częściowego.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wskaż zdania prawdziwe (rodzaje porządków).",
+      "id": 3605,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "Niech r będzie relacją określoną w zbiorze liczb naturalnych dodatnich, taką że a r b wttw a | b. Wówczas r jest relacją porządku liniowego.",
+          "correct": false
+        },
+        {
+          "answer": "Niech r będzie relacją określoną w zbiorze liczb rzeczywistych, taką że n r m wttw |n - m| &lt; 3. Wówczas r jest relacją antysymetryczną lub zwrotną.",
+          "correct": true
+        },
+        {
+          "answer": "Niech r będzie relacją określoną w zbiorze liczb całkowitych, taką że a r b wttw a | b. Wówczas r jest relacją zwrotną.",
+          "correct": false
+        },
+        {
+          "answer": "Niech r będzie relacją określoną w zbiorze liczb rzeczywistych, taką że n r m wttw |n - m| &gt; 3. Wówczas r jest relacją antysymetryczną lub przeciwzwrotną.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Wskaż zdania prawdziwe (rodzaje porządków).",
+      "id": 3606,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "Niech r będzie relacją określoną w zbiorze {0, 1, 2, 3}, taką że r={(0, 1), (1, 2), (2, 3)}. Wówczas r jest relacją porządku liniowego.",
+          "correct": false
+        },
+        {
+          "answer": "Niech r będzie relacją określoną w zbiorze wszystkich podzbiorów zbioru liczb naturalnych, taką że A r B wttw A jest podzbiorem B. Wówczas r jest relacją porządku częściowego.",
+          "correct": true
+        },
+        {
+          "answer": "Niech r będzie relacją określoną w zbiorze liczb całkowitych, taką że a r b wttw a | b. Wówczas r jest relacją antysymetryczną.",
+          "correct": true
+        },
+        {
+          "answer": "<span>Niech r będzie relacją określoną w zbiorze liczb naturalnych dodatnich, taką że a r b wttw a | b. Wówczas r jest relacją porządku liniowego.</span>",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wskaż zdania prawdziwe. (Iloczyn Kartezjański)",
+      "id": 3607,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "Jeśli A={x,y}, B={p,q}, to |A x B| = 4.",
+          "correct": true
+        },
+        {
+          "answer": "Jeśli A={x,y,z}, B={p,q,r}, to A x B = {(x,p), (y,q), (z,r)}.",
+          "correct": false
+        },
+        {
+          "answer": "Jeśli A={x,y,z}, B={p,q,r}, to |A x B| = |B x A|.",
+          "correct": true
+        },
+        {
+          "answer": "Jeśli A = {(a, b)} oraz B = {1, 2}, to |A x B| = 2.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Wskaż zdania prawdziwe. (Iloczyn Kartezjański)",
+      "id": 3608,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "Jeśli A = {+,&nbsp; -} oraz B = {1, 2}, to A x B = {(+, 1), (-, 2)}.",
+          "correct": false
+        },
+        {
+          "answer": "Jeśli A={x,y}, B={p,q}, to&nbsp; A x B = {(x,p),(x,q),(y,p),(y,q)}.",
+          "correct": true
+        },
+        {
+          "answer": "Jeśli A = { x, y }, B = { p, q }, to&nbsp; A jest podzbiorem B x A.",
+          "correct": false
+        },
+        {
+          "answer": "Jeśli A = { x, y }, B = { p, q }, to&nbsp; | A x B |=| B x A|.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Wskaż zdania prawdziwe. (Działania na zbiorach) W odpowiedziach użyto następujących symboli: + - suma zbiorów, * - iloczyn (część wspólna) zbiorów,  - różnica zbiorów.",
+      "id": 3609,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "Jeśli A = {0, 1} oraz B = {0, 1, 2}, to B  A = A * B.",
+          "correct": false
+        },
+        {
+          "answer": "Jeśli A = {0, 1} oraz B = {0, 1, 2}, to A * B = (A + B)  (B  A).",
+          "correct": true
+        },
+        {
+          "answer": "Jeśli A={p,q,r}, B={p,r}, to AB jest zawarte w BA.",
+          "correct": false
+        },
+        {
+          "answer": "Jeśli A={x,y,z}, B={x,z}, to A * B = A.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wskaż zdania prawdziwe. (Działania na zbiorach) W odpowiedziach użyto następujących symboli: + - suma zbiorów, * - iloczyn (część wspólna) zbiorów,  - różnica zbiorów.",
+      "id": 3610,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "Jeśli A = { p, q, r }, B = { p, r, s }, to B  A jest podzbiorem A  B.",
+          "correct": false
+        },
+        {
+          "answer": "Jeśli A = { p, q, r }, B = { p, r }, to A  B jest podzbiorem A.",
+          "correct": true
+        },
+        {
+          "answer": "Jeśli A = { x, y, z }, B = { x, z }, to A + B = A.",
+          "correct": true
+        },
+        {
+          "answer": "Jeśli A = { x, y, z }, B = { x, z }, to A  B jest podzbiorem B.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wskaż zdania prawdziwe. (Działania na zbiorach) W odpowiedziach użyto następujących symboli: + - suma zbiorów, * - iloczyn (część wspólna) zbiorów,  - różnica zbiorów.",
+      "id": 3611,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "Jeśli A = { x, y, z }, B = { x, z }, to A + B = { x, y, z }.",
+          "correct": true
+        },
+        {
+          "answer": "Jeśli A = { x, y, z }, B = { x, z }, to A * B = { x, y, z }.",
+          "correct": false
+        },
+        {
+          "answer": "Jeśli A = { p, q, r }, B = { p, r, s }, to B  A jest podzbiorem A  B.",
+          "correct": false
+        },
+        {
+          "answer": "Jeśli A = { x, y, z }, B = { x, z }, to A  B jest podzbiorem B.",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Wskaż tautologie rachunku zdań.",
+      "id": 3612,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "(((p -&gt; p) -&gt; p) -&gt; p) -&gt; p",
+          "correct": false
+        },
+        {
+          "answer": "p -&gt; (q -&gt; (p -&gt; (q -&gt; (p -&gt; q))))",
+          "correct": true
+        },
+        {
+          "answer": "((p and q) -&gt; p) -&gt; (p -&gt; (p or q))",
+          "correct": true
+        },
+        {
+          "answer": "(p -&gt; (p or q)) -&gt; ((p and q) -&gt; p)",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Wskaż tautologie rachunku zdań.",
+      "id": 3613,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "p -&gt; (p -&gt; (p -&gt; (p -&gt; (p -&gt; p))))",
+          "correct": true
+        },
+        {
+          "answer": "(p -&gt; (q -&gt; r)) -&gt; ((p and q) -&gt; r)",
+          "correct": true
+        },
+        {
+          "answer": "( p -&gt; - q ) -&gt; - (p and q)",
+          "correct": true
+        },
+        {
+          "answer": "( q and p ) -&gt; ( q &lt;--&gt; p )",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Wskaż tautologie rachunku zdań.",
+      "id": 3614,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "( ( p and q ) -&gt; r ) -&gt; ( p -&gt; ( q -&gt; r ) )",
+          "correct": true
+        },
+        {
+          "answer": "( - p -&gt; q ) -&gt; (p and q)&nbsp;",
+          "correct": false
+        },
+        {
+          "answer": "( ( p -&gt; p ) -&gt; p ) -&gt; p",
+          "correct": true
+        },
+        {
+          "answer": "p -&gt; ( q -&gt; p )",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Wskaż tautologie rachunku zdań.",
+      "id": 3615,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "( p -&gt; q ) -&gt; p",
+          "correct": false
+        },
+        {
+          "answer": "( p &lt;--&gt; - q) &lt;--&gt; (- p &lt;--&gt; q )",
+          "correct": true
+        },
+        {
+          "answer": "(((p -&gt; p) -&gt; p) -&gt; p) -&gt; p",
+          "correct": false
+        },
+        {
+          "answer": "( q and p ) -&gt; ( q &lt;--&gt; p )",
+          "correct": true
+        }
+      ]
+    }
+  ],
+  "updatedAt": 1614218654503
+}

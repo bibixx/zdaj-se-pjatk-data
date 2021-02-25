@@ -6860,6 +6860,215 @@
       ]
     },
     {
+      "question": "Rozważmy algorytm AVLConstruct postaci:<p></p>\n<p>&nbsp;</p>\n<p><img src=\"https://gakko.pjwstk.edu.pl/public/2271//ASD/Zima1516/TestyPseudokody/AVLConstruct.gif\" alt=\"\"></p>\n<p>Niech drzewo <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+T+%24\" alt=\"\"> będzie rezultatem działania algorytmu AVLConstruct dla danych wejściowych:</p>\n<ul>\n<li>tablica elementów <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+E%3d%5c%5b+13%2c9%2c7%2c12%2c10%2c4%2c3%2c6%2c11%2c17+%5c%5d+%24\" alt=\"\">.</li>\n</ul>\n<p>Które z poniższych zdań jest prawdziwe?\n          </p>",
+      "id": 3500,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "Łączna liczba rotacji pojedynczych w lewo wykonanych w trakcie budowy drzewa <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+T+%24\" alt=\"\"> jest równa dokładnie <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+0+%24\" alt=\"\">",
+          "correct": true
+        },
+        {
+          "answer": "Etykiety wierzchołków drzewa <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+T+%24\" alt=\"\"> wypisane w kolejności PostOrder tworzą ciąg: <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+3%2c6%2c7%2c4%2c11%2c10%2c17%2c13%2c12%2c9+%24\" alt=\"\">",
+          "correct": true
+        },
+        {
+          "answer": "Liczba wierzchołków zewnętrznych drzewa <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+T+%24\" alt=\"\"> jest równa dokładnie <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+4+%24\" alt=\"\">",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Rozważmy algorytm HeapFastConstruct (szybkiej budowy kopca-drzewa binarnego) postaci:<p></p>\n<p>&nbsp;</p>\n<p><img src=\"https://gakko.pjwstk.edu.pl/public/2271//ASD/Zima1516/TestyPseudokody/HeapFastConstruct.gif\" alt=\"\"></p>\n<p>Niech kopiec <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+H+%24\" alt=\"\"> będzie rezultatem działania algorytmu HeapFastConstruct dla danych wejściowych:</p>\n<ul>\n<li>tablica elementów <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+E%3d%5c%5b+8%2c17%2c0%2c4%2c10%2c3%2c13%2c2%2c19%2c18+%5c%5d+%24\" alt=\"\">.</li>\n</ul>\n<p>Które z poniższych zdań jest prawdziwe?\n          </p>",
+      "id": 3501,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "Liczba operacji porównań elementów kopca-drzewa wykonanych w trakcie jego budowy jest równa dokładnie <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+13+%24\" alt=\"\">",
+          "correct": true
+        },
+        {
+          "answer": "Liczba operacji przestawień elementów kopca-drzewa wykonanych w trakcie jego budowy jest równa dokładnie <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+5+%24\" alt=\"\">",
+          "correct": true
+        },
+        {
+          "answer": "Wysokość kopca-drzewa <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+H+%24\" alt=\"\"> jest równa dokładnie <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+2+%24\" alt=\"\">",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Rozważmy funkcje zmiennej <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+n+%5cin+%5cmathbb%7bN%7d+%24\" alt=\"\">. Które z poniższych zdań jest prawdziwe?",
+      "id": 3502,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "Funkcja <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+n!+%24\" alt=\"\"> jest poprawnym dolnym ograniczeniem funkcji <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+5%5e%7b%5csqrt%7bn%7d%7d%5c%2cn%5e%7be%5e+%7b-+1+%7d%7d%5c%2c%5clog+%5e7n%5c%2c100%5e%7bn%7d+%24\" alt=\"\">",
+          "correct": false
+        },
+        {
+          "answer": "Funkcja <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;amamp;chf=bg,s,65432100&amp;chl=%24+5%5e%7b%7b%7bn%7d%5cover%7b2%7d%7d%7d+%24\" alt=\"\"> jest poprawnym górnym ograniczeniem funkcji <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+%5cpi%5e%7b%5csqrt%7bn%7d%7d%2bn%5e%7b100%7d%2b%5clog+%5e3n%2b%5clog+%5e%7be%7dn+%24\" alt=\"\">",
+          "correct": true
+        },
+        {
+          "answer": "Funkcja <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+10%5e%7b%7b%7bn%7d%5cover%7b2%7d%7d%7d+%24\" alt=\"\"> jest poprawnym dolnym ograniczeniem funkcji <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+n%5e5%2b2%5e%7b%7b%7bn%7d%5cover%7b2%7d%7d%7d%2b%5clog+%5e%7b10%7dn%2bn%5e2+%24\" alt=\"\">",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Rozważmy algorytm DFS postaci:<p></p>\n<p>&nbsp;</p>\n<p><img src=\"https://gakko.pjwstk.edu.pl/public/2271//ASD/Zima1516/TestyPseudokody/DFS.gif\" alt=\"\"></p>\n<p>dla grafu <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+G%3d(V%2cE)+%24\" alt=\"\">:</p>\n<ul>\n<li>zbiór wierzchołków grafu <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+V%3d%5c%7b+0%2c1%2c...%2c7+%5c%7d+%24\" alt=\"\">,</li>\n<li>zbiór krawędzi grafu <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+E+%24\" alt=\"\">zadany tablicą list incydencji:\n<ul>\n<li><img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+%5b0%5d%3d(6%2c7)+%24\" alt=\"\"></li>\n<li><img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+%5b1%5d%3d(3%2c4)+%24\" alt=\"\"></li>\n<li><img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+%5b2%5d%3d(3%2c4%2c5)+%24\" alt=\"\"></li>\n<li><img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+%5b3%5d%3d(1%2c2%2c5%2c7)+%24\" alt=\"\"></li>\n<li><img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+%5b4%5d%3d(1%2c2%2c5%2c6)+%24\" alt=\"\"></li>\n<li><img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+%5b5%5d%3d(2%2c3%2c4%2c6)+%24\" alt=\"\"></li>\n<li><img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+%5b6%5d%3d(0%2c4%2c5)+%24\" alt=\"\"></li>\n<li><img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+%5b7%5d%3d(0%2c3)+%24\" alt=\"\"></li>\n</ul>\n</li>\n<li>wierzchołek startowy <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+s%3d7+%24\" alt=\"\">.</li>\n</ul>\n<p>przedstawionego na poniższym rysunku.</p>\n<p>&nbsp;</p>\n<p><img src=\"https://gakko.pjwstk.edu.pl/public/2271//ASD/Zima1516/TestyRysunki/DFS/DFS_133.gif\" alt=\"\"></p>\n<p>Które z poniższych zdań jest prawdziwe? Uwaga! W algorytmie DFS wierzchołki grafu umieszczamy na stosie pomocniczym w kolejności rosnących wartości etykiet.\n          </p>",
+      "id": 3503,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "Wysokość drzewa rozpinającego będącego rezultatem działania algorytmu DFS jest równa dokładnie <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+3+%24\" alt=\"\">",
+          "correct": true
+        },
+        {
+          "answer": "Liczba wierzchołków wewnętrznych w drzewie rozpinającym będącym rezultatem działania algorytmu DFS jest równa dokładnie <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+4+%24\" alt=\"\">",
+          "correct": false
+        },
+        {
+          "answer": "Wierzchołek <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+3+%24\" alt=\"\"> leży na najkrótszej ścieżce z wierzchołka startowego <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+7+%24\" alt=\"\"> do wierzchołka <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+4+%24\" alt=\"\"> w drzewie rozpinającym będącym rezultatem działania rozważanego algorytmu dla grafu <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+G+%24\" alt=\"\">",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Rozważmy algorytm sortowania RadixSort, zaimplementowany przy użyciu struktur pomocniczych kolejek, postaci:<p></p>\n<p>&nbsp;</p>\n<p><img src=\"https://gakko.pjwstk.edu.pl/public/2271//ASD/Zima1516/TestyPseudokody/RadixSort.gif\" alt=\"\"></p>\n<p>dla danych wejściowych:</p>\n<ul>\n<li>tablica elementów: <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+E%3d%5c%5b+732%2c162%2c913%2c828%2c764%2c903%2c524%2c547%2c969%2c929%2c545+%5c%5d+%24\" alt=\"\">,</li>\n<li>liczba pozycji składowych elementów tablicy <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+E+%24\" alt=\"\">: <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+d%3d3+%24\" alt=\"\">,</li>\n</ul>\n<p>Które z poniższych zdań jest prawdziwe?\n          </p>",
+      "id": 3504,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "Łączna liczba operacji IN we wszystkich kolejkach w trakcie wykonania rozważanego algorytmu jest równa dokładnie <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+35+%24\" alt=\"\">",
+          "correct": false
+        },
+        {
+          "answer": "Maksymalna długość dowolnej kolejki (tj. maksymalna liczba jednocześnie przechowywanych elementów) w trakcie wykonania rozważanego algorytmu jest równa dokładnie <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+4+%24\" alt=\"\">",
+          "correct": true
+        },
+        {
+          "answer": "Łączna liczba operacji FIRST we wszystkich kolejkach w trakcie wykonania rozważanego algorytmu jest równa dokładnie <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+34+%24\" alt=\"\">",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Aby znaleźć najmniejszy lub największy element w tablicy nieuporządkowanej trzeba wykonać n-1 porównań. Jednak gdy szukamy konkretnych dwóch elementów, koszt ten może być mniejszy.",
+      "id": 3505,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "Najmniejszy i największy element można znaleźć wykonując (5/4) n porównań dla dużych n",
+          "correct": false
+        },
+        {
+          "answer": "Dwa najmniejsze elementy można znaleźć wykonując n+logn porównań",
+          "correct": true
+        },
+        {
+          "answer": "Dwa największe elementy można znaleźć wykonując (3/2) n porównań dla dużych n",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Algorytm Karacuby służy do",
+      "id": 3506,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "przechodzenia grafu",
+          "correct": false
+        },
+        {
+          "answer": "mnożenia liczb wielocyfrowych",
+          "correct": true
+        },
+        {
+          "answer": "analizy i obróbki sygnałów video",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Za pomocą drzew lewicowych możemy w czasie O(log n)",
+      "id": 3507,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "usunąć ekstremalny element z kolejki priorytetowej",
+          "correct": true
+        },
+        {
+          "answer": "zrealizować dodanie elementu do kolejki priorytetowej",
+          "correct": true
+        },
+        {
+          "answer": "odwrócić porządek w kolejce priorytetowej, czyli z kolejki obsługującej minima zrobić kolejkę obsługującą maksima i na odwrót",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Notacja <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%5ccal%7bO%7d\" alt=\"\" data-container=\"body\" data-toggle=\"popover\" data-placement=\"top\" data-content=\"cal{O}\">",
+      "id": 3508,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "definiuje konkretną funkcję ze zbioru liczb naturalnych w zbiór liczb rzeczywistych nieujemnych.",
+          "correct": false
+        },
+        {
+          "answer": "definiuje nieskończoną klasę funkcji ze zbioru liczb naturalnych w zbiór liczb rzeczywistych nieujemnych.",
+          "correct": true
+        },
+        {
+          "answer": "pozwala uprościć obliczenia złożoności przez podanie asymptotycznego ograniczenia zarówno górnego, jak i dolnego",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Notacja <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%5cOmega\" alt=\"\" data-container=\"body\" data-toggle=\"popover\" data-placement=\"top\" data-content=\"Omega\">",
+      "id": 3509,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "pozwala uprościć obliczenia złożoności przez podanie asymptotycznego ograniczenia dolnego",
+          "correct": true
+        },
+        {
+          "answer": "definiuje konkretną funkcję ze zbioru liczb naturalnych w zbiór liczb rzeczywistych nieujemnych.",
+          "correct": false
+        },
+        {
+          "answer": "definiuje nieskończoną klasę funkcji ze zbioru liczb naturalnych w zbiór liczb rzeczywistych nieujemnych.",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Notacja <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%5cTheta+\" alt=\"\" data-container=\"body\" data-toggle=\"popover\" data-placement=\"top\" data-content=\"Theta \">",
+      "id": 3510,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "pozwala uprościć obliczenia złożoności przez podanie asymptotycznego ograniczenia dolnego",
+          "correct": true
+        },
+        {
+          "answer": "pozwala uprościć obliczenia złożoności przez podanie asymptotycznego ograniczenia zarówno górnego, jak i dolnego",
+          "correct": true
+        },
+        {
+          "answer": "pozwala uprościć obliczenia złożoności przez podanie asymptotycznego ograniczenia górnego",
+          "correct": true
+        }
+      ]
+    },
+    {
       "question": "Do drzewa binarnych wyszukiwań d wstawiono kolejno elementy 5 3 9 4 10 6 7",
       "id": 3511,
       "comments": null,
@@ -6879,5 +7088,5 @@
       ]
     }
   ],
-  "updatedAt": 1613872809453
+  "updatedAt": 1614218654503
 }

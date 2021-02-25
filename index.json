@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1613872809453,
+  "updatedAt": 1614218654503,
   "pages": [
     {
       "title": "Administrowanie bazami danych (ABD)",
@@ -56,6 +56,10 @@
     {
       "title": "Matematyka Dyskretna - edux - 2012 ZIMA (MAD2012A)",
       "id": "mad2012a"
+    },
+    {
+      "title": "Matematyka Dyskretna 1 - 2020, Gakko (MAD1)",
+      "id": "matematyka_dyskretna_1_-_2020,_gakko_(mad1)"
     },
     {
       "title": "Matematyka Dyskretna 2020 (MAD)",

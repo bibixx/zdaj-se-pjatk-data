@@ -8716,7 +8716,611 @@
           "correct": true
         }
       ]
+    },
+    {
+      "question": "Rozważmy algorytm AVLConstruct postaci:<p></p>\n<p>&nbsp;</p>\n<p><img src=\"https://gakko.pjwstk.edu.pl/public/2271//ASD/Zima1516/TestyPseudokody/AVLConstruct.gif\" alt=\"\"></p>\n<p>Niech drzewo <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+T+%24\" alt=\"\"> będzie rezultatem działania algorytmu AVLConstruct dla danych wejściowych:</p>\n<ul>\n<li>tablica elementów <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+E%3d%5c%5b+13%2c9%2c7%2c12%2c10%2c4%2c3%2c6%2c11%2c17+%5c%5d+%24\" alt=\"\">.</li>\n</ul>\n<p>Które z poniższych zdań jest prawdziwe?\n          </p>",
+      "id": 3499,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "Łączna liczba rotacji pojedynczych w lewo wykonanych w trakcie budowy drzewa <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+T+%24\" alt=\"\"> jest równa dokładnie <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+0+%24\" alt=\"\">",
+          "correct": true
+        },
+        {
+          "answer": "Etykiety wierzchołków drzewa <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+T+%24\" alt=\"\"> wypisane w kolejności PostOrder tworzą ciąg: <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+3%2c6%2c7%2c4%2c11%2c10%2c17%2c13%2c12%2c9+%24\" alt=\"\">",
+          "correct": true
+        },
+        {
+          "answer": "Liczba wierzchołków zewnętrznych drzewa <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+T+%24\" alt=\"\"> jest równa dokładnie <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+4+%24\" alt=\"\">",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "<p class=\"MsoNormal\">Algorytm Euklides2 okazał się</p>",
+      "id": 3570,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "- istotnie szybszy od algorytmu Euklides1 z odejmowaniem dzięki temu, że liczby Fibonacciego rosną wykładniczo szybko",
+          "correct": true
+        },
+        {
+          "answer": "<p class=\"MsoNormal\">- istotnie szybszy od algorytmu Euklides1 z odejmowaniem dzięki temu, że liczby Fibonacciego rosną logarytmicznie wolno</p>",
+          "correct": true
+        },
+        {
+          "answer": "<p class=\"MsoNormal\">- istotnie szybszy od algorytmy Euklides1 z odejmowaniem dzięki temu, że indeksy Fibonacciego rosną wykładniczo szybko ze względu na ich wartości</p>",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "<p class=\"MsoNormal\">Kwadratury, czyli algorytmy obliczania całek oznaczonych metodami przybliżonymi charakteryzują się tym, że</p>",
+      "id": 3571,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<p class=\"MsoNormal\">Stosując jedną z metod wyznaczania całki Riemanna: przybliżają wartość pola przez sumy prostokątów o małych podstawach otrzymujemy tym lepsze wyniki, im krótsze podstawy</p>",
+          "correct": true
+        },
+        {
+          "answer": "<p class=\"MsoNormal\">uzyskiwanie coraz lepszych wyników przez zwiększanie liczby punktów przedziału badanego odcinka kończy się w pewnym momencie i ze względu na kumulowanie się błędów zaokrągleń dalsze zwiększanie ich liczby nie tylko powoduje wzrost kosztu obliczeniowego, ale wręcz może spowodować pogorszenie wyniku</p>",
+          "correct": false
+        },
+        {
+          "answer": "<p class=\"MsoNormal\">obliczają przybliżoną postać funkcji pierwotnej i odejmują jej wartość w początku przedziału od wartości z końca przedziału</p>",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "<p class=\"MsoNormal\">Następujące działania w kodzie uzupełnieniowym są poprawnie wykonane dla liczb całkowitych 8-bitowych</p>",
+      "id": 3572,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "10000000 + 10000000 = 00000000<p></p>\n<p class=\"MsoNormal\">&nbsp;</p>",
+          "correct": false
+        },
+        {
+          "answer": "<p class=\"MsoNormal\">10000000 + 00000001 = 10000001</p>",
+          "correct": true
+        },
+        {
+          "answer": "<p class=\"MsoNormal\">01111111 + 10000000 = 11111111</p>",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "<p class=\"MsoNormal\">Pesymistyczną złożoność czasową algorytmów</p>",
+      "id": 3573,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span>mierzymy w sekundach</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>odnosimy do rozmiaru najbardziej złośliwych danych</span><span></span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>wyrażamy w liczbie wykonań instrukcji dominującej</span>",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "<p class=\"MsoNormal\">Notacja <span>ɵ</span></p>",
+      "id": 3574,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span>pozwala uprościć obliczenia złożoności przez podanie asymptotycznego ograniczenia zarówno górnego, jak i dolnego</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>definiuje nieskończoną klasę funkcji ze zbioru liczb naturalnych w zbiór liczb rzeczywistych nieujemnych</span>",
+          "correct": true
+        },
+        {
+          "answer": "<p class=\"MsoNormal\"><span>pozwala uprościć obliczenia złożoności przez podanie asymptotycznego ograniczenia dolnego</span></p>",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "<p class=\"MsoNormal\">Spośród konstruktorów kalkulatorów wybitnymi filozofami byli</p>",
+      "id": 3575,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span>Blaise Pascal</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>Wilhelm Schickard</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>Abraham Stern</span>",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "<p class=\"MsoNormal\">Pierwowzorem współczesnych architektur komputerów była</p>",
+      "id": 3576,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span>zaprojektowana przez Charlesa Babbage’a maszyna analityczna</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>zaprojektowana przez Farkkasa von Kempelena maszyna grająca w szachy</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>zaprojektowana przez Farkkasa von Kempelena maszyna grająca w szachy</span>",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "<p class=\"MsoNormal\">Komputer Eniac</p>",
+      "id": 3577,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<p class=\"MsoNormal\"><span>pracował w systemie dwójkowym</span></p>",
+          "correct": true
+        },
+        {
+          "answer": "<p class=\"MsoNormal\">miał pamięć RAM</p>\n<p class=\"MsoNormal\">&nbsp;</p>",
+          "correct": true
+        },
+        {
+          "answer": "<p class=\"MsoNormal\"><span>był zrealizowany w technologii lampowej</span></p>",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "<p class=\"MsoNormal\">W omawianym na wykładzie procesorze o 3 biach cechy i 4 mantysy</p>",
+      "id": 3578,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<span>5/16 ma reprezentację 111 0101</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>2 ma postać 000 0010</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>001 0111 + 101 01111 = 001 0111</span>",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "<p class=\"MsoNormal\">W arytmetyce zmiennopozycyjnej procesora przy każdym ustalonym kodowani</p>",
+      "id": 3579,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<p class=\"MsoNormal\">wszystkie reprezentowane wartości są wymierne</p>",
+          "correct": true
+        },
+        {
+          "answer": "<span>najmniejszą liczbą jest zero</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>istnieje największa liczba rzeczywista</span>",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "<p class=\"MsoNormal\">Do magistrali podłącza się</p>",
+      "id": 3580,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "<strong><span>procesor</span></strong>",
+          "correct": true
+        },
+        {
+          "answer": "kabel zasilający",
+          "correct": false
+        },
+        {
+          "answer": "pamięć",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Czy poprawne są poniższe działania w systemie zmiennopozycyjnym z wykładu?",
+      "id": 3581,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "110 0100 + 110 0100 = 111 0100",
+          "correct": true
+        },
+        {
+          "answer": "011 0111 + 101 0111 = 011 0111",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Następujące działania w kodzie uzupełnieniowym są poprawnie wykonane dla liczb całkowitych 8-bitowych",
+      "id": 3582,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "01111111 + 10000000 = 11111111",
+          "correct": true
+        },
+        {
+          "answer": "11111111 + 00000001 = 00000000",
+          "correct": true
+        },
+        {
+          "answer": "10000000 + 10000000 = 00000000",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Mnożenie zmiennopozycyjne jest",
+      "id": 3583,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "przemienne",
+          "correct": true
+        },
+        {
+          "answer": "łączne",
+          "correct": false
+        },
+        {
+          "answer": "rozdzielne względem dodawania",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Program szachowy AlphaZero",
+      "id": 3584,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "zwycięzył w meczu Magnusa Carlsena - mistrza świata w szachach",
+          "correct": false
+        },
+        {
+          "answer": "wynorzystywał samouczące się sieci neuronowe",
+          "correct": true
+        },
+        {
+          "answer": "korzystał z tworzonej latarni ogromnej bazy diebiutów i końcówek szachowych",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Charles Bobbage budował swoją drugą maszynę różnicową aby",
+      "id": 3585,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "tabularyzować wartości wielomianów, które przybliżają znane funkcje",
+          "correct": true
+        },
+        {
+          "answer": "szybko dodawać i odejmować mechanicznie",
+          "correct": false
+        },
+        {
+          "answer": "zaimponować lady Adzie Lovelance",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "W kodowaniu liczb rzeczywistych w kodzie uzupełnieniowym do 2",
+      "id": 3586,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "instrukcja y=-x; może spowodować błąd",
+          "correct": true
+        },
+        {
+          "answer": "instrukcja y=x-y; może spowodować błąd przepełnienia",
+          "correct": true
+        },
+        {
+          "answer": "instrukcja y=x-y+y; może spowodować błąd",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Nigdy nie uzyskamy przepełnienia zmiennopozycyjnego w kodzie uzupełnieniowym do 2",
+      "id": 3587,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "dodając liczbę dodatnią do ujemnje",
+          "correct": true
+        },
+        {
+          "answer": "negując liczbę",
+          "correct": false
+        },
+        {
+          "answer": "odejmując liczbę ujemną od ujemnej",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Następujące działania w kodzie uzupełnieniowym są poprawnie wykonywane dla liczb całkowitych 8-bitowych",
+      "id": 3588,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "11110000 + 10001111 = 11111111",
+          "correct": false
+        },
+        {
+          "answer": "01111111 + 10000000 = 11111111",
+          "correct": true
+        },
+        {
+          "answer": "01111111 + 01111111 = 11111110",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Podstawowymi problemami Charlesa Babbagea były",
+      "id": 3589,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "trudny charakter",
+          "correct": true
+        },
+        {
+          "answer": "brak pieniędzy",
+          "correct": true
+        },
+        {
+          "answer": "kobieta",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Prędkość pracy twardego dysku jest zależna od",
+      "id": 3590,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "liczby talerzy",
+          "correct": false
+        },
+        {
+          "answer": "zgodności parametrów dysku z czasem odświeżania pamięci",
+          "correct": true
+        },
+        {
+          "answer": "liczby cylindrów",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Prędkość pobierania danych z twardego dysku zależy od",
+      "id": 3591,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "prędkości obrotowej dysku",
+          "correct": true
+        },
+        {
+          "answer": "szybkości ruchu ramienia głowic",
+          "correct": true
+        },
+        {
+          "answer": "szybkości magistrali",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Pesymistyczną złożoność czasową algorytmów",
+      "id": 3592,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "uzależniamy od prędkości zegara procesora",
+          "correct": false
+        },
+        {
+          "answer": "wyrażamy w liczbie wykonań instrukcji dominującej",
+          "correct": true
+        },
+        {
+          "answer": "odnosimy do rozmiaru najbardziej złośliwych danych",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Pierwowzorem współczesnych architektur komputerów była",
+      "id": 3593,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "zaprojektowana przez Charlesa Babbagea maszyna analityczna",
+          "correct": true
+        },
+        {
+          "answer": "zaprojektowana przez Charlesa Babbagea pierwsza maszyna różnicowa",
+          "correct": false
+        },
+        {
+          "answer": "zaprojektowana przez Farkasa von Kempelena maszyna grająca w szachy",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Uniwersalna maszyna Turinga",
+      "id": 3594,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "rozumie programy napisane w dowolnym języku programowania",
+          "correct": false
+        },
+        {
+          "answer": "potrafi wykonać kod dowolnej maszyn Turinga dla dowolnych danych",
+          "correct": true
+        },
+        {
+          "answer": "potrafi wykonać swój własny kod",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Aby zaimplementować mechanizm rekursji używa się",
+      "id": 3595,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "stosu systemowego",
+          "correct": true
+        },
+        {
+          "answer": "przerwań",
+          "correct": false
+        },
+        {
+          "answer": "rekordów aktywacji",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Programowanie obiektowe",
+      "id": 3596,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "pozwala wdrożyć mechanizm dziedziczenia w definicjach klas",
+          "correct": true
+        },
+        {
+          "answer": "umożliwia niezależną kompilację obiektów",
+          "correct": true
+        },
+        {
+          "answer": "nadaje się do oprogramowania procesów współbieżnych",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Dodawanie zmiennopozycyjne",
+      "id": 3597,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "może dać wynik równy jednemu z argumentów, mimo że żaden nie jest zerem",
+          "correct": true
+        },
+        {
+          "answer": "daje zawsze ten sam wynik, jak gdy podamy oba argumenty w odwrotnej kolejności",
+          "correct": true
+        },
+        {
+          "answer": "jest rozdzielne względem mnożenia",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "W omawianym na wykładzie procesorze o 3 bitach cechy i 4 mantysy",
+      "id": 3598,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "001 0111 + 101 0111 = 001 0111",
+          "correct": true
+        },
+        {
+          "answer": "największą liczbą reprezentowaną jest 7, a najmniejszą -8",
+          "correct": true
+        },
+        {
+          "answer": "5/16 ma reprezentację 111 0101",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Reprezentujemy liczbę rzeczywistą za pomocą 1 bajtu cechy i 7 bajtów mantysy w kodzie U2 z ukrytym jednym bitem",
+      "id": 3599,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "wszystkie liczby całkowite w zakresie reprezentowalności są reprezentowane dokładzie",
+          "correct": false
+        },
+        {
+          "answer": "największa reprezentowana liczba jest większa od najmniejszej dodatniej ponad&nbsp;<span>10</span><sup>30</sup>&nbsp;razy",
+          "correct": true
+        },
+        {
+          "answer": "między każdymi dwiema liczbami istnieje liczba dokładnie reprezentowana i różna od nich",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Turek - automar szachowy von Kemplena",
+      "id": 3600,
+      "comments": null,
+      "answers": [
+        {
+          "answer": "był pierwszą maszyną umiejącą samodzielnie podejmować decyzje",
+          "correct": false
+        },
+        {
+          "answer": "wykonywał fizycznie ruchy na szachownicy",
+          "correct": true
+        },
+        {
+          "answer": "wymagał operatora dobrze grającego w szachy",
+          "correct": true
+        }
+      ]
     }
   ],
-  "updatedAt": 1613872809453
+  "updatedAt": 1614218654503
 }
