@@ -5,7 +5,7 @@
     {
       "question": "System operacyjny:<p></p>\n<p>&nbsp;</p>\n<p>&nbsp;\n          </p>",
       "id": 3116,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Pośredniczy między użytkownikiem a sprzętem komputerowym",
@@ -23,12 +23,13 @@
           "answer": "Udostępnia systemy migracji procesów",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "System operacyjny:",
       "id": 3117,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Nadzoruje pracę programów",
@@ -46,12 +47,13 @@
           "answer": "Tworzy wygodne i bezpieczne środowisko pracy dla użytkowników.",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Kto napisał książkę \"Podstawy systemów operacyjnych\"?",
       "id": 3118,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Abraham Silberschatz",
@@ -69,12 +71,13 @@
           "answer": "Dennis Ritchie",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Jakie są trzy podstawowe cele systemu operacyjnego?",
       "id": 3119,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<ol>\n<li>Umożliwienie użytkownikom uruchamiania programów i ułatwianie wykonywania zadań stawianych przez użytkowników.</li>\n<li>Stworzenie wyłącznie programistom wygodnego i funkcjonalnego środowiska pracy.</li>\n<li>Efektywne wykorzystanie zasobów systemu komputerowego.</li>\n</ol>",
@@ -92,12 +95,13 @@
           "answer": "<ol>\n<li>Umożliwienie użytkownikom uruchamiania programów i ułatwianie wykonywania zadań stawianych przez użytkowników.</li>\n<li>Stworzenie użytkownikom wygodnego i funkcjonalnego środowiska pracy.</li>\n<li>Efektywne wykorzystanie zasobów urządzeń wejścia.</li>\n</ol>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Podstawową miary wydajności systemu wsadowego jest:",
       "id": 3120,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<em>czas obrotu zadania</em>",
@@ -115,12 +119,13 @@
           "answer": "wielkość przepustowości",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Spooling polega na tym, iż jednocześnie odbywają się:",
       "id": 3121,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<ul>\n<li>nowe zadania są wczytywane przez operatora i zapisywane na dysku,</li>\n<li>procesor pobiera kolejne zadania z dysku, wykonuje je i zapisuje wyniki na dysku,</li>\n<li>wyniki zakończonych zadań są drukowane na drukarce(-kach)</li>\n</ul>",
@@ -138,12 +143,13 @@
           "answer": "<ul>\n<li>nowe zadania są wczytywane przez czytnik(i) kart i zapisywane na dysku,</li>\n<li>procesor pobiera kolejne zadania z dysku, wykonuje je i zapisuje wyniki na płycie głównej,</li>\n<li>wyniki zakończonych zadań są drukowane na drukarce(-kach)</li>\n</ul>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Dzięki spoolingowi:<p></p>\n<p>&nbsp;\n          </p>",
       "id": 3122,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "operacje wejścia mogły odbywać się równocześnie z operacjami wyjścia",
@@ -161,12 +167,13 @@
           "answer": "operacje wyjścia mogły odbywać się równocześnie z obliczeniami",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Dzięki spoolingowi nowym zadaniem systemu operacyjnego stało się:<p></p>\n<p>&nbsp;\n          </p>",
       "id": 3123,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Kontrola wczytywania zadań, wypisywania wyników oraz synchronizacja informacji magazynowanych na dysku",
@@ -184,12 +191,13 @@
           "answer": "Synchronizacja wczytywania zadań, wypisywania wyników oraz zarządzanie informacjami magazynowanymi na dysku",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Jeżeli w systemie Windows, zostałaby wyłączona usługa Spooler to:",
       "id": 3124,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Niemożliwe byłoby drukowanie",
@@ -207,12 +215,13 @@
           "answer": "Poważnie zmalałaby częstotliwośc taktowania",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Zaznacz prawidłową odpowiedź:<p></p>\n<p>&nbsp;\n          </p>",
       "id": 3125,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Taki program, który został uruchomiony i załadowany do pamięci operacyjnej będziemy nazywać <em>procesem</em>",
@@ -230,12 +239,13 @@
           "answer": "Jeżeli ten sam program został uruchomiony kilkakrotnie, to tworzy on kolejkę w obrębie jednego procesu.",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Wieloprogramowość polega na tym, iż:",
       "id": 3126,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "W pamięci operacyjnej komputera znajduje się kilka działających programów",
@@ -253,12 +263,13 @@
           "answer": "W pamięci podręcznej komputera znajduje się wiele procesów w ramach jednego programu.",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Wieloprogramowość umożliwiła efektywne wykorzystanie czasu pracy komputera, jednak czas pracy programistów był wykorzystywany mało efektywnie, bowiem:",
       "id": 3127,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Programiście nie mieli&nbsp; bezpośredniej styczności z komputerem, a jedynie przetwarzali wsadowo zadania.",
@@ -276,12 +287,13 @@
           "answer": "Nie było&nbsp; mowy o śledzeniu wykonania programu.",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Zaznacz prawidłową odpowiedź:<p></p>\n<p>&nbsp;\n          </p>",
       "id": 3128,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Systemy z podziałem czasu były pierwszymi, które pozwoliły na interaktywną pracę wielu użytkowników z komputerem.",
@@ -299,12 +311,13 @@
           "answer": "W systemie z podziałm czasu pracy, gdy kwant czasu się kończy, procesor jest przydzielany poprzednio aktywnemu procesowi.",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "W systemie z podziałem czasu optymalną miarą wydajności systemu jest:",
       "id": 3129,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "czas obrotu",
@@ -322,12 +335,13 @@
           "answer": "czas wykonywania",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Czas reakcji to:",
       "id": 3130,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Czas oczekiwania przez proces na przydział urządzenia wyjścia.",
@@ -345,12 +359,13 @@
           "answer": "Czas, jaki upływa od wykonania przez użytkownika jakiejś akcji do zareagowania przez proces na tę akcję.",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Operacja szeregowania krótkoterminowego polega na tym, że:",
       "id": 3131,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Jeżeli procesor jest bezczynny, to należy wybrać jeden z procesów, które znajdują się w pamięci i są gotowe do wykonania.",
@@ -368,12 +383,13 @@
           "answer": "Najważniejsze procesy mają mieć najkrótszy okres wykonania.",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Zaznacz zdanie prawdziwe:",
       "id": 3132,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "UNIX to jedyny znany system z podziałem czasu.",
@@ -391,12 +407,13 @@
           "answer": "Praktycznie znacząca większość systemów operacyjnych instalowana na komputerach użytkowników i wykorzystywana w życiu codziennym to systemy z podziałem czasu.",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "W dobie komputerów osobistych, projektanci systemów operacyjnych zdecydowanie większą uwagę zwrócili na:",
       "id": 3133,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "wydajność",
@@ -414,12 +431,13 @@
           "answer": "czas reakcji",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Zaznacz prawidłową odpowiedź:",
       "id": 3134,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Systemy równoległe to systemy komputerowe wyposażone w jeden potężny procesor, który może równolegle wykonywać obliczenia.",
@@ -437,12 +455,13 @@
           "answer": "Systemy równoległe to systemy komputerowe wyposażone w wiele równoległych procesorów, które mogą hierarchizować wykonywane procesy według ich wagi.",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Zaznacz prawidłową odpowiedź:",
       "id": 3135,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Asymetryczne procesory to równoprawne procesy centralne, współdzielące zegar i pamięć.",
@@ -460,12 +479,13 @@
           "answer": "Asymetryczna wieloprocesorowość jest zwykle stosowana w serwerach wyspecjalizowanych w jakimś konkretnym celu.",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Zaznacz prawidłową odpowiedź:",
       "id": 3136,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Systemy równoległe nie są odporne na uszkodzenia lub nawet łagodną degradację.",
@@ -483,12 +503,13 @@
           "answer": "Systemy równoległe dzielą się na luźno i ściśle powiązane.",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Zaznacz prawidłową odpowiedź:",
       "id": 3137,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Szczególnym przypadkiem systemów ściśle powiązanych są systemy rozproszone.",
@@ -506,12 +527,13 @@
           "answer": "Moc obliczeniowa systemów równoległych jest tańsza.",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Samochód wyposażony jest w funkcjonalność automatycznego włączania się wycieraczek w przypadku deszczu. Urządzenie, które implementuje tę funkcjonalność wyposażone jest w system operacyjny:",
       "id": 3138,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "wsadowy",
@@ -529,12 +551,13 @@
           "answer": "spooling<p></p>\n<p>&nbsp;</p>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Zaznacz prawidłową odpowiedź:<p></p>\n<p>&nbsp;\n          </p>",
       "id": 3139,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Sterownik ma własną pamięć, w której może buforować dane przesyłane do i z urządzeń.",
@@ -552,8 +575,9 @@
           "answer": "&nbsp;<p></p>\n<p>Sterownik jest odpowiedzialny za określoną grupę urządzeń, nadzoruje ich pracę i pośredniczy w przesyłaniu informacji z i do urządzeń.<strong></strong></p>",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     }
   ],
-  "updatedAt": 1614650414152
+  "updatedAt": 1625347561923
 }

@@ -5,6 +5,25 @@
     {
       "question": "Instrukcja SELECT służy do:",
       "id": 318,
+      "numberOfComments": 6,
+      "answers": [
+        {
+          "answer": "sprowadzania rekordów z bazy danych",
+          "correct": true
+        },
+        {
+          "answer": "wstawiania rekordów do bazy danych",
+          "correct": false
+        },
+        {
+          "answer": "usuwania rekordów z bazy danych",
+          "correct": false
+        },
+        {
+          "answer": "aktualizacji rekordów w bazie danych",
+          "correct": false
+        }
+      ],
       "comments": [
         {
           "author": "~buka@67.159.*.*",
@@ -36,30 +55,12 @@
           "comment": "essa",
           "date": "16-06-2019 13:06:14"
         }
-      ],
-      "answers": [
-        {
-          "answer": "sprowadzania rekordów z bazy danych",
-          "correct": true
-        },
-        {
-          "answer": "wstawiania rekordów do bazy danych",
-          "correct": false
-        },
-        {
-          "answer": "usuwania rekordów z bazy danych",
-          "correct": false
-        },
-        {
-          "answer": "aktualizacji rekordów w bazie danych",
-          "correct": false
-        }
       ]
     },
     {
       "question": "Instrukcja INSERT służy do:",
       "id": 319,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "sprowadzania rekordów z bazy danych",
@@ -77,11 +78,31 @@
           "answer": "aktualizacji rekordów w bazie danych",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Instrukcja DELETE służy do:",
       "id": 320,
+      "numberOfComments": 2,
+      "answers": [
+        {
+          "answer": "sprowadzania rekordów z bazy danych",
+          "correct": false
+        },
+        {
+          "answer": "wstawiania rekordów do bazy danych",
+          "correct": false
+        },
+        {
+          "answer": "usuwania rekordów z bazy danych",
+          "correct": true
+        },
+        {
+          "answer": "aktualizacji rekordów w bazie danych",
+          "correct": false
+        }
+      ],
       "comments": [
         {
           "author": "~AdamDużysz@162.158.*.*",
@@ -93,30 +114,12 @@
           "comment": "Podczas gdy poprawna jest jedna odpowiedź\n",
           "date": "23-06-2019 13:56:12"
         }
-      ],
-      "answers": [
-        {
-          "answer": "sprowadzania rekordów z bazy danych",
-          "correct": false
-        },
-        {
-          "answer": "wstawiania rekordów do bazy danych",
-          "correct": false
-        },
-        {
-          "answer": "usuwania rekordów z bazy danych",
-          "correct": true
-        },
-        {
-          "answer": "aktualizacji rekordów w bazie danych",
-          "correct": false
-        }
       ]
     },
     {
       "question": "Instrukcja UPDATE służy do:",
       "id": 321,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "sprowadzania rekordów z bazy danych",
@@ -134,12 +137,13 @@
           "answer": "aktualizacji rekordów w bazie danych",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "INDEKS w bazie danych przyśpiesza:",
       "id": 322,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "wyszukiwania rekordów w bazie danych",
@@ -157,12 +161,13 @@
           "answer": "autoryzację użytkowników w bazie danych",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Instrukcja COMMIT służy do:",
       "id": 323,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "wycofywania zmian w bazie danych",
@@ -180,12 +185,13 @@
           "answer": "aktualizacji rekordów w bazie danych",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Instrukcja ROLLBACK służy do:",
       "id": 324,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "wycofywania zmian w bazie danych",
@@ -203,12 +209,13 @@
           "answer": "aktualizacji rekordów w bazie danych",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Instrukcja GRANT służy do:",
       "id": 325,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "przyznawania uprawnień w bazie danych",
@@ -226,12 +233,13 @@
           "answer": "aktualizacji rekordów w bazie danych",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Instrukcja REVOKE służy do:",
       "id": 326,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "przyznawania uprawnień w bazie danych",
@@ -249,12 +257,13 @@
           "answer": "wycofywania zmian w bazie danych",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Instrukcja ALTER TABLE służy do:",
       "id": 327,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "tworzenia tabeli",
@@ -272,11 +281,31 @@
           "answer": "aktualizacji indeksów założonych na tabeli",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Jaka jest wartość wyrażenia Null=Null:",
       "id": 328,
+      "numberOfComments": 2,
+      "answers": [
+        {
+          "answer": "jest nieokreślone",
+          "correct": false
+        },
+        {
+          "answer": "True",
+          "correct": false
+        },
+        {
+          "answer": "False",
+          "correct": false
+        },
+        {
+          "answer": "Null",
+          "correct": true
+        }
+      ],
       "comments": [
         {
           "author": "~krzehan@188.146.*.*",
@@ -288,30 +317,12 @@
           "comment": "Poprawna odpowiedź to NULL. Każda operacja porównania, arytmetyczna, konkatenacja, w której jednym z operandów jest NULL daje w wyniku NULL. (wykład 3, slajd 38)",
           "date": "09-02-2021 21:54:23"
         }
-      ],
-      "answers": [
-        {
-          "answer": "jest nieokreślone",
-          "correct": false
-        },
-        {
-          "answer": "True",
-          "correct": false
-        },
-        {
-          "answer": "False",
-          "correct": false
-        },
-        {
-          "answer": "Null",
-          "correct": true
-        }
       ]
     },
     {
       "question": "Jaka jest wartość wyrażenia True OR Null:",
       "id": 329,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "jest nieokreślone",
@@ -329,12 +340,13 @@
           "answer": "Null",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Jaka jest wartość wyrażenia False OR Null:",
       "id": 330,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "jest nieokreślone",
@@ -352,11 +364,31 @@
           "answer": "Null",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Jaka jest wartość wyrażenia False AND Null:",
       "id": 331,
+      "numberOfComments": 4,
+      "answers": [
+        {
+          "answer": "jest nieokreślone",
+          "correct": false
+        },
+        {
+          "answer": "True",
+          "correct": false
+        },
+        {
+          "answer": "False",
+          "correct": true
+        },
+        {
+          "answer": "Null",
+          "correct": false
+        }
+      ],
       "comments": [
         {
           "author": "~Messi@83.31.*.*",
@@ -378,30 +410,12 @@
           "comment": "Jak komuś jest ciężko zrozumieć tą ideę to niech sobie zrobi listę True Null False (w dokładniej takiej kolejności), a potem zapamięta, że AND daje wartość najniższą z podanych, a OR wartość najwyższą ;).\n\nFalse AND Null -> Wartość najniższa -> False",
           "date": "22-06-2014 20:23:07"
         }
-      ],
-      "answers": [
-        {
-          "answer": "jest nieokreślone",
-          "correct": false
-        },
-        {
-          "answer": "True",
-          "correct": false
-        },
-        {
-          "answer": "False",
-          "correct": true
-        },
-        {
-          "answer": "Null",
-          "correct": false
-        }
       ]
     },
     {
       "question": "Jaka jest wartość wyrażenia True AND Null:",
       "id": 332,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "jest nieokreślone",
@@ -419,12 +433,13 @@
           "answer": "Null",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Jaka jest wartość wyrażenia NOT Null:",
       "id": 333,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "jest nieokreślone",
@@ -442,11 +457,31 @@
           "answer": "Null",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Co będzie wynikiem realizacji instrukcji SELECT * FROM Employees WHERE EmployeeID=EmployeeID OR EmployeeID=NULL",
       "id": 334,
+      "numberOfComments": 6,
+      "answers": [
+        {
+          "answer": "relacja Emp",
+          "correct": true
+        },
+        {
+          "answer": "relacja pusta",
+          "correct": false
+        },
+        {
+          "answer": "instrukcja jest niepoprawna",
+          "correct": false
+        },
+        {
+          "answer": "NULL",
+          "correct": false
+        }
+      ],
       "comments": [
         {
           "author": "~?@31.63.*.*",
@@ -478,15 +513,20 @@
           "comment": "nic tu nie poprawnie ( informacja w wykladu ).\npodzbiór relacji z rekordów, gdzie EmployeeID ma wartość nie bedącą NULL",
           "date": "27-06-2020 20:34:02"
         }
-      ],
+      ]
+    },
+    {
+      "question": "Co będzie wynikiem realizacji instrukcji SELECT * FROM Emp WHERE EmployeeID=EmployeeID AND NULL=EmployeeID",
+      "id": 335,
+      "numberOfComments": 4,
       "answers": [
         {
           "answer": "relacja Emp",
-          "correct": true
+          "correct": false
         },
         {
           "answer": "relacja pusta",
-          "correct": false
+          "correct": true
         },
         {
           "answer": "instrukcja jest niepoprawna",
@@ -496,11 +536,7 @@
           "answer": "NULL",
           "correct": false
         }
-      ]
-    },
-    {
-      "question": "Co będzie wynikiem realizacji instrukcji SELECT * FROM Emp WHERE EmployeeID=EmployeeID AND NULL=EmployeeID",
-      "id": 335,
+      ],
       "comments": [
         {
           "author": "~anon@81.15.*.*",
@@ -522,29 +558,30 @@
           "comment": "To prawda. Poprawna odpowiedź. Sprawdzone na bazie.",
           "date": "04-02-2017 16:07:21"
         }
-      ],
-      "answers": [
-        {
-          "answer": "relacja Emp",
-          "correct": false
-        },
-        {
-          "answer": "relacja pusta",
-          "correct": true
-        },
-        {
-          "answer": "instrukcja jest niepoprawna",
-          "correct": false
-        },
-        {
-          "answer": "NULL",
-          "correct": false
-        }
       ]
     },
     {
       "question": "Relacja R ma atrybut a. Jaka liczba może być wynikiem wykonania instrukcji SELECT Count(*) FROM R WHERE a=a",
       "id": 336,
+      "numberOfComments": 12,
+      "answers": [
+        {
+          "answer": "0",
+          "correct": true
+        },
+        {
+          "answer": "1",
+          "correct": true
+        },
+        {
+          "answer": "dowolna liczba całkowita",
+          "correct": false
+        },
+        {
+          "answer": "zawsze tyle jaka jest liczebność relacji R",
+          "correct": false
+        }
+      ],
       "comments": [
         {
           "author": "~I@109.241.*.*",
@@ -606,30 +643,12 @@
           "comment": "odp a) b) i d) z wykladu\nc) bo dla -2, -20.... nie może być",
           "date": "25-06-2020 19:28:04"
         }
-      ],
-      "answers": [
-        {
-          "answer": "0",
-          "correct": true
-        },
-        {
-          "answer": "1",
-          "correct": true
-        },
-        {
-          "answer": "dowolna liczba całkowita",
-          "correct": false
-        },
-        {
-          "answer": "zawsze tyle jaka jest liczebność relacji R",
-          "correct": false
-        }
       ]
     },
     {
       "question": "Relacja R ma atrybut a. Jaka liczba może być wynikiem wykonania instrukcji SELECT Count(*) FROM R WHERE a<a <img=\"\" src=\"question.png\" height=\"16\" width=\"16\" onclick=\"window.open('?comment=337','komentarze','width=560,height=360')\">      </a>",
       "id": null,
-      "comments": null,
+      "numberOfComments": 2,
       "answers": [
         {
           "answer": "zawsze 0",
@@ -647,12 +666,13 @@
           "answer": "zawsze tyle jaka jest liczebność relacji R",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Encji odpowiada w relacyjnej bazie danych:",
       "id": 338,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "wiersz w tabeli",
@@ -670,12 +690,13 @@
           "answer": "klucz obcy",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Związkowi jednoznacznemu odpowiada w relacyjnej bazie danych:",
       "id": 339,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "kolumna w tabeli",
@@ -693,12 +714,13 @@
           "answer": "wartość NULL",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Związkowi wieloznacznemu odpowiada w relacyjnej bazie danych:",
       "id": 340,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "klucz obcy",
@@ -716,12 +738,13 @@
           "answer": "wiersz w tabeli",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Atrybutowi w relacyjnej bazie danych odpowiada:",
       "id": 341,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "kolumna w tabeli",
@@ -739,11 +762,31 @@
           "answer": "indeks w tabeli",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Jednoznacznemu identyfikatorowi odpowiada w relacyjnej bazie danych:",
       "id": 342,
+      "numberOfComments": 4,
+      "answers": [
+        {
+          "answer": "kolumna w tabeli",
+          "correct": false
+        },
+        {
+          "answer": "indeks w tabeli",
+          "correct": false
+        },
+        {
+          "answer": "klucz obcy",
+          "correct": false
+        },
+        {
+          "answer": "klucz główny",
+          "correct": true
+        }
+      ],
       "comments": [
         {
           "author": "~wiqz@91.230.*.*",
@@ -765,30 +808,12 @@
           "comment": "^Sorry, źle. Klucz obcy odpowiada związkowi jednoznacznemu \n ",
           "date": "30-08-2019 13:46:08"
         }
-      ],
-      "answers": [
-        {
-          "answer": "kolumna w tabeli",
-          "correct": false
-        },
-        {
-          "answer": "indeks w tabeli",
-          "correct": false
-        },
-        {
-          "answer": "klucz obcy",
-          "correct": false
-        },
-        {
-          "answer": "klucz główny",
-          "correct": true
-        }
       ]
     },
     {
       "question": "Spójność referencyjna dotyczy faktu:",
       "id": 343,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "wartością klucza obcego może być null lub wartość odpowiadającego mu klucza głównego",
@@ -806,11 +831,31 @@
           "answer": "w każdej tabeli powinien istnieć dokładnie jeden klucz",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "III postać normalna dotyczy faktu:",
       "id": 344,
+      "numberOfComments": 5,
+      "answers": [
+        {
+          "answer": "wartością klucza obcego może być null lub wartość odpowiadającego mu klucza głównego",
+          "correct": false
+        },
+        {
+          "answer": "wartości w kolumnie nie powtarzają się",
+          "correct": false
+        },
+        {
+          "answer": "wartości w kolumnie niekluczowej nie mogą zależeć ani od części klucza ani nawet przechodnio od klucza",
+          "correct": true
+        },
+        {
+          "answer": "w każdej tabeli powinien istnieć dokładnie jeden klucz",
+          "correct": false
+        }
+      ],
       "comments": [
         {
           "author": "~br@31.63.*.*",
@@ -837,41 +882,12 @@
           "comment": "wartości w kolumnie nie powtarzają się- wydaje mi sie poprawna",
           "date": "14-02-2020 09:26:23"
         }
-      ],
-      "answers": [
-        {
-          "answer": "wartością klucza obcego może być null lub wartość odpowiadającego mu klucza głównego",
-          "correct": false
-        },
-        {
-          "answer": "wartości w kolumnie nie powtarzają się",
-          "correct": false
-        },
-        {
-          "answer": "wartości w kolumnie niekluczowej nie mogą zależeć ani od części klucza ani nawet przechodnio od klucza",
-          "correct": true
-        },
-        {
-          "answer": "w każdej tabeli powinien istnieć dokładnie jeden klucz",
-          "correct": false
-        }
       ]
     },
     {
       "question": "Które ze sformułowań są prawdziwe w modelu relacyjnym:",
       "id": 345,
-      "comments": [
-        {
-          "author": "~anon@81.15.*.*",
-          "comment": "Mam pytanie skoro wiersze mają się nie powtarzać to poco jest DISTINCT?",
-          "date": "28-06-2015 22:09:51"
-        },
-        {
-          "author": "~anon@81.15.*.*",
-          "comment": "Przepasam to się tyczy danych a nie wyników operacji na danych. Nie było pytania.",
-          "date": "28-06-2015 22:11:11"
-        }
-      ],
+      "numberOfComments": 2,
       "answers": [
         {
           "answer": "wartości w kolumnie są przechowywane w kolejności posortowanej",
@@ -889,12 +905,24 @@
           "answer": "wartości w kolumnie nie powtarzają się",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~anon@81.15.*.*",
+          "comment": "Mam pytanie skoro wiersze mają się nie powtarzać to poco jest DISTINCT?",
+          "date": "28-06-2015 22:09:51"
+        },
+        {
+          "author": "~anon@81.15.*.*",
+          "comment": "Przepasam to się tyczy danych a nie wyników operacji na danych. Nie było pytania.",
+          "date": "28-06-2015 22:11:11"
+        }
       ]
     },
     {
       "question": "Które ze sformułowań są prawdziwe w modelu relacyjnym:",
       "id": 346,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "wiersze nie mają tożsamości obiektowej",
@@ -912,12 +940,13 @@
           "answer": "klucze obce muszą być typu całkowitego",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Które ze sformułowań są prawdziwe w modelu relacyjnym:",
       "id": 347,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "tabela jest konkretną reprezentacją relacji",
@@ -935,12 +964,13 @@
           "answer": "dla klucza głównego jest automatycznie zakładany indeks jednoznaczny",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Które ze sformułowań są prawdziwe w modelu relacyjnym:",
       "id": 348,
-      "comments": null,
+      "numberOfComments": 1,
       "answers": [
         {
           "answer": "klucz obcy nie może być częścią klucza główego",
@@ -958,12 +988,19 @@
           "answer": "wartości klucza obcego nie mogą się powtarzać",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~petenshi@37.47.*.*",
+          "comment": "A czy pierwsza odpowiedź też nie będzie prawidłowa? Np. w tabeli asocjacyjnej mamy że klucz główny składa się z dwóch kluczy obcych czy coś pomyliłem?",
+          "date": "18-06-2017 13:34:42"
+        }
       ]
     },
     {
       "question": "Które ze sformułowań są prawdziwe w modelu relacyjnym:",
       "id": 349,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "może być wiele kluczy głównych",
@@ -981,23 +1018,13 @@
           "answer": "może być wiele indeksów",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Postać normalna Boyce'a-Codda dotyczy faktu:",
       "id": 350,
-      "comments": [
-        {
-          "author": "~anon@31.179.*.*",
-          "comment": "Czy przypadkiem odpowiedź: \"wartości w kolumnie niekluczowej nie mogą zależeć ani od części klucza ani nawet przechodnio od klucza\" nie jest również poprawna?",
-          "date": "04-02-2016 15:28:58"
-        },
-        {
-          "author": "~damdev@89.65.*.*",
-          "comment": "Zależy jak na to spojrzeć. Odpowiedź którą wymieniłeś również jest spełniona, ale jest to warunek na III postać normalną, a postać BC sama w sobie musi spełniać odpowiedź \"b\",  to że musi być również III postaci normalnej jest oczywiste z założenia.",
-          "date": "04-02-2017 17:18:28"
-        }
-      ],
+      "numberOfComments": 2,
       "answers": [
         {
           "answer": "wartością klucza obcego może być null lub wartość odpowiadającego mu klucza głównego",
@@ -1015,12 +1042,24 @@
           "answer": "w każdej tabeli powinien istnieć dokładnie jeden klucz",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~anon@31.179.*.*",
+          "comment": "Czy przypadkiem odpowiedź: \"wartości w kolumnie niekluczowej nie mogą zależeć ani od części klucza ani nawet przechodnio od klucza\" nie jest również poprawna?",
+          "date": "04-02-2016 15:28:58"
+        },
+        {
+          "author": "~damdev@89.65.*.*",
+          "comment": "Zależy jak na to spojrzeć. Odpowiedź którą wymieniłeś również jest spełniona, ale jest to warunek na III postać normalną, a postać BC sama w sobie musi spełniać odpowiedź \"b\",  to że musi być również III postaci normalnej jest oczywiste z założenia.",
+          "date": "04-02-2017 17:18:28"
+        }
       ]
     },
     {
       "question": "Które z poniższych stwierdzeń są prawdziwe:",
       "id": 351,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "jedyną poprawną, nietrywialną zależnością funkcyjną jest zależność do klucza",
@@ -1038,12 +1077,13 @@
           "answer": "należy wszystkie związki jednoznaczne zastąpić związkami jednojednoznacznymi",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Które z poniższych stwierdzeń są prawdziwe:",
       "id": 352,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "każdy fakt przechowywany w bazie danych powinien być w niej wyrażany tylko na jeden sposób",
@@ -1061,11 +1101,31 @@
           "answer": "należy spytać się użytkownika czy schemat tabel jest w III postaci normalnej",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Na jakich poziomach projektuje się relacyjną bazę danych:",
       "id": 353,
+      "numberOfComments": 5,
+      "answers": [
+        {
+          "answer": "obiektowym",
+          "correct": false
+        },
+        {
+          "answer": "użytkowym",
+          "correct": true
+        },
+        {
+          "answer": "logicznym",
+          "correct": true
+        },
+        {
+          "answer": "fizycznym",
+          "correct": true
+        }
+      ],
       "comments": [
         {
           "author": "~chybanie@83.28.*.*",
@@ -1092,30 +1152,12 @@
           "comment": "•\tPoziom użytkowy\n•\tPoziom logiczny (koncepcyjny) \n•\tPoziom fizyczny",
           "date": "25-06-2020 20:09:26"
         }
-      ],
-      "answers": [
-        {
-          "answer": "obiektowym",
-          "correct": false
-        },
-        {
-          "answer": "użytkowym",
-          "correct": true
-        },
-        {
-          "answer": "logicznym",
-          "correct": true
-        },
-        {
-          "answer": "fizycznym",
-          "correct": true
-        }
       ]
     },
     {
       "question": "Kto jest twórcą relacyjnego modelu baz danych:",
       "id": 354,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Bill Gates",
@@ -1133,28 +1175,13 @@
           "answer": "Edgar Codd",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "W której firmie zaimplementowano po raz pierwszy system zarządzania relacyjną bazą danych:",
       "id": 355,
-      "comments": [
-        {
-          "author": "~KK@89.79.*.*",
-          "comment": "Cytat z wykładu:\n\n\"W latach 60. i 70. pracował nad zagadnieniami porządkowania danych - w 1970 wydał fundamentalną pracę \"A Relational Model of Data for Large Shared Data Banks\", w której przedstawił relacyjny model zarządzania bazami danych.\nRBD 2013 Opracowanie Krzysztof Matejewski na podstawie materiałów Lecha Banachowskiego 3\n￼￼\n￼Geneza relacyjnego modelu danych\nKu jego rozczarowaniu IBM zwlekał z praktycznym zastosowaniem zaprezentowanych rozwiązań aż do chwili, gdy konkurencyjne firmy zaczęły implementować ten model - przykładem była baza danych Oracle, opracowana przez Larry’ego Ellisona na bazie idei Codda.\"",
-          "date": "21-06-2014 18:45:48"
-        },
-        {
-          "author": "~Messi@83.31.*.*",
-          "comment": "Czyli chyba Oracle jest poprawną odpowiedzią.",
-          "date": "22-06-2014 11:46:08"
-        },
-        {
-          "author": "~Maestro@80.238.*.*",
-          "comment": "Wykład 1 Bazy danych – jak to się zaczęło:\n1973 - pierwszy system zarządzania relacyjną bazą danych (System R w firmie IBM).\n\nPierwszy system był w IBM, ale \"praktyczne\" zastosowanie czyli, żeby trzepać na tym kasę zostało zaimplementowane przez inne firmy. Czytanie ze zrozumieniem się kłania :)\n",
-          "date": "22-06-2014 11:55:09"
-        }
-      ],
+      "numberOfComments": 3,
       "answers": [
         {
           "answer": "Microsoft",
@@ -1172,12 +1199,29 @@
           "answer": "Sun",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~KK@89.79.*.*",
+          "comment": "Cytat z wykładu:\n\n\"W latach 60. i 70. pracował nad zagadnieniami porządkowania danych - w 1970 wydał fundamentalną pracę \"A Relational Model of Data for Large Shared Data Banks\", w której przedstawił relacyjny model zarządzania bazami danych.\nRBD 2013 Opracowanie Krzysztof Matejewski na podstawie materiałów Lecha Banachowskiego 3\n￼￼\n￼Geneza relacyjnego modelu danych\nKu jego rozczarowaniu IBM zwlekał z praktycznym zastosowaniem zaprezentowanych rozwiązań aż do chwili, gdy konkurencyjne firmy zaczęły implementować ten model - przykładem była baza danych Oracle, opracowana przez Larry’ego Ellisona na bazie idei Codda.\"",
+          "date": "21-06-2014 18:45:48"
+        },
+        {
+          "author": "~Messi@83.31.*.*",
+          "comment": "Czyli chyba Oracle jest poprawną odpowiedzią.",
+          "date": "22-06-2014 11:46:08"
+        },
+        {
+          "author": "~Maestro@80.238.*.*",
+          "comment": "Wykład 1 Bazy danych – jak to się zaczęło:\n1973 - pierwszy system zarządzania relacyjną bazą danych (System R w firmie IBM).\n\nPierwszy system był w IBM, ale \"praktyczne\" zastosowanie czyli, żeby trzepać na tym kasę zostało zaimplementowane przez inne firmy. Czytanie ze zrozumieniem się kłania :)\n",
+          "date": "22-06-2014 11:55:09"
+        }
       ]
     },
     {
       "question": "Gdy schemat tabel nie jest w trzeciej postaci normalnej mamy do czenienia z:",
       "id": 356,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "redundancją",
@@ -1195,12 +1239,13 @@
           "answer": "anomaliami przy modyfikacji",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Zależność funkcyjna dotyczy zależności między:",
       "id": 357,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "atrybutami",
@@ -1218,12 +1263,13 @@
           "answer": "kluczem obcym a kluczem głównym",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Eliminacja zależności częściowych i przechodnich prowadzi do:",
       "id": 358,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "III postaci normalnej",
@@ -1241,12 +1287,13 @@
           "answer": "nie ma wpływau na liczbę tabel",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Przy przejściu do tabeli obiektowej wiersz tabeli:",
       "id": 359,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "uzyskuje tożsamość obiektową",
@@ -1264,12 +1311,13 @@
           "answer": "jest zapisywany tylko w pamięci RAM",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Jakiego typu może być wartość atrybutu w modelu obiektowo-relacyjnym:",
       "id": 360,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "listą wartości",
@@ -1287,12 +1335,13 @@
           "answer": "wartością atomową",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Schemat klasy w języku ODL obejmuje:",
       "id": 361,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "atrybuty",
@@ -1310,12 +1359,13 @@
           "answer": "tabele",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Schemat klasy w języku ODL defiuje się przy użyciu słowa kluczowego:",
       "id": 362,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "interface",
@@ -1333,12 +1383,13 @@
           "answer": "entity",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Specyfikacje języka ODL obejmują:",
       "id": 363,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "związki odwrotne",
@@ -1356,23 +1407,13 @@
           "answer": "specyfikacje metod w języku C++",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Dany jest schemat relacyjny R={Miasto, Ulica, Kod}, <br>F = {Miasto,Ulica-&gt;Kod; Kod-&gt;Miasto}. Schemat ten:",
       "id": 364,
-      "comments": [
-        {
-          "author": "~nick@31.0.*.*",
-          "comment": "chyba zla odpowiedz",
-          "date": "03-02-2020 15:27:51"
-        },
-        {
-          "author": "~nick@31.0.*.*",
-          "comment": "wycofuje sie z powyzszego",
-          "date": "04-02-2020 09:19:57"
-        }
-      ],
+      "numberOfComments": 2,
       "answers": [
         {
           "answer": "jest w postaci normalnej Boyce'a-Codda",
@@ -1390,11 +1431,42 @@
           "answer": "nie jest ani w III postaci normalnej ani w postaci normalnej Boyce'a-Codda",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~nick@31.0.*.*",
+          "comment": "chyba zla odpowiedz",
+          "date": "03-02-2020 15:27:51"
+        },
+        {
+          "author": "~nick@31.0.*.*",
+          "comment": "wycofuje sie z powyzszego",
+          "date": "04-02-2020 09:19:57"
+        }
       ]
     },
     {
       "question": "Dany jest schemat relacyjny R={Miasto, Ulica, Kod, Poczta}, <br>F = {Miasto,Ulica-&gt;Kod; Kod-&gt;Miasto; Kod-&gt;Poczta}. Schemat ten:",
       "id": 365,
+      "numberOfComments": 5,
+      "answers": [
+        {
+          "answer": "jest w postaci normalnej Boyce'a-Codda",
+          "correct": false
+        },
+        {
+          "answer": "jest w III postaci normalnej ale nie jest w postaci normalnej Boyce'a-Codda",
+          "correct": false
+        },
+        {
+          "answer": "jest w III postaci normalnej",
+          "correct": false
+        },
+        {
+          "answer": "nie jest ani w III postaci normalnej ani w postaci normalnej Boyce'a-Codda",
+          "correct": true
+        }
+      ],
       "comments": [
         {
           "author": "~damdev@89.65.*.*",
@@ -1421,7 +1493,12 @@
           "comment": "up",
           "date": "27-08-2019 13:48:20"
         }
-      ],
+      ]
+    },
+    {
+      "question": "Dany jest schemat relacyjny R={Miasto, Ulica, Kod, Poczta}, <br>F = {Miasto,Ulica-&gt;Kod; Kod-&gt;Poczta}. Schemat ten:",
+      "id": 366,
+      "numberOfComments": 2,
       "answers": [
         {
           "answer": "jest w postaci normalnej Boyce'a-Codda",
@@ -1439,11 +1516,7 @@
           "answer": "nie jest ani w III postaci normalnej ani w postaci normalnej Boyce'a-Codda",
           "correct": true
         }
-      ]
-    },
-    {
-      "question": "Dany jest schemat relacyjny R={Miasto, Ulica, Kod, Poczta}, <br>F = {Miasto,Ulica-&gt;Kod; Kod-&gt;Poczta}. Schemat ten:",
-      "id": 366,
+      ],
       "comments": [
         {
           "author": "~PROFESOR@89.65.*.*",
@@ -1455,30 +1528,12 @@
           "comment": "Kod jest zależnością przechodnią. Wydaje mi się że to jest powód :) ",
           "date": "28-06-2016 23:53:53"
         }
-      ],
-      "answers": [
-        {
-          "answer": "jest w postaci normalnej Boyce'a-Codda",
-          "correct": false
-        },
-        {
-          "answer": "jest w III postaci normalnej ale nie jest w postaci normalnej Boyce'a-Codda",
-          "correct": false
-        },
-        {
-          "answer": "jest w III postaci normalnej",
-          "correct": false
-        },
-        {
-          "answer": "nie jest ani w III postaci normalnej ani w postaci normalnej Boyce'a-Codda",
-          "correct": true
-        }
       ]
     },
     {
       "question": "Dany jest schemat relacyjny R={Miasto, Ulica, Kod}, <br>F = {Miasto,Ulica-&gt;Kod}. Schemat ten:",
       "id": 367,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "jest w postaci normalnej Boyce'a-Codda",
@@ -1496,12 +1551,13 @@
           "answer": "nie jest ani w III postaci normalnej ani w postaci normalnej Boyce'a-Codda",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Dany jest schemat relacyjny R={Ulica, Kod, Sklep}, <br>F = {Ulica-&gt;Kod; Sklep-&gt;Ulica}. Schemat ten:",
       "id": 368,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "jest w postaci normalnej Boyce'a-Codda",
@@ -1519,11 +1575,31 @@
           "answer": "nie jest ani w III postaci normalnej ani w postaci normalnej Boyce'a-Codda",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Dany jest schemat relacyjny R={Ulica, Kod, Sklep, Numer}, <br>F = {Ulica-&gt;Kod; Ulica, Numer -&gt;Sklep}. Schemat ten:",
       "id": 369,
+      "numberOfComments": 3,
+      "answers": [
+        {
+          "answer": "jest w postaci normalnej Boyce'a-Codda",
+          "correct": false
+        },
+        {
+          "answer": "jest w III postaci normalnej ale nie jest w postaci normalnej Boyce'a-Codda",
+          "correct": false
+        },
+        {
+          "answer": "jest w III postaci normalnej",
+          "correct": false
+        },
+        {
+          "answer": "nie jest ani w III postaci normalnej ani w postaci normalnej Boyce'a-Codda",
+          "correct": true
+        }
+      ],
       "comments": [
         {
           "author": "~anon@2a02:a317:2244:2b00:30e6:f1fc:a1e8:44b",
@@ -1540,30 +1616,12 @@
           "comment": "jak już to jeśli nie d, to a i c",
           "date": "28-06-2020 16:57:38"
         }
-      ],
-      "answers": [
-        {
-          "answer": "jest w postaci normalnej Boyce'a-Codda",
-          "correct": false
-        },
-        {
-          "answer": "jest w III postaci normalnej ale nie jest w postaci normalnej Boyce'a-Codda",
-          "correct": false
-        },
-        {
-          "answer": "jest w III postaci normalnej",
-          "correct": false
-        },
-        {
-          "answer": "nie jest ani w III postaci normalnej ani w postaci normalnej Boyce'a-Codda",
-          "correct": true
-        }
       ]
     },
     {
       "question": "Dany jest schemat relacyjny R={Student,Adres,Akademik}, <br>F = {Student-&gt;Adres; Akademik-&gt;Adres; Student-&gt;Akademik}. Schemat ten:",
       "id": 370,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "jest w postaci normalnej Boyce'a-Codda",
@@ -1581,12 +1639,13 @@
           "answer": "nie jest ani w III postaci normalnej ani w postaci normalnej Boyce'a-Codda",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Dany jest schemat relacyjny R={Student,Uczelnia,Adres,Klub}, <br>F = {Student-&gt;Uczelnia; Klub-&gt;Adres}. Schemat ten:",
       "id": 371,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "jest w postaci normalnej Boyce'a-Codda",
@@ -1604,12 +1663,13 @@
           "answer": "nie jest ani w III postaci normalnej ani w postaci normalnej Boyce'a-Codda",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Dany jest schemat relacyjny R={Student,Uczelnia,Adres,Klub}, <br>F = {Student-&gt;Uczelnia; Klub-&gt;Adres; Uczelnia-&gt;Adres}. Schemat ten:",
       "id": 372,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "jest w postaci normalnej Boyce'a-Codda",
@@ -1627,11 +1687,31 @@
           "answer": "nie jest ani w III postaci normalnej ani w postaci normalnej Boyce'a-Codda",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Dany jest schemat relacyjny R={Student,Uczelnia,Adres,Klub}, <br>F = {Student, Uczelnia-&gt;Klub; Klub-&gt;Adres}. Schemat ten:",
       "id": 373,
+      "numberOfComments": 2,
+      "answers": [
+        {
+          "answer": "jest w postaci normalnej Boyce'a-Codda",
+          "correct": false
+        },
+        {
+          "answer": "jest w III postaci normalnej ale nie jest w postaci normalnej Boyce'a-Codda",
+          "correct": false
+        },
+        {
+          "answer": "jest w III postaci normalnej",
+          "correct": false
+        },
+        {
+          "answer": "nie jest ani w III postaci normalnej ani w postaci normalnej Boyce'a-Codda",
+          "correct": true
+        }
+      ],
       "comments": [
         {
           "author": "~damdev@89.65.*.*",
@@ -1643,30 +1723,12 @@
           "comment": "Wydaje mi się, że to dlatego, bo mając sam klub nie dostaniemy adresu.",
           "date": "24-06-2019 21:59:17"
         }
-      ],
-      "answers": [
-        {
-          "answer": "jest w postaci normalnej Boyce'a-Codda",
-          "correct": false
-        },
-        {
-          "answer": "jest w III postaci normalnej ale nie jest w postaci normalnej Boyce'a-Codda",
-          "correct": false
-        },
-        {
-          "answer": "jest w III postaci normalnej",
-          "correct": false
-        },
-        {
-          "answer": "nie jest ani w III postaci normalnej ani w postaci normalnej Boyce'a-Codda",
-          "correct": true
-        }
       ]
     },
     {
       "question": "Które ze sformułowań są prawdziwe dla związku nieidentyfikującego w Visio:",
       "id": 374,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "jest oznaczany strzałką zwróconą w stronę \"jeden\"",
@@ -1684,12 +1746,13 @@
           "answer": "jest oznaczany strzałką zwróconą w stronę \"wiele\"",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Które sformułowania są prawdziwe dla związku identyfikującego w Visio:",
       "id": 375,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "jest oznaczany strzałką zwróconą w stronę \"jeden\"",
@@ -1707,12 +1770,13 @@
           "answer": "jest oznaczany strzałką zwróconą w stronę \"wiele\"",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Akcje referencyjne dotyczą w Visio:",
       "id": 376,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "zależności wartości atrybutu od klucza",
@@ -1730,12 +1794,13 @@
           "answer": "używania odnośników dla kolumn kluczy obcych",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "W Visio właściwość liczebności (Cardinality) określa:",
       "id": 377,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "czy związek jest identyfikujący",
@@ -1753,11 +1818,31 @@
           "answer": "ile egzemplarzy encji po stronie wiele może być powiązane z egzemplarzem encji po stronie jeden",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "W Visio właściwość opcjonalności (Optional) określa:",
       "id": 378,
+      "numberOfComments": 4,
+      "answers": [
+        {
+          "answer": "czy związek jest identyfikujący",
+          "correct": false
+        },
+        {
+          "answer": "czy związek jest opcjonalny",
+          "correct": true
+        },
+        {
+          "answer": "ile egzemplarzy encji po stronie jeden może być powiązane z egzemplarzem encji po stronie wiele",
+          "correct": true
+        },
+        {
+          "answer": "ile egzemplarzy encji po stronie wiele może być powiązane z egzemplarzem encji po stronie jeden",
+          "correct": false
+        }
+      ],
       "comments": [
         {
           "author": "~AndrzejDuda@31.178.*.*",
@@ -1779,30 +1864,12 @@
           "comment": "Tak notabene to ta 3 odpowiedź jest chyba dobrze, bo skoro dopuszczalne jest NULL, to w skład  klucza obcego może wchodzić 0... n  egzemplarzy encji po stronie jeden",
           "date": "21-06-2016 09:06:41"
         }
-      ],
-      "answers": [
-        {
-          "answer": "czy związek jest identyfikujący",
-          "correct": false
-        },
-        {
-          "answer": "czy związek jest opcjonalny",
-          "correct": true
-        },
-        {
-          "answer": "ile egzemplarzy encji po stronie jeden może być powiązane z egzemplarzem encji po stronie wiele",
-          "correct": true
-        },
-        {
-          "answer": "ile egzemplarzy encji po stronie wiele może być powiązane z egzemplarzem encji po stronie jeden",
-          "correct": false
-        }
       ]
     },
     {
       "question": "W Visio właściwość typu związku (Relationship Type) określa:",
       "id": 379,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "czy związek jest identyfikujący",
@@ -1820,28 +1887,13 @@
           "answer": "ile egzemplarzy encji po stronie wiele może być powiązane z egzemplarzem encji po stronie jeden",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "W wyniku transformacji binarnego związku wieloznacznego liczba tworzonych encji wynosi:",
       "id": 380,
-      "comments": [
-        {
-          "author": "~anon@109.206.*.*",
-          "comment": "A nie 1 i 0?",
-          "date": "18-06-2016 13:07:18"
-        },
-        {
-          "author": "~maziar@87.206.*.*",
-          "comment": "Jak dla mnie odpowiedzi b i c ",
-          "date": "31-01-2017 22:51:27"
-        },
-        {
-          "author": "~co?@162.158.*.*",
-          "comment": "co?",
-          "date": "22-06-2019 22:14:24"
-        }
-      ],
+      "numberOfComments": 3,
       "answers": [
         {
           "answer": "0",
@@ -1859,12 +1911,29 @@
           "answer": "mogą powstać więcej niż dwie",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~anon@109.206.*.*",
+          "comment": "A nie 1 i 0?",
+          "date": "18-06-2016 13:07:18"
+        },
+        {
+          "author": "~maziar@87.206.*.*",
+          "comment": "Jak dla mnie odpowiedzi b i c ",
+          "date": "31-01-2017 22:51:27"
+        },
+        {
+          "author": "~co?@162.158.*.*",
+          "comment": "co?",
+          "date": "22-06-2019 22:14:24"
+        }
       ]
     },
     {
       "question": "W wyniku transformacji binarnego związku wieloznacznego liczba tworzonych związków wynosi:",
       "id": 381,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "0",
@@ -1882,12 +1951,13 @@
           "answer": "mogą powstać więcej niż dwa",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "W wyniku transformacji trójargumentowego związku wieloznacznego liczba tworzonych encji wynosi:",
       "id": 382,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "0",
@@ -1905,12 +1975,13 @@
           "answer": "mogą powstać więcej niż dwie",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "W wyniku transformacji trójargumentowego związku wieloznacznego liczba tworzonych związków wynosi:",
       "id": 383,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "1",
@@ -1928,23 +1999,13 @@
           "answer": "mogą powstać więcej niż dwa",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Cykl na diagramie związków encji oznacza, że:",
       "id": 384,
-      "comments": [
-        {
-          "author": "~anon@31.179.*.*",
-          "comment": "Ktoś wie czemu odpowiedź \"mamy do czynienia ze związkiem rekurencyjnym\" jest niepoprawna?",
-          "date": "04-02-2016 16:02:16"
-        },
-        {
-          "author": "~stefan@89.77.*.*",
-          "comment": "może istnieć związek ale nie musi",
-          "date": "04-02-2016 20:27:31"
-        }
-      ],
+      "numberOfComments": 2,
       "answers": [
         {
           "answer": "mamy do czynienia ze związkiem rekurencyjnym",
@@ -1962,12 +2023,24 @@
           "answer": "może istnieć związek rekurencyjny",
           "correct": true
         }
+      ],
+      "comments": [
+        {
+          "author": "~anon@31.179.*.*",
+          "comment": "Ktoś wie czemu odpowiedź \"mamy do czynienia ze związkiem rekurencyjnym\" jest niepoprawna?",
+          "date": "04-02-2016 16:02:16"
+        },
+        {
+          "author": "~stefan@89.77.*.*",
+          "comment": "może istnieć związek ale nie musi",
+          "date": "04-02-2016 20:27:31"
+        }
       ]
     },
     {
       "question": "Instancją związku jednojednoznacznego jest zawsze funkcja:",
       "id": 385,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "różnowartościowa",
@@ -1985,12 +2058,13 @@
           "answer": "stała",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "W notacji modelowania Chena związek jest reprezentowany przez:",
       "id": 386,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "linię",
@@ -2008,12 +2082,13 @@
           "answer": "romb",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "W notacji modelowania Chena encja jest reprezentowana przez:",
       "id": 387,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "trójkąt",
@@ -2031,12 +2106,13 @@
           "answer": "romb",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "W notacji modelowania Chena atrybut jest reprezentowany przez:",
       "id": 388,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "trójkąt",
@@ -2054,12 +2130,13 @@
           "answer": "romb",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Studenci mają pomysły. Każdy pomysł dotyczy pewnej rzeczy. Każdy pomysł przychodzi do głowy dokładnie jednemu studentowi. Student może się podzielić pomysłem z kolegami-studentami. Który ze schematów jest najodpowiedniejszy z punktu widzenia zasad projektowania baz danych:",
       "id": 389,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Studenci(id_studenta, imię, nazwisko, adres, id_pomysłu)<br>Pomysły(id_pomysłu, rzecz, opis)<br>Koledzy(id_kolegi, imię, nazwisko, id_studenta, id_pomysłu)",
@@ -2077,11 +2154,31 @@
           "answer": "Studenci(id_studenta, imię, nazwisko, adres)<br>Pomysły(id_pomysłu, rzecz, opis, id_studenta, id_kolegi)",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Studenci lubią się, są sobie obojętni lub nie znoszą się (nie ma innej możliwości). Który ze schematów jest najodpowiedniejszy z punktu widzenia zasad projektowania baz danych :",
       "id": 390,
+      "numberOfComments": 5,
+      "answers": [
+        {
+          "answer": "Studenci(id_studenta, imię, nazwisko)<br>Koledzy(id_kolegi, imię, nazwisko, id_studenta, id_stosunku_do)<br>Stosunek(id_stosunku_do, stosunek_do)",
+          "correct": false
+        },
+        {
+          "answer": "Studenci(id_studenta, imię, nazwisko)<br>Koledzy(id_kolegi, imię, nazwisko, id_studenta, stosunek_do)",
+          "correct": false
+        },
+        {
+          "answer": "Studenci(id_studenta, imię, nazwisko)<br>Lubi(id_studenta, id_kolegi)<br>Nie_znosi(id_studenta, id_kolegi)<br>Obojętny(id_studenta, id_kolegi)",
+          "correct": false
+        },
+        {
+          "answer": "Studenci(id_studenta, imię, nazwisko)<br>Lubi(id_studenta, id_kolegi)<br>Nie_znosi(id_studenta, id_kolegi)",
+          "correct": true
+        }
+      ],
       "comments": [
         {
           "author": "~aniaa-a@89.75.*.*",
@@ -2108,30 +2205,12 @@
           "comment": "Co za młoty",
           "date": "24-06-2019 00:18:55"
         }
-      ],
-      "answers": [
-        {
-          "answer": "Studenci(id_studenta, imię, nazwisko)<br>Koledzy(id_kolegi, imię, nazwisko, id_studenta, id_stosunku_do)<br>Stosunek(id_stosunku_do, stosunek_do)",
-          "correct": false
-        },
-        {
-          "answer": "Studenci(id_studenta, imię, nazwisko)<br>Koledzy(id_kolegi, imię, nazwisko, id_studenta, stosunek_do)",
-          "correct": false
-        },
-        {
-          "answer": "Studenci(id_studenta, imię, nazwisko)<br>Lubi(id_studenta, id_kolegi)<br>Nie_znosi(id_studenta, id_kolegi)<br>Obojętny(id_studenta, id_kolegi)",
-          "correct": false
-        },
-        {
-          "answer": "Studenci(id_studenta, imię, nazwisko)<br>Lubi(id_studenta, id_kolegi)<br>Nie_znosi(id_studenta, id_kolegi)",
-          "correct": true
-        }
       ]
     },
     {
       "question": "W domach mieszkają zwierzęta domowe. Niektóre zwierzęta zjadają się wzajemnie. Domy mogą być położone obok siebie. Jaki schemat zgodny z zasadami projektowania schematów baz danych jest najodpowiedniejszy dla organizacji zajmującej się ochroną zwierząt:",
       "id": 391,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Domy(id_domu, adres, id_zwierzę)<br>Zwierzęta(id_zwierzę, rodzaj, id_zw_zjadane)",
@@ -2149,28 +2228,13 @@
           "answer": "Domy(id_domu, adres, id_zwierzę, rodzaj)<br>Obok_siebie(id_domu1, id_domu2)<br>Zjada(id_zw_je, id_zw_zjadane)",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "W filmach grają aktorzy. Każdy film ma dokładnie jednego reżysera i jednego lub więcej scenarzystę. Który z poniższych schematów jest najodpowiedniejszy z punktu widzenia zasad projektowania baz danych:",
       "id": 392,
-      "comments": [
-        {
-          "author": "~kronus@81.18.*.*",
-          "comment": "coś jest nie tak z poprawną odpowiedzią - do czego odnosi się id_reżysera, po co tabela Osoby skoro żadna nie jest z nią w związku? z tych schematów najodpowiedniejszy wydaje się być:\nFilmy(id_filmu, tytuł, reżyser, gaża_reżysera)\nAktorzy(id_aktora, nazwisko,rola, id_filmu, gaża)\nScenarzyści(id_scenarzysty, nazwisko, id_filmu, gaża)",
-          "date": "16-02-2013 11:11:55"
-        },
-        {
-          "author": "~Archi@89.72.*.*",
-          "comment": "Wg. mnie jest dobrze - Tabela osoby występuje bo zarówno scenarzyści jak i aktorzy się w niej znajdują (normalizacja -> 2x nazwisko -> zbędna redundancja), a id reżysera tak samo jak id scenarzysty odnosi się do id osoby. IMHO jest ok.",
-          "date": "03-09-2013 03:05:31"
-        },
-        {
-          "author": "~anon@81.15.*.*",
-          "comment": "potwierdzam poprawność pierwszej osoby. W jednej z lekcji od Matejweskiego występuje to pytanie. Oczywiście Odp. to {Studenci, Koledzy, Stosunek}",
-          "date": "29-06-2015 16:27:40"
-        }
-      ],
+      "numberOfComments": 3,
       "answers": [
         {
           "answer": "Filmy(id_filmu, tytuł, reżyser, gaża_reżysera)<br>Aktorzy(id_aktora, nazwisko,rola, id_filmu, gaża)<br>Scenarzyści(id_scenarzysty, nazwisko, id_filmu, gaża)",
@@ -2188,12 +2252,29 @@
           "answer": "Zespół(tytuł_filmu, nazwisko_osoby, rola, gaża)",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~kronus@81.18.*.*",
+          "comment": "coś jest nie tak z poprawną odpowiedzią - do czego odnosi się id_reżysera, po co tabela Osoby skoro żadna nie jest z nią w związku? z tych schematów najodpowiedniejszy wydaje się być:\nFilmy(id_filmu, tytuł, reżyser, gaża_reżysera)\nAktorzy(id_aktora, nazwisko,rola, id_filmu, gaża)\nScenarzyści(id_scenarzysty, nazwisko, id_filmu, gaża)",
+          "date": "16-02-2013 11:11:55"
+        },
+        {
+          "author": "~Archi@89.72.*.*",
+          "comment": "Wg. mnie jest dobrze - Tabela osoby występuje bo zarówno scenarzyści jak i aktorzy się w niej znajdują (normalizacja -> 2x nazwisko -> zbędna redundancja), a id reżysera tak samo jak id scenarzysty odnosi się do id osoby. IMHO jest ok.",
+          "date": "03-09-2013 03:05:31"
+        },
+        {
+          "author": "~anon@81.15.*.*",
+          "comment": "potwierdzam poprawność pierwszej osoby. W jednej z lekcji od Matejweskiego występuje to pytanie. Oczywiście Odp. to {Studenci, Koledzy, Stosunek}",
+          "date": "29-06-2015 16:27:40"
+        }
       ]
     },
     {
       "question": "Politycy należą do partii politycznych (czasami je zmieniają, czasami dokonują ich podziału). Partie polityczne, przed wyborami, tworzą koalicje wyborcze.  Który z poniższych schematów jest najodpowiedniejszy z punktu widzenia zasad projektowania baz danych:",
       "id": 393,
-      "comments": null,
+      "numberOfComments": 1,
       "answers": [
         {
           "answer": "Politycy(id_polityka, imię, nazwisko)<br>Partie(id_partii, nazwa, od, do)<br>Koalicje(id_koalicji,  data_wyborów)<br>Członkowie(id_partii, id_osoby, od, do)<br>W_koalicji(id_partii, id_koalicji, od, do)",
@@ -2211,12 +2292,19 @@
           "answer": "Politycy(id_polityka, imię, nazwisko, id_partii, od, do)<br>Partie(id_partii, nazwa, od, do)<br>Koalicje(id_koalicji,  data_wyborów)<br>W_koalicji(id_partii, id_koalicji, od, do)",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~kronus@81.18.*.*",
+          "comment": "błąd w poprawnej odpowiedzi - Członkowie powinno być (id_partii, id_polityka, od, do) - nie ma w tym schemacie id_osoby !!",
+          "date": "16-02-2013 10:59:40"
+        }
       ]
     },
     {
       "question": "Studenci planują, czym chcieliby się zajmować w swojej przyszłej pracy zawodowej i jakie stanowiska chcieliby pełnić. Który z poniższych schematów jest najodpowiedniejszy z punktu widzenia zasad projektowania baz danych:",
       "id": 394,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Studenci(id_studenta, imię, nazwisko)<br>Zajęcia(id_zajęcia, nazwa)<br>Stanowiska(id_stanowiska, nazwa)<br>Kto_co(id_studenta, id_stanowiska, id_zajęcia)",
@@ -2234,12 +2322,13 @@
           "answer": "Studenci(id_studenta, imię, nazwisko,rok)<br>Kto_co(id_studenta, stanowisko, zajęcie)",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "W PJWSTK ma powstać baza danych zbierająca informacje o umiejętnościach przydatnych w pracy zawodowej, o przedmiotach, które uczą tych umiejętności oraz o książkach, w których umiejętności są opisane. Który z poniższych schematów jest najodpowiedniejszy z punktu widzenia zasad projektowania baz danych:",
       "id": 395,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Umiejętności(umiejętność, przedmiot, książka)",
@@ -2257,11 +2346,31 @@
           "answer": "Przedmioty(id_przedmiotu, nazwa, semestr)<br>Egzemplarze_książek(sygnatura, tytuł, autorzy, nr_półki)<br>Umiejętności(id_umiejętności, nazwa, opis)<br>Gdzie(id_umiejętności, sygnatura, od_strony, do_strony)",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "W PJWSTK powstaje baza danych z informacjami, jakie oprogramowanie jest zainstalowane w poszczególnych salach - z myślą o prowadzeniu w nich ćwiczeń z odpowiednich przedmiotów. Który z poniższych schematów jest najodpowiedniejszy z punktu widzenia zasad projektowania baz danych:",
       "id": 396,
+      "numberOfComments": 4,
+      "answers": [
+        {
+          "answer": "Sale(numer_sali, nazwa_programu, wersja, ile_instalacji)<br>Programy(nazwa_programu, wersja, nazwa_przedmiotu)",
+          "correct": false
+        },
+        {
+          "answer": "Programy(id_programu, firma, nazwa, wersja)<br>Przedmioty(id_przedmiotu, nazwa)<br>Sale_programy(nr_sali, id_programu,  ile_instalacji)<br>Przedmioty_programy(id_przedmiotu, id_programu)",
+          "correct": true
+        },
+        {
+          "answer": "Programy(id_programu, firma, nazwa, wersja, nazwa_przedmiotu)<br>Sale_programy(nr_sali, id_programu, wersja, ile_instalacji)",
+          "correct": false
+        },
+        {
+          "answer": "Sale(id_sali, numer, ile_komputerów)<br>Programy(id_programu, firma, nazwa, wersja)<br>Przedmioty(id_przedmiotu, nazwa)<br>Sale_programy(id_sali, id_programu, wersja, ile_instalacji)<br>Przedmioty_programy(id_przedmiotu, id_programu, wersja)",
+          "correct": false
+        }
+      ],
       "comments": [
         {
           "author": "~freedom@80.238.*.*",
@@ -2283,29 +2392,30 @@
           "comment": "Chociaż nie, odp. nr. 2, gdyż przy czwartej występuję redundacja (wersja)",
           "date": "27-06-2017 16:38:30"
         }
-      ],
-      "answers": [
-        {
-          "answer": "Sale(numer_sali, nazwa_programu, wersja, ile_instalacji)<br>Programy(nazwa_programu, wersja, nazwa_przedmiotu)",
-          "correct": false
-        },
-        {
-          "answer": "Programy(id_programu, firma, nazwa, wersja)<br>Przedmioty(id_przedmiotu, nazwa)<br>Sale_programy(nr_sali, id_programu,  ile_instalacji)<br>Przedmioty_programy(id_przedmiotu, id_programu)",
-          "correct": true
-        },
-        {
-          "answer": "Programy(id_programu, firma, nazwa, wersja, nazwa_przedmiotu)<br>Sale_programy(nr_sali, id_programu, wersja, ile_instalacji)",
-          "correct": false
-        },
-        {
-          "answer": "Sale(id_sali, numer, ile_komputerów)<br>Programy(id_programu, firma, nazwa, wersja)<br>Przedmioty(id_przedmiotu, nazwa)<br>Sale_programy(id_sali, id_programu, wersja, ile_instalacji)<br>Przedmioty_programy(id_przedmiotu, id_programu, wersja)",
-          "correct": false
-        }
       ]
     },
     {
       "question": "Który ze schematów bazy danych dla biblioteki jest najodpowiedniejszy z punktu widzenia zasad projektowania baz danych. Baza powinna przechowywać informacje o klientach, książkach i wypożyczeniach (wielkie litery oznaczają klucz główny):",
       "id": 397,
+      "numberOfComments": 4,
+      "answers": [
+        {
+          "answer": "Klient(ID_KLIENTA, imię, nazwisko, adres)<br>Książka(ID_KSIąŻKI, tytuł, autor)<br>Wypożyczenie(ID_KLIENTA, id_książki, data_wypożyczenia, data_zwrotu)",
+          "correct": false
+        },
+        {
+          "answer": "Klient(ID_KLIENTA, imię, nazwisko, adres)<br>Książka(ID_KSIąŻKI, tytuł, autor)<br>Wypożyczenie(ID_KLIENTA, ID_KSIąŻKI, data_wypożyczenia, data_zwrotu)",
+          "correct": false
+        },
+        {
+          "answer": "Klient(ID_KLIENTA, imię, nazwisko, adres)<br>Książka(ID_KSIąŻKI, tytuł, autor)<br>Wypożyczenie(ID_KLIENTA, ID_KSIąŻKI, DATA_WYPOŻYCZENIA, data_zwrotu)",
+          "correct": true
+        },
+        {
+          "answer": "Klient(ID_KLIENTA, imię, nazwisko, adres)<br>Książka(ID_KSIąŻKI, tytuł, autor)<br>Wypożyczenie(ID_KLIENTA, ID_KSIąŻKI, DATA_WYPOŻYCZENIA, DATA_ZWROTU)",
+          "correct": false
+        }
+      ],
       "comments": [
         {
           "author": "~aniaa-a@89.75.*.*",
@@ -2327,30 +2437,12 @@
           "comment": "d napewno nie jest poprawna annnnons",
           "date": "28-06-2020 17:35:44"
         }
-      ],
-      "answers": [
-        {
-          "answer": "Klient(ID_KLIENTA, imię, nazwisko, adres)<br>Książka(ID_KSIąŻKI, tytuł, autor)<br>Wypożyczenie(ID_KLIENTA, id_książki, data_wypożyczenia, data_zwrotu)",
-          "correct": false
-        },
-        {
-          "answer": "Klient(ID_KLIENTA, imię, nazwisko, adres)<br>Książka(ID_KSIąŻKI, tytuł, autor)<br>Wypożyczenie(ID_KLIENTA, ID_KSIąŻKI, data_wypożyczenia, data_zwrotu)",
-          "correct": false
-        },
-        {
-          "answer": "Klient(ID_KLIENTA, imię, nazwisko, adres)<br>Książka(ID_KSIąŻKI, tytuł, autor)<br>Wypożyczenie(ID_KLIENTA, ID_KSIąŻKI, DATA_WYPOŻYCZENIA, data_zwrotu)",
-          "correct": true
-        },
-        {
-          "answer": "Klient(ID_KLIENTA, imię, nazwisko, adres)<br>Książka(ID_KSIąŻKI, tytuł, autor)<br>Wypożyczenie(ID_KLIENTA, ID_KSIąŻKI, DATA_WYPOŻYCZENIA, DATA_ZWROTU)",
-          "correct": false
-        }
       ]
     },
     {
       "question": "Potrzebna jest baza danych do ewidencji studentów i ich ocen. Który ze schematów bazy danych jest najodpowiedniejszy z punktu widzenia zasad projektowania baz danych:",
       "id": 398,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Student(id_studenta, imię, nazwisko)<br>Ocena(id_oceny, ocena, data_wystawienia, nazwa_przedmiotu)",
@@ -2368,12 +2460,13 @@
           "answer": "Student(id_studenta, imię, nazwisko, ocena)<br>Przedmiot(id_przedmiotu, nazwa, id_studenta)",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Które metody dotyczą zachowania spójności danych przy współbieżnym dostępie:",
       "id": 399,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "blokowanie pesymistyczne",
@@ -2391,12 +2484,13 @@
           "answer": "blokowanie optymistyczne",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Które metody dotyczą ochrony danych przed nieautoryzowanym dostępem:",
       "id": 400,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "kopia zapasowa",
@@ -2414,12 +2508,13 @@
           "answer": "przyznawanie uprawnień do wykonywania operacji na obiektach",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Dane słownika danych (metadane) są przechowywane w bazie danych:",
       "id": 401,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "w specjalnym pliku binarnym w tym samym katalogu co pliki systemu zarządzania bazą danych",
@@ -2437,12 +2532,13 @@
           "answer": "w specjalnych tabelach w tej samej bazie danych",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Architektura klient-serwer oznacza:",
       "id": 402,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "podział zadań realizowanych przez aplikację na dwa aspekty: usługodawcy i usługobiorcy",
@@ -2460,12 +2556,13 @@
           "answer": "ustawienie wszystkich programów w pary: klient, serwer",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Architektura klient-serwer oznacza:",
       "id": 403,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "strukturę sklepu internetowego",
@@ -2483,12 +2580,13 @@
           "answer": "że jeden program świadczy usługi dla grupy innych programów",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Które z poniższych sformułowań są prawdziwe:",
       "id": 404,
-      "comments": null,
+      "numberOfComments": 1,
       "answers": [
         {
           "answer": "na jednym komputerze może być dokładnie jeden serwer i jeden klient",
@@ -2506,12 +2604,19 @@
           "answer": "na jednym komputerze może być wiele serwerów i wiele klientów",
           "correct": true
         }
+      ],
+      "comments": [
+        {
+          "author": "~helou@162.158.*.*",
+          "comment": "jeśli może być wiele serwerów i klientów to mniej przecież też może być...",
+          "date": "26-06-2019 20:59:50"
+        }
       ]
     },
     {
       "question": "Które z poniższych sformułowań są prawdziwe:",
       "id": 405,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "program pełniący rolę serwera może stać się klientem innego serwera",
@@ -2529,12 +2634,13 @@
           "answer": "klient i serwer mogą się znajdować na różnych komputerach",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Które z poniższych sformułowań są prawdziwe:",
       "id": 406,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "program pełniący rolę serwera może stać się klientem innego serwera",
@@ -2552,12 +2658,13 @@
           "answer": "klient i serwer muszą się znajdować na różnych komputerach",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Które z poniższych obiektów występują w oknie bazy danych MS Access:",
       "id": 407,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "moduły",
@@ -2575,12 +2682,13 @@
           "answer": "raporty",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Które z poniższych obiektów występują w oknie bazy danych MS Access:",
       "id": 408,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "moduły",
@@ -2598,12 +2706,13 @@
           "answer": "rysunki",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Które z poniższych obiektów występują w oknie bazy danych MS Access:",
       "id": 409,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "procedury",
@@ -2621,12 +2730,13 @@
           "answer": "raporty",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Które z poniższych obiektów występują w oknie bazy danych MS Access:",
       "id": 410,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "moduły",
@@ -2644,12 +2754,13 @@
           "answer": "funkcje",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Które z poniższych obiektów występują w oknie bazy danych MS Access:",
       "id": 411,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "tabele",
@@ -2667,12 +2778,13 @@
           "answer": "komponenty ActiveX",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Które operatory ze standardu SQL nie występują w MS Access:",
       "id": 412,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "UNION",
@@ -2690,12 +2802,13 @@
           "answer": "LIKE",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Które operatory ze standardu SQL  występują w MS Access:",
       "id": 413,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "UNION",
@@ -2713,12 +2826,13 @@
           "answer": "DISTINCT",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Które operatory ze standardu SQL nie występują w MS Access:",
       "id": 414,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "UNION",
@@ -2736,12 +2850,13 @@
           "answer": "EXISTS",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Które operatory Accessa nie występują w standardzie SQL:",
       "id": 415,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "DISTINCT",
@@ -2759,12 +2874,13 @@
           "answer": "AND",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Czy instrukcja SELECT może się pojawić:",
       "id": 416,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "w siatce kwerendy w wierszu Pole (Field)",
@@ -2782,12 +2898,13 @@
           "answer": "jako źródło wierszy dla pola listowego na formularzu",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Kwerenda przekazująca polega na:",
       "id": 417,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "wyświetleniu użytkownikowi wyników instrukcji SQL",
@@ -2805,12 +2922,13 @@
           "answer": "przesłaniu do serwera pocztowego rezultatu wykonania instrukcji SQL",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Kwerenda przekazująca może być użyta do:",
       "id": 418,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "utworzenia tabeli w bazie danych SQLServer",
@@ -2828,12 +2946,13 @@
           "answer": "utworzenia obiektu Application w bazie danych SQLServer",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Kwerenda przekazująca może być użyta do:",
       "id": 419,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "utworzenia tabeli w bazie danych Oracle",
@@ -2851,12 +2970,13 @@
           "answer": "utworzenia obiektu Application w bazie danych Oracle",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Kwerenda przekazująca może być użyta do:",
       "id": 420,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "sprowadzenia danych z odległej bazy danych",
@@ -2874,12 +2994,13 @@
           "answer": "skorzystania z usług serwera automatyzacji",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Kwerenda przekazująca może być użyta do:",
       "id": 421,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "sprowadzenia danych zapisanych w systemie plików",
@@ -2897,12 +3018,13 @@
           "answer": "skorzystania z usług serwera automatyzacji Windows",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Kwerenda przekazująca może być użyta do:",
       "id": 422,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "sprowadzenia danych z odległej bazy danych",
@@ -2920,12 +3042,13 @@
           "answer": "skorzystania z usług serwera automatyzacji Windows",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Kwerenda przekazująca może być użyta do:",
       "id": 423,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "sprowadzenia formularza z odległej bazy danych",
@@ -2943,12 +3066,13 @@
           "answer": "skorzystania z usług serwera automatyzacji Windows",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Jaką rolę pełnią tabele w MS Access:",
       "id": 424,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "struktury fizycznej przechowywania danych",
@@ -2966,11 +3090,31 @@
           "answer": "źródła danych dla formularzy",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Jakie operacje można wykonać na tabeli MS Access w widoku arkusz danych:",
       "id": 425,
+      "numberOfComments": 4,
+      "answers": [
+        {
+          "answer": "dodać nowy wiersz",
+          "correct": true
+        },
+        {
+          "answer": "dodać nową kolumnę",
+          "correct": true
+        },
+        {
+          "answer": "usunąć wiersz",
+          "correct": true
+        },
+        {
+          "answer": "usunąć kolumnę",
+          "correct": true
+        }
+      ],
       "comments": [
         {
           "author": "~anon@91.230.*.*",
@@ -2992,11 +3136,16 @@
           "comment": "\"W widoku arkusz danych można wykonywać podstawowe operacje na wierszach tabeli\"\n\n\"wierszach\"",
           "date": "27-06-2020 13:25:58"
         }
-      ],
+      ]
+    },
+    {
+      "question": "Jakie operacje można wykonać na tabeli MS Access w widoku projekt tabeli:",
+      "id": 426,
+      "numberOfComments": 2,
       "answers": [
         {
           "answer": "dodać nowy wiersz",
-          "correct": true
+          "correct": false
         },
         {
           "answer": "dodać nową kolumnę",
@@ -3004,17 +3153,13 @@
         },
         {
           "answer": "usunąć wiersz",
-          "correct": true
+          "correct": false
         },
         {
           "answer": "usunąć kolumnę",
           "correct": true
         }
-      ]
-    },
-    {
-      "question": "Jakie operacje można wykonać na tabeli MS Access w widoku projekt tabeli:",
-      "id": 426,
+      ],
       "comments": [
         {
           "author": "~deedee@185.15.*.*",
@@ -3026,30 +3171,12 @@
           "comment": "Przepraszam pomyłka, nie doczytałam, że chodzi o projekt tabeli.",
           "date": "19-06-2016 21:40:56"
         }
-      ],
-      "answers": [
-        {
-          "answer": "dodać nowy wiersz",
-          "correct": false
-        },
-        {
-          "answer": "dodać nową kolumnę",
-          "correct": true
-        },
-        {
-          "answer": "usunąć wiersz",
-          "correct": false
-        },
-        {
-          "answer": "usunąć kolumnę",
-          "correct": true
-        }
       ]
     },
     {
       "question": "Jakie operacje można wykonać na tabeli MS Access w widoku arkusz danych:",
       "id": 427,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "posortować wiersze według wartości w jednej z kolumn",
@@ -3067,12 +3194,13 @@
           "answer": "zastosować filtr",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Jakie operacje można wykonać na tabeli MS Access w widoku projekt tabeli:",
       "id": 428,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "ustalić kryterium sortowania wierszy",
@@ -3090,12 +3218,13 @@
           "answer": "zastosować filtr",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Odnośnik określa się dla:",
       "id": 429,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "kolumny kluczy głównego",
@@ -3113,12 +3242,13 @@
           "answer": "formularza",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Opcja \"Kaskadowe usuwanie powiązanych rekordów\":",
       "id": 430,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "umożliwia zachowianie wiezów spójności referencyjnej",
@@ -3136,23 +3266,13 @@
           "answer": "jest ustawiana w oknie edycji właściwości związku między dwiema tabelami",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Typ złączania wierszy:",
       "id": 431,
-      "comments": [
-        {
-          "author": "~anon@87.206.*.*",
-          "comment": "Prawidłowa jest odpowiedź c, a nie d. Typ związku ma dwie opcje: identyfikujący lub nieidentyfkujący",
-          "date": "27-06-2017 18:32:07"
-        },
-        {
-          "author": "~anon@83.31.*.*",
-          "comment": "inner join, outer join, full join ",
-          "date": "25-06-2018 21:43:17"
-        }
-      ],
+      "numberOfComments": 2,
       "answers": [
         {
           "answer": "jest ustawiany w widoku projekt tabeli",
@@ -3170,12 +3290,24 @@
           "answer": "ma trzy opcje",
           "correct": true
         }
+      ],
+      "comments": [
+        {
+          "author": "~anon@87.206.*.*",
+          "comment": "Prawidłowa jest odpowiedź c, a nie d. Typ związku ma dwie opcje: identyfikujący lub nieidentyfkujący",
+          "date": "27-06-2017 18:32:07"
+        },
+        {
+          "author": "~anon@83.31.*.*",
+          "comment": "inner join, outer join, full join ",
+          "date": "25-06-2018 21:43:17"
+        }
       ]
     },
     {
       "question": "Perspektywa w MS Access to:",
       "id": 432,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "formularz oparty na kwerendzie wybierającej",
@@ -3193,12 +3325,13 @@
           "answer": "raport oparty na kwerendzie wybierającej",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Które z poniższych są nazwami rodzajów kwerend:",
       "id": 433,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "usuwająca",
@@ -3216,12 +3349,13 @@
           "answer": "administrująca",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Jakie są możliwe postacie formularza (Default View) w widoku formularz:",
       "id": 434,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "pojedynczy formularz",
@@ -3239,12 +3373,13 @@
           "answer": "wykres",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Wyświetlaną zawartość formularza można podzielić na:",
       "id": 435,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "strony",
@@ -3262,12 +3397,13 @@
           "answer": "raporty",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Pole formularza może być:",
       "id": 436,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "związane",
@@ -3285,12 +3421,13 @@
           "answer": "nieokreślone",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Jaką wartość może mieć wyrażenie If(IsNull([Zarobki]),0,[Zarobki]):",
       "id": 437,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "0",
@@ -3308,12 +3445,13 @@
           "answer": "równą wartości wyrażenia [Zarobki]",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Naturalną strukturą logiczną podziału danych w raporcie są:",
       "id": 438,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "grupy",
@@ -3331,12 +3469,13 @@
           "answer": "kolumny",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Zestawienia krzyżowe danych korzystają z:",
       "id": 439,
-      "comments": null,
+      "numberOfComments": 1,
       "answers": [
         {
           "answer": "kwerend krzyżowych",
@@ -3354,12 +3493,19 @@
           "answer": "kwerend definiujących dane",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~anon@162.158.*.*",
+          "comment": "\nhttp://edu.pjwstk.edu.pl/wyklady/rbd/scb/wyklad7/interface1a.htm--\"Wychodzimy od tabel Osoba i Departament. W pierwszym kroku tworzymy kwerendę zawierającą dane potrzebne do wykonania zestawienia krzyżowego:\"",
+          "date": "15-06-2019 15:49:05"
+        }
       ]
     },
     {
       "question": "Dane przechowywane w bazie danych MS Access mogą być dostępne w sieci do wyświetlania na przeglądarkach przy użyciu:",
       "id": 440,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "stron dostępu do danych",
@@ -3377,12 +3523,13 @@
           "answer": "rozdzielenia na część interfejsu użytkownika i serwera danych",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Które z poniższych obiektów mogą wystąpić na standardowym formularzu Accessa jako jego elementy dialogowe (formanty):",
       "id": 441,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "lista",
@@ -3400,12 +3547,13 @@
           "answer": "wykres",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Które z następujących obiektów mogą wejść w skład modułu w Accessie:",
       "id": 442,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "makro",
@@ -3423,28 +3571,13 @@
           "answer": "inny moduł",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Które z następujących obiektów mogą być zapisane w polu tabeli w bazie danych Access:",
       "id": 443,
-      "comments": [
-        {
-          "author": "~anon@162.158.*.*",
-          "comment": "dokument Worda????",
-          "date": "16-06-2019 16:34:09"
-        },
-        {
-          "author": "~marciopol@162.158.*.*",
-          "comment": "normalnie essa",
-          "date": "16-06-2019 20:58:55"
-        },
-        {
-          "author": "~PijanyAdamMałysz@162.158.*.*",
-          "comment": "Access na następnych zawodach cię pokonam!\n",
-          "date": "16-06-2019 21:01:01"
-        }
-      ],
+      "numberOfComments": 3,
       "answers": [
         {
           "answer": "moduł",
@@ -3462,12 +3595,29 @@
           "answer": "wartość TAK/NIE",
           "correct": true
         }
+      ],
+      "comments": [
+        {
+          "author": "~anon@162.158.*.*",
+          "comment": "dokument Worda????",
+          "date": "16-06-2019 16:34:09"
+        },
+        {
+          "author": "~marciopol@162.158.*.*",
+          "comment": "normalnie essa",
+          "date": "16-06-2019 20:58:55"
+        },
+        {
+          "author": "~PijanyAdamMałysz@162.158.*.*",
+          "comment": "Access na następnych zawodach cię pokonam!\n",
+          "date": "16-06-2019 21:01:01"
+        }
       ]
     },
     {
       "question": "Z jakimi obiektami w Accessie można łączyć procedury zdarzeń:",
       "id": 444,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "kwerenda",
@@ -3485,12 +3635,13 @@
           "answer": "zmienna w module",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Używając technologii ODBC można w bazie danych MS Access:",
       "id": 445,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "wyświetlić formularz należący do innej bazy danych MS Access",
@@ -3508,12 +3659,13 @@
           "answer": "zdefiniować tabelę połączoną z tabelą w bazie danych SQL Server",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Odnośnik to:",
       "id": 446,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "typ danych Accessa, którego wartościami są wskaźniki",
@@ -3531,12 +3683,13 @@
           "answer": "alternatywna nazwa dla klucza obcego",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Co oznacza termin \"Filtruj według formularza\":",
       "id": 447,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "wyświetlenie powiązanego, zsynchronizowanego formularza",
@@ -3554,12 +3707,13 @@
           "answer": "zapisanie jako kwerendy bieżącego filtru formularza",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Które zdarzenia można oprogramować dla formularza:",
       "id": 448,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "przy wyświetleniu arkusza danych",
@@ -3577,12 +3731,13 @@
           "answer": "po aktualizacji",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "W warunku WHERE: Instytucje![Id instytucji]=Forms![Osoby]![Id instytucji] obiekty Instytucje, Osoby mogą być odpowiednio:",
       "id": 449,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "formularzem i formularzem",
@@ -3600,12 +3755,13 @@
           "answer": "tabelą i formularzem",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "W jakich miejscach można użyć wyrażenia Suma([Koszt]) (ang. Sum([Koszt])):",
       "id": 450,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "w klauzuli SELECT",
@@ -3623,12 +3779,13 @@
           "answer": "w wierszu \"Pole\" siatki kwerendy",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Formant ActiveX jest:",
       "id": 451,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "elementem dialogowym formularza obsługiwanym przez zarejestrowaną aplikację Windows",
@@ -3646,12 +3803,13 @@
           "answer": "rysunkiem, który użytkownik może przesuwać na formularzu i zmieniać rozmiar",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "MS Access umożliwia korzystanie z odległych baz danych ODBC w następujący sposób:",
       "id": 452,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "przez bezpośrednie otwarcie tej bazy danych w Accessie i używanie jej interfejsu",
@@ -3669,12 +3827,13 @@
           "answer": "za pomocą obiektu Connection i zestawów rekordów",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Funkcja DLookUp umożliwia:",
       "id": 453,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "znalezienie na formularzu podanej wartości",
@@ -3692,11 +3851,31 @@
           "answer": "sprowadzenie do formularza wartości z innej tabeli",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Funkcja IIf umożliwia:",
       "id": 454,
+      "numberOfComments": 5,
+      "answers": [
+        {
+          "answer": "obliczenie liczby stron z jakich składa się raport",
+          "correct": false
+        },
+        {
+          "answer": "zinterpretowanie Null jako napisu pustego",
+          "correct": true
+        },
+        {
+          "answer": "zapisanie warunku w kodzie",
+          "correct": false
+        },
+        {
+          "answer": "wywołanie kodu z makra",
+          "correct": false
+        }
+      ],
       "comments": [
         {
           "author": "~anon@89.68.*.*",
@@ -3723,30 +3902,12 @@
           "comment": "czyli chyba B i C",
           "date": "25-06-2018 21:54:17"
         }
-      ],
-      "answers": [
-        {
-          "answer": "obliczenie liczby stron z jakich składa się raport",
-          "correct": false
-        },
-        {
-          "answer": "zinterpretowanie Null jako napisu pustego",
-          "correct": true
-        },
-        {
-          "answer": "zapisanie warunku w kodzie",
-          "correct": false
-        },
-        {
-          "answer": "wywołanie kodu z makra",
-          "correct": false
-        }
       ]
     },
     {
       "question": "Zastąpienie pola klucza obcego w tabeli MS Access przez odnośnik (LookUp):",
       "id": 455,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "powoduje zastąpienie w tym polu wartości klucza obcego przez wartości innego, wybranego pola (lub pól) z tabeli z której pochodzi klucz obcy.",
@@ -3764,12 +3925,13 @@
           "answer": "powoduje utworzenie relacji między tabelami",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Możliwa do wybrania w polu \"typ danych\" widoku projekt tabeli MS Access wartość \"autonumerowanie\" określa wartości tego pola jako:",
       "id": 456,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "dowolną wartość typu \"integer\" wpisywaną przez użytkownika bazy",
@@ -3787,23 +3949,13 @@
           "answer": "jest jedynym prawidłowym sposobem realizacji klucza głównego tabeli MS Access.",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Jeżeli dla tabel MS Access, powiązanych ze sobą relacją, klucz główny tabeli nadrzędnej realizowany jest przez \"autonumerowanie\", wówczas odpowiadające mu pole klucza obcego tabeli podrzędnej powinno mieć zadeklarowany jako typ zmiennych:",
       "id": 457,
-      "comments": [
-        {
-          "author": "~lol@89.64.*.*",
-          "comment": "emm... a to nie jest przypadkiem autonumerowanie? czy to zmyłka i się mylę?",
-          "date": "26-06-2020 13:19:51"
-        },
-        {
-          "author": "~anon@2a01:110f:130f:6500:5832:93f3:f45a:43f4",
-          "comment": "jak by bylo autonumerowanie, to wartosc klucza w tabeli nadrzednej nie mialaby znaczenia, bo i tak w tabeli podrzednej bylaby generowana ponownie, automatycznie\n",
-          "date": "12-02-2021 20:40:55"
-        }
-      ],
+      "numberOfComments": 2,
       "answers": [
         {
           "answer": "long integer",
@@ -3821,12 +3973,24 @@
           "answer": "nie ma to znaczenia",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~lol@89.64.*.*",
+          "comment": "emm... a to nie jest przypadkiem autonumerowanie? czy to zmyłka i się mylę?",
+          "date": "26-06-2020 13:19:51"
+        },
+        {
+          "author": "~anon@2a01:110f:130f:6500:5832:93f3:f45a:43f4",
+          "comment": "jak by bylo autonumerowanie, to wartosc klucza w tabeli nadrzednej nie mialaby znaczenia, bo i tak w tabeli podrzednej bylaby generowana ponownie, automatycznie\n",
+          "date": "12-02-2021 20:40:55"
+        }
       ]
     },
     {
       "question": "Usuwanie powiązanych kaskadowo rekordów w bazie danych MS Access można zrealizować przez:",
       "id": 458,
-      "comments": null,
+      "numberOfComments": 1,
       "answers": [
         {
           "answer": "wybór opcji \"kaskadowo usuwaj powiązane rekordy\" przy deklaracji więzów spójności dla relacji łączącej te tabele; <br>wówczas system bazy danych automatycznie usunie powiązane rekordy z tabeli podrzędnej przed usunięciem rekordu w tabeli nadrzędnej",
@@ -3844,12 +4008,19 @@
           "answer": "uruchomienie kwerendy usuwającej (Delete query), na siatkę której przyciągnięto odpowiednio tabelę nadrzędną i związaną z nią tabelę podrzędną.",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~oemgie@162.158.*.*",
+          "comment": "słowo klucz - można, no bo niby można, chociaż powinno się tylko kaskadowo usuwać",
+          "date": "25-06-2019 21:31:40"
+        }
       ]
     },
     {
       "question": "źródłem danych dla kwerendy dołaczającej (Append query) w MS Access może być:",
       "id": 459,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "inna tabela lub kwerenda",
@@ -3867,12 +4038,13 @@
           "answer": "dowolna konfiguracja tabel i/lub kwerend przyciągniętych na siatkę kwerendy",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Po utworzeniu nowej tabeli w MS Access system bazy danych:",
       "id": 460,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "zasugeruje użytkownikowi zdefiniowanie pola klucza głównego i ewentualnie sam wybierze takie pole i uczyni go kluczem głównym.",
@@ -3890,12 +4062,13 @@
           "answer": "stworzony przez firmę Microsoft nowy system indeksacji tabel nie wymaga w ogóle od użytkownika określania pól klucza głównego, <br>bo sam robi to lepiej od niego.",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Tworząc formularz z podformularzem, celem jednoczesnego przeglądania rekordów tabeli nadrzędnej i powiązanych z nimi rekordów tabeli podrzędnej, projektant aplikacji bazodanowej musi zapewnić:",
       "id": 461,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "istnienie w źródłach rekordów obu formularzy takich pól, które umożliwią powiązanie odpowiadających sobie rekordów.",
@@ -3913,12 +4086,13 @@
           "answer": "uważne użycie kreatora, który jest w stanie samodzielnie utworzyć odpowiednie źródła danych (kwerendy) prawidłowo wiążące ze sobą rekordy w obu formularzach.",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Przeznaczeniem dokumentu TOR jest:",
       "id": 462,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "informowanie na bieżąco kierownictwa o zmianach zachodzących w projekcie",
@@ -3936,28 +4110,13 @@
           "answer": "informacja dla programistów, jakie moduły powinni zaprogramować",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Diagram związków encji:",
       "id": 463,
-      "comments": [
-        {
-          "author": "~mykhi@162.158.*.*",
-          "comment": "czy na pewno służy do określenia wymagań użytkowników? A nie raczej na podstawie wymagań (założeń projektowych) tworzy się dopiero diagram?",
-          "date": "21-06-2019 17:57:43"
-        },
-        {
-          "author": "~anon@37.47.*.*",
-          "comment": "zgadza sie ^^^\n",
-          "date": "28-08-2019 16:24:26"
-        },
-        {
-          "author": "~anon@37.47.*.*",
-          "comment": "+ jest używany przez programistow\n",
-          "date": "28-08-2019 16:24:56"
-        }
-      ],
+      "numberOfComments": 3,
       "answers": [
         {
           "answer": "jest używany przez programistów aplikacji",
@@ -3975,12 +4134,29 @@
           "answer": "służy do określenia wymagań użytkowników",
           "correct": true
         }
+      ],
+      "comments": [
+        {
+          "author": "~mykhi@162.158.*.*",
+          "comment": "czy na pewno służy do określenia wymagań użytkowników? A nie raczej na podstawie wymagań (założeń projektowych) tworzy się dopiero diagram?",
+          "date": "21-06-2019 17:57:43"
+        },
+        {
+          "author": "~anon@37.47.*.*",
+          "comment": "zgadza sie ^^^\n",
+          "date": "28-08-2019 16:24:26"
+        },
+        {
+          "author": "~anon@37.47.*.*",
+          "comment": "+ jest używany przez programistow\n",
+          "date": "28-08-2019 16:24:56"
+        }
       ]
     },
     {
       "question": "Jakim procesom są poddawane obiekty projektowe przechowywane w repozyorium narzędzia CASE:",
       "id": 464,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "transformacja",
@@ -3998,12 +4174,13 @@
           "answer": "wprowadzanie wstecz (reverse  engineering)",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Jakie fazy występują w modelu ryzyka MSF:",
       "id": 465,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "analiza",
@@ -4021,12 +4198,13 @@
           "answer": "kontrola",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Na jakich elementach jest oparty model procesów MSF:",
       "id": 466,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "punktach kontrolnych (kamieniach milowych)",
@@ -4044,12 +4222,13 @@
           "answer": "strukturalnej metodyce projektowania",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Które fazy są wyróżnione jako podstawowe w modelu procesów MSF:",
       "id": 467,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Faza planowania",
@@ -4067,12 +4246,13 @@
           "answer": "Faza tworzenia",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Które role występują w modelu zespołu projektowego MSF:",
       "id": 468,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "kierownik projektu",
@@ -4090,12 +4270,13 @@
           "answer": "kierownik logistyki",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Zgodnie z metodyką MSF za dostarczenie produktu w ramach ograniczeń projektowych odpowiada:",
       "id": 469,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "kierownik produktu",
@@ -4113,12 +4294,13 @@
           "answer": "tester",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Zgodnie z metodyką MSF za dostarczenie produktu zgodnego ze specyfikacją odpowiada:",
       "id": 470,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "kierownik produktu",
@@ -4136,12 +4318,13 @@
           "answer": "tester",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Jakie aspekty są podstawowe w modelu architektury przedsiębiorstwa MSF:",
       "id": 471,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "biznes",
@@ -4159,12 +4342,13 @@
           "answer": "technologia",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Jakie perspektywy projektowania są wyróżnione w modelu procesów projektowania MSF:",
       "id": 472,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "koncepcyjny",
@@ -4182,12 +4366,13 @@
           "answer": "użytkowy",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Jakie warstwy są wyróżnione w modelu aplikacji MSF:",
       "id": 473,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "warstwa prezentacji",
@@ -4205,12 +4390,13 @@
           "answer": "warstwa użytkowa",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Zapisanie na zmiennej typu Boolean, czy kwerenda wybierająca daje w wyniku pusty zbiór można zrealizować za pomocą:",
       "id": 474,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "zestawu rekordów",
@@ -4228,12 +4414,13 @@
           "answer": "funkcji MsgBox",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Zsynchronizowanie na formularzu dwóch niezwiązanych list można wykonać za pomocą:",
       "id": 475,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "funkcji DLookUp",
@@ -4251,12 +4438,13 @@
           "answer": "metody OpenForm (obiektu DoCmd)",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Które z konstrukcji służą do sprawdzania poprawności i obsługi błędów w aplikacji:",
       "id": 476,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "akcja AnulujZdarzenie",
@@ -4274,12 +4462,13 @@
           "answer": "procedura zdarzenia \"Przy wartości spoza listy\"",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Dla jakich obiektów można zdefiniować zestaw rekordów:",
       "id": 477,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "formularz",
@@ -4297,12 +4486,13 @@
           "answer": "lista",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Które z poniższych obiektów wchodzą w skład hierarchii ADO:",
       "id": 478,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "formularze",
@@ -4320,12 +4510,13 @@
           "answer": "użytkownicy",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Które z poniższych instrukcji służą do synchronizowania wartości w dwóch formularzach:",
       "id": 479,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "DoCmd.ApplyFilter",
@@ -4343,12 +4534,13 @@
           "answer": "DoCmd.Requery",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Które z poniższych wyrażeń należą do języka SQL:",
       "id": 480,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Select Distinct Osoby.Nazwisko From Osoby",
@@ -4366,12 +4558,13 @@
           "answer": "Update Osoby Set Data = null",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Kolekcja jest to:",
       "id": 481,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "zbiór formularzy",
@@ -4389,12 +4582,13 @@
           "answer": "obiekt reprezentujący wybrane elementy",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Zestaw rekordów jest to:",
       "id": 482,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "zbiór rekordów wybranych na formularzu przez użytkownika",
@@ -4412,12 +4606,13 @@
           "answer": "obiekt typu RecordSet",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "ADO jest to biblioteka obiektów i kolekcji umożliwiająca dostęp do:",
       "id": 483,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "komponentów ActiveX",
@@ -4435,12 +4630,13 @@
           "answer": "danych",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Korzeniem hierarchii ADO jest obiekt:",
       "id": 484,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Application",
@@ -4458,12 +4654,13 @@
           "answer": "Connection",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "DoCmd jest to:",
       "id": 485,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "słowo kluczowe języka VBA oznaczające komendę",
@@ -4481,12 +4678,13 @@
           "answer": "polecenie tworzenia metod obiektu Application",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Control jest to:",
       "id": 486,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "obiekt służący do kontroli wykonywania aplikacji",
@@ -4504,12 +4702,13 @@
           "answer": "obiekt, którego częścią jest kolekcja ItemsSelected",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Jakie elementy obejmuje środowisko uruchamiania kodu Visual Basic:",
       "id": 487,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "okno analizy programu",
@@ -4527,23 +4726,13 @@
           "answer": "okno bazy danych.",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Narzędzia administracyjne Accessa umożliwiają:",
       "id": 488,
-      "comments": [
-        {
-          "author": "~anon@162.158.*.*",
-          "comment": "Narzędzia administracyjne Accessa są niesamowicie potężne",
-          "date": "16-06-2019 21:03:31"
-        },
-        {
-          "author": "~Pan Paweł@162.158.*.*",
-          "comment": "Dzwońcie pod 0700, pytajcie o Accessa",
-          "date": "17-06-2019 09:14:04"
-        }
-      ],
+      "numberOfComments": 2,
       "answers": [
         {
           "answer": "defragmentację bazy danych",
@@ -4561,12 +4750,24 @@
           "answer": "replikację danych",
           "correct": true
         }
+      ],
+      "comments": [
+        {
+          "author": "~anon@162.158.*.*",
+          "comment": "Narzędzia administracyjne Accessa są niesamowicie potężne",
+          "date": "16-06-2019 21:03:31"
+        },
+        {
+          "author": "~Pan Paweł@162.158.*.*",
+          "comment": "Dzwońcie pod 0700, pytajcie o Accessa",
+          "date": "17-06-2019 09:14:04"
+        }
       ]
     },
     {
       "question": "Narzędzia administracyjne Accessa umożliwiają:",
       "id": 489,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "defragmentację bazy danych",
@@ -4584,12 +4785,13 @@
           "answer": "replikację danych",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Narzędzia administracyjne Accessa umożliwiają:",
       "id": 490,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "zarządzanie bazami danych Accessa w sieci lokalnej",
@@ -4607,12 +4809,13 @@
           "answer": "replikację danych",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Narzędzia administracyjne Accessa umożliwiają:",
       "id": 491,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "defragmentację bazy danych",
@@ -4630,12 +4833,13 @@
           "answer": "monitorowanie użytkowników",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Narzędzia administracyjne Accessa umożliwiają:",
       "id": 492,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "oddzielanie danych od interfejsu użytkownika",
@@ -4653,23 +4857,13 @@
           "answer": "replikację danych",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Które z poniższych akcji mogą doprowadzić do przyśpieszenia działania aplikacji bazodanowej:",
       "id": 493,
-      "comments": [
-        {
-          "author": "~eryk@194.29.*.*",
-          "comment": "nie rozumiem jak wykonanie kopii może przyspieszyć działanie",
-          "date": "01-02-2020 03:39:16"
-        },
-        {
-          "author": "~eryk@194.29.*.*",
-          "comment": "a nie sory - myślałem, że ona jest oznaczona jako poprawna",
-          "date": "01-02-2020 03:41:50"
-        }
-      ],
+      "numberOfComments": 2,
       "answers": [
         {
           "answer": "zastosowanie Analizatora wydajności bazy danych",
@@ -4687,12 +4881,24 @@
           "answer": "zastosowanie Analizatora tabel bazy danych",
           "correct": true
         }
+      ],
+      "comments": [
+        {
+          "author": "~eryk@194.29.*.*",
+          "comment": "nie rozumiem jak wykonanie kopii może przyspieszyć działanie",
+          "date": "01-02-2020 03:39:16"
+        },
+        {
+          "author": "~eryk@194.29.*.*",
+          "comment": "a nie sory - myślałem, że ona jest oznaczona jako poprawna",
+          "date": "01-02-2020 03:41:50"
+        }
       ]
     },
     {
       "question": "Które z poniższych akcji mogą doprowadzić do przyśpieszenia działania aplikacji bazodanowej:",
       "id": 494,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "zastosowanie Analizatora wydajności bazy danych",
@@ -4710,12 +4916,13 @@
           "answer": "zastosowanie Analizatora tabel bazy danych",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Które z poniższych akcji mogą doprowadzić do przyśpieszenia działania aplikacji bazodanowej:",
       "id": 495,
-      "comments": null,
+      "numberOfComments": 1,
       "answers": [
         {
           "answer": "zastosowanie Analizatora wydajności bazy danych",
@@ -4733,23 +4940,19 @@
           "answer": "zastosowanie Analizatora tabel bazy danych",
           "correct": true
         }
+      ],
+      "comments": [
+        {
+          "author": "~anon@91.239.*.*",
+          "comment": "to pytanie już jest jako 494",
+          "date": "30-08-2019 14:16:39"
+        }
       ]
     },
     {
       "question": "Które z poniższych akcji mogą doprowadzić do przyśpieszenia działania aplikacji bazodanowej:",
       "id": 496,
-      "comments": [
-        {
-          "author": "~anon@91.239.*.*",
-          "comment": "to pytanie już jest jako 495",
-          "date": "30-08-2019 14:15:56"
-        },
-        {
-          "author": "~anon@91.239.*.*",
-          "comment": "pomyłka :)\n",
-          "date": "30-08-2019 14:16:54"
-        }
-      ],
+      "numberOfComments": 2,
       "answers": [
         {
           "answer": "zastosowanie Analizatora wydajności bazy danych",
@@ -4767,23 +4970,24 @@
           "answer": "usunięcie rysunków z ramek niezwiązanych",
           "correct": true
         }
+      ],
+      "comments": [
+        {
+          "author": "~anon@91.239.*.*",
+          "comment": "to pytanie już jest jako 495",
+          "date": "30-08-2019 14:15:56"
+        },
+        {
+          "author": "~anon@91.239.*.*",
+          "comment": "pomyłka :)\n",
+          "date": "30-08-2019 14:16:54"
+        }
       ]
     },
     {
       "question": "Które z poniższych akcji mogą doprowadzić do przyśpieszenia działania aplikacji bazodanowej:",
       "id": 497,
-      "comments": [
-        {
-          "author": "~Tnxah@162.158.*.*",
-          "comment": "zastosowanie Analizatora wydajności bazy danych\noraz\nzastąpienie kwerend jako źródła wierszy dla list przez instrukcje SELECT",
-          "date": "24-06-2019 10:29:14"
-        },
-        {
-          "author": "~anon@91.207.*.*",
-          "comment": "http://edu.pjwstk.edu.pl/wyklady/rbd/scb/wyklad14/adm.htm\n\nPunkt 16:\n16. Jako źródła wierszy dla list używaj kwerend zamiast instrukcji SELECT.\n\nA zatem nie powinno zastępować, zatem ostatni podpunkt spowolni bazę, natomiast nie jestem pewny co do łączenia i rozdzielania tabel. Jest info o 3 normalizacji, czyli zwiększeniu liczby tabel (zazwyczaj)",
-          "date": "07-02-2020 15:15:33"
-        }
-      ],
+      "numberOfComments": 2,
       "answers": [
         {
           "answer": "zastosowanie Analizatora wydajności bazy danych",
@@ -4801,12 +5005,24 @@
           "answer": "zastąpienie kwerend jako źródła wierszy dla list przez instrukcje SELECT",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~Tnxah@162.158.*.*",
+          "comment": "zastosowanie Analizatora wydajności bazy danych\noraz\nzastąpienie kwerend jako źródła wierszy dla list przez instrukcje SELECT",
+          "date": "24-06-2019 10:29:14"
+        },
+        {
+          "author": "~anon@91.207.*.*",
+          "comment": "http://edu.pjwstk.edu.pl/wyklady/rbd/scb/wyklad14/adm.htm\n\nPunkt 16:\n16. Jako źródła wierszy dla list używaj kwerend zamiast instrukcji SELECT.\n\nA zatem nie powinno zastępować, zatem ostatni podpunkt spowolni bazę, natomiast nie jestem pewny co do łączenia i rozdzielania tabel. Jest info o 3 normalizacji, czyli zwiększeniu liczby tabel (zazwyczaj)",
+          "date": "07-02-2020 15:15:33"
+        }
       ]
     },
     {
       "question": "W skład pakietu java.sql wchodzą:",
       "id": 498,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "interfejs odpowiedzialny za nawiązanie połączenia z bazą danych",
@@ -4824,12 +5040,13 @@
           "answer": "interfejs do zarządzania listą dostępnych sterowników",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "W skład pakietu java.sql wchodzą:",
       "id": 499,
-      "comments": null,
+      "numberOfComments": 1,
       "answers": [
         {
           "answer": "klasa reprezentująca instrukcję SQL",
@@ -4847,12 +5064,19 @@
           "answer": "klasa reprezentująca formularz",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~hamboomger@89.74.*.*",
+          "comment": "Czyli jest w Javie klasa reprezentująca instrukcję SQL? To znaczy że zapytania można tworzyć, używając taką klasę zamiast tego że by przekazywać całe polecenie SQL jako zwykły String?",
+          "date": "05-09-2017 22:17:57"
+        }
       ]
     },
     {
       "question": "Jakie są metody klasy Statement:",
       "id": 500,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "executeQuery",
@@ -4870,12 +5094,13 @@
           "answer": "getString",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Jakie są metody klasy ResultSet:",
       "id": 501,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "executeQuery",
@@ -4893,12 +5118,13 @@
           "answer": "getString",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Jakie są metody klasy SQLException:",
       "id": 502,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "executeQuery",
@@ -4916,12 +5142,13 @@
           "answer": "getString",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Metoda commit należy do klasy:",
       "id": 503,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "DriverManager",
@@ -4939,12 +5166,13 @@
           "answer": "Statement",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Aby zamodelować związek niejednoznaczny (wiele-do-wiele) w MS Visio należy",
       "id": 1006,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Utworzyć encję asocjacyjną i powiązać ją z encjami wyjściowymi dwoma związkami jednoznacznymi (jeden-do-wiele), w których encja asocjacyjna pozostanie po stronie \"jeden\"",
@@ -4962,12 +5190,13 @@
           "answer": "Utworzyć encję asocjacyjną i powiązać ją z encjami wyjściowymi dwoma związkami jednoznacznymi (jeden-do-wiele), w których encja asocjacyjna pozostanie po stronie \"wiele\"",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Relacja PAŃSTWO - RZEKA (\"przepływa przez\") jest relacją?",
       "id": 1718,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "jeden - wiele",
@@ -4985,11 +5214,31 @@
           "answer": "wymaga dodania encji asocjacyjnej",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Z ilu tabel powinna się składać prosta znormalizowana baza zawierająca informacje&nbsp;o piętrach, pokojach i przynależności \"jeden do wielu\" między nimi:",
       "id": 2210,
+      "numberOfComments": 6,
+      "answers": [
+        {
+          "answer": "1",
+          "correct": false
+        },
+        {
+          "answer": "2",
+          "correct": true
+        },
+        {
+          "answer": "3",
+          "correct": false
+        },
+        {
+          "answer": "4",
+          "correct": false
+        }
+      ],
       "comments": [
         {
           "author": "~Bogobojny@89.74.*.*",
@@ -5021,29 +5270,30 @@
           "comment": "zmieniam na 2 (było 3)",
           "date": "01-02-2017 10:22:18"
         }
-      ],
-      "answers": [
-        {
-          "answer": "1",
-          "correct": false
-        },
-        {
-          "answer": "2",
-          "correct": true
-        },
-        {
-          "answer": "3",
-          "correct": false
-        },
-        {
-          "answer": "4",
-          "correct": false
-        }
       ]
     },
     {
       "question": "Encje PREZYDENT i PAŃSTWO (z zależnością “kieruje”) połączone są związkiem:",
       "id": 2214,
+      "numberOfComments": 9,
+      "answers": [
+        {
+          "answer": "wymagającym dodatkowej encji asocjacyjnej",
+          "correct": false
+        },
+        {
+          "answer": "jeden - wiele",
+          "correct": false
+        },
+        {
+          "answer": "wiele - wiele",
+          "correct": true
+        },
+        {
+          "answer": "wiele - jeden",
+          "correct": false
+        }
+      ],
       "comments": [
         {
           "author": "~Tomek@88.156.*.*",
@@ -5090,30 +5340,12 @@
           "comment": "wiele-wiele i asocjacyjna, czasami tak jest poprostu",
           "date": "24-06-2019 00:08:33"
         }
-      ],
-      "answers": [
-        {
-          "answer": "wymagającym dodatkowej encji asocjacyjnej",
-          "correct": false
-        },
-        {
-          "answer": "jeden - wiele",
-          "correct": false
-        },
-        {
-          "answer": "wiele - wiele",
-          "correct": true
-        },
-        {
-          "answer": "wiele - jeden",
-          "correct": false
-        }
       ]
     },
     {
       "question": "Które z instrukcji SQL wypiszą pracowników pracujących w dziale o nazwie \"DALLAS\" lub \"CHICAGO\",zarabiających ponad 1200,",
       "id": 2978,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "SELECT NAME,DEPT,SAL FROM EMP WHERE DEPT='DALLAS' AND SAL&gt;1200 OR DEPT='CHICAGO' AND SAL&gt;1200;",
@@ -5131,12 +5363,13 @@
           "answer": "SELECT NAME,DEPT,SAL FROM EMP WHERE DEPT='DALLAS' OR DEPT='CHICAGO' AND SAL&gt;1200;",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "W MS Visio kółko rozdzielające związek stawia się na linii związku:",
       "id": 3112,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "podkategorii",
@@ -5154,12 +5387,13 @@
           "answer": "niejednoznacznego",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Dany jest schemat relacyjny: R = {Student, Uczelnia, Adres, Klub}, F = {Student -&gt; Uczelnia; Klub -&gt; Adres; Uczelnia -&gt; Adres}. W któej postaci normalnej jest ten schemat?",
       "id": 3113,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "III postać normalna.",
@@ -5177,12 +5411,13 @@
           "answer": "postać normalna Boyce'a-Codda.",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Jaka jest wartość wyrażenia logiczna TRUE AND (Null OR FALSE):",
       "id": 3114,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "True",
@@ -5200,12 +5435,13 @@
           "answer": "False",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Encje PAŃSTWO i RZEKA (z zależnością \"rzeka przepływa przez wiele państw\") połączone są związkiem",
       "id": 3115,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "wiele - jeden",
@@ -5223,28 +5459,13 @@
           "answer": "wiele - wiele",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Dane są trzy tabele Klienci(Id_Klienta, Imie, Nazwisko), Produkty(Id_Produktu, Nazwa, Cena) oraz Zakupy(Id_Klienta, Id_Produktu, ilosc). Wskaż poprawnie zapytanie SQL znajdujące imiona i nazwiska klientów, którzy zakupili co najmniej jeden produkt",
       "id": 3141,
-      "comments": [
-        {
-          "author": "~niemampojecia@31.182.*.*",
-          "comment": "Czy tu przypadkiem pierwsze nie jest błędne? Powinno być chyba jakiekolwiek połączenie tabel za pomocą JOINa według mnie ",
-          "date": "25-06-2020 17:05:40"
-        },
-        {
-          "author": "~jateżniemam@83.24.*.*",
-          "comment": "Oj byczq +1",
-          "date": "25-06-2020 17:06:29"
-        },
-        {
-          "author": "~macdolar@2a02:a319:823f:3180:18ef:64e8:b989:caaf",
-          "comment": "1 jest ok, to jest tzw warunek złączenia",
-          "date": "27-06-2020 20:02:24"
-        }
-      ],
+      "numberOfComments": 3,
       "answers": [
         {
           "answer": "SELECT DISTINCT Imie, Nazwisko FROM Klienci, Zakupy WHERE Klienci.Id_Klienta = Zakupy.Id_Klienta;",
@@ -5262,11 +5483,47 @@
           "answer": "SELECT Imie, Nazwisko FROM Klienci;",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~niemampojecia@31.182.*.*",
+          "comment": "Czy tu przypadkiem pierwsze nie jest błędne? Powinno być chyba jakiekolwiek połączenie tabel za pomocą JOINa według mnie ",
+          "date": "25-06-2020 17:05:40"
+        },
+        {
+          "author": "~jateżniemam@83.24.*.*",
+          "comment": "Oj byczq +1",
+          "date": "25-06-2020 17:06:29"
+        },
+        {
+          "author": "~macdolar@2a02:a319:823f:3180:18ef:64e8:b989:caaf",
+          "comment": "1 jest ok, to jest tzw warunek złączenia",
+          "date": "27-06-2020 20:02:24"
+        }
       ]
     },
     {
       "question": "Co będzie wynikiem realizacji poniższej instrukcji na niepustej relacji OSOBA (IdOsoba, Imie, Nazwisko, NrKonta): SELECT * FROM Osoba WHERE NrKonta = NrKonta OR NrKonta = NULL?",
       "id": 3210,
+      "numberOfComments": 8,
+      "answers": [
+        {
+          "answer": "&nbsp;relacja Osoba",
+          "correct": false
+        },
+        {
+          "answer": "relacja pusta",
+          "correct": false
+        },
+        {
+          "answer": "&nbsp;instrukcja jest niepoprawna składniowo",
+          "correct": false
+        },
+        {
+          "answer": "&nbsp;zawsze podzbiór relacji z rekordów, gdzie NrKonta ma wartość nie będącą NULL",
+          "correct": false
+        }
+      ],
       "comments": [
         {
           "author": "~anon@162.158.*.*",
@@ -5308,30 +5565,12 @@
           "comment": "\"zawsze podzbiór relacji z rekordów, gdzie NrKonta ma wartość nie będącą NULL\", potwierdzone info z wykładu",
           "date": "14-02-2020 21:15:00"
         }
-      ],
-      "answers": [
-        {
-          "answer": "&nbsp;relacja Osoba",
-          "correct": false
-        },
-        {
-          "answer": "relacja pusta",
-          "correct": false
-        },
-        {
-          "answer": "&nbsp;instrukcja jest niepoprawna składniowo",
-          "correct": false
-        },
-        {
-          "answer": "&nbsp;zawsze podzbiór relacji z rekordów, gdzie NrKonta ma wartość nie będącą NULL",
-          "correct": false
-        }
       ]
     },
     {
       "question": "W domach mieszkają zwierzęta domowe. Niektóre zwierzęta zjadają się wzajemnie. Domy mogą być położone obok siebie. Wskaż, któe z poniższych schematów (wielkimi literami oznaczono atrybuty klucza głównego) prawidłowo (i bez redundancji) modelują zagadnienie",
       "id": 3272,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Domy(ID_DOMU, adres, id_zwierze, rodzaj) Obok_siebie(ID_DOMU1, IDDOMU_2) Zjada(ID_ZW_JE, ID_ZW_ZJADANE)",
@@ -5349,12 +5588,13 @@
           "answer": "Domy(ID_DOMU, adres) Zwierzęta(ID_ZWIERZE, id_rodzaju, id_domu) Rodzaje(ID_RODZAJU, rodzaj) Obok_siebie(ID_DOMU1, ID_DOMU2) Zjada(ID_RODZAJ_JE, ID_RODZ_ZJADANE)",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Jeśli w zapytaniu występuje klauzula GROUP BY, wówczas po SELECT może być:",
       "id": 3273,
-      "comments": null,
+      "numberOfComments": 1,
       "answers": [
         {
           "answer": "dowolna kolumna",
@@ -5372,11 +5612,37 @@
           "answer": "stała",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~anon@79.184.*.*",
+          "comment": "czy napewno w tym zadaniu nie powinno byc odpowiedzi? Dla mnie pasuje 3 i 4",
+          "date": "28-06-2020 19:45:20"
+        }
       ]
     },
     {
       "question": "Encja WALUTA i PAŃSTWO (z zależnością \"w państwie obowiązuje jedna waluta\") połączone są związkiem",
       "id": 3274,
+      "numberOfComments": 4,
+      "answers": [
+        {
+          "answer": "wymagającą dodatkowej tabeli łączącej",
+          "correct": false
+        },
+        {
+          "answer": "jeden - wiele",
+          "correct": false
+        },
+        {
+          "answer": "wiele - jeden",
+          "correct": false
+        },
+        {
+          "answer": "wiele - wiele",
+          "correct": false
+        }
+      ],
       "comments": [
         {
           "author": "~starypijany@188.146.*.*",
@@ -5398,29 +5664,30 @@
           "comment": "na dobrą sprawę nie ma czegoś takiego jak wiele-jeden bo to jest po prostu to samo co jeden-wiele, ale jeżeli chcieć uwzględnić to która z tabel będzie po stronie jeden a która po stronie wiele to zdaję się że masz rację i to jest relacja wiele-jeden, ale co autor pytania miał na myśli...",
           "date": "13-02-2020 20:13:50"
         }
-      ],
-      "answers": [
-        {
-          "answer": "wymagającą dodatkowej tabeli łączącej",
-          "correct": false
-        },
-        {
-          "answer": "jeden - wiele",
-          "correct": false
-        },
-        {
-          "answer": "wiele - jeden",
-          "correct": false
-        },
-        {
-          "answer": "wiele - wiele",
-          "correct": false
-        }
       ]
     },
     {
       "question": "Dane są trzy tabele Klienci(Id_Klienta, Imie, Nazwisko), Produkty(Id_Produktu, NAzwa, Cen oraz Zakupy(Id_Klienta, Id_Produktu, Ilosc. Wskazać poprawne zapytanie SQL znajdujące imiona i nazwiska klientów, którzy zakupili produklt o nazwie Pralka",
       "id": 3275,
+      "numberOfComments": 5,
+      "answers": [
+        {
+          "answer": "SELECT Imie, Nazwisko FROM Klienci, Produkty, Zakupy WHERE Klienci.Id_Klienta = Zakupy.Id_Klienta AND Produkty.Id_Produktu = Zakupy.Id_Produktu AND Nazwa = 'Pralka';",
+          "correct": false
+        },
+        {
+          "answer": "SELECT Imie, Nazwisko FROM Produkty WHERE Nazwa = 'Pralka';",
+          "correct": false
+        },
+        {
+          "answer": "SELECT Imie, Nazwisko FROM Klienci, Produkty WHERE Nazwa = 'Pralka';",
+          "correct": false
+        },
+        {
+          "answer": "SELECT Imie, Nazwisko FROM Klienci INNER JOIN Zakupy ON Klienci.Id_Klienta = Zakupy.Id_Klienta INNER JOIN Produkty ON Produkty.Id_Produktu = Zakupy.Id_Produktu WHERE Nazwa = 'Pralka';",
+          "correct": false
+        }
+      ],
       "comments": [
         {
           "author": "~startpijany@188.146.*.*",
@@ -5447,30 +5714,12 @@
           "comment": "1 i 4 poprawne sprawdzone z dev",
           "date": "14-02-2020 20:41:52"
         }
-      ],
-      "answers": [
-        {
-          "answer": "SELECT Imie, Nazwisko FROM Klienci, Produkty, Zakupy WHERE Klienci.Id_Klienta = Zakupy.Id_Klienta AND Produkty.Id_Produktu = Zakupy.Id_Produktu AND Nazwa = 'Pralka';",
-          "correct": false
-        },
-        {
-          "answer": "SELECT Imie, Nazwisko FROM Produkty WHERE Nazwa = 'Pralka';",
-          "correct": false
-        },
-        {
-          "answer": "SELECT Imie, Nazwisko FROM Klienci, Produkty WHERE Nazwa = 'Pralka';",
-          "correct": false
-        },
-        {
-          "answer": "SELECT Imie, Nazwisko FROM Klienci INNER JOIN Zakupy ON Klienci.Id_Klienta = Zakupy.Id_Klienta INNER JOIN Produkty ON Produkty.Id_Produktu = Zakupy.Id_Produktu WHERE Nazwa = 'Pralka';",
-          "correct": false
-        }
       ]
     },
     {
       "question": "Relacja R ma atrybut a. Jaka liczba może być wynikiem wykonania instrukcji SELECT COUNT(*) FROM R WHERE a &lt;&gt; a;",
       "id": 3276,
-      "comments": null,
+      "numberOfComments": 1,
       "answers": [
         {
           "answer": "1",
@@ -5488,11 +5737,37 @@
           "answer": "zawsze jest taka, jak liczebność relacji R",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~Tadzik@91.208.*.*",
+          "comment": "Ustawiłbym odpowiedź \"zawsze 0\" - bo <> jest równoznaczne z \"!=\"",
+          "date": "10-02-2020 12:42:07"
+        }
       ]
     },
     {
       "question": "Jaka jest wartość wyrażenia logiczna TRUE OR Null OR FALSE:",
       "id": 3277,
+      "numberOfComments": 4,
+      "answers": [
+        {
+          "answer": "True",
+          "correct": false
+        },
+        {
+          "answer": "Null",
+          "correct": false
+        },
+        {
+          "answer": "0",
+          "correct": false
+        },
+        {
+          "answer": "False",
+          "correct": false
+        }
+      ],
       "comments": [
         {
           "author": "~anon@188.146.*.*",
@@ -5514,30 +5789,12 @@
           "comment": "musi byc true. jest true or... i wynik juz musi byc true, dalej pewnie wogole nie jest sprawdzane przez serwer",
           "date": "12-02-2021 20:39:00"
         }
-      ],
-      "answers": [
-        {
-          "answer": "True",
-          "correct": false
-        },
-        {
-          "answer": "Null",
-          "correct": false
-        },
-        {
-          "answer": "0",
-          "correct": false
-        },
-        {
-          "answer": "False",
-          "correct": false
-        }
       ]
     },
     {
       "question": "Pojęcie akcji referencyjnych dotyczy",
       "id": 3278,
-      "comments": null,
+      "numberOfComments": 1,
       "answers": [
         {
           "answer": "Zależności wartości atrybutu od klucza",
@@ -5555,12 +5812,19 @@
           "answer": "Możliwości powiązania ze sobą encji związkiem jednoznacznym",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~starypijany@188.146.*.*",
+          "comment": "poprawne",
+          "date": "14-02-2020 21:07:55"
+        }
       ]
     },
     {
       "question": "Tabele STUDENT i PRZEDMIOT (z zależnością \"każdy student uczęszcza na wiele przedmiotów\") połączone są związkiem:",
       "id": 3279,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Wymagającym dodatkowej tabeli asocjacyjnej",
@@ -5578,11 +5842,31 @@
           "answer": "wiele - jeden",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Wskazać poprawne zapytanie SQL (dialekt ORACLE) znajdujące średnie zarobki tylko tych departamentów, które zatrudniają więcej niż trzech pracowników:",
       "id": 3280,
+      "numberOfComments": 6,
+      "answers": [
+        {
+          "answer": "SELECT deptno, AVG(sal) FROM emp GROUP BY deptno WHERE COUNT(*) &gt; 3;",
+          "correct": false
+        },
+        {
+          "answer": "SELECT deptno, AVG(sal) FROM emp HAVING COUNT(*) &gt; 3 GROUP BY deptno;",
+          "correct": true
+        },
+        {
+          "answer": "SELECT deptno, AVG(sal) FROM emp WHERE COUNT(*) &gt; 3 GROUP BY deptno;",
+          "correct": false
+        },
+        {
+          "answer": "SELECT deptno, AVG(sal) FROM emp WHERE COUNT(3) GROUP BY deptno;",
+          "correct": false
+        }
+      ],
       "comments": [
         {
           "author": "~anon@91.208.*.*",
@@ -5614,29 +5898,30 @@
           "comment": "poprawna odp \tSELECT deptno, AVG(sal) FROM emp HAVING COUNT(*) > 3 GROUP BY deptno; sprawdzone w dev",
           "date": "14-02-2020 20:59:53"
         }
-      ],
-      "answers": [
-        {
-          "answer": "SELECT deptno, AVG(sal) FROM emp GROUP BY deptno WHERE COUNT(*) &gt; 3;",
-          "correct": false
-        },
-        {
-          "answer": "SELECT deptno, AVG(sal) FROM emp HAVING COUNT(*) &gt; 3 GROUP BY deptno;",
-          "correct": true
-        },
-        {
-          "answer": "SELECT deptno, AVG(sal) FROM emp WHERE COUNT(*) &gt; 3 GROUP BY deptno;",
-          "correct": false
-        },
-        {
-          "answer": "SELECT deptno, AVG(sal) FROM emp WHERE COUNT(3) GROUP BY deptno;",
-          "correct": false
-        }
       ]
     },
     {
       "question": "Dane są dwie tabele Osoby(Imię, Nazwisko, Zarobki, Id_działu) oraz Działy (Id_działu, Nazwa). Które z następujących instrukcji są poprawnymi instrukcjami SQL w dialekcie ORACLE?",
       "id": 3281,
+      "numberOfComments": 5,
+      "answers": [
+        {
+          "answer": "INSERT INTO Osoby (Imię, Nazwisko, Zarobki) VALUES ('Jan', 'Kowalski', 2000);",
+          "correct": true
+        },
+        {
+          "answer": "DELETE FROM Osoby WHERE Id_dzialu = 10;",
+          "correct": false
+        },
+        {
+          "answer": "UPDATE Osoby DELETE Nazwisko = 'KOWALSKI';",
+          "correct": false
+        },
+        {
+          "answer": "SELECT Osoby.Nazwisko, Osoby.Imię, Osoby.Id_działu WHERE Działy.Nazwa = 'PRAWNY';",
+          "correct": true
+        }
+      ],
       "comments": [
         {
           "author": "~anon@194.29.*.*",
@@ -5663,30 +5948,12 @@
           "comment": "SELECT jest źle, DELETE jest dobrze",
           "date": "27-06-2020 19:10:43"
         }
-      ],
-      "answers": [
-        {
-          "answer": "INSERT INTO Osoby (Imię, Nazwisko, Zarobki) VALUES ('Jan', 'Kowalski', 2000);",
-          "correct": true
-        },
-        {
-          "answer": "DELETE FROM Osoby WHERE Id_dzialu = 10;",
-          "correct": false
-        },
-        {
-          "answer": "UPDATE Osoby DELETE Nazwisko = 'KOWALSKI';",
-          "correct": false
-        },
-        {
-          "answer": "SELECT Osoby.Nazwisko, Osoby.Imię, Osoby.Id_działu WHERE Działy.Nazwa = 'PRAWNY';",
-          "correct": true
-        }
       ]
     },
     {
       "question": "Związek jednoznaczny implementowany jest w relacyjnej bazie danych przez:",
       "id": 3282,
-      "comments": null,
+      "numberOfComments": 1,
       "answers": [
         {
           "answer": "kolumne w tabeli",
@@ -5704,11 +5971,37 @@
           "answer": "klucz obcy",
           "correct": true
         }
+      ],
+      "comments": [
+        {
+          "author": "~starypijany@188.146.*.*",
+          "comment": "poprawne",
+          "date": "14-02-2020 21:08:08"
+        }
       ]
     },
     {
       "question": "Jeśli w zapytaniu występuje klauzula GROUP BY, wówczas po HAVING może być:",
       "id": 3283,
+      "numberOfComments": 4,
+      "answers": [
+        {
+          "answer": "kolumna występująca po GROUP BY",
+          "correct": true
+        },
+        {
+          "answer": "dowolna kolumna",
+          "correct": false
+        },
+        {
+          "answer": "funkcja sumaryczna",
+          "correct": false
+        },
+        {
+          "answer": "stała",
+          "correct": false
+        }
+      ],
       "comments": [
         {
           "author": "~anon@194.29.*.*",
@@ -5730,30 +6023,12 @@
           "comment": "kolumna występująca po GROUP BY poprawne",
           "date": "14-02-2020 21:03:38"
         }
-      ],
-      "answers": [
-        {
-          "answer": "kolumna występująca po GROUP BY",
-          "correct": true
-        },
-        {
-          "answer": "dowolna kolumna",
-          "correct": false
-        },
-        {
-          "answer": "funkcja sumaryczna",
-          "correct": false
-        },
-        {
-          "answer": "stała",
-          "correct": false
-        }
       ]
     },
     {
       "question": "W specyfikacji wymagań jest następujący zapis: W skład albumu wchodzi pewna liczba utworów ; utwór jest w jednym albumie. Na których rysunkach to wymaganie jest zamodelowane poprawnie. (Strzałka oznacza stronę \"jeden\" związku)?",
       "id": 3300,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<img src=\"https://i.ibb.co/Lr7sG2t/WSI-PJA-01a.jpg\" alt=\"\" width=\"428\" height=\"158\">",
@@ -5771,12 +6046,13 @@
           "answer": "<img src=\"https://i.ibb.co/sjgkBkv/WSI-PJA-04a.jpg\" alt=\"\" width=\"181\" height=\"174\">",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Wartością logiczną wyrazenia FALSE OR Null AND TRUE jest:",
       "id": 3479,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "TRUE",
@@ -5794,8 +6070,9 @@
           "answer": "0",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     }
   ],
-  "updatedAt": 1614650414152
+  "updatedAt": 1625347561923
 }

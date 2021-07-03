@@ -5,7 +5,7 @@
     {
       "question": "CLR:",
       "id": 2981,
-      "comments": null,
+      "numberOfComments": 1,
       "answers": [
         {
           "answer": "Potrafi uruchomić kod napisany w MSIL",
@@ -23,12 +23,19 @@
           "answer": "Potrafi uruchomić kod napisany w języku maszynowym",
           "correct": true
         }
+      ],
+      "comments": [
+        {
+          "author": "~anon@89.70.*.*",
+          "comment": "\"Środowisko CLR kompiluje i wykonuje zapisany w standardowym języku pośrednim Microsoft (MSIL) kod aplikacji zwany kodem zarządzanym (...)\"\nPowinno być A i C.",
+          "date": "08-09-2017 10:43:26"
+        }
       ]
     },
     {
       "question": "W poniższym fragmencie kodu:<p></p>\n<p>&nbsp;</p>\n<p>public void DatabaseOperation() {</p>\n<p>var sqlConnection = new SqlConnection(ConfigurationManager.ConnectionStrings[\"Default\"])//reszta kodu&nbsp;</p>\n<p>var sqlCommand = new sqlCommand(\"SELECT * FROM EMP\");</p>\n<p>sqlConnection.open();</p>\n<p>&nbsp;</p>\n<p>//...operacje bazodanowe</p>\n<p>&nbsp;</p>\n<p>sqlCommand.Dispose();</p>\n<p>sqlConnection.Dispose();</p>\n<p>}\n          </p>",
       "id": 2982,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Można by zastosować klauzulę \"try-catch-finally\" w celu bezpiecznego zwolnienia zasobów związanych z połączeniem z bazą danych",
@@ -46,12 +53,13 @@
           "answer": "Zaprezentowany jest bezpieczny sposób zwalniania zasobów związanych z połączeniem do bazy danych",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Różnica impedancji",
       "id": 2984,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "To obciążenie systemowe związane z wykonywaniem kodu SQL i próba pominięcia go lub zastąpienia w operacjach bazodanowych",
@@ -65,12 +73,13 @@
           "answer": "To obciążenie systemowe powstające, gdy wykonany zostaje kod SQL zaszyty w kodzie napisanym w języku obiektowym",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "TRADYCYJNE technologie webowe/klienckie to:",
       "id": 2985,
-      "comments": null,
+      "numberOfComments": 1,
       "answers": [
         {
           "answer": "Visual Basic",
@@ -88,12 +97,19 @@
           "answer": "HTML5, JavaScript",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~Anon@2a01:110f:4803:2d00:7d34:713d:4de5:7a56",
+          "comment": "What about HTML5, JavaScript?",
+          "date": "11-07-2020 17:44:36"
+        }
       ]
     },
     {
       "question": "LINQ",
       "id": 2986,
-      "comments": null,
+      "numberOfComments": 1,
       "answers": [
         {
           "answer": "pozwala pominąć język SQL w operacjach bazodanowych",
@@ -107,12 +123,19 @@
           "answer": "jego składnia w niczym nie przypomina SQL",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~sidletsky@162.158.*.*",
+          "comment": "wrong. ",
+          "date": "25-06-2019 20:05:50"
+        }
       ]
     },
     {
       "question": "Które z poniższych zdań na temat LINQ jest prawdziwe?",
       "id": 2987,
-      "comments": null,
+      "numberOfComments": 1,
       "answers": [
         {
           "answer": "Jest to część framework'u .NET. Technologia ta umożliwia realizowanie zapytań na kolekcjach obiektów. Składnia LINQ przypomina nieco SQL.&nbsp; LINQ może działać na dowolnej kolekcji, która implementuje interfejs IEnumerable.",
@@ -130,23 +153,19 @@
           "answer": "Jest to część framework'u .NET. Technologia ta umożliwia realizowanie znacznie bardziej wydajnych zapytań SQL na bazie danych. Wzrost wydajności wynosi ok. 10-20%.",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~Petenshi@5.184.*.*",
+          "comment": "Czemu 1 odpowiedź nie jest zaznaczona jako prawdziwa? Zgadza się, że wymaga IEnumerable oraz podobny jest do sql.",
+          "date": "03-07-2018 14:34:04"
+        }
       ]
     },
     {
       "question": "Zaznacz zalety EF",
       "id": 2988,
-      "comments": [
-        {
-          "author": "~Petenshi@5.184.*.*",
-          "comment": "Napewno 3 i 4 odp. Poprawna, nie jestem pewny co do 2, ale też raczej dobra.",
-          "date": "03-07-2018 14:35:06"
-        },
-        {
-          "author": "~anon@91.226.*.*",
-          "comment": "wszystkie poprawne",
-          "date": "28-06-2020 14:41:34"
-        }
-      ],
+      "numberOfComments": 2,
       "answers": [
         {
           "answer": "EF pozwala nam na częściowe poradzenie sobie z problemem opisywanym poprzez termin \"rożnica impedancji\"",
@@ -164,23 +183,24 @@
           "answer": "Przyspieszenie procesu wytwarzania oprogramowania. Możemy skupić się wyłącznie na pisaniu kodu aplikacji (nie martwiąc się o kod SQL).",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~Petenshi@5.184.*.*",
+          "comment": "Napewno 3 i 4 odp. Poprawna, nie jestem pewny co do 2, ale też raczej dobra.",
+          "date": "03-07-2018 14:35:06"
+        },
+        {
+          "author": "~anon@91.226.*.*",
+          "comment": "wszystkie poprawne",
+          "date": "28-06-2020 14:41:34"
+        }
       ]
     },
     {
       "question": "W których językach możemy stworzyć podstawowy kod Code Behind w aplikacji ASP.NET?",
       "id": 2989,
-      "comments": [
-        {
-          "author": "~PDmochowski@89.77.*.*",
-          "comment": "ASP.NET wspiera języki C#, J# oraz Visual Basic",
-          "date": "01-09-2018 20:39:33"
-        },
-        {
-          "author": "~sidletsky@162.158.*.*",
-          "comment": "What about F#? It is a .NET language ",
-          "date": "25-06-2019 20:14:34"
-        }
-      ],
+      "numberOfComments": 2,
       "answers": [
         {
           "answer": "Visual Basic",
@@ -198,12 +218,24 @@
           "answer": "HTML",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~PDmochowski@89.77.*.*",
+          "comment": "ASP.NET wspiera języki C#, J# oraz Visual Basic",
+          "date": "01-09-2018 20:39:33"
+        },
+        {
+          "author": "~sidletsky@162.158.*.*",
+          "comment": "What about F#? It is a .NET language ",
+          "date": "25-06-2019 20:14:34"
+        }
       ]
     },
     {
       "question": "Kiedy warto korzystać z podejścia Database First w EF?",
       "id": 2990,
-      "comments": null,
+      "numberOfComments": 1,
       "answers": [
         {
           "answer": "Zmiany w strukturze bazy danych wykonywane są z poziomu języka SQL (np. poprzez Sql Managment Studio) przez administratora bazy danych",
@@ -221,12 +253,19 @@
           "answer": "Chcemy wersjonować zmiany w strukturze bazy danych. innymi słowy chcemy mieć pełną historię zmiany jakie zachodziły w naszej bazie danych (np. dodanie tabeli, kolumny w tabeli itp.). Taka historia pozwoli nam szybko wycofać zmiany, które np. okazały się problematyczne i spowodowały błąd.",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~anon@91.226.*.*",
+          "comment": "wszystko poza \"Chcemy wersjonować zmiany w strukturze bazy danych\" poprawne",
+          "date": "28-06-2020 14:43:38"
+        }
       ]
     },
     {
       "question": "ASP.NET MVC oparty jest na wzorcu projektowym MVC. Wzorzec ten składa się z trzech części . Litera \"M\" oznacza model. Które z poniższych twierdzeń poprawnie opisują model?",
       "id": 2991,
-      "comments": null,
+      "numberOfComments": 1,
       "answers": [
         {
           "answer": "Klasy modelowe mogą być opisane przez dodatkowe metadane, któe służą określeniu np. reguł walidacyjnych związanych z danym modelem. Np. dane pole jest wymagane lub jego długość nie może przekroczyć 30 znaków.",
@@ -244,12 +283,19 @@
           "answer": "Klasy modelowe odpowiadają za odpowiednie przekierowanie żądania użytkownika do danego kontrolera i metody.",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~anon@91.226.*.*",
+          "comment": "a i b poprawne",
+          "date": "28-06-2020 14:42:59"
+        }
       ]
     },
     {
       "question": "ASP.NET MVC oparty jest na wzorcu projektowym MVC. Wzorzec ten składa się z trzech części. \"V\" oznacza widok. Które z poniższych twierdzeń poprawnie opisują widok?",
       "id": 2992,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Widok jest odpowiedzialny za prezentację rezultatu żądania HTTP GET. nie powinien jednak zmieniać formatu&nbsp; wyświetlanych danych. Format danych (np. format daty) powinien byc określony wyłąćznie w kontrolerze.",
@@ -267,12 +313,13 @@
           "answer": "Widok może odpowiadać za odpowiednie formatowanie wyniku żądania HTTP GET i jego wyświetlenie. Inny przykład to wyświetlenie daty w różny sposób w zależności od ustawień języka przeglądarki. Pozwala to na internacjonalizowanie naszej aplikalcji.",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "MVC",
       "id": 3364,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "jest wzorcem projektowym",
@@ -290,12 +337,13 @@
           "answer": "żadne z podanych",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Przeanalizuj poniższy kod aplikacji WindowForm:<p></p>\n<pre>private void OkButton_Click(object sender, EventArgs e) f\n{\n    var sql = \"SELECT * FROM Person WHERE Login='\" + LoginTextBox.Text + \"' AND Password,'\" + PasswordTextBox.Text + \"I;\";\n    var sq1Connection=new Sq1Connection(ConfigurationManager.ConnectionStrings[\"DefaultCon\"].( // urwało dalej\n    var sq1Command=new Sq1Command(sql); \n    \n    var dr = sq1Command.ExecuteReader();\n    //... checking the result etc.\n    \n    sq1Connection.Dispose();\n    sq1Command.Dispose(); \n}\n</pre>\n<p>Zaznacz, które z poniższych stwierdzeń są prawdziwe:\n          </p>",
       "id": 3365,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Fragment kodu mógłby wykorzystywać blok using w celu implementacji w pełni bezpiecznego sposobu zwalniania zasobów (obiekt sqlConnection i sqlCommand).",
@@ -313,12 +361,13 @@
           "answer": "Klasa ConfigurationManager pozwala na pobranie ConnectionString'a z ustawień aplikacji",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "W akronimie SOLID za co odpowiada litera \"D\"?",
       "id": 3366,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Do not repeat yourself",
@@ -336,12 +385,13 @@
           "answer": "Dependency injection",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Zaznacz poprawne zdanie/a na temat podejść w EntityFramework",
       "id": 3367,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "korzystając z podejścia DatabaseFirst istnieje możliwość późniejszej zmiany metody pracy z bazą danych na CodeFirst",
@@ -355,12 +405,13 @@
           "answer": "migracje w podejściu CodeFirst działają przyrostowo",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Zaznacz wady EF",
       "id": 3368,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Język LINQ wykorzystywany w połączeniu z EF nie ma takiego samego poziomu ekspresji jak język SQL. Innymi słowy nie każde zapytanie zapisane w języku SQL potrafimy zapisać w języku LINQ.",
@@ -378,12 +429,13 @@
           "answer": "Podejście Code First nie zawsze prowadzi do wygenerowania schematu bazy danych zgodnej z 3NF",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Zaznacz zdania poniżej, które poprawnie opisują działania tokena JWT",
       "id": 3369,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Zarówno token JWT, jak również refresh token przechowywane są w bazie danych",
@@ -401,23 +453,13 @@
           "answer": "Token JWT może przechowywać informacje opisujące użytkownika",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Frameworki ORM",
       "id": 3370,
-      "comments": [
-        {
-          "author": "~qrwwqrqw@185.93.*.*",
-          "comment": "Czemu wymagają SQL? Przecież po to są żeby go  nie używać???",
-          "date": "30-08-2020 19:51:13"
-        },
-        {
-          "author": "mykhi",
-          "comment": "tutaj dodający nie zaznaczył żadnych poprawnych odpowiedzi, ale IMO powinny być a) i d)",
-          "date": "31-08-2020 09:47:48"
-        }
-      ],
+      "numberOfComments": 2,
       "answers": [
         {
           "answer": "ułatwiają parcę z bazami danych",
@@ -435,23 +477,24 @@
           "answer": "mogą powodować generowanie nieoptymalnego kodu SQL",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~qrwwqrqw@185.93.*.*",
+          "comment": "Czemu wymagają SQL? Przecież po to są żeby go  nie używać???",
+          "date": "30-08-2020 19:51:13"
+        },
+        {
+          "author": "mykhi",
+          "comment": "tutaj dodający nie zaznaczył żadnych poprawnych odpowiedzi, ale IMO powinny być a) i d)",
+          "date": "31-08-2020 09:47:48"
+        }
       ]
     },
     {
       "question": "Co oznacza termin \"problem N+1\" związany z ORM'ami?",
       "id": 3371,
-      "comments": [
-        {
-          "author": "~darkvyl@88.156.*.*",
-          "comment": "b",
-          "date": "03-09-2020 12:19:59"
-        },
-        {
-          "author": "~anon@2a02:a310:c127:4000:d4f1:6cd7:4461:d020",
-          "comment": "Dodaj poprawna odpowiedz",
-          "date": "14-02-2021 11:37:10"
-        }
-      ],
+      "numberOfComments": 2,
       "answers": [
         {
           "answer": "Termin związany jest z błędem w ORM'ach, który uniemożliwia budowanie pewnych rodzajów relacji między tabelami z poziomu kodu (podejście Code-First)",
@@ -469,12 +512,24 @@
           "answer": "Taki termin nie istnieje",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~darkvyl@88.156.*.*",
+          "comment": "b",
+          "date": "03-09-2020 12:19:59"
+        },
+        {
+          "author": "~anon@2a02:a310:c127:4000:d4f1:6cd7:4461:d020",
+          "comment": "Dodaj poprawna odpowiedz",
+          "date": "14-02-2021 11:37:10"
+        }
       ]
     },
     {
       "question": "Zaznacz <strong>zalety</strong> EF",
       "id": 3372,
-      "comments": null,
+      "numberOfComments": 1,
       "answers": [
         {
           "answer": "EF pozwala nam na częściowe poradzenie sobie z problemem opisywanym poprzez termin \"różnica impedancji\".",
@@ -492,11 +547,33 @@
           "answer": "Przyspieszenie procesu wytwarzania oprogramowania. Możemy skupić się wyłącznie na pisaniu kodu aplikacji (nie martwiąc się<p></p>\n<p>o kod SQL).</p>",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~darkvyl@88.156.*.*",
+          "comment": "wszystko poza najszybszym i najbardziej ",
+          "date": "03-09-2020 12:24:37"
+        }
       ]
     },
     {
       "question": "Zaznacz poprawne zdanie/a na temat podejść w EntityFramework",
       "id": 3373,
+      "numberOfComments": 3,
+      "answers": [
+        {
+          "answer": "korzystając z podejścia DatabaseFirst istnieje możliwość późniejszej zmiany metody pracy z bazą danych na CodeFirst",
+          "correct": false
+        },
+        {
+          "answer": "istnieje możliwość wycofania migracji uruchomionej na bazie danych do określonej migracji wstecz",
+          "correct": false
+        },
+        {
+          "answer": "migracje w podejściu CodeFirst działają przyrostowo",
+          "correct": false
+        }
+      ],
       "comments": [
         {
           "author": "~anon@88.156.*.*",
@@ -513,26 +590,12 @@
           "comment": "Wszystkie poprawne",
           "date": "05-09-2020 18:08:46"
         }
-      ],
-      "answers": [
-        {
-          "answer": "korzystając z podejścia DatabaseFirst istnieje możliwość późniejszej zmiany metody pracy z bazą danych na CodeFirst",
-          "correct": false
-        },
-        {
-          "answer": "istnieje możliwość wycofania migracji uruchomionej na bazie danych do określonej migracji wstecz",
-          "correct": false
-        },
-        {
-          "answer": "migracje w podejściu CodeFirst działają przyrostowo",
-          "correct": false
-        }
       ]
     },
     {
       "question": "Wskazanie w C#, że zmienna typu prostego jego nullowalna odbywa się poprzez",
       "id": 3374,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "napisanie własnej metody rozszerzeń, która będzie realizować tę funkcjonalność",
@@ -550,12 +613,13 @@
           "answer": "podanie \"(null)\" po typie zmiennej",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Token JWT",
       "id": 3375,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "jest jedynym rodzajem tokena, o który może opierać się uwierzytelnianie w projekcie .NET",
@@ -569,12 +633,13 @@
           "answer": "składa się z trzech części: nagłówka, zawartości i części do weryfikowania podpisu",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Wady EF: EF i język LINQ nie zawsze radzą sobie z generowaniem skomplikowanych zapytań SQL (np. wykorzystujących wiele podzapytań).",
       "id": 3376,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Język LINQ wykorzystywany w połączeniu z EF nie ma takiego samego poziomu ekspresji jak język SQL. Innymi słowy nie każde zapytanie zapisane w języku SQL potrafimy zapisać w języku LINQ.",
@@ -588,12 +653,13 @@
           "answer": "EF nie zawsze pozwala nam skorzystać ze wszystkich funkcjonalności wykorzystywanej bazy danych (np. nietypowe typy danych występujące tylko w danej bazie danych).",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Wybierz, który z poniższych adresów URL jest zgodny z metodyką REST pod kątem jego formatu",
       "id": 3377,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "https://localhost:8080/pets/calcualteAge",
@@ -611,12 +677,13 @@
           "answer": "https//localhost:8080/clients?method=delete",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Które z poniższych fragmentów kodu <strong>nie zwróci błędu</strong> w sytuacji kiedy nie odnaleźliśmy żadnego elementu?",
       "id": 3378,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "_context.Students.First(x =&gt; x.ID == 1);",
@@ -634,12 +701,13 @@
           "answer": "_context.Students.FirstOrDefault(x =&gt; x.ID == 1);",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Kiedy warto korzystać z podejścia Code First w EF?",
       "id": 3379,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Chcemy mieć możliwość generowania i modyfikowania struktury bazy danych z poziomu języka C# (np. dodania tabeli, zmiany typu danych kolumny itp.)",
@@ -657,12 +725,13 @@
           "answer": "Chcemy wersjonować wszystkie zmiany w strukturze naszej bazy danych. Innymi słowy chcemy zachowywać pełną historię zmian zachodzących w strukturze naszej bazy danych.",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Klasa startup projektu web api:",
       "id": 3380,
-      "comments": null,
+      "numberOfComments": 1,
       "answers": [
         {
           "answer": "zawiera metody służące do budowania zależności w projekcie",
@@ -676,12 +745,19 @@
           "answer": "jest niezbędna do zbudowania projektu w przypadk udomyślnej konfiguracji",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~Łuki@2a02:a311:803f:2380:876:342a:91b4:44cc",
+          "comment": "A i C poprawne",
+          "date": "05-09-2020 18:05:22"
+        }
       ]
     },
     {
       "question": "EntityFramework:",
       "id": 3381,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "służy do pracy tylko z bazami SQL Server",
@@ -699,8 +775,9 @@
           "answer": "komunikuje się z bazą danych poprzez kontekst bazodanowy",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     }
   ],
-  "updatedAt": 1614650414152
+  "updatedAt": 1625347561923
 }

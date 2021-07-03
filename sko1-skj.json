@@ -5,6 +5,25 @@
     {
       "question": "Wybierz poprawne rozwinięcie skrótu SMTP.",
       "id": 547,
+      "numberOfComments": 4,
+      "answers": [
+        {
+          "answer": "Standard Mail Transfer Protocol",
+          "correct": false
+        },
+        {
+          "answer": "Simple Mail Transfer Protocol",
+          "correct": true
+        },
+        {
+          "answer": "Sample Mail Transfer Protocol",
+          "correct": false
+        },
+        {
+          "answer": "Simple Mail Transport Protocol",
+          "correct": false
+        }
+      ],
       "comments": [
         {
           "author": "~marol kichalak@159.205.*.*",
@@ -26,29 +45,30 @@
           "comment": "Ej o co chodzi ze jest skj1 i skj2? To sa inne przedmioty teraz czy dwa testy do jednego przedmiotu?",
           "date": "05-02-2019 20:51:47"
         }
-      ],
-      "answers": [
-        {
-          "answer": "Standard Mail Transfer Protocol",
-          "correct": false
-        },
-        {
-          "answer": "Simple Mail Transfer Protocol",
-          "correct": true
-        },
-        {
-          "answer": "Sample Mail Transfer Protocol",
-          "correct": false
-        },
-        {
-          "answer": "Simple Mail Transport Protocol",
-          "correct": false
-        }
       ]
     },
     {
       "question": "Jakim poleceniem (system operacyjny Linux) możemy wyświetlić tablicę routingu (podaj tylko nazwę polecenia)?",
       "id": 548,
+      "numberOfComments": 4,
+      "answers": [
+        {
+          "answer": "netroute",
+          "correct": false
+        },
+        {
+          "answer": "etroute",
+          "correct": false
+        },
+        {
+          "answer": "routeip",
+          "correct": false
+        },
+        {
+          "answer": "route",
+          "correct": true
+        }
+      ],
       "comments": [
         {
           "author": "~wiemWszystko@87.207.*.*",
@@ -70,30 +90,12 @@
           "comment": "a jak nie ma to można dodać :D ",
           "date": "11-01-2021 22:54:24"
         }
-      ],
-      "answers": [
-        {
-          "answer": "netroute",
-          "correct": false
-        },
-        {
-          "answer": "etroute",
-          "correct": false
-        },
-        {
-          "answer": "routeip",
-          "correct": false
-        },
-        {
-          "answer": "route",
-          "correct": true
-        }
       ]
     },
     {
       "question": "W modelu OSI/ISO istnieje warstwa Internetowa?",
       "id": 549,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Nie",
@@ -103,11 +105,31 @@
           "answer": "Tak",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "W warstwie łącza mówimy o:",
       "id": 550,
+      "numberOfComments": 4,
+      "answers": [
+        {
+          "answer": "bitach",
+          "correct": false
+        },
+        {
+          "answer": "pakietach",
+          "correct": false
+        },
+        {
+          "answer": "ramkach",
+          "correct": true
+        },
+        {
+          "answer": "segmentach",
+          "correct": false
+        }
+      ],
       "comments": [
         {
           "author": "~LaureatSkjZielonka2004@159.205.*.*",
@@ -129,30 +151,12 @@
           "comment": "Pytanie pełne brzmi:\n\"W warstwie łącza danych mówimy o:\"\nOdp: ramkach",
           "date": "11-01-2021 22:56:31"
         }
-      ],
-      "answers": [
-        {
-          "answer": "bitach",
-          "correct": false
-        },
-        {
-          "answer": "pakietach",
-          "correct": false
-        },
-        {
-          "answer": "ramkach",
-          "correct": true
-        },
-        {
-          "answer": "segmentach",
-          "correct": false
-        }
       ]
     },
     {
       "question": "Protokół bezstanowy utrzymuje informacje o trwającym połączeniu podczas więcej niż jednej wymiany komunikatów.",
       "id": 551,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Tak",
@@ -162,11 +166,31 @@
           "answer": "Nie",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Jakie usługi sieć Internet oferuje dla swoich aplikacji?",
       "id": 552,
+      "numberOfComments": 9,
+      "answers": [
+        {
+          "answer": "niezawodną \"połączeniową\" usługę",
+          "correct": true
+        },
+        {
+          "answer": "usługę gwarancji maksymalnego czasu transmisji",
+          "correct": false
+        },
+        {
+          "answer": "zawodną \"bezpołączeniową\" usługę",
+          "correct": true
+        },
+        {
+          "answer": "usługę gwarancji minimalnego dostępnego pasma",
+          "correct": false
+        }
+      ],
       "comments": [
         {
           "author": "~AndrzejDuda@31.178.*.*",
@@ -213,30 +237,12 @@
           "comment": "Xd",
           "date": "11-02-2021 15:48:53"
         }
-      ],
-      "answers": [
-        {
-          "answer": "niezawodną \"połączeniową\" usługę",
-          "correct": true
-        },
-        {
-          "answer": "usługę gwarancji maksymalnego czasu transmisji",
-          "correct": false
-        },
-        {
-          "answer": "zawodną \"bezpołączeniową\" usługę",
-          "correct": true
-        },
-        {
-          "answer": "usługę gwarancji minimalnego dostępnego pasma",
-          "correct": false
-        }
       ]
     },
     {
       "question": "Jakie są źródła opóźnienia pakietów?",
       "id": 553,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "opóźnienie propagacji",
@@ -254,28 +260,13 @@
           "answer": "opóźnienie transmisji",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Mając dany adres IP 213.23.10.34/23 określ adres rozgłoszeniowy sieci.",
       "id": 554,
-      "comments": [
-        {
-          "author": "~mx@83.6.*.*",
-          "comment": "Czy ktoś mógłby napisać czemu 213.23.10.255 jest złą odpowiedzią?",
-          "date": "28-06-2014 00:50:29"
-        },
-        {
-          "author": "~tobi@91.230.*.*",
-          "comment": "up",
-          "date": "05-12-2014 08:41:37"
-        },
-        {
-          "author": "~kot@37.152.*.*",
-          "comment": "Bo jest /23 czyli pierwsze 23 bity zostają jak były, a pozostałe zamiast pozostałych 9 podstawiasz jedynki. Czyli zamiast 10 (00001010) robi się 11 (00001011), bo ostatni bit tej ósemki zamienia się na jedynkę xd",
-          "date": "10-01-2015 23:11:04"
-        }
-      ],
+      "numberOfComments": 3,
       "answers": [
         {
           "answer": "213.23.11.255",
@@ -293,12 +284,29 @@
           "answer": "213.23.10.254",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~mx@83.6.*.*",
+          "comment": "Czy ktoś mógłby napisać czemu 213.23.10.255 jest złą odpowiedzią?",
+          "date": "28-06-2014 00:50:29"
+        },
+        {
+          "author": "~tobi@91.230.*.*",
+          "comment": "up",
+          "date": "05-12-2014 08:41:37"
+        },
+        {
+          "author": "~kot@37.152.*.*",
+          "comment": "Bo jest /23 czyli pierwsze 23 bity zostają jak były, a pozostałe zamiast pozostałych 9 podstawiasz jedynki. Czyli zamiast 10 (00001010) robi się 11 (00001011), bo ostatni bit tej ósemki zamienia się na jedynkę xd",
+          "date": "10-01-2015 23:11:04"
+        }
       ]
     },
     {
       "question": "Ile bitów ma adres IP w wersji 4?",
       "id": 555,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "56",
@@ -316,23 +324,13 @@
           "answer": "64",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Mając dany adres IP 192.23.11.23/23 określ adres sieci.",
       "id": 556,
-      "comments": [
-        {
-          "author": "~theBeast@89.161.*.*",
-          "comment": "192.23.11.0/23 czy nie mam racji?",
-          "date": "31-01-2013 15:41:50"
-        },
-        {
-          "author": "mykhi",
-          "comment": "nie :(",
-          "date": "31-01-2013 15:43:59"
-        }
-      ],
+      "numberOfComments": 2,
       "answers": [
         {
           "answer": "192.23.10.0/23",
@@ -350,12 +348,24 @@
           "answer": "192.23.11.0/23",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~theBeast@89.161.*.*",
+          "comment": "192.23.11.0/23 czy nie mam racji?",
+          "date": "31-01-2013 15:41:50"
+        },
+        {
+          "author": "mykhi",
+          "comment": "nie :(",
+          "date": "31-01-2013 15:43:59"
+        }
       ]
     },
     {
       "question": "Zaznacz adresy sieci powstałe po podzieleniu sieci 172.16.32.0/24 na 4 podsieci.",
       "id": 557,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "172.16.32.32/26",
@@ -385,12 +395,13 @@
           "answer": "172.16.32.96/26",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Techniki: CIDR (Classless Interdomain Routingu) oraz NAT (Network Address Translation) pozwalają na efektywniejsze wykorzystanie adresów IPv4.",
       "id": 558,
-      "comments": null,
+      "numberOfComments": 1,
       "answers": [
         {
           "answer": "Nie",
@@ -400,28 +411,19 @@
           "answer": "Tak",
           "correct": true
         }
+      ],
+      "comments": [
+        {
+          "author": "~anon@2a01:110f:d3f:4900:9945:d438:c9e5:3897",
+          "comment": "haha co?\n",
+          "date": "27-11-2019 19:33:11"
+        }
       ]
     },
     {
       "question": "Ile bitów ma adres IP w wersji 6?",
       "id": 559,
-      "comments": [
-        {
-          "author": "~NoIPanPawel@185.186.*.*",
-          "comment": "zaden z powyszych bo zawiera 300 bitow",
-          "date": "02-02-2020 23:03:46"
-        },
-        {
-          "author": "~NoIPanPawel@185.186.*.*",
-          "comment": "*edit 320\n",
-          "date": "02-02-2020 23:29:49"
-        },
-        {
-          "author": "~AdamW@188.146.*.*",
-          "comment": "Ty mały kłamczuszku ",
-          "date": "03-02-2020 13:17:59"
-        }
-      ],
+      "numberOfComments": 3,
       "answers": [
         {
           "answer": "64",
@@ -439,11 +441,39 @@
           "answer": "32",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~NoIPanPawel@185.186.*.*",
+          "comment": "zaden z powyszych bo zawiera 300 bitow",
+          "date": "02-02-2020 23:03:46"
+        },
+        {
+          "author": "~NoIPanPawel@185.186.*.*",
+          "comment": "*edit 320\n",
+          "date": "02-02-2020 23:29:49"
+        },
+        {
+          "author": "~AdamW@188.146.*.*",
+          "comment": "Ty mały kłamczuszku ",
+          "date": "03-02-2020 13:17:59"
+        }
       ]
     },
     {
       "question": "OSPF jest protokołem typu \"wektor odległości\".",
       "id": 560,
+      "numberOfComments": 2,
+      "answers": [
+        {
+          "answer": "Tak",
+          "correct": false
+        },
+        {
+          "answer": "Nie",
+          "correct": true
+        }
+      ],
       "comments": [
         {
           "author": "~anon@89.67.*.*",
@@ -455,7 +485,12 @@
           "comment": "OSPF to protokół \"trasowania stanu łącza\". Źródło: wikipedia",
           "date": "31-01-2017 14:19:58"
         }
-      ],
+      ]
+    },
+    {
+      "question": "Protokoły rutingu dynamicznego nie reagują na zmiany topologii sieci oraz na jej przeciążenie.",
+      "id": 561,
+      "numberOfComments": 3,
       "answers": [
         {
           "answer": "Tak",
@@ -465,11 +500,7 @@
           "answer": "Nie",
           "correct": true
         }
-      ]
-    },
-    {
-      "question": "Protokoły rutingu dynamicznego nie reagują na zmiany topologii sieci oraz na jej przeciążenie.",
-      "id": 561,
+      ],
       "comments": [
         {
           "author": "~TenOgierLezacyObok@94.254.*.*",
@@ -486,22 +517,12 @@
           "comment": "idź spać dzieciaku",
           "date": "05-02-2018 20:25:16"
         }
-      ],
-      "answers": [
-        {
-          "answer": "Tak",
-          "correct": false
-        },
-        {
-          "answer": "Nie",
-          "correct": true
-        }
       ]
     },
     {
       "question": "Przykładem topologii sieci komputerowych jest:",
       "id": 562,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "transmisja duplex i full duplex",
@@ -519,11 +540,31 @@
           "answer": "kabel koncentryczny i skrętka",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Zastąpienie koncentratów przełącznikami, powoduje w sieci:",
       "id": 563,
+      "numberOfComments": 6,
+      "answers": [
+        {
+          "answer": "zmiejszenie ilości domen rozgłoszeniowych",
+          "correct": false
+        },
+        {
+          "answer": "zmniejszenie ilości domen kolizyjnych",
+          "correct": false
+        },
+        {
+          "answer": "zwiększenie ilości domen kolizyjnych",
+          "correct": true
+        },
+        {
+          "answer": "zwiekszenie ilości domen rozgłoszeniowych",
+          "correct": false
+        }
+      ],
       "comments": [
         {
           "author": "~anon@178.36.*.*",
@@ -555,30 +596,12 @@
           "comment": "https://edu.pjwstk.edu.pl/wyklady/wspsi/scb/index78.html 2.4 tu masz wyjasnione ",
           "date": "13-02-2021 15:47:49"
         }
-      ],
-      "answers": [
-        {
-          "answer": "zmiejszenie ilości domen rozgłoszeniowych",
-          "correct": false
-        },
-        {
-          "answer": "zmniejszenie ilości domen kolizyjnych",
-          "correct": false
-        },
-        {
-          "answer": "zwiększenie ilości domen kolizyjnych",
-          "correct": true
-        },
-        {
-          "answer": "zwiekszenie ilości domen rozgłoszeniowych",
-          "correct": false
-        }
       ]
     },
     {
       "question": "PPP (Point-to-Point Protocol) jest protokołem warstwy drugiej.",
       "id": 564,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Tak",
@@ -588,12 +611,13 @@
           "answer": "Nie",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Klasycznymodel sieci OSI składa się z:",
       "id": 565,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "pięciu warstw",
@@ -611,12 +635,13 @@
           "answer": "czterech warstw",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Odpytywanie (polling) to metoda dostępu w której:",
       "id": 566,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "urządzenie sieciowe odpytuje w sposób uporządkowany inne urządzenia o żądanie transmisji",
@@ -634,12 +659,13 @@
           "answer": "żadne z powyższych wyjaśnień nie jest prawidłowe",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Teoretyczna prędkość sieci w której medium to 10BASE-T wynosi:",
       "id": 567,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "10 MB/s",
@@ -657,12 +683,13 @@
           "answer": "10 Mb/s",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Warstwa 2 (łącza danych) składa się z:",
       "id": 568,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "MAC oraz LLC",
@@ -680,12 +707,13 @@
           "answer": "PHY oraz MAC",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Jakie znasz dwa podstawowe rodzaję trybów przełączania pakietów?",
       "id": 569,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "slow forward",
@@ -703,11 +731,35 @@
           "answer": "store-and-forward",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "10base2",
       "id": 570,
+      "numberOfComments": 8,
+      "answers": [
+        {
+          "answer": "wykorzystuje UTP",
+          "correct": false
+        },
+        {
+          "answer": "wykorzystuje transmisje na wszystkich 4 parach",
+          "correct": false
+        },
+        {
+          "answer": "to standard definiujący okablowanie dla sieci Ethernet",
+          "correct": true
+        },
+        {
+          "answer": "wykorzystuje cienki kabel koncentryczny",
+          "correct": true
+        },
+        {
+          "answer": "pozwala na transmisje do 10Mbps",
+          "correct": true
+        }
+      ],
       "comments": [
         {
           "author": "~pk@83.28.*.*",
@@ -749,33 +801,30 @@
           "comment": "Wypieranie nie oznacza, że coś przestaje być standardem, może być nie używane, ale w tym znaczeniu jest to ustalone jakieś kryterium, a nie standard w znaczeniu, że jest częściej używany. \n",
           "date": "13-02-2021 15:40:23"
         }
-      ],
-      "answers": [
-        {
-          "answer": "wykorzystuje UTP",
-          "correct": false
-        },
-        {
-          "answer": "wykorzystuje transmisje na wszystkich 4 parach",
-          "correct": false
-        },
-        {
-          "answer": "to standard definiujący okablowanie dla sieci Ethernet",
-          "correct": true
-        },
-        {
-          "answer": "wykorzystuje cienki kabel koncentryczny",
-          "correct": true
-        },
-        {
-          "answer": "pozwala na transmisje do 10Mbps",
-          "correct": true
-        }
       ]
     },
     {
       "question": "W technologii 10BASE-T maksymalna długość kabla pomiędzy przełącznikami wynosi:",
       "id": 571,
+      "numberOfComments": 5,
+      "answers": [
+        {
+          "answer": "205 m",
+          "correct": false
+        },
+        {
+          "answer": "100 m",
+          "correct": true
+        },
+        {
+          "answer": "400 m",
+          "correct": false
+        },
+        {
+          "answer": "185 m",
+          "correct": false
+        }
+      ],
       "comments": [
         {
           "author": "~AlphonseMacierewicz@31.178.*.*",
@@ -802,30 +851,12 @@
           "comment": "z wiki: \nW standardzie 10Base-T nie określono limitu długości kabla.\n(ale de facto to ok 100m)",
           "date": "31-01-2017 15:59:52"
         }
-      ],
-      "answers": [
-        {
-          "answer": "205 m",
-          "correct": false
-        },
-        {
-          "answer": "100 m",
-          "correct": true
-        },
-        {
-          "answer": "400 m",
-          "correct": false
-        },
-        {
-          "answer": "185 m",
-          "correct": false
-        }
       ]
     },
     {
       "question": "Switch jest to:",
       "id": 572,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "urządzenie sieciowe, które przekazuje ramki do odpowiedniego wyjścia urządzenia na podstawie adresu docelowego każdej z nich",
@@ -843,11 +874,35 @@
           "answer": "odmiana światłowodu",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "-Jakie zjawiska wystąpią, gdy w sieci Ethernet zamienimy koncentrator (hub) na przełącznik (switch) pracujący w trybie store-and-forward ?",
       "id": 573,
+      "numberOfComments": 9,
+      "answers": [
+        {
+          "answer": "opóźnienie transmisji pomiędzy węzłami zwiększy się",
+          "correct": false
+        },
+        {
+          "answer": "zmniejszy się maksymalny możliwy dystans pomiędzy węzłami",
+          "correct": true
+        },
+        {
+          "answer": "dzięki zmniejszeniu liczby kolizji zmniejszy się liczba traconych ramek",
+          "correct": true
+        },
+        {
+          "answer": "wzrośnie bisekcyjna przepustowość sieci (sumaryczna przepustowość, gdy połowa węzłów nadaje, połowa odbiera)",
+          "correct": false
+        },
+        {
+          "answer": "niektóre protokoły np. ARP przestaną pracować prawidłowo",
+          "correct": false
+        }
+      ],
       "comments": [
         {
           "author": "~anon@89.68.*.*",
@@ -894,34 +949,12 @@
           "comment": "tak",
           "date": "08-02-2019 21:54:42"
         }
-      ],
-      "answers": [
-        {
-          "answer": "opóźnienie transmisji pomiędzy węzłami zwiększy się",
-          "correct": false
-        },
-        {
-          "answer": "zmniejszy się maksymalny możliwy dystans pomiędzy węzłami",
-          "correct": true
-        },
-        {
-          "answer": "dzięki zmniejszeniu liczby kolizji zmniejszy się liczba traconych ramek",
-          "correct": true
-        },
-        {
-          "answer": "wzrośnie bisekcyjna przepustowość sieci (sumaryczna przepustowość, gdy połowa węzłów nadaje, połowa odbiera)",
-          "correct": false
-        },
-        {
-          "answer": "niektóre protokoły np. ARP przestaną pracować prawidłowo",
-          "correct": false
-        }
       ]
     },
     {
       "question": "\"MAC adres\" oznacza:",
       "id": 574,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "standardowy adres warstwy łącza danych, wymagane dla każdego urządzenia podłączonego do sieci LAN",
@@ -939,12 +972,13 @@
           "answer": "żadne z powyższych wyjaśnień nie jest prawidłowe",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Warstwa aplikacji modelu sieci OSI/ISO realizowana jest:",
       "id": 575,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "programowo",
@@ -962,12 +996,13 @@
           "answer": "jedynie poprzez protokół TCP/IP",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Adresacja MAC (podobnie jak IPv4) jest hierarchiczna.",
       "id": 576,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Nie",
@@ -977,12 +1012,13 @@
           "answer": "Tak",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Skrót WAN oznacza:",
       "id": 577,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "standard podłączenia dysków twardych za pomocą światłowodu",
@@ -1000,28 +1036,13 @@
           "answer": "miejską sieć komputerową",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "TokenRing to:",
       "id": 578,
-      "comments": [
-        {
-          "author": "~an@88.156.*.*",
-          "comment": "A czy przypadkiem D też nie jest poprawne?",
-          "date": "28-11-2018 00:30:49"
-        },
-        {
-          "author": "~an@88.156.*.*",
-          "comment": "Bo brzmi to jak token passing, który jest używany w TokenRing, ale pytanie jest czym jest TokenRing. Trochę podchwytliwe",
-          "date": "28-11-2018 00:32:12"
-        },
-        {
-          "author": "~anon@93.105.*.*",
-          "comment": "https://pl.wikipedia.org/wiki/Token_ring\nMożna wnioskować choćby z ilustracji, że odpowiedź 1 powinna być poprawna. Czy nie?",
-          "date": "02-02-2019 19:55:49"
-        }
-      ],
+      "numberOfComments": 3,
       "answers": [
         {
           "answer": "protokół używany przez łącze szeregowe",
@@ -1039,12 +1060,29 @@
           "answer": "oznaczenie żetonu inicjującego transmisję",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~an@88.156.*.*",
+          "comment": "A czy przypadkiem D też nie jest poprawne?",
+          "date": "28-11-2018 00:30:49"
+        },
+        {
+          "author": "~an@88.156.*.*",
+          "comment": "Bo brzmi to jak token passing, który jest używany w TokenRing, ale pytanie jest czym jest TokenRing. Trochę podchwytliwe",
+          "date": "28-11-2018 00:32:12"
+        },
+        {
+          "author": "~anon@93.105.*.*",
+          "comment": "https://pl.wikipedia.org/wiki/Token_ring\nMożna wnioskować choćby z ilustracji, że odpowiedź 1 powinna być poprawna. Czy nie?",
+          "date": "02-02-2019 19:55:49"
+        }
       ]
     },
     {
       "question": "Wzmacniacz(repeater) jest to:",
       "id": 579,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "odmiana światłowodu",
@@ -1066,12 +1104,13 @@
           "answer": "żadne z powyższych wyjaśnień nie jest prawidłowe",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Warstwa najniższa (pierwsza) modelu sieci OSI realizowana jest:",
       "id": 580,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "programowo",
@@ -1089,11 +1128,31 @@
           "answer": "sprzętowo",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Sieci radiowe w standardzie 802.11b pracują z następującą maksymalną teoretyczną szybkością przesyłania danych na kanał:",
       "id": 581,
+      "numberOfComments": 5,
+      "answers": [
+        {
+          "answer": "512 Mb/s",
+          "correct": false
+        },
+        {
+          "answer": "54 Mb/s",
+          "correct": false
+        },
+        {
+          "answer": "11 Mb/s",
+          "correct": true
+        },
+        {
+          "answer": "2,1 Mb/s",
+          "correct": false
+        }
+      ],
       "comments": [
         {
           "author": "~Wybawca@89.68.*.*",
@@ -1120,30 +1179,12 @@
           "comment": "802.11a - 54Mbit na 5GHz\n802.11b - 11Mbit na 2.4GHz\n802.11g - 54Mbit na 2.4GHz\n802.11n - 300Mbit na 5GHz i 150Mbit na 2.4GHz\n\nTL;DR Jest poprawnie.",
           "date": "03-02-2016 19:36:38"
         }
-      ],
-      "answers": [
-        {
-          "answer": "512 Mb/s",
-          "correct": false
-        },
-        {
-          "answer": "54 Mb/s",
-          "correct": false
-        },
-        {
-          "answer": "11 Mb/s",
-          "correct": true
-        },
-        {
-          "answer": "2,1 Mb/s",
-          "correct": false
-        }
       ]
     },
     {
       "question": "IPSec zapewnia bezpieczeństwo w warstwie:",
       "id": 582,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "sieci",
@@ -1161,12 +1202,13 @@
           "answer": "aplikacji",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Integralność polega na tym, że:",
       "id": 583,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "z dwóch ramek tworzony jest jeden pakiet",
@@ -1184,11 +1226,31 @@
           "answer": "wiadomość może zmodyfikować tylko każdy węzeł pośredni sieci",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Protokół SSL zapewnia:",
       "id": 584,
+      "numberOfComments": 9,
+      "answers": [
+        {
+          "answer": "każdą z powyższych funkcji",
+          "correct": true
+        },
+        {
+          "answer": "uwierzytelnienie",
+          "correct": true
+        },
+        {
+          "answer": "integralność",
+          "correct": true
+        },
+        {
+          "answer": "poufność",
+          "correct": true
+        }
+      ],
       "comments": [
         {
           "author": "~anon@77.252.*.*",
@@ -1235,46 +1297,12 @@
           "comment": "Musisz pomyśleć nad tym że odpowiedzi mogą mieć losowy pożądek. a)Poprawna",
           "date": "06-02-2019 11:59:22"
         }
-      ],
-      "answers": [
-        {
-          "answer": "każdą z powyższych funkcji",
-          "correct": true
-        },
-        {
-          "answer": "uwierzytelnienie",
-          "correct": true
-        },
-        {
-          "answer": "integralność",
-          "correct": true
-        },
-        {
-          "answer": "poufność",
-          "correct": true
-        }
       ]
     },
     {
       "question": "Poufność jest zachowana wtedy, kiedy:",
       "id": 585,
-      "comments": [
-        {
-          "author": "~zaduzoseksiku@2001:67c:23f4:2132:585f:844b:4024:ece4",
-          "comment": "GALUUUUUUU, tez klepiesz generatory?\npozdro czerwona yariska",
-          "date": "28-11-2019 10:45:28"
-        },
-        {
-          "author": "~anon@89.72.*.*",
-          "comment": "poufnosc to wtedy jak powiesz koledze ze masz dwanascie pozdrawiam serdecznie\n",
-          "date": "28-11-2019 12:01:39"
-        },
-        {
-          "author": "~anon@83.24.*.*",
-          "comment": "Czy to chodzi o grę słowną? Poufność jest zachowana wtedy kiedy nadawca i zamierzony odbiorca może zrozumieć wiadomość, więc dlaczego odp 1 jest zła?",
-          "date": "13-02-2021 16:49:49"
-        }
-      ],
+      "numberOfComments": 3,
       "answers": [
         {
           "answer": "tylko nadawca może zrozumieć wiadomość",
@@ -1292,12 +1320,29 @@
           "answer": "odbiorca może potwierdzić tożsamość nadawcy",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~zaduzoseksiku@2001:67c:23f4:2132:585f:844b:4024:ece4",
+          "comment": "GALUUUUUUU, tez klepiesz generatory?\npozdro czerwona yariska",
+          "date": "28-11-2019 10:45:28"
+        },
+        {
+          "author": "~anon@89.72.*.*",
+          "comment": "poufnosc to wtedy jak powiesz koledze ze masz dwanascie pozdrawiam serdecznie\n",
+          "date": "28-11-2019 12:01:39"
+        },
+        {
+          "author": "~anon@83.24.*.*",
+          "comment": "Czy to chodzi o grę słowną? Poufność jest zachowana wtedy kiedy nadawca i zamierzony odbiorca może zrozumieć wiadomość, więc dlaczego odp 1 jest zła?",
+          "date": "13-02-2021 16:49:49"
+        }
       ]
     },
     {
       "question": "Konie trojańskie mogą służyć do:",
       "id": 586,
-      "comments": null,
+      "numberOfComments": 1,
       "answers": [
         {
           "answer": "wysyłania SPAMu",
@@ -1315,12 +1360,19 @@
           "answer": "włamań przez \"tylne drzwi\"",
           "correct": true
         }
+      ],
+      "comments": [
+        {
+          "author": "~billy@89.68.*.*",
+          "comment": "trojany bardzo czesto instaluja w systemie backdoora wiec sadze ze odpowiedz \"wlaman przez tylne drzwi\" jest takze poprawna",
+          "date": "02-02-2013 14:25:13"
+        }
       ]
     },
     {
       "question": "Wybierz poprawne rozwinięcie skrótu TCP.",
       "id": 587,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Transmission Control Protocol",
@@ -1338,11 +1390,31 @@
           "answer": "Transparent Control Protocol",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Jakim poleceniem (system operacyjny Linux) możemy sprawdzić konfiguracje interfejsów sieciowych (podaj tylko nazwę polecenia)?",
       "id": 588,
+      "numberOfComments": 4,
+      "answers": [
+        {
+          "answer": "ifconfig",
+          "correct": true
+        },
+        {
+          "answer": "netinet",
+          "correct": false
+        },
+        {
+          "answer": "interfaces",
+          "correct": false
+        },
+        {
+          "answer": "nslookup",
+          "correct": false
+        }
+      ],
       "comments": [
         {
           "author": "~anon@91.230.*.*",
@@ -1364,30 +1436,12 @@
           "comment": "dobrze jest, na linuxie ifconfig",
           "date": "27-11-2019 20:43:45"
         }
-      ],
-      "answers": [
-        {
-          "answer": "ifconfig",
-          "correct": true
-        },
-        {
-          "answer": "netinet",
-          "correct": false
-        },
-        {
-          "answer": "interfaces",
-          "correct": false
-        },
-        {
-          "answer": "nslookup",
-          "correct": false
-        }
       ]
     },
     {
       "question": "Protokoły nie kontrolują wysyłania/odbierania informacji.",
       "id": 589,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Tak",
@@ -1397,23 +1451,13 @@
           "answer": "Nie",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Jakie są źródła opóźnienia pakietów?",
       "id": 590,
-      "comments": [
-        {
-          "author": "~billy@89.68.*.*",
-          "comment": "wszystkie poprawne, mialem to pytanie na kolosie ;)",
-          "date": "02-02-2013 14:27:59"
-        },
-        {
-          "author": "~AndrzejDzikiWąs@212.7.*.*",
-          "comment": "Duplikat pytania nr 7.",
-          "date": "27-11-2018 17:54:14"
-        }
-      ],
+      "numberOfComments": 2,
       "answers": [
         {
           "answer": "oczekiwanie w kolejce",
@@ -1431,23 +1475,24 @@
           "answer": "opóźnienie transmisji",
           "correct": true
         }
+      ],
+      "comments": [
+        {
+          "author": "~billy@89.68.*.*",
+          "comment": "wszystkie poprawne, mialem to pytanie na kolosie ;)",
+          "date": "02-02-2013 14:27:59"
+        },
+        {
+          "author": "~AndrzejDzikiWąs@212.7.*.*",
+          "comment": "Duplikat pytania nr 7.",
+          "date": "27-11-2018 17:54:14"
+        }
       ]
     },
     {
       "question": "Wybierz klasyfikację sieci, która dzieli wszystkie sieci na dwie rozłączne grupy.",
       "id": 591,
-      "comments": [
-        {
-          "author": "~anon@91.230.*.*",
-          "comment": "sieci pakietowe to nie to samo co sieć z komutacją pakietów. Potwierdzone u ćwiczeniowca tuż po kolosie",
-          "date": "07-12-2019 15:33:40"
-        },
-        {
-          "author": "~lolek@178.42.*.*",
-          "comment": "sieci dostępowe i sieci szkieletowe również poprawna odp",
-          "date": "03-02-2020 22:47:09"
-        }
-      ],
+      "numberOfComments": 2,
       "answers": [
         {
           "answer": "sieci pakietowe",
@@ -1469,11 +1514,42 @@
           "answer": "sieci LAN/WAN",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~anon@91.230.*.*",
+          "comment": "sieci pakietowe to nie to samo co sieć z komutacją pakietów. Potwierdzone u ćwiczeniowca tuż po kolosie",
+          "date": "07-12-2019 15:33:40"
+        },
+        {
+          "author": "~lolek@178.42.*.*",
+          "comment": "sieci dostępowe i sieci szkieletowe również poprawna odp",
+          "date": "03-02-2020 22:47:09"
+        }
       ]
     },
     {
       "question": "Jakie protokoły rutingu używane są wewnątrz systemów autonomicznych:",
       "id": 592,
+      "numberOfComments": 5,
+      "answers": [
+        {
+          "answer": "OSPF",
+          "correct": true
+        },
+        {
+          "answer": "RIP",
+          "correct": true
+        },
+        {
+          "answer": "IS-IS",
+          "correct": true
+        },
+        {
+          "answer": "BGP",
+          "correct": false
+        }
+      ],
       "comments": [
         {
           "author": "~billy@89.68.*.*",
@@ -1500,29 +1576,22 @@
           "comment": "albo po prostu słuchał Paktofoniki",
           "date": "08-02-2019 22:43:31"
         }
-      ],
-      "answers": [
-        {
-          "answer": "OSPF",
-          "correct": true
-        },
-        {
-          "answer": "RIP",
-          "correct": true
-        },
-        {
-          "answer": "IS-IS",
-          "correct": true
-        },
-        {
-          "answer": "BGP",
-          "correct": false
-        }
       ]
     },
     {
       "question": "Protokoły rutingu dynamicznego nie reagują na zmiany topologii sieci oraz na jej przeciążenie.",
       "id": 593,
+      "numberOfComments": 3,
+      "answers": [
+        {
+          "answer": "Nie",
+          "correct": true
+        },
+        {
+          "answer": "Tak",
+          "correct": false
+        }
+      ],
       "comments": [
         {
           "author": "~PickleRick@91.230.*.*",
@@ -1539,21 +1608,30 @@
           "comment": "NIE",
           "date": "08-02-2019 22:44:25"
         }
-      ],
-      "answers": [
-        {
-          "answer": "Nie",
-          "correct": true
-        },
-        {
-          "answer": "Tak",
-          "correct": false
-        }
       ]
     },
     {
       "question": "TTL to:",
       "id": 594,
+      "numberOfComments": 9,
+      "answers": [
+        {
+          "answer": "definiuje przez ile urządzeń przełączających warstwy sieci, dany pakiet może być przesłany",
+          "correct": true
+        },
+        {
+          "answer": "flaga w pakiecie IP",
+          "correct": false
+        },
+        {
+          "answer": "to samo co RTT",
+          "correct": false
+        },
+        {
+          "answer": "flaga w segmencie TCP",
+          "correct": false
+        }
+      ],
       "comments": [
         {
           "author": "~Max@178.235.*.*",
@@ -1600,30 +1678,12 @@
           "comment": "flaga w pakiecie IP i definiuje przez ile urządzeń przełączających warstwy sieci, dany pakiet może być przesłany ??",
           "date": "08-02-2021 17:49:32"
         }
-      ],
-      "answers": [
-        {
-          "answer": "definiuje przez ile urządzeń przełączających warstwy sieci, dany pakiet może być przesłany",
-          "correct": true
-        },
-        {
-          "answer": "flaga w pakiecie IP",
-          "correct": false
-        },
-        {
-          "answer": "to samo co RTT",
-          "correct": false
-        },
-        {
-          "answer": "flaga w segmencie TCP",
-          "correct": false
-        }
       ]
     },
     {
       "question": "Techniki: CIDR (Classless Interdomain Routingu) oraz NAT (Network Address Translation) pozwalają na efektywniejsze wykorzystanie adresów IPv4.",
       "id": 595,
-      "comments": null,
+      "numberOfComments": 1,
       "answers": [
         {
           "answer": "Nie",
@@ -1633,28 +1693,19 @@
           "answer": "Tak",
           "correct": true
         }
+      ],
+      "comments": [
+        {
+          "author": "~AndrzejDzikiWąs@212.7.*.*",
+          "comment": "Kolejny duplikat, 12",
+          "date": "27-11-2018 18:01:57"
+        }
       ]
     },
     {
       "question": "Mając dany adres IP 213.23.10.34/23 określ adres rozgłoszeniowy sieci.",
       "id": 596,
-      "comments": [
-        {
-          "author": "~night@83.143.*.*",
-          "comment": "213.23.11.255 raczej",
-          "date": "30-06-2012 22:55:24"
-        },
-        {
-          "author": "~billy@89.68.*.*",
-          "comment": "j/w ostatni bit 3ciego oktetu tez zmieni sie na 1 ze wzgledu na maske /23 wiec bedzie 213.23.11.255",
-          "date": "02-02-2013 14:31:26"
-        },
-        {
-          "author": "mykhi",
-          "comment": "no raczej.",
-          "date": "02-02-2013 14:33:12"
-        }
-      ],
+      "numberOfComments": 3,
       "answers": [
         {
           "answer": "213.23.10.255",
@@ -1672,12 +1723,29 @@
           "answer": "213.23.11.254",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~night@83.143.*.*",
+          "comment": "213.23.11.255 raczej",
+          "date": "30-06-2012 22:55:24"
+        },
+        {
+          "author": "~billy@89.68.*.*",
+          "comment": "j/w ostatni bit 3ciego oktetu tez zmieni sie na 1 ze wzgledu na maske /23 wiec bedzie 213.23.11.255",
+          "date": "02-02-2013 14:31:26"
+        },
+        {
+          "author": "mykhi",
+          "comment": "no raczej.",
+          "date": "02-02-2013 14:33:12"
+        }
       ]
     },
     {
       "question": "Zaznacz adresy sieci powstałe po podzieleniu sieci 172.16.32.0/24 na 4 podsieci.",
       "id": 597,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "172.16.32.64/26",
@@ -1699,23 +1767,13 @@
           "answer": "172.16.32.32/26",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Standard Ethernet w strukturze ramki określa preambułę:",
       "id": 598,
-      "comments": [
-        {
-          "author": "~billy@89.68.*.*",
-          "comment": "z ksiazki J.F.Kurose odnosnie preambuly w ramce ethernet \"pierwsze siedem bajtow ma za zadanie budzic karty wezlow odbiorczych i synchronizowac ich zegary z zegarem wezla nadawczego\" wynika z tego ze odpowiedz \"synchronizujaca odbiornik\" jest poprawna",
-          "date": "02-02-2013 02:06:04"
-        },
-        {
-          "author": "mykhi",
-          "comment": "ok poprawiam.",
-          "date": "02-02-2013 02:08:58"
-        }
-      ],
+      "numberOfComments": 2,
       "answers": [
         {
           "answer": "sygnalizującą koniec ramki",
@@ -1733,12 +1791,24 @@
           "answer": "zawierającą CRC",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~billy@89.68.*.*",
+          "comment": "z ksiazki J.F.Kurose odnosnie preambuly w ramce ethernet \"pierwsze siedem bajtow ma za zadanie budzic karty wezlow odbiorczych i synchronizowac ich zegary z zegarem wezla nadawczego\" wynika z tego ze odpowiedz \"synchronizujaca odbiornik\" jest poprawna",
+          "date": "02-02-2013 02:06:04"
+        },
+        {
+          "author": "mykhi",
+          "comment": "ok poprawiam.",
+          "date": "02-02-2013 02:08:58"
+        }
       ]
     },
     {
       "question": "W sieci Ethernet 100BaseT używającej tylko przełączników pracujących w trybie store-and-forward i połączeń full-duplex",
       "id": 599,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "węzeł może jednocześnie nadawać i odbierać z pełną szybkością",
@@ -1756,12 +1826,13 @@
           "answer": "kolizje występują ok. 3 razy rzadziej niż w sieci bez przełączników",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Switch musi posiadać adres IP do poprawnego działania.",
       "id": 600,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Tak",
@@ -1771,12 +1842,13 @@
           "answer": "Nie",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Klasyczny model sieci OSI składa się z:",
       "id": 601,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "siedmiu warstw",
@@ -1794,11 +1866,31 @@
           "answer": "pięciu warstw",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "ARP (Address Resolution Protocol) odpowiada za:",
       "id": 602,
+      "numberOfComments": 7,
+      "answers": [
+        {
+          "answer": "VCI (Virtual Channel Identification)",
+          "correct": false
+        },
+        {
+          "answer": "przesyłanie pakietów warstwy drugiej",
+          "correct": false
+        },
+        {
+          "answer": "translacje pomiędzy IPv4 i IPv6",
+          "correct": false
+        },
+        {
+          "answer": "translacje pomiędzy adresami IP i MAC",
+          "correct": true
+        }
+      ],
       "comments": [
         {
           "author": "~anon@89.74.*.*",
@@ -1835,30 +1927,12 @@
           "comment": "Chyba nie odpowiada za przesyłanie pakietów tylko określenie adresów MAC sąsiadujących urządzeń.",
           "date": "01-02-2017 22:15:24"
         }
-      ],
-      "answers": [
-        {
-          "answer": "VCI (Virtual Channel Identification)",
-          "correct": false
-        },
-        {
-          "answer": "przesyłanie pakietów warstwy drugiej",
-          "correct": false
-        },
-        {
-          "answer": "translacje pomiędzy IPv4 i IPv6",
-          "correct": false
-        },
-        {
-          "answer": "translacje pomiędzy adresami IP i MAC",
-          "correct": true
-        }
       ]
     },
     {
       "question": "Teoretyczna prędkość sieci w której medium to 10BASE-T wynosi:",
       "id": 603,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "10 Mb/s",
@@ -1876,12 +1950,13 @@
           "answer": "100 Mb/s",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "TokenRing pracuje w topologi logicznej:",
       "id": 604,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "pierścienia",
@@ -1899,12 +1974,13 @@
           "answer": "drzewa",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Kabel UTP używany w technologii Ethernet 100BaseT zakończony jest wtyczką:",
       "id": 605,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "RJ-44",
@@ -1922,12 +1998,13 @@
           "answer": "RJ-11",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Adres IP ma:",
       "id": 606,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "24 bity",
@@ -1945,12 +2022,13 @@
           "answer": "2 bajty",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Ethernet 10BaseT używa kodowania:",
       "id": 607,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "4B/10B",
@@ -1972,23 +2050,13 @@
           "answer": "London",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Kryptografia hybrydowa to:",
       "id": 608,
-      "comments": [
-        {
-          "author": "~Morawa@83.24.*.*",
-          "comment": "Poprawna odpowedź to : żadna z powyższych odpowiedzi nie jest prawidłowa",
-          "date": "03-02-2013 12:12:04"
-        },
-        {
-          "author": "~anon@91.230.*.*",
-          "comment": "why tho?",
-          "date": "04-02-2020 10:42:17"
-        }
-      ],
+      "numberOfComments": 2,
       "answers": [
         {
           "answer": "kryptografia ze zmiennymi kluczami",
@@ -2006,28 +2074,24 @@
           "answer": "kryptografia symetryczna",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~Morawa@83.24.*.*",
+          "comment": "Poprawna odpowedź to : żadna z powyższych odpowiedzi nie jest prawidłowa",
+          "date": "03-02-2013 12:12:04"
+        },
+        {
+          "author": "~anon@91.230.*.*",
+          "comment": "why tho?",
+          "date": "04-02-2020 10:42:17"
+        }
       ]
     },
     {
       "question": "PGP używa kluczy:",
       "id": 609,
-      "comments": [
-        {
-          "author": "~anon@2a01:110f:1505:3600:6c3d:b128:e610:3907",
-          "comment": "Czy to na pewno jest poprawna odpowiedź? \nWg. Wikipedii (https://pl.wikipedia.org/wiki/Pretty_Good_Privacy) \"Weryfikacja kluczy opiera się o sieć zaufania (web of trust)\"\n\nTo jest równoznaczne z kluczem publicznym i prywatnym? ",
-          "date": "29-01-2020 21:23:09"
-        },
-        {
-          "author": "~waper@91.205.*.*",
-          "comment": "jeszcze jak",
-          "date": "08-02-2021 20:59:41"
-        },
-        {
-          "author": "~waper@91.205.*.*",
-          "comment": "chodzi o to, że jeśli ktoś udostepnia swój klucz publiczny to inny zainteresowani tym kluczem ufają, że ta osoba co go udostępnia jest tą osobą która ich interesuje\n\nnp chcesz se wysłać maila zaszyfrowanego do Richarda Stallmana to on udostepnia swój klucz PGP na swojej stronie i ufasz, że to jest naprawde jego kluczi on twoją wiadomość przeczyta \n",
-          "date": "08-02-2021 21:04:44"
-        }
-      ],
+      "numberOfComments": 3,
       "answers": [
         {
           "answer": "wielokrotnych",
@@ -2045,12 +2109,29 @@
           "answer": "publicznego i prywatnego",
           "correct": true
         }
+      ],
+      "comments": [
+        {
+          "author": "~anon@2a01:110f:1505:3600:6c3d:b128:e610:3907",
+          "comment": "Czy to na pewno jest poprawna odpowiedź? \nWg. Wikipedii (https://pl.wikipedia.org/wiki/Pretty_Good_Privacy) \"Weryfikacja kluczy opiera się o sieć zaufania (web of trust)\"\n\nTo jest równoznaczne z kluczem publicznym i prywatnym? ",
+          "date": "29-01-2020 21:23:09"
+        },
+        {
+          "author": "~waper@91.205.*.*",
+          "comment": "jeszcze jak",
+          "date": "08-02-2021 20:59:41"
+        },
+        {
+          "author": "~waper@91.205.*.*",
+          "comment": "chodzi o to, że jeśli ktoś udostepnia swój klucz publiczny to inny zainteresowani tym kluczem ufają, że ta osoba co go udostępnia jest tą osobą która ich interesuje\n\nnp chcesz se wysłać maila zaszyfrowanego do Richarda Stallmana to on udostepnia swój klucz PGP na swojej stronie i ufasz, że to jest naprawde jego kluczi on twoją wiadomość przeczyta \n",
+          "date": "08-02-2021 21:04:44"
+        }
       ]
     },
     {
       "question": "Wybierz poprawne rozwinięcie skrótu POP3.",
       "id": 610,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Post Office Protocol version 3",
@@ -2068,12 +2149,13 @@
           "answer": "Point Office Protocol version 3",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Jakim poleceniem (system operacyjny Linux) możemy wyświetlić tablicę routingu (podaj tylko nazwę polecenia)?",
       "id": 611,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "routeip",
@@ -2091,12 +2173,13 @@
           "answer": "etroute",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Zaznacz protokoły warstwy 7 modelu ISO/OSI: (chodzi o warstwę aplikacji)",
       "id": 612,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "FTP",
@@ -2126,12 +2209,13 @@
           "answer": "SMTP",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Protokół stanowy utrzymuje informacje o trwającym połączeniu podczas więcej niż jednej wymiany komunikatów.",
       "id": 613,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Nie",
@@ -2141,12 +2225,13 @@
           "answer": "Tak",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Które z funkcji gniazd są używane przez serwer w niezawodnej, połączeniowej komunikacji z klientem?",
       "id": 614,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "jedno z gniazd przyjmuje nowe połączenia",
@@ -2164,12 +2249,13 @@
           "answer": "serwer ustala port, na którym będzie oczekiwał połączeń",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Jeżeli do transmisji otrzymujemy zakres częstoliwości, to jaki jest to rodzaj multipleksacji? Podaj skrót.",
       "id": 615,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "FDM",
@@ -2179,12 +2265,13 @@
           "answer": "TDM",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Zaznacz adresy sieci powstałe po podzieleniu sieci 172.16.32.0/24 na 4 podsieci.",
       "id": 616,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "172.16.32.224/26",
@@ -2214,12 +2301,13 @@
           "answer": "172.16.32.192/26",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Mając dany adres IP 213.23.10.34/23 określ adres rozgłoszeniowy sieci.",
       "id": 618,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "213.23.10.255",
@@ -2237,12 +2325,13 @@
           "answer": "213.23.10.254",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Protokół dynamicznej konfiguracji adresów IP dla hostów nosi nazwę:",
       "id": 619,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "DCCP",
@@ -2260,11 +2349,23 @@
           "answer": "DHCM",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "FTP jest protokołem bezstanowym.",
       "id": 1856,
+      "numberOfComments": 3,
+      "answers": [
+        {
+          "answer": "tak",
+          "correct": false
+        },
+        {
+          "answer": "nie",
+          "correct": true
+        }
+      ],
       "comments": [
         {
           "author": "~anon@91.94.*.*",
@@ -2281,22 +2382,12 @@
           "comment": "ftp na bank stanowym",
           "date": "22-05-2015 18:17:24"
         }
-      ],
-      "answers": [
-        {
-          "answer": "tak",
-          "correct": false
-        },
-        {
-          "answer": "nie",
-          "correct": true
-        }
       ]
     },
     {
       "question": "Mając dany adres IP 213.23.10.34/23 określ adres rozgłoszeniowy sieci.",
       "id": 621,
-      "comments": null,
+      "numberOfComments": 1,
       "answers": [
         {
           "answer": "213.23.10.255",
@@ -2314,12 +2405,19 @@
           "answer": "213.23.10.254",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~anon@93.105.*.*",
+          "comment": "Duplikat pytania 71",
+          "date": "02-02-2019 20:53:06"
+        }
       ]
     },
     {
       "question": "ARP (Address Resolution Protocol) odpowiada za:",
       "id": 622,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "translacje pomiędzy adresami IP i MAC",
@@ -2337,12 +2435,13 @@
           "answer": "przesyłanie pakietów warstwy drugiej",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "W sieci Ethernet 100BaseT używającej tylko przełączników pracujących w trybie store-and-forward i połączeń full-duplex",
       "id": 623,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "kolizje nie występują, ale ramki mogą być tracone na skutek przepełnienia buforów w przełączniku bądź uszkodzenia ramki",
@@ -2360,12 +2459,13 @@
           "answer": "węzeł może jednocześnie nadawać i odbierać z pełną szybkością",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Teoretyczna prędkość sieci, w której medium to 10BASE-T wynosi:",
       "id": 624,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "100 Mb/s",
@@ -2383,12 +2483,13 @@
           "answer": "100 MB/s",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Jakie znasz dwa podstawowe rodzaję trybów przełączania pakietów?",
       "id": 625,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "fast forward",
@@ -2406,12 +2507,13 @@
           "answer": "slow forward",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Adres IP ma:",
       "id": 626,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "32 bity",
@@ -2429,12 +2531,13 @@
           "answer": "2 bajty",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Skrót LAN oznacza:",
       "id": 627,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Lack of Anonymous Nets",
@@ -2452,12 +2555,13 @@
           "answer": "żadne z powyższych wyjaśnień nie jest prawidłowe",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Przełączniki stosujące wyłącznie algorytm store-and-forward:",
       "id": 628,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "zapamiętują całą odebraną ramkę",
@@ -2475,11 +2579,35 @@
           "answer": "sprawdzają jedynie poprawność adresu źródłowego",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Jakie zjawiska wystąpią, gdy w sieci Ethernet zamienimy koncentrator (hub) na przełącznik (switch) pracujący w trybie store-and-forward?",
       "id": 629,
+      "numberOfComments": 5,
+      "answers": [
+        {
+          "answer": "zmniejszy się maksymalny możliwy dystans pomiędzy węzłami",
+          "correct": false
+        },
+        {
+          "answer": "wzrośnie bisekcyjna przepustowość sieci (sumaryczna przepustowość, gdy połowa węzłów nadaje, połowa odbiera)",
+          "correct": false
+        },
+        {
+          "answer": "niektóre protokoły np. ARP przestaną pracować prawidłowo",
+          "correct": false
+        },
+        {
+          "answer": "opóźnienie transmisji pomiędzy węzłami zwiększy się",
+          "correct": true
+        },
+        {
+          "answer": "dzięki zmniejszeniu liczby kolizji zmniejszy się liczba traconych ramek",
+          "correct": false
+        }
+      ],
       "comments": [
         {
           "author": "~anon@89.73.*.*",
@@ -2506,33 +2634,22 @@
           "comment": "Pyt 27 jest takie samo. Te odpowiedzi tu są dobre",
           "date": "05-02-2018 20:29:30"
         }
-      ],
-      "answers": [
-        {
-          "answer": "zmniejszy się maksymalny możliwy dystans pomiędzy węzłami",
-          "correct": false
-        },
-        {
-          "answer": "wzrośnie bisekcyjna przepustowość sieci (sumaryczna przepustowość, gdy połowa węzłów nadaje, połowa odbiera)",
-          "correct": false
-        },
-        {
-          "answer": "niektóre protokoły np. ARP przestaną pracować prawidłowo",
-          "correct": false
-        },
-        {
-          "answer": "opóźnienie transmisji pomiędzy węzłami zwiększy się",
-          "correct": true
-        },
-        {
-          "answer": "dzięki zmniejszeniu liczby kolizji zmniejszy się liczba traconych ramek",
-          "correct": false
-        }
       ]
     },
     {
       "question": "Czy protokół SMTP jest protokołem stanowym?",
       "id": 630,
+      "numberOfComments": 16,
+      "answers": [
+        {
+          "answer": "Nie",
+          "correct": false
+        },
+        {
+          "answer": "Tak",
+          "correct": true
+        }
+      ],
       "comments": [
         {
           "author": "~anon@83.24.*.*",
@@ -2614,21 +2731,30 @@
           "comment": "SMTP sessions are stateful, with both parties carefully maintaining a\n   common view of the current state.\n\nvia rfc5321 sekcja 2.3.6",
           "date": "09-02-2021 00:27:18"
         }
-      ],
-      "answers": [
-        {
-          "answer": "Nie",
-          "correct": false
-        },
-        {
-          "answer": "Tak",
-          "correct": true
-        }
       ]
     },
     {
       "question": "Skrót ATM oznacza:",
       "id": 631,
+      "numberOfComments": 5,
+      "answers": [
+        {
+          "answer": "Algorythmic Transfer Mode",
+          "correct": false
+        },
+        {
+          "answer": "Asynchronous Tranfer Mode",
+          "correct": true
+        },
+        {
+          "answer": "Abnormal Transmission of Medium",
+          "correct": false
+        },
+        {
+          "answer": "żadne z powyższych wyjaśnień nie jest prawdziwe",
+          "correct": false
+        }
+      ],
       "comments": [
         {
           "author": "~ZIom@85.222.*.*",
@@ -2655,30 +2781,12 @@
           "comment": "oznacza atm - automated teller machine - bankomat bo trzeba kaske wyplacac i liczyc bankroll",
           "date": "28-11-2019 12:03:23"
         }
-      ],
-      "answers": [
-        {
-          "answer": "Algorythmic Transfer Mode",
-          "correct": false
-        },
-        {
-          "answer": "Asynchronous Tranfer Mode",
-          "correct": true
-        },
-        {
-          "answer": "Abnormal Transmission of Medium",
-          "correct": false
-        },
-        {
-          "answer": "żadne z powyższych wyjaśnień nie jest prawdziwe",
-          "correct": false
-        }
       ]
     },
     {
       "question": "Switch musi posiadać adres IP do poprawnego działania.",
       "id": 632,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Tak",
@@ -2688,12 +2796,13 @@
           "answer": "Nie",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "PVC jest tworzone dla połączeń:",
       "id": 633,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "stałych",
@@ -2707,12 +2816,13 @@
           "answer": "tymczasowych",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Standard Ethernet w strukturze ramki określa preambułę:",
       "id": 634,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "synchronizującą odbiornik",
@@ -2730,23 +2840,13 @@
           "answer": "sygnalizującą koniec ramki",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Wzmacniacz (repeater):",
       "id": 635,
-      "comments": [
-        {
-          "author": "~Murek1993@78.11.*.*",
-          "comment": "czy odp 1 nie powinna byc dobra \"nie rozszerza domeny kolizyjnej\"",
-          "date": "02-07-2015 15:44:20"
-        },
-        {
-          "author": "~Murek1993@78.11.*.*",
-          "comment": "Poprawka jest dobrze roszerzaja domene kolizyjna wzmacniacze i huby reszta zmiejsza  http://cisco.prv.pl/tlumaczenia/s1/ch5s1.html",
-          "date": "02-07-2015 15:49:15"
-        }
-      ],
+      "numberOfComments": 2,
       "answers": [
         {
           "answer": "nie rozszerza domeny kolizyjnej",
@@ -2764,28 +2864,24 @@
           "answer": "wnosi opóźnienie w sieci większe niż 256 ms",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~Murek1993@78.11.*.*",
+          "comment": "czy odp 1 nie powinna byc dobra \"nie rozszerza domeny kolizyjnej\"",
+          "date": "02-07-2015 15:44:20"
+        },
+        {
+          "author": "~Murek1993@78.11.*.*",
+          "comment": "Poprawka jest dobrze roszerzaja domene kolizyjna wzmacniacze i huby reszta zmiejsza  http://cisco.prv.pl/tlumaczenia/s1/ch5s1.html",
+          "date": "02-07-2015 15:49:15"
+        }
       ]
     },
     {
       "question": "Sieci radiowe w standardzie 802.11a pracują z następującą maksymalną teoretyczną szybkością przesyłania danych na kanał:",
       "id": 636,
-      "comments": [
-        {
-          "author": "~pawel@217.96.*.*",
-          "comment": "W tym pytanie jest według mnie błąd. Sieci 802.11g pracują z prędkością 54 Mb/s, 802.11b z tego co pamiętam 11 Mb/s a 802.11a pewnie wolniej...",
-          "date": "02-07-2016 21:13:19"
-        },
-        {
-          "author": "~AlphonseMacierewicz@31.178.*.*",
-          "comment": "\"...to describe interoperability of their systems at 5.8 GHz, 54 Mbit/s\"\n\nhttps://en.wikipedia.org/wiki/IEEE_802.11a-1999",
-          "date": "20-11-2016 20:25:20"
-        },
-        {
-          "author": "~anon@109.241.*.*",
-          "comment": "54 Mb/s na pasmie 5Ghz (teoretyczie w praktyce efektyna stabilna predkosc to 20Mb/s)",
-          "date": "16-12-2017 07:55:20"
-        }
-      ],
+      "numberOfComments": 3,
       "answers": [
         {
           "answer": "54 Mb/s",
@@ -2803,28 +2899,29 @@
           "answer": "11 Mb/s",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~pawel@217.96.*.*",
+          "comment": "W tym pytanie jest według mnie błąd. Sieci 802.11g pracują z prędkością 54 Mb/s, 802.11b z tego co pamiętam 11 Mb/s a 802.11a pewnie wolniej...",
+          "date": "02-07-2016 21:13:19"
+        },
+        {
+          "author": "~AlphonseMacierewicz@31.178.*.*",
+          "comment": "\"...to describe interoperability of their systems at 5.8 GHz, 54 Mbit/s\"\n\nhttps://en.wikipedia.org/wiki/IEEE_802.11a-1999",
+          "date": "20-11-2016 20:25:20"
+        },
+        {
+          "author": "~anon@109.241.*.*",
+          "comment": "54 Mb/s na pasmie 5Ghz (teoretyczie w praktyce efektyna stabilna predkosc to 20Mb/s)",
+          "date": "16-12-2017 07:55:20"
+        }
       ]
     },
     {
       "question": "Atak zablokowania usługi (DoS) polega na:",
       "id": 637,
-      "comments": [
-        {
-          "author": "~billy@89.68.*.*",
-          "comment": "wg mnie atak DoS nie ma nic wspolnego z wlamaniem, wydaje mi sie ze poprawna bedzie tylko odpowiedz 2.",
-          "date": "02-02-2013 02:44:56"
-        },
-        {
-          "author": "mykhi",
-          "comment": "zgadzam się. w ogóle \"na klienta\" xd?",
-          "date": "02-02-2013 02:46:36"
-        },
-        {
-          "author": "~Pch@162.158.*.*",
-          "comment": "Wydaje mi sie ze ten atak to DoOdbytniczyShot ale nie jestem pewien",
-          "date": "21-06-2019 16:19:13"
-        }
-      ],
+      "numberOfComments": 3,
       "answers": [
         {
           "answer": "włamaniu na klienta i uniemożliwieniu pracy w sieci",
@@ -2842,23 +2939,29 @@
           "answer": "podszyciu się pod serwer w celu zablokowania usługi",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~billy@89.68.*.*",
+          "comment": "wg mnie atak DoS nie ma nic wspolnego z wlamaniem, wydaje mi sie ze poprawna bedzie tylko odpowiedz 2.",
+          "date": "02-02-2013 02:44:56"
+        },
+        {
+          "author": "mykhi",
+          "comment": "zgadzam się. w ogóle \"na klienta\" xd?",
+          "date": "02-02-2013 02:46:36"
+        },
+        {
+          "author": "~Pch@162.158.*.*",
+          "comment": "Wydaje mi sie ze ten atak to DoOdbytniczyShot ale nie jestem pewien",
+          "date": "21-06-2019 16:19:13"
+        }
       ]
     },
     {
       "question": "TEMPEST jest zabezpieczeniem przed:",
       "id": 638,
-      "comments": [
-        {
-          "author": "~anon@178.36.*.*",
-          "comment": "Poprawna odpowiedź to : podsłuchem w warstwie fizycznej",
-          "date": "02-02-2013 15:11:44"
-        },
-        {
-          "author": "mykhi",
-          "comment": "fix'd",
-          "date": "02-02-2013 15:20:54"
-        }
-      ],
+      "numberOfComments": 2,
       "answers": [
         {
           "answer": "podsłuchem w warstwie łącza",
@@ -2876,12 +2979,24 @@
           "answer": "podszywaniem się w warstwie fizycznej",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~anon@178.36.*.*",
+          "comment": "Poprawna odpowiedź to : podsłuchem w warstwie fizycznej",
+          "date": "02-02-2013 15:11:44"
+        },
+        {
+          "author": "mykhi",
+          "comment": "fix'd",
+          "date": "02-02-2013 15:20:54"
+        }
       ]
     },
     {
       "question": "Uwierzytelnienie ma na celu:",
       "id": 639,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "sprawdzenie poprawności informacji podanej przez użytkownika",
@@ -2899,12 +3014,13 @@
           "answer": "dopuszczenie użytkownika do zasobów",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "PGP używa kluczy:",
       "id": 640,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "jednokrotnych",
@@ -2922,23 +3038,13 @@
           "answer": "kluczy Geanta",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Który schemat obrazuje komunikację dwóch aplikacji przez router",
       "id": 985,
-      "comments": [
-        {
-          "author": "~billy@89.68.*.*",
-          "comment": "odpowiedz 1 i 3 wydaja sie byc bledne router dziala w warstwie fizycznej, lacza i sieci. Sadze ze poprawna odpowiedzia jest jedynie ostatnia.",
-          "date": "02-02-2013 02:28:06"
-        },
-        {
-          "author": "mykhi",
-          "comment": "poprawiam.",
-          "date": "02-02-2013 02:32:38"
-        }
-      ],
+      "numberOfComments": 2,
       "answers": [
         {
           "answer": "app | trans | siec | lacze | fiz --- fiz | lacze | fiz --- fiz | lacze | siec | trans | app",
@@ -2956,12 +3062,24 @@
           "answer": "app | trans | siec | lacze | fiz --- fiz | lacze | siec | lacze | fiz --- fiz | lacze | siec | trans | app",
           "correct": true
         }
+      ],
+      "comments": [
+        {
+          "author": "~billy@89.68.*.*",
+          "comment": "odpowiedz 1 i 3 wydaja sie byc bledne router dziala w warstwie fizycznej, lacza i sieci. Sadze ze poprawna odpowiedzia jest jedynie ostatnia.",
+          "date": "02-02-2013 02:28:06"
+        },
+        {
+          "author": "mykhi",
+          "comment": "poprawiam.",
+          "date": "02-02-2013 02:32:38"
+        }
       ]
     },
     {
       "question": "Wybierz poprawne rozwinięcie skrótu UDP.",
       "id": 1897,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "User Datagram Protocol",
@@ -2979,12 +3097,13 @@
           "answer": "Universal Datagram Protocol",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Które warunki muszą być spełnione, aby host A wysłał zapytanie ARP na temat hosta B o danym IP ?",
       "id": 1898,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "adres sprzętowy B jest w buforze (cache) ARP węzła A",
@@ -3002,11 +3121,31 @@
           "answer": "robi to co określony czas",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Co oznacza odebrany pakiet ICMP Destination Unreachable?",
       "id": 1721,
+      "numberOfComments": 10,
+      "answers": [
+        {
+          "answer": "komputer, z którym chcemy nawiązać połączenie TCP, ma zamkniety wybrany przez nas port",
+          "correct": true
+        },
+        {
+          "answer": "komputer, do którego chcemy wysłać pakiet UDP, ma zamkniety wybrany przez nas port",
+          "correct": true
+        },
+        {
+          "answer": "zatłoczoną sieć",
+          "correct": false
+        },
+        {
+          "answer": "komputer, z którym się chcemy skontaktować jest wyłączony",
+          "correct": false
+        }
+      ],
       "comments": [
         {
           "author": "~anon@95.160.*.*",
@@ -3058,29 +3197,22 @@
           "comment": "@Zespół to wyzeruj sobie tak pkty. Nie da się wywnioskować z tego, że komputer jest wyłączony, co najwyżej można podejrzewać taki stan rzeczy. ",
           "date": "13-02-2021 10:43:32"
         }
-      ],
-      "answers": [
-        {
-          "answer": "komputer, z którym chcemy nawiązać połączenie TCP, ma zamkniety wybrany przez nas port",
-          "correct": true
-        },
-        {
-          "answer": "komputer, do którego chcemy wysłać pakiet UDP, ma zamkniety wybrany przez nas port",
-          "correct": true
-        },
-        {
-          "answer": "zatłoczoną sieć",
-          "correct": false
-        },
-        {
-          "answer": "komputer, z którym się chcemy skontaktować jest wyłączony",
-          "correct": false
-        }
       ]
     },
     {
       "question": "Czy HTTP jest protokołem bezstanowym?",
       "id": 1722,
+      "numberOfComments": 7,
+      "answers": [
+        {
+          "answer": "Tak",
+          "correct": true
+        },
+        {
+          "answer": "Nie",
+          "correct": false
+        }
+      ],
       "comments": [
         {
           "author": "~Huraggan@83.6.*.*",
@@ -3117,21 +3249,30 @@
           "comment": "Nie mylcie z połączeniem trwałym i nietrwałym... ",
           "date": "13-02-2021 12:35:40"
         }
-      ],
-      "answers": [
-        {
-          "answer": "Tak",
-          "correct": true
-        },
-        {
-          "answer": "Nie",
-          "correct": false
-        }
       ]
     },
     {
       "question": "Rozważamy rekord DNS typu MX. Wartością rekordu jest",
       "id": 1723,
+      "numberOfComments": 4,
+      "answers": [
+        {
+          "answer": "nazwa serwera pocztowego",
+          "correct": true
+        },
+        {
+          "answer": "nie ma rekordu o typie MX",
+          "correct": false
+        },
+        {
+          "answer": "nazwa serwera dns",
+          "correct": false
+        },
+        {
+          "answer": "ip serwera dns",
+          "correct": false
+        }
+      ],
       "comments": [
         {
           "author": "~theBeast@89.161.*.*",
@@ -3153,46 +3294,12 @@
           "comment": "@~anon@95.160, to komentuj pod tamtym pytaniem ;D\n",
           "date": "31-01-2013 12:22:24"
         }
-      ],
-      "answers": [
-        {
-          "answer": "nazwa serwera pocztowego",
-          "correct": true
-        },
-        {
-          "answer": "nie ma rekordu o typie MX",
-          "correct": false
-        },
-        {
-          "answer": "nazwa serwera dns",
-          "correct": false
-        },
-        {
-          "answer": "ip serwera dns",
-          "correct": false
-        }
       ]
     },
     {
       "question": "Jakie są dwa podstawowe rodzaje protokołów wysyłania grupowego?",
       "id": 1724,
-      "comments": [
-        {
-          "author": "~Pomocnik@5.184.*.*",
-          "comment": "Powinno być jeszcze zaznaczone wróć o N",
-          "date": "07-01-2013 10:38:32"
-        },
-        {
-          "author": "~billy@89.68.*.*",
-          "comment": "j/w",
-          "date": "02-02-2013 14:07:48"
-        },
-        {
-          "author": "mykhi",
-          "comment": "ok.",
-          "date": "02-02-2013 14:08:46"
-        }
-      ],
+      "numberOfComments": 3,
       "answers": [
         {
           "answer": "selektywne powtarzanie",
@@ -3210,12 +3317,29 @@
           "answer": "negatywne powtarzanie",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~Pomocnik@5.184.*.*",
+          "comment": "Powinno być jeszcze zaznaczone wróć o N",
+          "date": "07-01-2013 10:38:32"
+        },
+        {
+          "author": "~billy@89.68.*.*",
+          "comment": "j/w",
+          "date": "02-02-2013 14:07:48"
+        },
+        {
+          "author": "mykhi",
+          "comment": "ok.",
+          "date": "02-02-2013 14:08:46"
+        }
       ]
     },
     {
       "question": "Co oznacza termin \"multipleksacja asynchroniczna\"?",
       "id": 1725,
-      "comments": null,
+      "numberOfComments": 1,
       "answers": [
         {
           "answer": "podział przepustowości łącza z wykorzystaniem modelu asynchornicznego Geanta",
@@ -3233,12 +3357,19 @@
           "answer": "podział przepustowości łącza bez wykorzystania stałego wzorca czasowego",
           "correct": true
         }
+      ],
+      "comments": [
+        {
+          "author": "~anon@83.29.*.*",
+          "comment": "proszę o dodanie odp poprawnej:\n\"problem przepustowosci lacza ale bez wykorzystywania tak zwanego stalego wzorca czasowego ktory nie jest tutaj kompletnie do niczego potrzebny\"",
+          "date": "11-01-2021 22:53:23"
+        }
       ]
     },
     {
       "question": "Załóżmy, że niezawodny protokół komunikacyjny, podobny do TCP, ma dużo za małą estymację czasu powrotu. Jakie są tego skutki?",
       "id": 1730,
-      "comments": null,
+      "numberOfComments": 1,
       "answers": [
         {
           "answer": "pakiet nie będzie retransmitowany przez długi czas, spowoduje to duże opóźnienia",
@@ -3256,12 +3387,19 @@
           "answer": "żadne",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~anon@95.160.*.*",
+          "comment": "i tu tez zapomnialem\nbędą retransmitowane pakiety, które nie zostały stracone ale tylko nie doszły jeszcze do odbiorcy",
+          "date": "31-01-2013 12:54:13"
+        }
       ]
     },
     {
       "question": "Mechanizm Okna (Window) jest wykorzystywany w:",
       "id": 1731,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "protokole TCP",
@@ -3279,12 +3417,13 @@
           "answer": "protokole&nbsp;IP",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Cechy UDP to",
       "id": 1857,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "zawodna komunikacja",
@@ -3302,23 +3441,13 @@
           "answer": "kontrola przepływu",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Za pomocą jakiego polecenia (system operacyjny Linux) możemy uzyskać informacje z serwerów DNS?",
       "id": 1858,
-      "comments": [
-        {
-          "author": "~anon@95.160.*.*",
-          "comment": "o tu powinno byc dig xD",
-          "date": "31-01-2013 12:24:42"
-        },
-        {
-          "author": "mykhi",
-          "comment": "ok poprawiam xd",
-          "date": "31-01-2013 12:28:06"
-        }
-      ],
+      "numberOfComments": 2,
       "answers": [
         {
           "answer": "dig",
@@ -3336,12 +3465,24 @@
           "answer": "gid",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~anon@95.160.*.*",
+          "comment": "o tu powinno byc dig xD",
+          "date": "31-01-2013 12:24:42"
+        },
+        {
+          "author": "mykhi",
+          "comment": "ok poprawiam xd",
+          "date": "31-01-2013 12:28:06"
+        }
       ]
     },
     {
       "question": "Czas potrzebny na przesłanie małego pakietu od nadawcy do odbiorcy i z powrotem to... (podaj skrót)",
       "id": 1854,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "rtp",
@@ -3359,11 +3500,23 @@
           "answer": "tls",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "W pytaniu iteracyjnym, jeśli serwer DNS nie zna translacji adresu o który pyta klient, serwer po prostu odpowie, że nie zna translacji. Odpowiedzialność za pytanie innego serwera spoczywa na kliencie",
       "id": 1855,
+      "numberOfComments": 2,
+      "answers": [
+        {
+          "answer": "tak",
+          "correct": true
+        },
+        {
+          "answer": "nie",
+          "correct": false
+        }
+      ],
       "comments": [
         {
           "author": "~ja@91.230.*.*",
@@ -3375,22 +3528,12 @@
           "comment": "jest kilka rodzajów zapytań dns, zachowanie o którym piszesz dotyczy zapytania _rekurencyjnego_ a nie _iteracyjnego_",
           "date": "01-02-2014 15:21:33"
         }
-      ],
-      "answers": [
-        {
-          "answer": "tak",
-          "correct": true
-        },
-        {
-          "answer": "nie",
-          "correct": false
-        }
       ]
     },
     {
       "question": "Które z poniższych występują w nagłówku protokołu TCP.",
       "id": 1860,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "bity sumy kontrolnej",
@@ -3408,12 +3551,13 @@
           "answer": "numer potwierdzenia",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "W pytaniu rekurencyjnym, jeśli serwer DNS nie zna translacji adresu o który pyta klient, serwer jest odpowiedzialny za znalezienie odpowiedzi dla klienta. Może to wymagać komunikacji z innymi serwerami i przekazania odpowiedzi do klienta.",
       "id": 1859,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "tak",
@@ -3423,12 +3567,13 @@
           "answer": "nie",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Zaznacz cechy kontroli przeciążeń typu \"koniec-koniec\"",
       "id": 1861,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "podawana jest dokładna prędkość z jaką system powinien wysyłać dane",
@@ -3446,12 +3591,13 @@
           "answer": "przeciążenie jest obserwowane na podstawie strat i opóźnień w systemach końcowych",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "HTTP jest protokołem stanowym.",
       "id": 1862,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "tak",
@@ -3461,12 +3607,13 @@
           "answer": "nie",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Mówi się, że protokół FTP używa komunikacji kontrolnej \"poza pasmem\". Czy to oznacza że:",
       "id": 1869,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "wykorzystywana jest multipleksacja FDM",
@@ -3484,12 +3631,13 @@
           "answer": "wykorzystywana jest multipleksacja TDM",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Warstwy sesji, prezentacji, aplikacji modelu OSI/ISO zostały \"połączone\" w jedną warstwe aplikacji modelu internetowego.",
       "id": 1863,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "nie",
@@ -3499,12 +3647,13 @@
           "answer": "tak",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Który schemat obrazuje komunikację dwóch aplikacji poprzez router?",
       "id": 1868,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "app | trans | siec | lacze | fiz --- fiz | lacze | siec | lacze | fiz --- fiz | lacze | siec | trans | app",
@@ -3522,12 +3671,13 @@
           "answer": "app | trans | fiz | lacze | siec siec | siec siec | lacze | fiz | trans | app",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Telnet:",
       "id": 1864,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "umożliwia korzystanie z komputera znajdującego się w zdalnym węźle sieci",
@@ -3545,12 +3695,13 @@
           "answer": "nie występuje w systemach Uniksowych",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "(...) definiuje format oraz kolejność wymiany komunikatów pomiędzy dwoma lub więcej komunikującymi się systemami.",
       "id": 1865,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "warstwa aplikacji",
@@ -3568,12 +3719,13 @@
           "answer": "program serwer",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Ilu warstwowy jest model sieci OSI/ISO?",
       "id": 1870,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "sześcio",
@@ -3591,12 +3743,13 @@
           "answer": "cztero",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Jeżeli do transmisji otrzymujemy kwant czasu, to jaki jest to rodzaj multipleksacji? Podaj skrót.",
       "id": 1866,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "FDM",
@@ -3606,12 +3759,13 @@
           "answer": "TDM",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Wybierz rodzaje połączeń HTTP",
       "id": 1867,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "nietrwałe",
@@ -3629,23 +3783,13 @@
           "answer": "bezpołączeniowe",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Wybierz prawdziwe stwierdzenia, dotyczące protokołu rutingu typu Stan Łącza (Link-State)",
       "id": 1871,
-      "comments": [
-        {
-          "author": "~wtf@2a02:a317:2244:2b00:e50a:f0c4:e898:4f00",
-          "comment": "to jest git? rozgłasza nieprawdziwy koszt łącza?",
-          "date": "08-02-2021 21:51:21"
-        },
-        {
-          "author": "~anon@83.24.*.*",
-          "comment": "GIT, a przynajmniej zgodne z wykładami Profesora A.Smyka",
-          "date": "13-02-2021 13:47:03"
-        }
-      ],
+      "numberOfComments": 2,
       "answers": [
         {
           "answer": "węzeł może rozgłosić nieprawdziwy koszt ścieżki",
@@ -3663,12 +3807,24 @@
           "answer": "węzeł może rozgłosić nieprawdziwy koszt łącza",
           "correct": true
         }
+      ],
+      "comments": [
+        {
+          "author": "~wtf@2a02:a317:2244:2b00:e50a:f0c4:e898:4f00",
+          "comment": "to jest git? rozgłasza nieprawdziwy koszt łącza?",
+          "date": "08-02-2021 21:51:21"
+        },
+        {
+          "author": "~anon@83.24.*.*",
+          "comment": "GIT, a przynajmniej zgodne z wykładami Profesora A.Smyka",
+          "date": "13-02-2021 13:47:03"
+        }
       ]
     },
     {
       "question": "Komutacja kanałów wymaga podziału przepustowości łącza na \"części\"",
       "id": 1872,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "nie",
@@ -3678,11 +3834,31 @@
           "answer": "tak",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Co oznacza odebrany pakiet ICMP Destination Unreachable?",
       "id": 1873,
+      "numberOfComments": 4,
+      "answers": [
+        {
+          "answer": "komputer, z którym się chcemy skontaktować jest wyłączony",
+          "correct": false
+        },
+        {
+          "answer": "zatłoczoną sieć",
+          "correct": false
+        },
+        {
+          "answer": "komputer, z którym się chcemy nawiązać połączenie TCP, ma zamkniety wybrany przez nas port",
+          "correct": false
+        },
+        {
+          "answer": "komputer, do którego chcemy wysłać pakiet UDP, ma zamkniety wybrany przez nas port",
+          "correct": true
+        }
+      ],
       "comments": [
         {
           "author": "~JerDe@188.146.*.*",
@@ -3704,30 +3880,12 @@
           "comment": "pytanie 97 takie samo, a odpowiedzi inne",
           "date": "08-02-2021 14:01:13"
         }
-      ],
-      "answers": [
-        {
-          "answer": "komputer, z którym się chcemy skontaktować jest wyłączony",
-          "correct": false
-        },
-        {
-          "answer": "zatłoczoną sieć",
-          "correct": false
-        },
-        {
-          "answer": "komputer, z którym się chcemy nawiązać połączenie TCP, ma zamkniety wybrany przez nas port",
-          "correct": false
-        },
-        {
-          "answer": "komputer, do którego chcemy wysłać pakiet UDP, ma zamkniety wybrany przez nas port",
-          "correct": true
-        }
       ]
     },
     {
       "question": "Od czego zależy czas retransmisji w protokole niezawodnej komunikacji, który używa negatywnych potwierdzeń (NAK)?",
       "id": 1874,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "od czasu transmisji kolejnego pakietu",
@@ -3745,12 +3903,13 @@
           "answer": "jest stały, ustalony doświadczalnie",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Które z niżej podanych flag będzie miał ustawione drugi w kolejności segment TCP podczas nawiązywania połączenia?",
       "id": 1875,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "URG",
@@ -3768,12 +3927,13 @@
           "answer": "FIN",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Jakie mamy typy zapytań DNS?",
       "id": 1876,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "niepełne",
@@ -3791,11 +3951,31 @@
           "answer": "rekurencyjne",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Jakie parametry wykorzystywane są przy demultipleksacji segmentów protokołu UDP?",
       "id": 1877,
+      "numberOfComments": 6,
+      "answers": [
+        {
+          "answer": "port źródła",
+          "correct": false
+        },
+        {
+          "answer": "port celu",
+          "correct": true
+        },
+        {
+          "answer": "adres IP źródła",
+          "correct": false
+        },
+        {
+          "answer": "adres IP celu",
+          "correct": true
+        }
+      ],
       "comments": [
         {
           "author": "~p@212.87.*.*",
@@ -3827,30 +4007,12 @@
           "comment": "ale UDP jest zbudowane na IP więc pakiet IP zawiera adres",
           "date": "01-02-2017 16:11:37"
         }
-      ],
-      "answers": [
-        {
-          "answer": "port źródła",
-          "correct": false
-        },
-        {
-          "answer": "port celu",
-          "correct": true
-        },
-        {
-          "answer": "adres IP źródła",
-          "correct": false
-        },
-        {
-          "answer": "adres IP celu",
-          "correct": true
-        }
       ]
     },
     {
       "question": "Załóżmy, że estymacja czasu powrotu jest za duża. Jakie są tego skutki?",
       "id": 1878,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "wydajność protokołu wzrośnie, ze względu na wzrost jakości transmisji",
@@ -3868,28 +4030,13 @@
           "answer": "spowoduje duże przyspieszenie transmisji, ze względu na szybszą retransmisję",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Jakie są główne różnice pomiędzy sieciami datagramowymi a sieciami z wirtualnymi kanałami?",
       "id": 1879,
-      "comments": [
-        {
-          "author": "~anon@89.67.*.*",
-          "comment": "Pytania 95 i 127 są identyczne, a odpowiedzi różne. Czy dobrze mi się wydaje że właśnie w tym pytaniu odpowiedź jest prawidłowa?",
-          "date": "03-02-2013 00:23:20"
-        },
-        {
-          "author": "~Morawa@83.24.*.*",
-          "comment": "tak ,tylko te dwie odpowiedzi są prawidłowe :)",
-          "date": "03-02-2013 12:13:23"
-        },
-        {
-          "author": "mykhi",
-          "comment": "kasuje 95.",
-          "date": "03-02-2013 12:20:43"
-        }
-      ],
+      "numberOfComments": 3,
       "answers": [
         {
           "answer": "w sieci datagramowej każdy pakiet może być przesyłany inną ścieżką",
@@ -3907,11 +4054,39 @@
           "answer": "w sieci z wirtualnymi kanałami routery musza utrzymywać stan dla każdego wirtualnego kanału, który przechodzi przez router",
           "correct": true
         }
+      ],
+      "comments": [
+        {
+          "author": "~anon@89.67.*.*",
+          "comment": "Pytania 95 i 127 są identyczne, a odpowiedzi różne. Czy dobrze mi się wydaje że właśnie w tym pytaniu odpowiedź jest prawidłowa?",
+          "date": "03-02-2013 00:23:20"
+        },
+        {
+          "author": "~Morawa@83.24.*.*",
+          "comment": "tak ,tylko te dwie odpowiedzi są prawidłowe :)",
+          "date": "03-02-2013 12:13:23"
+        },
+        {
+          "author": "mykhi",
+          "comment": "kasuje 95.",
+          "date": "03-02-2013 12:20:43"
+        }
       ]
     },
     {
       "question": "W sieci pakietowej, przed wysłaniem pakietu, nadawca musi ustalić dokładną trasę połączeń, przez które pakiet zostanie wysłany.-",
       "id": 1881,
+      "numberOfComments": 6,
+      "answers": [
+        {
+          "answer": "nie",
+          "correct": true
+        },
+        {
+          "answer": "tak",
+          "correct": false
+        }
+      ],
       "comments": [
         {
           "author": "~anon@78.11.*.*",
@@ -3943,22 +4118,12 @@
           "comment": "no pewnie że nie. przecież to by znaczyło że musisz na starcie znać każdy ruter przez który przejdziesz. a po to właśnie są rutery żeby dynamicznie generować tą trasę.",
           "date": "02-02-2017 09:46:11"
         }
-      ],
-      "answers": [
-        {
-          "answer": "nie",
-          "correct": true
-        },
-        {
-          "answer": "tak",
-          "correct": false
-        }
       ]
     },
     {
       "question": "Jakie są dwa podstawowe rodzaje protokołów wysyłania grupowego?",
       "id": 1880,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "wróć o N",
@@ -3976,12 +4141,13 @@
           "answer": "selektywne powtarzanie",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Z jakiego protokołu warstwy niższej korzysta przede wszystkim DNS",
       "id": 1882,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "UDP",
@@ -3999,23 +4165,13 @@
           "answer": "FTP",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Wybierz protokoły warstwy aplikacji, korzystające przede wszystkim z protokołu TCP",
       "id": 1883,
-      "comments": [
-        {
-          "author": "~Dodo@178.235.*.*",
-          "comment": "Wykorzystywane protokoły to m.in.: HTTP, Telnet, FTP, TFTP, SNMP, DNS, SMTP, X Window.\nNie powinny byc wszystkie poprawne ??\n",
-          "date": "30-11-2015 23:19:27"
-        },
-        {
-          "author": "~anon@5.172.*.*",
-          "comment": "Do transmisji wiadomości SNMP wykorzystywany jest głównie protokół UDP: standardowo port 161 wykorzystywany jest do wysyłania i odbierania żądań, natomiast port 162 wykorzystywany jest do przechwytywania sygnałów trap od urządzeń. Możliwe jest także wykorzystanie innych protokołów do przekazywania żądań, na przykład TCP - cytat z wiki.",
-          "date": "03-02-2016 14:36:55"
-        }
-      ],
+      "numberOfComments": 2,
       "answers": [
         {
           "answer": "FTP",
@@ -4033,23 +4189,24 @@
           "answer": "SNMP",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~Dodo@178.235.*.*",
+          "comment": "Wykorzystywane protokoły to m.in.: HTTP, Telnet, FTP, TFTP, SNMP, DNS, SMTP, X Window.\nNie powinny byc wszystkie poprawne ??\n",
+          "date": "30-11-2015 23:19:27"
+        },
+        {
+          "author": "~anon@5.172.*.*",
+          "comment": "Do transmisji wiadomości SNMP wykorzystywany jest głównie protokół UDP: standardowo port 161 wykorzystywany jest do wysyłania i odbierania żądań, natomiast port 162 wykorzystywany jest do przechwytywania sygnałów trap od urządzeń. Możliwe jest także wykorzystanie innych protokołów do przekazywania żądań, na przykład TCP - cytat z wiki.",
+          "date": "03-02-2016 14:36:55"
+        }
       ]
     },
     {
       "question": "Wybierz protokoły warstwy aplikacji, korzystające przede wszystkim z protokołu TCP",
       "id": 1884,
-      "comments": [
-        {
-          "author": "~cool@217.12.*.*",
-          "comment": "czy ma być jeszcze DNS?",
-          "date": "22-11-2016 20:31:38"
-        },
-        {
-          "author": "~Vladik@194.152.*.*",
-          "comment": "nie, bo korzysta z UDP",
-          "date": "23-11-2016 18:06:18"
-        }
-      ],
+      "numberOfComments": 2,
       "answers": [
         {
           "answer": "FTP",
@@ -4067,12 +4224,24 @@
           "answer": "TFTP",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~cool@217.12.*.*",
+          "comment": "czy ma być jeszcze DNS?",
+          "date": "22-11-2016 20:31:38"
+        },
+        {
+          "author": "~Vladik@194.152.*.*",
+          "comment": "nie, bo korzysta z UDP",
+          "date": "23-11-2016 18:06:18"
+        }
       ]
     },
     {
       "question": "System nazewnictwa i adresowanie stosowane w Internecie, umożliwiający konwersję numerycznych adresów internetowych na nazwy to:",
       "id": 1885,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "DSS",
@@ -4090,12 +4259,13 @@
           "answer": "DES",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Protokół TCP dynamicznie zmienia szybkość transmisji.",
       "id": 1886,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "tak",
@@ -4105,11 +4275,31 @@
           "answer": "nie",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Telefonia internetowa wykorzystuje zazwyczaj protokół",
       "id": 1887,
+      "numberOfComments": 7,
+      "answers": [
+        {
+          "answer": "ipvoice",
+          "correct": false
+        },
+        {
+          "answer": "UDP",
+          "correct": true
+        },
+        {
+          "answer": "HTTP",
+          "correct": false
+        },
+        {
+          "answer": "TCP",
+          "correct": false
+        }
+      ],
       "comments": [
         {
           "author": "~zKolosaNr1Dzienne@91.230.*.*",
@@ -4146,30 +4336,12 @@
           "comment": "VoIP to nie protokół! a tym bardziej twór ipvoice, często w pyt jest jeszcze odp IP poza oczywiście UDP. ",
           "date": "13-02-2021 19:29:20"
         }
-      ],
-      "answers": [
-        {
-          "answer": "ipvoice",
-          "correct": false
-        },
-        {
-          "answer": "UDP",
-          "correct": true
-        },
-        {
-          "answer": "HTTP",
-          "correct": false
-        },
-        {
-          "answer": "TCP",
-          "correct": false
-        }
       ]
     },
     {
       "question": "Wybierz poprawne rozwinięcie skrótu HTTP.",
       "id": 1888,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Hyper Text Transfer Protocol",
@@ -4187,28 +4359,13 @@
           "answer": "Human Text Transfer Protocol",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Które z wymienionych to funkcje TCP",
       "id": 1889,
-      "comments": [
-        {
-          "author": "~wojt@87.205.*.*",
-          "comment": "Myślę, że TCP nie gwarantuje przepustowości, czyli ostatnia odpowiedź błędna?",
-          "date": "03-02-2013 16:48:25"
-        },
-        {
-          "author": "~anon@212.87.*.*",
-          "comment": "zgadzam się z wojt",
-          "date": "04-02-2013 01:22:44"
-        },
-        {
-          "author": "mykhi",
-          "comment": "poprawiam.",
-          "date": "04-02-2013 10:12:36"
-        }
-      ],
+      "numberOfComments": 3,
       "answers": [
         {
           "answer": "kontrola przeciążenia",
@@ -4226,12 +4383,29 @@
           "answer": "gwarancja przepustowości",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~wojt@87.205.*.*",
+          "comment": "Myślę, że TCP nie gwarantuje przepustowości, czyli ostatnia odpowiedź błędna?",
+          "date": "03-02-2013 16:48:25"
+        },
+        {
+          "author": "~anon@212.87.*.*",
+          "comment": "zgadzam się z wojt",
+          "date": "04-02-2013 01:22:44"
+        },
+        {
+          "author": "mykhi",
+          "comment": "poprawiam.",
+          "date": "04-02-2013 10:12:36"
+        }
       ]
     },
     {
       "question": "Załóżmy, że estymacja czasu powrotu jest duża. Jakie są tego skutki?",
       "id": 1890,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "wydajność protokołu wzrośnie, ze względu na wzrost jakości transmisji",
@@ -4249,12 +4423,13 @@
           "answer": "spowoduje duże przyspieszenie transmisji, ze względu na szybszą retransmisję",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Jakie parametry wykorzystywane są przy demultipleksacji protokołu TCP?",
       "id": 1891,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "adres IP celu",
@@ -4272,11 +4447,31 @@
           "answer": "port celu",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Rozważamy rekord DNS typu A. Wartością rekordu jest",
       "id": 1892,
+      "numberOfComments": 7,
+      "answers": [
+        {
+          "answer": "nie ma takiego rekordu",
+          "correct": false
+        },
+        {
+          "answer": "nazwa hosta",
+          "correct": false
+        },
+        {
+          "answer": "adres IP hosta",
+          "correct": true
+        },
+        {
+          "answer": "adres IP serwera pocztowego",
+          "correct": false
+        }
+      ],
       "comments": [
         {
           "author": "~aoyama@194.15.*.*",
@@ -4313,30 +4508,12 @@
           "comment": "IPv6 to typ AAAAA\n",
           "date": "30-01-2020 23:03:14"
         }
-      ],
-      "answers": [
-        {
-          "answer": "nie ma takiego rekordu",
-          "correct": false
-        },
-        {
-          "answer": "nazwa hosta",
-          "correct": false
-        },
-        {
-          "answer": "adres IP hosta",
-          "correct": true
-        },
-        {
-          "answer": "adres IP serwera pocztowego",
-          "correct": false
-        }
       ]
     },
     {
       "question": "Wybierz poprawne rozwinięcie skrótu IP",
       "id": 1893,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Internet Protocol",
@@ -4354,12 +4531,13 @@
           "answer": "Internet Processing",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "TCP używa skumulowanych potwierdzeń (ACK) i wyśle potwierdzenie o ostatnim poprawnie otrzymanym segmencie. Jeśli nadawca otrzymuje potwierdzenia tego samego segmentu wiele razy to jest prawdopodobne, że segment, następny po potwierdzonym segmecie został zgubiony w sieci.",
       "id": 1894,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "tak",
@@ -4369,12 +4547,13 @@
           "answer": "nie",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Który protokół wykorzystuje przepustowość sieci wydajniej?",
       "id": 1895,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Selektywne powtarzanie",
@@ -4384,11 +4563,27 @@
           "answer": "Wróć o N",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Zaznacz ceche kontroli przeciążeń z pomocą sieci",
       "id": 1896,
+      "numberOfComments": 8,
+      "answers": [
+        {
+          "answer": "estymuje przeciążenie na podstawie obciążenia procesora routera",
+          "correct": false
+        },
+        {
+          "answer": "routery udostępniają informację zwrotną systemom końcowym",
+          "correct": true
+        },
+        {
+          "answer": "tą metodą posługuje się TCP",
+          "correct": false
+        }
+      ],
       "comments": [
         {
           "author": "~Tajemniczy@79.185.*.*",
@@ -4430,26 +4625,12 @@
           "comment": "aktualnie jest dobrze, TCP jest źle. Z wykładów: \nMetody kontroli przeciążenia:\n• Kontrola przeciążenia typu koniec-koniec — brak bezpośredniej informacji zwrotnej od warstwy sieci, przeciążenie jest obserwowane na podstawie strat i opóźnień w systemach końcowych. Tą metodą posługuje się TCP\n• Kontrola przeciążenia z pomocą sieci — rutery udostępniają informację zwrotną systemom końcowym, pojedynczy bit wskazuje na przeciążenie. Stosowane przez SNA, DECbit, TCP/IP ECN, ATM. Podawana jest dokładna prędkość, z jaką system końcowy powinien wysyłać dane",
           "date": "08-02-2019 16:10:18"
         }
-      ],
-      "answers": [
-        {
-          "answer": "estymuje przeciążenie na podstawie obciążenia procesora routera",
-          "correct": false
-        },
-        {
-          "answer": "routery udostępniają informację zwrotną systemom końcowym",
-          "correct": true
-        },
-        {
-          "answer": "tą metodą posługuje się TCP",
-          "correct": false
-        }
       ]
     },
     {
       "question": "Adres rozgłoszeniowy dla adresów IP posiada postać:",
       "id": 1900,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "111.111.111.111.111",
@@ -4467,23 +4648,13 @@
           "answer": "255.255.255.255.255 (dziesiętnie)",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Które warunki muszą być spełnione, aby host A wysłał zapytanie ARP na temat hosta B o danym IP ?",
       "id": 1899,
-      "comments": [
-        {
-          "author": "~AdamW@188.146.*.*",
-          "comment": "Czy przypadkiem odpowiedz \"A i B są w tej samej podsieci IP\" jest błędną odpowiedzią, przecież, żeby wysłąć do niego zapytanie nie muszą być w tej samej podsieci.\n ",
-          "date": "03-02-2020 13:17:12"
-        },
-        {
-          "author": "~aaa@2a02:a312:6042:3100:6d2c:6eec:12c8:3fb",
-          "comment": "no jak nie, skoro musi byc bezposrednie, lokalne polaczenie miedzy nimi, zeby otrzymac odpowiedz?",
-          "date": "03-02-2020 15:16:56"
-        }
-      ],
+      "numberOfComments": 2,
       "answers": [
         {
           "answer": "A i B są w tej samej podsieci IP",
@@ -4501,12 +4672,24 @@
           "answer": "A chce wysłać pakiet IP do B",
           "correct": true
         }
+      ],
+      "comments": [
+        {
+          "author": "~AdamW@188.146.*.*",
+          "comment": "Czy przypadkiem odpowiedz \"A i B są w tej samej podsieci IP\" jest błędną odpowiedzią, przecież, żeby wysłąć do niego zapytanie nie muszą być w tej samej podsieci.\n ",
+          "date": "03-02-2020 13:17:12"
+        },
+        {
+          "author": "~aaa@2a02:a312:6042:3100:6d2c:6eec:12c8:3fb",
+          "comment": "no jak nie, skoro musi byc bezposrednie, lokalne polaczenie miedzy nimi, zeby otrzymac odpowiedz?",
+          "date": "03-02-2020 15:16:56"
+        }
       ]
     },
     {
       "question": "Przekazywanie żetonu to metoda dostępu w które",
       "id": 1901,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "urządzenie sieciowe odpytuje w sposób uporządkowany inne urządzenia o żądanie transmisji",
@@ -4524,12 +4707,13 @@
           "answer": "urządzenia sieciowe uzyskują dostęp do medium w sposób uporządkowany na podstawie posiadania małej ramki zwanej żetonem",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Protokół pozwalający na uzyskanie przez klienta swojego adresu IP to:",
       "id": 1904,
-      "comments": null,
+      "numberOfComments": 1,
       "answers": [
         {
           "answer": "TCP",
@@ -4547,12 +4731,19 @@
           "answer": "IP",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~Szuchow@93.105.*.*",
+          "comment": "zadanie jest powtórzone - dodatkowo poprawną odpowiedzią zaznaczone jest tam IP...",
+          "date": "08-02-2019 21:30:42"
+        }
       ]
     },
     {
       "question": "Topologa sieci komputerowej określa:",
       "id": 1902,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "geograficzne położenie węzłów danym systemie komputerowym",
@@ -4570,28 +4761,13 @@
           "answer": "fizyczne lub logiczne ułożenie węzłów sieciowych i ich połączeń w obrębie struktury sieci",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Adres rozgłoszeniowy dla adresów IP posiada postać:",
       "id": 1903,
-      "comments": [
-        {
-          "author": "~anon@89.79.*.*",
-          "comment": "a FF to nie jest przypadkiem równe 255???",
-          "date": "01-02-2017 19:06:17"
-        },
-        {
-          "author": "~anon@87.206.*.*",
-          "comment": "zauważ, że masz 4 razy FF, a 5 razy 255",
-          "date": "01-02-2017 19:34:15"
-        },
-        {
-          "author": "~Bubber@178.42.*.*",
-          "comment": "Duplikat 146",
-          "date": "05-02-2019 17:05:45"
-        }
-      ],
+      "numberOfComments": 3,
       "answers": [
         {
           "answer": "255.255.255.255.255 (dziesiętnie)",
@@ -4609,12 +4785,29 @@
           "answer": "111.111.111.111.111",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~anon@89.79.*.*",
+          "comment": "a FF to nie jest przypadkiem równe 255???",
+          "date": "01-02-2017 19:06:17"
+        },
+        {
+          "author": "~anon@87.206.*.*",
+          "comment": "zauważ, że masz 4 razy FF, a 5 razy 255",
+          "date": "01-02-2017 19:34:15"
+        },
+        {
+          "author": "~Bubber@178.42.*.*",
+          "comment": "Duplikat 146",
+          "date": "05-02-2019 17:05:45"
+        }
       ]
     },
     {
       "question": "<p><span><span>Wybierz poprawne rozwinięcie skrótu POP3.</span></span></p>",
       "id": 2401,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<p><span><span><span lang=\"en-US\">Post Office Program version 3</span></span></span></p>",
@@ -4632,12 +4825,13 @@
           "answer": "<p><span><span><span lang=\"en-US\">Point Office Protocol version 3</span></span></span></p>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<span>Adresem rozgłoszeniowym dla sieci w ktorej jeden z interfejsow sieciowych posiada adres 24.24.24.24/24 jest adres:</span>",
       "id": 2412,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span>24.24.24.0</span>",
@@ -4655,12 +4849,13 @@
           "answer": "<span>24.24.24.1</span>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<span>Wybierz poprawne rozwinięcie skrótu FTP.</span>",
       "id": 2413,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span>File Transfer Protocol</span>",
@@ -4678,12 +4873,13 @@
           "answer": "<span>Fine Transfer Protocol</span>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Serwer nazw domen realizuje usługę",
       "id": 2915,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "DNS",
@@ -4701,23 +4897,13 @@
           "answer": "TCP/IP",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<span>802.11b</span><span>&nbsp;pracuje na częstotliwości</span>",
       "id": 2916,
-      "comments": [
-        {
-          "author": "~anon@89.77.*.*",
-          "comment": "802.11b jest 2,4-5 GHz ",
-          "date": "02-02-2020 18:36:00"
-        },
-        {
-          "author": "~Simi@95.49.*.*",
-          "comment": "802.11b pracuje na 2.4GHz\nReferencją może być choćby oficjalna strona standaryzacji: https://standards.ieee.org/standard/802_11b-1999.html\nCyt: \"Changes and additions are provided for IEEE Std 802.11b-1999 to support the higher rate Physical Layer for operation in the 2.4 GHz band.\"\nWikipedia mówi o 13 (14 w Japonii) pasmach o szerokości 22MHz, które się pokrywają tak, że górna częstotliwość nigdy nie przekroczy 2,5GHz",
-          "date": "04-02-2020 01:16:00"
-        }
-      ],
+      "numberOfComments": 2,
       "answers": [
         {
           "answer": "1 GHz",
@@ -4735,11 +4921,42 @@
           "answer": "802,11 GHz",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~anon@89.77.*.*",
+          "comment": "802.11b jest 2,4-5 GHz ",
+          "date": "02-02-2020 18:36:00"
+        },
+        {
+          "author": "~Simi@95.49.*.*",
+          "comment": "802.11b pracuje na 2.4GHz\nReferencją może być choćby oficjalna strona standaryzacji: https://standards.ieee.org/standard/802_11b-1999.html\nCyt: \"Changes and additions are provided for IEEE Std 802.11b-1999 to support the higher rate Physical Layer for operation in the 2.4 GHz band.\"\nWikipedia mówi o 13 (14 w Japonii) pasmach o szerokości 22MHz, które się pokrywają tak, że górna częstotliwość nigdy nie przekroczy 2,5GHz",
+          "date": "04-02-2020 01:16:00"
+        }
       ]
     },
     {
       "question": "Ile ma warst model internetowy?",
       "id": 2565,
+      "numberOfComments": 14,
+      "answers": [
+        {
+          "answer": "3",
+          "correct": false
+        },
+        {
+          "answer": "4",
+          "correct": false
+        },
+        {
+          "answer": "5",
+          "correct": true
+        },
+        {
+          "answer": "7",
+          "correct": false
+        }
+      ],
       "comments": [
         {
           "author": "~AlphonseMacierewicz@31.178.*.*",
@@ -4811,30 +5028,12 @@
           "comment": "jestem pionierem",
           "date": "04-02-2020 14:51:55"
         }
-      ],
-      "answers": [
-        {
-          "answer": "3",
-          "correct": false
-        },
-        {
-          "answer": "4",
-          "correct": false
-        },
-        {
-          "answer": "5",
-          "correct": true
-        },
-        {
-          "answer": "7",
-          "correct": false
-        }
       ]
     },
     {
       "question": "Wymien model usług warstwy sieci:",
       "id": 2566,
-      "comments": null,
+      "numberOfComments": 1,
       "answers": [
         {
           "answer": "best effort",
@@ -4852,23 +5051,19 @@
           "answer": "VBR i CBR",
           "correct": true
         }
+      ],
+      "comments": [
+        {
+          "author": "~AlphonseMacierewicz@31.178.*.*",
+          "comment": "Chyba jest ok: http://www2.ic.uff.br/~michael/kr1999/4-network/4_01-service.htm",
+          "date": "19-11-2016 23:37:58"
+        }
       ]
     },
     {
       "question": "Kategoria 5. kabla UTD umożliwia stosowanie technologii",
       "id": 2911,
-      "comments": [
-        {
-          "author": "~2m@91.230.*.*",
-          "comment": "2 i 5 to koncentryki, F to optyczny, 10baseTX (chyba) nie istnieje - 100baseTX istnieje.\nCzy jest tu poprawna odpowiedź?",
-          "date": "12-02-2017 14:00:11"
-        },
-        {
-          "author": "~anon@79.184.*.*",
-          "comment": "The cable standard provides performance of up to 100 MHz and is suitable for 10BASE-T, 100BASE-TX (Fast Ethernet), and 1000BASE-T (Gigabit Ethernet).\n\nhttps://en.wikipedia.org/wiki/Category_5_cable\n\nWięc tutaj nie ma prawidłowej odpowiedzi. ",
-          "date": "05-02-2018 04:20:11"
-        }
-      ],
+      "numberOfComments": 2,
       "answers": [
         {
           "answer": "10Base2",
@@ -4886,23 +5081,24 @@
           "answer": "10BaseTX",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~2m@91.230.*.*",
+          "comment": "2 i 5 to koncentryki, F to optyczny, 10baseTX (chyba) nie istnieje - 100baseTX istnieje.\nCzy jest tu poprawna odpowiedź?",
+          "date": "12-02-2017 14:00:11"
+        },
+        {
+          "author": "~anon@79.184.*.*",
+          "comment": "The cable standard provides performance of up to 100 MHz and is suitable for 10BASE-T, 100BASE-TX (Fast Ethernet), and 1000BASE-T (Gigabit Ethernet).\n\nhttps://en.wikipedia.org/wiki/Category_5_cable\n\nWięc tutaj nie ma prawidłowej odpowiedzi. ",
+          "date": "05-02-2018 04:20:11"
+        }
       ]
     },
     {
       "question": "Który adres IP jet niepoprawny",
       "id": 2912,
-      "comments": [
-        {
-          "author": "~alamakota@46.227.*.*",
-          "comment": "127.0.0.1 to localhost więc jest poprawny. Odpowiedź d nie wygląda na poprawną - szczególnie to 256 w trzecim oktecie",
-          "date": "16-02-2018 21:08:27"
-        },
-        {
-          "author": "~anon@79.185.*.*",
-          "comment": "Ale pytanie jest o NIEpoprawny adres. Czyli odpowiedź d jest poprawna.",
-          "date": "16-02-2018 23:14:15"
-        }
-      ],
+      "numberOfComments": 2,
       "answers": [
         {
           "answer": "127.0.0.1",
@@ -4920,12 +5116,24 @@
           "answer": "192.168.256.1",
           "correct": true
         }
+      ],
+      "comments": [
+        {
+          "author": "~alamakota@46.227.*.*",
+          "comment": "127.0.0.1 to localhost więc jest poprawny. Odpowiedź d nie wygląda na poprawną - szczególnie to 256 w trzecim oktecie",
+          "date": "16-02-2018 21:08:27"
+        },
+        {
+          "author": "~anon@79.185.*.*",
+          "comment": "Ale pytanie jest o NIEpoprawny adres. Czyli odpowiedź d jest poprawna.",
+          "date": "16-02-2018 23:14:15"
+        }
       ]
     },
     {
       "question": "802.11 pracuje z metodą dostępu",
       "id": 2913,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "CSMA/CA",
@@ -4939,12 +5147,13 @@
           "answer": "CSMA/AC",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "IDS służy do",
       "id": 2914,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "wykrywania prób włamań do chronionych zasobów",
@@ -4962,11 +5171,31 @@
           "answer": "podłączania jednego lub dwóch dysków",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Światłowód to",
       "id": 2917,
+      "numberOfComments": 11,
+      "answers": [
+        {
+          "answer": "medium ograniczone",
+          "correct": false
+        },
+        {
+          "answer": "kabel koncentryczny",
+          "correct": false
+        },
+        {
+          "answer": "skrętka UTP",
+          "correct": false
+        },
+        {
+          "answer": "medium nieograniczone",
+          "correct": false
+        }
+      ],
       "comments": [
         {
           "author": "~niewiem@159.205.*.*",
@@ -5023,30 +5252,12 @@
           "comment": "Czasem podają, że nieograniczone (teoretycznie) (https://www.quora.com/What-does-fiber-optic-bandwidth-mean), a czasem że ograniczone (https://physics.stackexchange.com/questions/56240/maximum-theoretical-bandwidth-of-fibre-optics). W wykładach nie znalazłem, więc loteria, najlepiej spytać w trakcie egzaminu/kolosa.",
           "date": "08-02-2019 23:55:25"
         }
-      ],
-      "answers": [
-        {
-          "answer": "medium ograniczone",
-          "correct": false
-        },
-        {
-          "answer": "kabel koncentryczny",
-          "correct": false
-        },
-        {
-          "answer": "skrętka UTP",
-          "correct": false
-        },
-        {
-          "answer": "medium nieograniczone",
-          "correct": false
-        }
       ]
     },
     {
       "question": "coax to",
       "id": 2918,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "kabel koncentryczny",
@@ -5064,12 +5275,13 @@
           "answer": "fale radiowe",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Zmiana nazw mnemonicznych na adres usługi to",
       "id": 2919,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "gateway",
@@ -5087,12 +5299,13 @@
           "answer": "dhcp",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Switch",
       "id": 2920,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "przekazuje dalej ramki niezależnie od tego,czy są dobre",
@@ -5110,12 +5323,13 @@
           "answer": "zawiera adresy MAC",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Adres MAC ma:",
       "id": 3250,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "4 bajty",
@@ -5133,12 +5347,13 @@
           "answer": "48 bitow",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Czy w modelu internetowym istnieje warstwa sesji?",
       "id": 3385,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Tak",
@@ -5148,8 +5363,9 @@
           "answer": "Nie",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     }
   ],
-  "updatedAt": 1614650414152
+  "updatedAt": 1625347561923
 }

@@ -5,7 +5,7 @@
     {
       "question": "Who first invented wheel cipher?",
       "id": 3095,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "The Greeks",
@@ -23,12 +23,13 @@
           "answer": "Charles Babbage",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "An act to convert plaintext into ciphertext in order to preserve confidentiality of data is called?",
       "id": 3096,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Encryption",
@@ -46,12 +47,13 @@
           "answer": "Message authentication",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "A cipher that scrambles letters into different positions is referred to as what?",
       "id": 3097,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Running key",
@@ -69,12 +71,13 @@
           "answer": "Stream",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Which of the following is not a block cipher mode of operation in stream mode?",
       "id": 3098,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Electronic Code Book (ECB)",
@@ -92,12 +95,13 @@
           "answer": "Counter (CTR)",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "What is a mathematical encryption operation that cannot be reversed called?",
       "id": 3099,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "DES",
@@ -115,12 +119,13 @@
           "answer": "One-way hash",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "In block cipher, what creates the element of diffusion?",
       "id": 3100,
-      "comments": null,
+      "numberOfComments": 1,
       "answers": [
         {
           "answer": "Permutation using a lookup table",
@@ -138,12 +143,19 @@
           "answer": "Use of a key scheduler",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~Kamil@95.49.*.*",
+          "comment": "https://crypto.stackexchange.com/questions/57617/does-the-des-s-box-only-provide-confusion-or-does-it-also-provide-an-avalanche",
+          "date": "09-02-2019 07:54:29"
+        }
       ]
     },
     {
       "question": "What is the effective key length for Data Encryption Standard (DES)?",
       "id": 3101,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "56-bit",
@@ -161,12 +173,13 @@
           "answer": "16-bit",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Data Encryption Standard (DES) performs how many rounds of permutation and substitution?",
       "id": 3102,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "16",
@@ -184,12 +197,13 @@
           "answer": "56",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Which of the following statements is not true?",
       "id": 3103,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "TDES has a mode that uses 2 keys",
@@ -207,12 +221,13 @@
           "answer": "TDES has a mode that uses 1 key",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Which of the following identifies the encryption algorithm selected by NIST for the new Advanced Encryption Standard (AES)?",
       "id": 3104,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "RC6",
@@ -230,12 +245,13 @@
           "answer": "Twofish",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Who vouches for the binding between the data items in a digital certificate?",
       "id": 3105,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Issuing authority",
@@ -253,12 +269,13 @@
           "answer": "Registration authority",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "What is the primary role of smartcards in a PKI?",
       "id": 3106,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Transparent renewal of user keys",
@@ -276,12 +293,13 @@
           "answer": "Easy distribution of the certificates between the users",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Which protocol makes use of an electronic wallet on a customer's PC and sends encrypted credit card information to merchant's Web server, which digitally signs it and sends it on to its processing bank?",
       "id": 3107,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "SSH",
@@ -299,12 +317,13 @@
           "answer": "SET",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Which of the following keys has the shortest lifespan?",
       "id": 3108,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Private key",
@@ -322,12 +341,13 @@
           "answer": "Secret key",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Which of the following statements is most accurate of digital signature?",
       "id": 3109,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "It allows the recipient of data to prove the source and integrity of data.",
@@ -345,12 +365,13 @@
           "answer": "It is the art of transferring handwritten signature to electronic media.",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Which of the following mail standards relies on a \"Web of Trust\"?",
       "id": 3110,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Pretty Good Privacy (PGP)",
@@ -368,12 +389,13 @@
           "answer": "Secure Multipurpose Internet Mail Extensions (S/MIME)",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Electronic signatures can prevent messages from being:",
       "id": 3111,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Erased",
@@ -391,12 +413,13 @@
           "answer": "Repudiated",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Which of the following is not an objective of cryptography?",
       "id": 3094,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Confidentiality",
@@ -414,8 +437,9 @@
           "answer": "Non-repudiation",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     }
   ],
-  "updatedAt": 1614650414152
+  "updatedAt": 1625347561923
 }

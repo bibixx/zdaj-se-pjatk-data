@@ -5,18 +5,7 @@
     {
       "question": "Przesyłanie strumieniowe wykorzystuje protokoły:",
       "id": 986,
-      "comments": [
-        {
-          "author": "~mateusz@89.78.*.*",
-          "comment": "Odpowiedzi: RTP i RTSP też są poprawne. Wikipedia: RTP is used extensively in communication and entertainment systems that involve streaming media, such as telephony, video teleconference applications, television services and web-based push-to-talk features.",
-          "date": "16-06-2014 08:44:55"
-        },
-        {
-          "author": "~Ja@79.185.*.*",
-          "comment": "Potwierdzam ze rtp i rtsp tez",
-          "date": "06-02-2018 00:44:37"
-        }
-      ],
+      "numberOfComments": 2,
       "answers": [
         {
           "answer": "RTP",
@@ -34,12 +23,24 @@
           "answer": "TCP",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~mateusz@89.78.*.*",
+          "comment": "Odpowiedzi: RTP i RTSP też są poprawne. Wikipedia: RTP is used extensively in communication and entertainment systems that involve streaming media, such as telephony, video teleconference applications, television services and web-based push-to-talk features.",
+          "date": "16-06-2014 08:44:55"
+        },
+        {
+          "author": "~Ja@79.185.*.*",
+          "comment": "Potwierdzam ze rtp i rtsp tez",
+          "date": "06-02-2018 00:44:37"
+        }
       ]
     },
     {
       "question": "Buforowanie w odtwarzaczu audio/wideo po stronie klienta:",
       "id": 987,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "nie jest używane",
@@ -57,12 +58,13 @@
           "answer": "służy do kompensacji zmiennego opóźnienia sieci",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Strata pakietu IP w sieci następuje zwykle",
       "id": 988,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "z powodu przegrzania rutera",
@@ -80,12 +82,13 @@
           "answer": "przez przepełnienie bufora rutera",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Serwer RTSP:",
       "id": 989,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "określa dla odbiorcy format, w jakim kodowane są media",
@@ -103,12 +106,13 @@
           "answer": "przechowuje media kodowane z różną jakością",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Telefon tradycyjny różni się od telefonu Internetowego:",
       "id": 990,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "telefon Internetowy jest komputerem osobistym",
@@ -126,12 +130,13 @@
           "answer": "telefon Internetowy działa wolniej",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Przy przesyłaniu strumieniowym:",
       "id": 991,
-      "comments": null,
+      "numberOfComments": 1,
       "answers": [
         {
           "answer": "odtwarzanie jest interaktywne",
@@ -149,12 +154,19 @@
           "answer": "odbiorca odtwarza media, podczas gdy nadawca wysyła media",
           "correct": true
         }
+      ],
+      "comments": [
+        {
+          "author": "~anon@193.0.*.*",
+          "comment": "To pytanie i pyt. 21 są identyczne, a odpowiedzi różne. Wydaje mi się, że wszystkie odpowiedzi powinny być poprawne - wg. angielskiej wiki o przesyłaniu strumieniowym (https://en.wikipedia.org/wiki/Streaming_media): \"The streaming client (the end user) may interact with the streaming server using a control protocol, such as MMS or RTSP.\". Rozumiem, że chodzi o interaktywność w postaci play, pause itd; wtedy ma to jakiś sens.",
+          "date": "06-02-2019 12:31:17"
+        }
       ]
     },
     {
       "question": "Które protokoły multipleksacji wymagają synchronizacji zegarów węzłów sieci?",
       "id": 992,
-      "comments": null,
+      "numberOfComments": 1,
       "answers": [
         {
           "answer": "Protokół 802.11 z rezerwacjami (DFWMAC-DCF z RTS/CTS)",
@@ -172,12 +184,19 @@
           "answer": "Slotted Aloha",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~mmm@195.235.*.*",
+          "comment": "Czemu slotted aloha też nie jest poprawny? Muszą być zsynchronizowane zegary, żeby dobrze trafiały w ramki..",
+          "date": "05-02-2019 19:14:54"
+        }
       ]
     },
     {
       "question": "Cyfrowa komunikacja poprzez medium radiowe wymaga:",
       "id": 993,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "najpierw modulacji analogowej, a potem cyfrowej",
@@ -195,12 +214,13 @@
           "answer": "tylko modulacji analogowej",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Które stwierdzenia są prawdziwe:",
       "id": 994,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "sygnał cyfrowy jest funkcją ciągłego czasu o ciągłych wartościach",
@@ -218,12 +238,13 @@
           "answer": "sygnał analogowy jest funkcją dyskretnego czasu o ciągłych wartościach",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Komunikacja wielu odbiorców jednocześnie przy użyciu medium radiowego jest możliwa, gdy:",
       "id": 995,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "odbiorcy nadają na różnych częstotliwościach i są blisko siebie",
@@ -241,12 +262,13 @@
           "answer": "odbiorcy nadają na tej samej częstotliwości i są blisko siebie",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Sygnał radiowy:",
       "id": 996,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "może zakłócać sygnał na tej samej częstotliwości także poza zakresem potrzebnym do komunikacji",
@@ -264,12 +286,13 @@
           "answer": "jest niezauważalny powyżej pewnego zasięgu",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Przestrzenie ochronne:",
       "id": 997,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "są stosowane w multipleksacji czasowej",
@@ -287,12 +310,13 @@
           "answer": "są stosowane tylko w multipleksacji częstotliwościowej i przestrzennej, ale nie w czasowej",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Informacja jest kodowana w sygnale radiowym za pomocą:",
       "id": 998,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "tylko amplitudy i fazy",
@@ -310,12 +334,13 @@
           "answer": "tylko częstotliwości i fazy",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Multipleksacja przy użyciu protokołu ALOHA:",
       "id": 999,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "przy dużym natężeniu ruchu, poprawnie komunikowane jest około 50% nadawanej informacji",
@@ -333,12 +358,13 @@
           "answer": "wymaga synchronizacji urządzeń w celu nadawania w tym samym czasie",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Które stwierdzenia są prawdziwe:",
       "id": 1000,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "sygnał może sam siebie zakłócać u odbiorcy",
@@ -356,12 +382,13 @@
           "answer": "małe przeszkody rozpraszają sygnał, a duże go odbijają",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "W radiowych sieciach lokalnych kolizje nie zawsze są wykrywane, gdyż:",
       "id": 1001,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Kolizje są zawsze wykrywane, a ramki są retransmitowane w standardzie 802.11g",
@@ -379,12 +406,13 @@
           "answer": "Stacja nadająca nie ma możliwości poprawnego stwierdzenia wystąpienia kolizji",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Sygnał jest to:",
       "id": 1002,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "fizyczna reprezentacja informacji",
@@ -402,12 +430,13 @@
           "answer": "fala radiowa",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Sterowanie \\\\\\\"poza pasmem\\\\\\\"",
       "id": 1003,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "oznacza stosowanie oddzielnego kanału kontrolnego",
@@ -425,28 +454,13 @@
           "answer": "oznacza konfigurację ruterów z wykorzystaniem PSTN",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Technologie MPLS i ATM różnią się tym, że:",
       "id": 1004,
-      "comments": [
-        {
-          "author": "~ld@89.64.*.*",
-          "comment": "ATM jest technologia warstwy sieci?",
-          "date": "06-02-2019 06:34:59"
-        },
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "raczej łącza danych",
-          "date": "06-02-2019 21:39:57"
-        },
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "To MPLS tworzy polaczenia korzystajac z etykiet... moim zdaniem dobra odpowiedz to technologia MPLS nie posiada mechnizmów QoS",
-          "date": "07-02-2019 06:42:06"
-        }
-      ],
+      "numberOfComments": 3,
       "answers": [
         {
           "answer": "technologia ATM nie może być wykorzystywana przez warstwę IP",
@@ -464,12 +478,29 @@
           "answer": "technologia ATM jest technologią warstwy sieci",
           "correct": true
         }
+      ],
+      "comments": [
+        {
+          "author": "~ld@89.64.*.*",
+          "comment": "ATM jest technologia warstwy sieci?",
+          "date": "06-02-2019 06:34:59"
+        },
+        {
+          "author": "~anon@89.64.*.*",
+          "comment": "raczej łącza danych",
+          "date": "06-02-2019 21:39:57"
+        },
+        {
+          "author": "~anon@89.64.*.*",
+          "comment": "To MPLS tworzy polaczenia korzystajac z etykiet... moim zdaniem dobra odpowiedz to technologia MPLS nie posiada mechnizmów QoS",
+          "date": "07-02-2019 06:42:06"
+        }
       ]
     },
     {
       "question": "Kategoria usług ABR:",
       "id": 1005,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "stosuje kontrolę przeciążenia",
@@ -487,12 +518,13 @@
           "answer": "jest używana dla komunikacji, która może mieć zmienną przepustowośc, ale wymaga minimalnej przepustowości",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p class=\"MsoNormal\"><span lang=\"PL\">Przy przesyłaniu strumieniowym:</span></p>\n<p class=\"MsoNormal\">&nbsp;</p>",
       "id": 3034,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"PL\">odbiorca odtwarza media, podczas gry nadawca wysyła media</span>",
@@ -510,12 +542,13 @@
           "answer": "<span lang=\"PL\">nadawca steruje przepływem danych do odbiorcy</span>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<span lang=\"PL\">Protokół RTCP służy do:</span>",
       "id": 3035,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"PL\">okresowego powiadomienia nadawcy o wydajności komutacji</span>",
@@ -533,12 +566,13 @@
           "answer": "<span lang=\"PL\">rezerwacji zasobów dla komunikacji RTP</span>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<span lang=\"PL\">Telefon tradycyjny różni się od telefonu Internetowego:</span>",
       "id": 3036,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"PL\">telefon internetowy stosuje komutację pakietów, a tradycyjny – komutacje kanałów</span>",
@@ -556,12 +590,13 @@
           "answer": "<span lang=\"PL\">telefon Internetowy działa szybciej</span>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<span lang=\"PL\">Protokół SIP:</span>",
       "id": 3037,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"PL\">pozwala na negocjację kodowania</span>",
@@ -579,12 +614,13 @@
           "answer": "<span lang=\"PL\">musi używać TCP w celu zapewnienia niezawodności</span>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<span lang=\"PL\">Do nawiązania rozmowy telefonicznej w technologii VoIP wykorzystuje się:</span>",
       "id": 3038,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"PL\">protokół RTCP</span>",
@@ -602,12 +638,13 @@
           "answer": "<span lang=\"PL\">protokół Session Initiation Protocol</span>",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<span lang=\"PL\">Komunikacja głosu i obrazu jest:</span>",
       "id": 3039,
-      "comments": null,
+      "numberOfComments": 1,
       "answers": [
         {
           "answer": "<p class=\"MsoNormal\"><span lang=\"PL\">interaktywna</span></p>",
@@ -625,8 +662,15 @@
           "answer": "<p class=\"MsoNormal\"><span lang=\"PL\">podatna na straty</span></p>",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~tomek@89.64.*.*",
+          "comment": "podatna na opóźnienia maksymalne też jest poprawna.\n\nKomunikacja głosu i obrazu jest podatna na maksymalne opóźnienie oraz zmienność opóźnień, ale odporna na straty pakietów",
+          "date": "21-01-2019 20:28:17"
+        }
       ]
     }
   ],
-  "updatedAt": 1614650414152
+  "updatedAt": 1625347561923
 }

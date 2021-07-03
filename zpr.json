@@ -5,7 +5,7 @@
     {
       "question": "<span>Która z cech nie jest charakterystyczna dla typowej działalności projektowej</span>",
       "id": 3192,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span>zespołowość</span>",
@@ -19,12 +19,13 @@
           "answer": "<span>dążenie do przewidywalnego rezultatu</span>",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<span>Które z określeń nie jest charakterystyczne dla działalności projektowe. Projekt jest</span>",
       "id": 3288,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span>ukierunkowany na wytworzenie unikalnego produktu</span>",
@@ -38,12 +39,13 @@
           "answer": "<span>działalnością czasową</span>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<span>Wskaż zdania prawdziwe</span>",
       "id": 3289,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Na grafie precedensji nie można przedstawić zależności typu FS i FF między zadaniami",
@@ -57,12 +59,13 @@
           "answer": "Zawsze dla diagramu Gantta można wykonać odpowiadający mu graf precedensji",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Twórcą map myśli jest",
       "id": 3290,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Covey",
@@ -76,12 +79,13 @@
           "answer": "Buzan",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<span>Jesteś kierownikiem projektu informatycznego. Twój kierownik ds. jakości poinformował Cię, że należy zakończyć planowanie testów oprogramowania tuż przed ich rozpoczęciem. Jednocześnie powinieneś rozpocząć testowanie produktów możliwie jak najpóźniej, aby uwzględnić wszystkie zmiany w nich zachodzące. Jaka wobec tego powinna by zależność między aktywnością polegającą na planowaniu testów a aktywnością polegającą na ich wykonaniu</span><em><span><br></span></em>",
       "id": 3291,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "FS",
@@ -99,12 +103,13 @@
           "answer": "FF",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Które ze stwierdzeń dotyczących struktury podziału prac jest prawdziwe",
       "id": 3292,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "WBS przedstawia wszystkie zadania, które muszą by wykonane w projekcie",
@@ -118,12 +123,13 @@
           "answer": "WBS przedstawia pakiety prac uporządkowane w postaci liniowej, niestrukturalizowanej listy",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Który z obszarów klasyfikacyjnych ryzyka jest obszarem stosowanym w taksonomiach ryzyka projektów informatycznych",
       "id": 3293,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "założeń opłacalności",
@@ -141,12 +147,13 @@
           "answer": "organizacyjny, planowania",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Procesy zarządzania projektem zdefiniowanie niezgodnie z PMBOK, to",
       "id": 3294,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "inicjacji, planowania, kontrolne, wykonawcze, testowania, końcowe",
@@ -160,8 +167,9 @@
           "answer": "planowania, kontrolne, wykonawcze, końcowe",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     }
   ],
-  "updatedAt": 1614650414152
+  "updatedAt": 1625347561923
 }

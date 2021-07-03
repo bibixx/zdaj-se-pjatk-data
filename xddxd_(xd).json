@@ -5,23 +5,7 @@
     {
       "question": "I:",
       "id": 3450,
-      "comments": [
-        {
-          "author": "~waper@91.205.*.*",
-          "comment": "ważne pytanie",
-          "date": "12-02-2021 15:12:58"
-        },
-        {
-          "author": "~beka@78.10.*.*",
-          "comment": "XDDD",
-          "date": "13-02-2021 22:08:31"
-        },
-        {
-          "author": "~kteo@95.48.*.*",
-          "comment": "..",
-          "date": "26-02-2021 09:54:57"
-        }
-      ],
+      "numberOfComments": 3,
       "answers": [
         {
           "answer": "tak nie zdasz",
@@ -39,12 +23,29 @@
           "answer": "tak zdam",
           "correct": true
         }
+      ],
+      "comments": [
+        {
+          "author": "~waper@91.205.*.*",
+          "comment": "ważne pytanie",
+          "date": "12-02-2021 15:12:58"
+        },
+        {
+          "author": "~beka@78.10.*.*",
+          "comment": "XDDD",
+          "date": "13-02-2021 22:08:31"
+        },
+        {
+          "author": "~kteo@95.48.*.*",
+          "comment": "..",
+          "date": "26-02-2021 09:54:57"
+        }
       ]
     },
     {
       "question": "Czy kteo jest gejem?",
       "id": 3512,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Tak",
@@ -62,8 +63,9 @@
           "answer": "Jak najbardziej",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     }
   ],
-  "updatedAt": 1614650414152
+  "updatedAt": 1625347561923
 }

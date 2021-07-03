@@ -5,7 +5,7 @@
     {
       "question": "<span>Dana jest relacja {(1,2),(2,3),(3,1),(2,4),(5,3)} określona na zbiorze {1,2,3,4,5,6}. Która z poniższych relacji stanowi jej&nbsp;</span><strong>domknięcie symetryczne</strong><span>?</span>",
       "id": 3088,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span>{(1,2), (1,3), (2,1), (2,3), (2,4), (3,2), (3,5), (4,2)}</span>",
@@ -23,12 +23,13 @@
           "answer": "<span>{(1,2), (1,3), (2,3), (2,4), (3,1), (3,2), (3,5), (5,3)}</span>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Czy dane stwierdzenie jest prawdziwe?",
       "id": 3476,
-      "comments": null,
+      "numberOfComments": 1,
       "answers": [
         {
           "answer": "Determinizacja automatu skończonego może spowodować wykładniczą eksplozję liczby stanów.",
@@ -46,12 +47,19 @@
           "answer": "Eliminacja ε-przejść w automacie skończonym nie powoduje wzrostu liczby jego stanów.",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~qbix@89.69.*.*",
+          "comment": "wstawiłem z błędem. Poprawne jest również \"Eliminacja ε-przejść w automacie skończonym nie powoduje wzrostu liczby jego stanów.\" Dodajemy co prawda nowe stany początkowe, ale na zasadzie zmiany stanów niepoczątkowych w początkowe. Ogólna liczba stanów pozostaje taka sama.",
+          "date": "14-02-2021 07:01:34"
+        }
       ]
     },
     {
       "question": "Czy dane stwierdzenie jest prawdziwe?",
       "id": 3477,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Lex/Flex generuje rodzaj automatu stosowego.",
@@ -69,12 +77,13 @@
           "answer": "Lex/Flex generuje rodzaj automatu skończonego.",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Dana jest następująca gramatyka:<p></p>\n<p>S → aXS | bYS | ε<br>X → aXX | b<br>Y → bYY | a</p>\n<p>Język generowany przez tą gramatykę to:\n          </p>",
       "id": 3478,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Słowa zawierające tyle samo liter a i b",
@@ -92,8 +101,9 @@
           "answer": "Palindromy nad alfabetem {a,b}",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     }
   ],
-  "updatedAt": 1614650414152
+  "updatedAt": 1625347561923
 }

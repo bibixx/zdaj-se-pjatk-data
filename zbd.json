@@ -5,7 +5,7 @@
     {
       "question": "Jak w ogóle wygląda test z TAK'u, jest to test wielokrotnego wyboru czy raczej otwarty?",
       "id": 3241,
-      "comments": null,
+      "numberOfComments": 1,
       "answers": [
         {
           "answer": "otwart",
@@ -23,12 +23,19 @@
           "answer": "to i to",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~anon@91.207.*.*",
+          "comment": "Pytania były całkowicie otwarte na zaocznych. Zazwyczaj typu: wymień... (gdzie odpowiedzi się od myślników / kropek daje)",
+          "date": "06-02-2020 19:58:29"
+        }
       ]
     },
     {
       "question": "Co oznacza A w akronimie ACID?",
       "id": 2802,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Atomowe (Atomic) – transakcje w bazach danych są atomowe",
@@ -46,8 +53,9 @@
           "answer": "Aksjomat (axiom) – aksjomaty współbieżnego wykonywania transakcji.",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     }
   ],
-  "updatedAt": 1614650414152
+  "updatedAt": 1625347561923
 }

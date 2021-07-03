@@ -5,7 +5,7 @@
     {
       "question": "Różnica impedancji",
       "id": 2983,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "To obciążenie systemowe związane z wykonywaniem kodu SQL i próba pominięcia go lub zastąpienia w operacjach bazodanowych",
@@ -19,8 +19,9 @@
           "answer": "To dysonans między \"światem obiektowym\" a \"światem relacyjnym\"",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     }
   ],
-  "updatedAt": 1614650414152
+  "updatedAt": 1625347561923
 }

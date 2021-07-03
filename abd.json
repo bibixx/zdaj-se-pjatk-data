@@ -5,7 +5,7 @@
     {
       "question": "Zaznacz poprawne stwierdzenia dotyczące grup plików (filegroup)",
       "id": 1715,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Tworząc tabelę nie możemy określić, do którego pliku trafi, lecz możemy określić do której grupy plików trafi",
@@ -23,12 +23,13 @@
           "answer": "Grupie plików zawsze odpowiada folder na dysku",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Przy ustawieniu recovery model na simple",
       "id": 1716,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Spowodujemy, że nie będzie możliwe wykonywanie różnicowej kopii zapasowej",
@@ -46,12 +47,13 @@
           "answer": "Spowodujemy, że nie będzie możliwe wykonywanie kopii zapasowej dziennika transakcji",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "W jakich sytuacjach warto założyć indeks?",
       "id": 1717,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Na kolumnach, w których dane są często aktualizowane",
@@ -69,11 +71,31 @@
           "answer": "Na kluczu obcym",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Zaznacz poprawne stwierdzenia dotyczące transakcji w MS SQL",
       "id": 1742,
+      "numberOfComments": 8,
+      "answers": [
+        {
+          "answer": "Instrukcja BEGIN TRANSACTION zakłada transakcję powodując, że serwer nie będzie automatycznie zakładał transakcji na wykonywanych instrukcjach DML",
+          "correct": true
+        },
+        {
+          "answer": "Transakcje można zagnieżdżać",
+          "correct": true
+        },
+        {
+          "answer": "Dotyczą wszystkich instrukcji DDL",
+          "correct": true
+        },
+        {
+          "answer": "Dotyczą wszystkich instrukcji DML",
+          "correct": true
+        }
+      ],
       "comments": [
         {
           "author": "~Bartek@77.255.*.*",
@@ -115,30 +137,12 @@
           "comment": "jednak jest okej, to pytanie też jest w generatorach i ma 3 z 4 z SAVEPOINT i ROLLBACK :)",
           "date": "17-02-2019 00:09:03"
         }
-      ],
-      "answers": [
-        {
-          "answer": "Instrukcja BEGIN TRANSACTION zakłada transakcję powodując, że serwer nie będzie automatycznie zakładał transakcji na wykonywanych instrukcjach DML",
-          "correct": true
-        },
-        {
-          "answer": "Transakcje można zagnieżdżać",
-          "correct": true
-        },
-        {
-          "answer": "Dotyczą wszystkich instrukcji DDL",
-          "correct": true
-        },
-        {
-          "answer": "Dotyczą wszystkich instrukcji DML",
-          "correct": true
-        }
       ]
     },
     {
       "question": "Strategia \"tylko indeks\"",
       "id": 1741,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Może byd użyta wyłącznie, gdy do indeksu dołączymy kolumny (included columns)",
@@ -156,12 +160,13 @@
           "answer": "Polega na tym, że gdy wszystkie kolumny występujące w warunku WHERE są indeksowane, serwer nie będzie musiał sięgad do plików z danymi",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Wykonujesz instrukcję UPDATE emp SET sal = sal * 2. W trakcie wykonywania tej instrukcji, przy którymś wierszu nastąpiło naruszenie więzów spójności (warunek CHECK na tabeli). Jaki będzie efekt?",
       "id": 1743,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Żaden wiersz nie zostanie zmodyfikowany",
@@ -179,11 +184,31 @@
           "answer": "Zostaną zmodyfikowane wszystkie wiersze, w których nie zostały naruszone więzy spójności",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Zaznacz poprawne stwierdzenia dotyczące schematów w MS SQL",
       "id": 1744,
+      "numberOfComments": 6,
+      "answers": [
+        {
+          "answer": "Każdy użytkownik posiada domyślny schemat",
+          "correct": true
+        },
+        {
+          "answer": "Każdy schemat posiada hasło",
+          "correct": false
+        },
+        {
+          "answer": "Obiekt może należed tylko do jednego schematu",
+          "correct": true
+        },
+        {
+          "answer": "Do schematu może należeć wielu użytkowników",
+          "correct": false
+        }
+      ],
       "comments": [
         {
           "author": "~mike@46.186.*.*",
@@ -215,30 +240,12 @@
           "comment": "W kluczu poprawne tylko \"do schematu może należeć wiele tabel\"",
           "date": "16-02-2019 21:36:11"
         }
-      ],
-      "answers": [
-        {
-          "answer": "Każdy użytkownik posiada domyślny schemat",
-          "correct": true
-        },
-        {
-          "answer": "Każdy schemat posiada hasło",
-          "correct": false
-        },
-        {
-          "answer": "Obiekt może należed tylko do jednego schematu",
-          "correct": true
-        },
-        {
-          "answer": "Do schematu może należeć wielu użytkowników",
-          "correct": false
-        }
       ]
     },
     {
       "question": "Gdy serwer pracuje w trybie \"mixed mode\", mogą do niego logować się użytkownicy",
       "id": 1745,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Z systemu Windows",
@@ -256,12 +263,13 @@
           "answer": "Tworzeni na serwerze SQL",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Nastąpiła awaria serwera i musisz odtworzyd bazę z kopii zapasowych. Backup pełny był wykonywany w sobotę o 23:00. W pozostałe dni o 23:00 wykonywany był backup różnicowy, a co godzinę w godz. 8-16 backup logu. Awaria wystąpiła w środę o godz. 11:20. Których plików i w jakiej kolejności użyjesz do odtworzenia bazy",
       "id": 1746,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Najpierw pełny z ostatniej soboty, następnie wszystkie różnicowe i logi w kolejności wykonywania",
@@ -279,12 +287,13 @@
           "answer": "Najpierw pełny z ostatniej soboty, następnie różnicowy z wtorku, następnie wszystkie dostępne logi ze środy",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Zaznacz poprawne stwierdzenia dotyczące kopii zapasowych w MS SQL",
       "id": 1747,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Backup dotyczy zawsze tylko jednej bazy danych",
@@ -302,12 +311,13 @@
           "answer": "Jeden plik może zawierad wiele kopii zapasowych",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Zaznacz poprawne stwierdzenia dotyczące konfiguracji typu \"mirroring\"",
       "id": 1748,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Istnieje możliwośd wysyłania zapytao do bazy zapasowej (mirror) włącznie z aktualizacja",
@@ -325,12 +335,13 @@
           "answer": "Istnieje możliwośd stworzenia takiej konfiguracji, w której zamiana ról w przypadku awarii nastąpi automatycznie, bez udziału administratora",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "do tabeli : create table osoba ( id_osoby bigint not null primary key, imie varchar(50) null, nazwisko varchar(50) not null) dla której pomyślnie wykonano instrukcję: alter table osoba alter column id_osoby set generated by DEFAULT as identity (start with 10); dodano wiersz: insert into osoba (nazwisko) values ( ‘Nowak’) wykonanie tej instrukcji",
       "id": 1749,
-      "comments": null,
+      "numberOfComments": 1,
       "answers": [
         {
           "answer": "Zawsze spowoduje błąd wynikający z naruszenia więzów klucza głównego",
@@ -344,12 +355,19 @@
           "answer": "Nigdy nie spowoduje błędu wynikającego z naruszenia więzów klucza głównego",
           "correct": true
         }
+      ],
+      "comments": [
+        {
+          "author": "mykhi",
+          "comment": "machnij ktoś w komentarzu bardziej dokładne pytanie to poprawię, bo to wygląda na dosyć niechlujne!",
+          "date": "17-01-2013 20:35:38"
+        }
       ]
     },
     {
       "question": "Synchronizacja zawartości dwóch tabel przy użyciu instrukcji MERGE :",
       "id": 1750,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Wymaga wcześniejszego utworzenia pomocniczej tabeli tymczasowej użytkownika",
@@ -367,12 +385,13 @@
           "answer": "Pozwala na dodanie nowego rekordu do tabeli docelowej jeśli powiązany rekord nie istnieje",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Wyświetlanie modyfikowanych wierszy z OLD TABLE przy użyciu pojedynczej instrukcji : Select * from OLD TABLE (.......................) możliwe jest w połączeniu z",
       "id": 1751,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Delete from .....",
@@ -390,11 +409,31 @@
           "answer": "Update....",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Wykorzystując sekwencję CREATE SEQUENCE seq1 AS BIGINT START WITH 1 INCREMENT BY 1 NO MAXVALUE NO CYCLE CACHE 10; Wiersz wstawiony do tabeli uzyskał numer 13 -- po czym wystąpiła awaria bazy danych. Jaki numer będzie miał kolejny rekord?",
       "id": 1752,
+      "numberOfComments": 5,
+      "answers": [
+        {
+          "answer": "23",
+          "correct": false
+        },
+        {
+          "answer": "null",
+          "correct": false
+        },
+        {
+          "answer": "21",
+          "correct": true
+        },
+        {
+          "answer": "14",
+          "correct": false
+        }
+      ],
       "comments": [
         {
           "author": "~anon@89.68.*.*",
@@ -421,30 +460,12 @@
           "comment": "W powyższym zadaniu tworzymy sekwencję seq1, która zaczyna się od 1, powiększa się o 1, nie ma określonej wartości maksymalnej i nie \"przekręca się\". Ostatni parametr określa ile kolejnych numerów ładowanych jest do cache'a - w tym przypadku 10. rozpoczęcie drugiej dziesiątki powoduje załadowanie do cache'a wartości od 11 do 20. Awaria powoduje, że pozostałe niewykorzystane wartości przepadają. Będąc przy 13 tracimy wartości od 14 do 20. Tak więc ponowne wywołanie sekwencji ustawi nas na wartości 21 i załaduje do cache'a wszystkie wartości do 30.",
           "date": "16-12-2018 17:38:22"
         }
-      ],
-      "answers": [
-        {
-          "answer": "23",
-          "correct": false
-        },
-        {
-          "answer": "null",
-          "correct": false
-        },
-        {
-          "answer": "21",
-          "correct": true
-        },
-        {
-          "answer": "14",
-          "correct": false
-        }
       ]
     },
     {
       "question": "Dwie jednokolumnowe tabele zawierają rekordy: A{ ‘a’,’a’, ‘b’, ‘b’, ‘b’} i B{ ‘a’,’a’, ‘b’} Używając w DB2 operatora EXCEPT ALL w wyniku otrzymamy",
       "id": 1753,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "3 wiersze",
@@ -462,12 +483,13 @@
           "answer": "0 wierszy",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Dodając w instrukcji CREATE TABLE klauzule ENFORCED oraz ENABLE QUERY OPTIMIZATION decydujemy że DB2 będzie",
       "id": 1754,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Sprawdzad przestrzeganie reguł integralności",
@@ -485,12 +507,13 @@
           "answer": "Nie przestrzegad reguł integralności",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Zaznacz poprawne stwierdzenia dotyczące bazy danych model.",
       "id": 1755,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "jest przykładową bazą danych, można ją usunąc",
@@ -508,11 +531,31 @@
           "answer": "Jest szablonem bazy danych, który jest kopiowany przy tworzeniu każdej nowej bazy danych użytkownika",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Użytkownik ma prawa do SELECT i INSERT na tabeli emp. Należy do roli \"księgowość\", która ma na tej tabeli prawa do SELECT i DENY na DELETE. Należy również do roli \"kadry\", która ma prawa SELECT, INSERT, UPDATE i DELETE na tej tabeli. Użytkownik nie może usunąć rekordu. Jakie są możliwe sposoby rozwiązania tego problemu?",
       "id": 1756,
+      "numberOfComments": 10,
+      "answers": [
+        {
+          "answer": "Usunięcie użytkownika z roli \"kadry\"",
+          "correct": false
+        },
+        {
+          "answer": "Usunięcie użytkownika z roli \"księgowośc\"",
+          "correct": true
+        },
+        {
+          "answer": "Usunięcie DENY na DELETE w roli \"księgowośc\"",
+          "correct": false
+        },
+        {
+          "answer": "Dodanie użytkownikowi prawa DELETE",
+          "correct": true
+        }
+      ],
       "comments": [
         {
           "author": "~mk@83.6.*.*",
@@ -558,31 +601,18 @@
           "author": "~anon@195.191.*.*",
           "comment": "Tylko B jest poprawne!",
           "date": "04-07-2018 09:42:57"
-        }
-      ],
-      "answers": [
-        {
-          "answer": "Usunięcie użytkownika z roli \"kadry\"",
-          "correct": false
         },
         {
-          "answer": "Usunięcie użytkownika z roli \"księgowośc\"",
-          "correct": true
-        },
-        {
-          "answer": "Usunięcie DENY na DELETE w roli \"księgowośc\"",
-          "correct": false
-        },
-        {
-          "answer": "Dodanie użytkownikowi prawa DELETE",
-          "correct": true
+          "author": "~dan@2a02:a311:a342:b180:2d81:aa4c:3308:f90c",
+          "comment": "Usuniecie DENY również rozwiążę problem. Deleted jest na kadrach więc użytkownik będzie mógł usunąć rekordy.",
+          "date": "03-07-2021 21:00:53"
         }
       ]
     },
     {
       "question": "Gdy serwer pracuje w trybie \"Windows authentication\", mogą do niego logowac się użytkownicy",
       "id": 1757,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Tworzeni na serwerze SQL",
@@ -600,12 +630,13 @@
           "answer": "Z Active Directory",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Nastąpiła awaria serwera i musisz odtworzyd bazę z kopii zapasowych. Backup wykonywany był zawsze wieczorem o 23:00. W każdą niedzielę wykonywany był backup pełny, w środę różnicowy, a codziennie backup logu. Awaria nastąpiła w sobotę rano. Których plików i w jakiej kolejności użyjesz do odtworzenia bazy.",
       "id": 1758,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Najpierw pełny z niedzieli, następnie różnicowy ze środy, a następnie logi z czwartku i piątku",
@@ -623,12 +654,13 @@
           "answer": "Tylko różnicowy ze środy i log z piątku",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Do tabeli : create table osoba (id_osoby bigint not null primary key, imie varchar(50) null, nazwisko varchar(50) not null) dla której pomyślnie wykonano instrukcję: alter table osoba alter column id_osoby set generated always as identity (start with 10); dodano wiersz: insert into osoba (nazwisko) values ( ‘Nowak’) wykonanie tej instrukcji :",
       "id": 1759,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Zawsze spowoduje błąd wynikający z naruszenia więzów klucza głównego",
@@ -642,12 +674,13 @@
           "answer": "Może zakooczyc się błędem wynikającym z naruszenia więzów klucza głównego",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Instrukcja: Delete from ( select rownumber() over(order by liczba) as rowid from A) where rowid&gt;4 pozwala na :",
       "id": 1760,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Wypisanie na ekran rekordów, które w kolumnie liczba posiadają wartości większe od czterech najmniejszych (wszystkie poza czterema najmniejszymi)",
@@ -665,12 +698,13 @@
           "answer": "Wypisanie na ekran czterech rekordów, które posiadają w kolumnie liczba najmniejsze wartości",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Dwie jednokolumnowe tabele zawierają rekordy: A{ ‘a’,’a’, ‘b’, ‘b’, ‘b’} i B{ ‘a’,’a’, ‘b’} Używając w DB2 operatora INTERSEC ALL w wyniku otrzymamy",
       "id": 1761,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "8 wierszy",
@@ -688,12 +722,13 @@
           "answer": "5 wierszy",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Zaznacz poprawne stwierdzenia dotyczące bazy danych msdb.",
       "id": 1836,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Przechowuje informacje dotyczące automatyzacji pracy serwera: zaplanowane zadania, alarmy, jobs itp.",
@@ -711,28 +746,13 @@
           "answer": "Jest najważniejszą systemową bazą danych",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Użytkownik wykonuje instrukcję UPDATE emp SET sal = 1000 WHERE empno = 1234 lecz nie wykonuje COMMIT. Po chwili drugi użytkownik wykonuje SELECT * FROM emp. Co zobaczy drugi użytkownik przy domyślnym poziomie izolacji?",
       "id": 1837,
-      "comments": [
-        {
-          "author": "~anon@89.67.*.*",
-          "comment": "odpowiedź zależy od tego, czy ustawione jest automatyczne zatwiedzanie (nie jest to poziom izolacji). ",
-          "date": "28-06-2015 16:32:37"
-        },
-        {
-          "author": "~anon@217.153.*.*",
-          "comment": "A jednak jest zasugerowane, że nie pierwsza transakcja nie była zacommitowana, więc raczej poprawne będzie 3 - będzie czekał na zwolnienie blokady",
-          "date": "29-04-2016 14:53:33"
-        },
-        {
-          "author": "~anon@217.153.*.*",
-          "comment": "A jednak jest zasugerowane, że nie pierwsza transakcja nie była zacommitowana, więc raczej poprawne będzie 3 - będzie czekał na zwolnienie blokady",
-          "date": "29-04-2016 14:53:34"
-        }
-      ],
+      "numberOfComments": 3,
       "answers": [
         {
           "answer": "Zobaczy tabelę bez zmienionego rekordu",
@@ -750,12 +770,29 @@
           "answer": "Zobaczy całą tabelę wraz ze zmienionym rekordem",
           "correct": true
         }
+      ],
+      "comments": [
+        {
+          "author": "~anon@89.67.*.*",
+          "comment": "odpowiedź zależy od tego, czy ustawione jest automatyczne zatwiedzanie (nie jest to poziom izolacji). ",
+          "date": "28-06-2015 16:32:37"
+        },
+        {
+          "author": "~anon@217.153.*.*",
+          "comment": "A jednak jest zasugerowane, że nie pierwsza transakcja nie była zacommitowana, więc raczej poprawne będzie 3 - będzie czekał na zwolnienie blokady",
+          "date": "29-04-2016 14:53:33"
+        },
+        {
+          "author": "~anon@217.153.*.*",
+          "comment": "A jednak jest zasugerowane, że nie pierwsza transakcja nie była zacommitowana, więc raczej poprawne będzie 3 - będzie czekał na zwolnienie blokady",
+          "date": "29-04-2016 14:53:34"
+        }
       ]
     },
     {
       "question": "Ile domyślnych instancji może byd zainstalowanych w systemie operacyjnym?",
       "id": 1835,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Nie ma takiego trybu",
@@ -769,12 +806,13 @@
           "answer": "Maksymalnie 2",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Ile nazwanych instancji może byd zainstalowanych w systemie operacyjnym?",
       "id": 1834,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Dowolnie wiele",
@@ -792,12 +830,13 @@
           "answer": "Maksymalnie 2",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Zaznacz poprawne stwierdzenia dotyczące kopii zapasowej dziennika transakcji w MS SQL",
       "id": 1838,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Jeżeli posiadamy backup dziennika transakcji z odpowiednio długiego okresu czasu, jesteśmy w stanie odtworzyd bazę danych nawet bez posiadania backupu pełnego",
@@ -815,12 +854,13 @@
           "answer": "Backup logu pozwala na odtworzenie stanu bazy do wybranego punktu w czasie",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Zaznacz poprawne stwierdzenia dotyczące konfiguracji \\\"log shipping\\\"",
       "id": 1839,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "W trybie \\\"no recovery mode\\\" możliwa jest normalna praca z bazą danych odtwarzającą logi ale w trybie tylko do odczytu",
@@ -838,12 +878,13 @@
           "answer": "W trybie \\\"standby mode\\\" możliwa jest normalna praca z bazą danych odtwarzającą logi ale w trybie tylko do odczytu",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Wyrażenie CAST używane jest do:",
       "id": 1840,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "pobrania czasu rzeczywistego",
@@ -861,12 +902,13 @@
           "answer": "zamiany jednego typu danych na inny",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Dwie jednokolumnowe tabele zawierają rekordy: A{ ‘a’,’a’, ‘b’, ‘b’, ‘b’} i B{ ‘a’,’a’, ‘b’} Używając w DB2 operatora INTERSEC w wyniku otrzymamy",
       "id": 1841,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "2 wiersze (a,b)",
@@ -884,12 +926,13 @@
           "answer": "3 wiersze",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Ile indeksów niepogrupowanych można założyd na jednej tabeli?",
       "id": 1842,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Niemal dowolnie wiele",
@@ -907,23 +950,13 @@
           "answer": "Maksymalnie 1",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Staramy się poprawid wydajnośd wykonywania zapytania: SELECT ename, sal FROM emp WHERE sal &gt; 1000 AND sal &lt; 2000. Który indeks będzie najlepszy?",
       "id": 1843,
-      "comments": [
-        {
-          "author": "~anon@77.255.*.*",
-          "comment": "czy oby nie przypadkiem tutaj poprawną odpowiedzią jest:\n\"Niepogrupowany na kolumnie sal\"?\n\nCytując książkę Pana Lenkiewicza: \"Indeksy niepogrupowane zakładamy zwykle na kolumny klucza obcego oraz kolumny często występujące w warunku WHERE\"\n\nOdnośnie pogrupowanych: \"Indeks pogrupowany bardzo dobrze sprawdzi się w zapytaniach wymagających sortowania (ORDER BY, GROUP BY, DISTINCT), gdyż serwer po prostu odczyta uporządkowane dane i kosztowna operacja sortowanie nie będzie konieczna\"",
-          "date": "07-09-2013 23:18:03"
-        },
-        {
-          "author": "~anon@89.68.*.*",
-          "comment": "poza tym zakładając, że tabela emp ma klucz główny, to indeks pogrupowany już został założony na nim ;)",
-          "date": "20-06-2014 23:27:17"
-        }
-      ],
+      "numberOfComments": 2,
       "answers": [
         {
           "answer": "Pogrupowany na kolumnie sal",
@@ -941,28 +974,24 @@
           "answer": "Niepogrupowany na ename z dołączoną kolumną (\"included columns\") sal",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~anon@77.255.*.*",
+          "comment": "czy oby nie przypadkiem tutaj poprawną odpowiedzią jest:\n\"Niepogrupowany na kolumnie sal\"?\n\nCytując książkę Pana Lenkiewicza: \"Indeksy niepogrupowane zakładamy zwykle na kolumny klucza obcego oraz kolumny często występujące w warunku WHERE\"\n\nOdnośnie pogrupowanych: \"Indeks pogrupowany bardzo dobrze sprawdzi się w zapytaniach wymagających sortowania (ORDER BY, GROUP BY, DISTINCT), gdyż serwer po prostu odczyta uporządkowane dane i kosztowna operacja sortowanie nie będzie konieczna\"",
+          "date": "07-09-2013 23:18:03"
+        },
+        {
+          "author": "~anon@89.68.*.*",
+          "comment": "poza tym zakładając, że tabela emp ma klucz główny, to indeks pogrupowany już został założony na nim ;)",
+          "date": "20-06-2014 23:27:17"
+        }
       ]
     },
     {
       "question": "Zmniejszenie współczynnika fillfactor spowoduje",
       "id": 1844,
-      "comments": [
-        {
-          "author": "~Bartek@77.255.*.*",
-          "comment": "Indeksy - jeżeli zmniejszamy fillfactor to indeks bedzie zajmowal wiecej miejsca na dysku - książka do abd",
-          "date": "20-06-2013 23:19:46"
-        },
-        {
-          "author": "~F@89.75.*.*",
-          "comment": "Popieram. Cyt. z książki: \"Gdy tabela jest często aktualizowana warto zmniejszyć fillefactor, dzięki czemu rzadziej będzie dochodziło do przepełnienia strony, które skutkuje koniecznością jej podziału więc operacja wyszukiwania może wymagać większej liczby odczytów, a tym samym index zajmie więcej miejsca na dysku\"",
-          "date": "31-08-2013 15:21:48"
-        },
-        {
-          "author": "mykhi",
-          "comment": "ok, zaznaczam.",
-          "date": "31-08-2013 15:49:35"
-        }
-      ],
+      "numberOfComments": 3,
       "answers": [
         {
           "answer": "pogorszenie wydajności wyszukiwania",
@@ -980,12 +1009,29 @@
           "answer": "poprawę wydajności wstawiania",
           "correct": true
         }
+      ],
+      "comments": [
+        {
+          "author": "~Bartek@77.255.*.*",
+          "comment": "Indeksy - jeżeli zmniejszamy fillfactor to indeks bedzie zajmowal wiecej miejsca na dysku - książka do abd",
+          "date": "20-06-2013 23:19:46"
+        },
+        {
+          "author": "~F@89.75.*.*",
+          "comment": "Popieram. Cyt. z książki: \"Gdy tabela jest często aktualizowana warto zmniejszyć fillefactor, dzięki czemu rzadziej będzie dochodziło do przepełnienia strony, które skutkuje koniecznością jej podziału więc operacja wyszukiwania może wymagać większej liczby odczytów, a tym samym index zajmie więcej miejsca na dysku\"",
+          "date": "31-08-2013 15:21:48"
+        },
+        {
+          "author": "mykhi",
+          "comment": "ok, zaznaczam.",
+          "date": "31-08-2013 15:49:35"
+        }
       ]
     },
     {
       "question": "Ile indeksów pogrupowanych można założyd na jednej tabeli?",
       "id": 1845,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Maksymalnie 1",
@@ -1003,12 +1049,13 @@
           "answer": "Maksymalnie 4",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Dwie jednokolumnowe tabele zawierają rekordy: A{ ‘a’,’a’, ‘b’, ‘b’, ‘b’} i B{ ‘a’,’a’, ‘b’} Używając w DB2 operatora UNION w wyniku otrzymamy",
       "id": 1846,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "5 wierszy",
@@ -1026,12 +1073,13 @@
           "answer": "8 wierszy",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Zaznacz poprawne stwierdzenia dotyczące bazy danych master.",
       "id": 1847,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Przechowuje informacje dotyczące automatyzacji pracy serwera: zaplanowane zadania, alarmy, jobs itp.",
@@ -1049,12 +1097,13 @@
           "answer": "Jest najważniejszą systemową bazą danych",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Wykonujesz zapytanie: SELECT * FROM emp WHERE ename = 'BLAKE'. Przy podglądzie planu wykonania zapytania zaobserwowałeś operację \"index scan\". Zaznacz poprawne stwierdzenia.",
       "id": 1848,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Oznacza to, że serwer użył strategii \"tylko indeks\"",
@@ -1072,12 +1121,13 @@
           "answer": "Oznacza to, że serwer pobrał jeden wiersz przeszukując B-drzewo indeksu od korzenia do liści",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Poziom izolacji SNAPSHOT",
       "id": 1849,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Jest oparty na mechaniźmie wielowersyjności",
@@ -1095,12 +1145,13 @@
           "answer": "Zwiększa ryzyko zakleszczenia (deadlock)",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Tabele tymczasowe użytkownika w DB2",
       "id": 1850,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "tworzone są przy użyciu instrukcji CREATE USER TEMPORARY TABLE mojatabela (....)",
@@ -1118,12 +1169,13 @@
           "answer": "tworzone są zawsze w schemacie session",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Dwie jednokolumnowe tabele zawierają rekordy: A{ ‘a’,’a’, ‘b’, ‘b’, ‘b’} i B{ ‘a’,’a’, ‘b’} Używając w DB2 operatora EXCEPT w wyniku otrzymamy",
       "id": 1851,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "0 wierszy",
@@ -1141,12 +1193,13 @@
           "answer": "3 wiersze",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Wykorzystując sekwencję CREATE SEQUENCE seq1 AS BIGINT START WITH 1 INCREMENT BY 1 NO MAXVALUE NO CYCLE<br>NO CACHE ; Wiersz wstawiony do tabeli uzyskał numer 13 -- po czym wystąpiła awaria bazy danych. Jaki numer będzie miał kolejny rekord?",
       "id": 1852,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "14",
@@ -1164,11 +1217,31 @@
           "answer": "21",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Zaznacz prawdziwe stwierdzenia dotyczące indeksów w MS SQL Server",
       "id": 1972,
+      "numberOfComments": 5,
+      "answers": [
+        {
+          "answer": "Przy strategii \"tylko indeks\" serwer musi odczytać dane ze stron z danymi tabeli",
+          "correct": false
+        },
+        {
+          "answer": "Jeśli do indeksu dołączymy kolumnę \"included column\", to wyszukiwanie po tej kolumnie będzie się odbywać szybciej, gdy będzie jej dotyczył warunek WHERE",
+          "correct": false
+        },
+        {
+          "answer": "Dołączone kolumnty \"included columns\" ułatwiają użycie strategii \"tylko indeks\"",
+          "correct": true
+        },
+        {
+          "answer": "Indeks może być założony na więcej niż jedną kolumnę",
+          "correct": true
+        }
+      ],
       "comments": [
         {
           "author": "~anon@77.255.*.*",
@@ -1195,30 +1268,12 @@
           "comment": "zaznaczam.",
           "date": "12-06-2015 23:33:22"
         }
-      ],
-      "answers": [
-        {
-          "answer": "Przy strategii \"tylko indeks\" serwer musi odczytać dane ze stron z danymi tabeli",
-          "correct": false
-        },
-        {
-          "answer": "Jeśli do indeksu dołączymy kolumnę \"included column\", to wyszukiwanie po tej kolumnie będzie się odbywać szybciej, gdy będzie jej dotyczył warunek WHERE",
-          "correct": false
-        },
-        {
-          "answer": "Dołączone kolumnty \"included columns\" ułatwiają użycie strategii \"tylko indeks\"",
-          "correct": true
-        },
-        {
-          "answer": "Indeks może być założony na więcej niż jedną kolumnę",
-          "correct": true
-        }
       ]
     },
     {
       "question": "&nbsp;Jakie struktury danych indeksu oferuje MS SQL Server",
       "id": 1973,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Haszowany",
@@ -1236,11 +1291,31 @@
           "answer": "Bitmapowy",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Zaznacz poprawne stwierdzenia dotyczące kont logowania i użytkowników w MS SQL Server",
       "id": 1974,
+      "numberOfComments": 5,
+      "answers": [
+        {
+          "answer": "Użytkownik (user) jest zawsze tworzony dla jednej bazy danych",
+          "correct": true
+        },
+        {
+          "answer": "Konto logowania (login) jest zawsze tworzone dla jednej bazy danych",
+          "correct": false
+        },
+        {
+          "answer": "Dla użytkonika (user) możemy bezpośrednio przypisać prawo SELECT do tabeli",
+          "correct": true
+        },
+        {
+          "answer": "Użytkonik (user) jest zawsze związany z jakimś kontem logowania (login)",
+          "correct": true
+        }
+      ],
       "comments": [
         {
           "author": "~F@89.75.*.*",
@@ -1267,29 +1342,30 @@
           "comment": "\"Użytkonik (user) jest zawsze związany z jakimś kontem logowania (login)\" jest niepoprawną odpowiedziłą.\nZ modułu lekcji na pytanie: Czy można stworzyć użytkownika (User) bez przypisanego konta logowania (Login)?\nOdpowiedzią jest TAK, bo \"Można, lecz taki użytkownik będzie bezużyteczny.\"",
           "date": "27-01-2017 17:25:29"
         }
-      ],
-      "answers": [
-        {
-          "answer": "Użytkownik (user) jest zawsze tworzony dla jednej bazy danych",
-          "correct": true
-        },
-        {
-          "answer": "Konto logowania (login) jest zawsze tworzone dla jednej bazy danych",
-          "correct": false
-        },
-        {
-          "answer": "Dla użytkonika (user) możemy bezpośrednio przypisać prawo SELECT do tabeli",
-          "correct": true
-        },
-        {
-          "answer": "Użytkonik (user) jest zawsze związany z jakimś kontem logowania (login)",
-          "correct": true
-        }
       ]
     },
     {
       "question": "Które z poniższych stwierdzeń są prawdziwe w kontekście projektowania prawidłowej strategii plików bazy danych na dyskach w MS SQL Server",
       "id": 1975,
+      "numberOfComments": 7,
+      "answers": [
+        {
+          "answer": "Warto przechowywać plik z danymi i plik z dziennikiem transakcji na tym samym dyskyu twardym",
+          "correct": false
+        },
+        {
+          "answer": "Warto przechowywać tabele często ze sobą łączone na osobnych dyskach",
+          "correct": true
+        },
+        {
+          "answer": "Indeksy zawsze powinny być przechowywane na tym samym dysku co dziennik transakcji",
+          "correct": false
+        },
+        {
+          "answer": "Indeksy zawsze powinny być przechowywane na tym samym dysku co dane",
+          "correct": false
+        }
+      ],
       "comments": [
         {
           "author": "~F@89.75.*.*",
@@ -1326,29 +1402,30 @@
           "comment": "odznaczam A",
           "date": "25-06-2018 14:02:49"
         }
-      ],
-      "answers": [
-        {
-          "answer": "Warto przechowywać plik z danymi i plik z dziennikiem transakcji na tym samym dyskyu twardym",
-          "correct": false
-        },
-        {
-          "answer": "Warto przechowywać tabele często ze sobą łączone na osobnych dyskach",
-          "correct": true
-        },
-        {
-          "answer": "Indeksy zawsze powinny być przechowywane na tym samym dysku co dziennik transakcji",
-          "correct": false
-        },
-        {
-          "answer": "Indeksy zawsze powinny być przechowywane na tym samym dysku co dane",
-          "correct": false
-        }
       ]
     },
     {
       "question": "Zaznacz poprawne stwierdzenia dotyczące opcji \"shrink\" w MS SQL Server",
       "id": 1976,
+      "numberOfComments": 6,
+      "answers": [
+        {
+          "answer": "Może zmniejszyć fizyczny rozmiar pliku z danymi",
+          "correct": true
+        },
+        {
+          "answer": "Może zmniejszyć fizyczny rozmiar pliku z dziennikiem transakcji",
+          "correct": true
+        },
+        {
+          "answer": "Usuwa nieaktywne transakcje z dziennika transackji",
+          "correct": false
+        },
+        {
+          "answer": "Dokonuje kompresji danych w plikach *.mdf podobnej do tej stosowanej w narzędziach do archwizacji (np. ZIP lub RAR)",
+          "correct": false
+        }
+      ],
       "comments": [
         {
           "author": "~F@89.75.*.*",
@@ -1380,29 +1457,30 @@
           "comment": "zaznaczam b)",
           "date": "25-06-2018 15:00:39"
         }
-      ],
-      "answers": [
-        {
-          "answer": "Może zmniejszyć fizyczny rozmiar pliku z danymi",
-          "correct": true
-        },
-        {
-          "answer": "Może zmniejszyć fizyczny rozmiar pliku z dziennikiem transakcji",
-          "correct": true
-        },
-        {
-          "answer": "Usuwa nieaktywne transakcje z dziennika transackji",
-          "correct": false
-        },
-        {
-          "answer": "Dokonuje kompresji danych w plikach *.mdf podobnej do tej stosowanej w narzędziach do archwizacji (np. ZIP lub RAR)",
-          "correct": false
-        }
       ]
     },
     {
       "question": "Zaznacz poprawne stwierdzenia dotyczące wydajności konstrukcji SQL",
       "id": 1977,
+      "numberOfComments": 4,
+      "answers": [
+        {
+          "answer": "Schemat znormalizowany jest zawsze najbardziej wydajny",
+          "correct": false
+        },
+        {
+          "answer": "Użycie tabel tymczasowych poprawi wydajność w każdej sytuacji",
+          "correct": false
+        },
+        {
+          "answer": "Wyzwalacze są niezalecane ze względów wydajnościowych",
+          "correct": true
+        },
+        {
+          "answer": "Kursory są zalecane i zwykle poprawiają wydajność",
+          "correct": false
+        }
+      ],
       "comments": [
         {
           "author": "~anon@37.152.*.*",
@@ -1424,29 +1502,30 @@
           "comment": "zaznaczam c)",
           "date": "25-06-2018 15:02:44"
         }
-      ],
-      "answers": [
-        {
-          "answer": "Schemat znormalizowany jest zawsze najbardziej wydajny",
-          "correct": false
-        },
-        {
-          "answer": "Użycie tabel tymczasowych poprawi wydajność w każdej sytuacji",
-          "correct": false
-        },
-        {
-          "answer": "Wyzwalacze są niezalecane ze względów wydajnościowych",
-          "correct": true
-        },
-        {
-          "answer": "Kursory są zalecane i zwykle poprawiają wydajność",
-          "correct": false
-        }
       ]
     },
     {
       "question": "Do jakich zadań można użyć narzędzia SQL Server Profiler",
       "id": 1979,
+      "numberOfComments": 5,
+      "answers": [
+        {
+          "answer": "Do zapamiętywania aktywności użytkowników w pliku",
+          "correct": true
+        },
+        {
+          "answer": "Do podglądu zapytań wykonywanych przez użytkowników",
+          "correct": true
+        },
+        {
+          "answer": "Do ustalania profilu dostępu użytkowników",
+          "correct": false
+        },
+        {
+          "answer": "Do zapisywania informacji o blędach w dzienniku systemowym",
+          "correct": false
+        }
+      ],
       "comments": [
         {
           "author": "~F@89.75.*.*",
@@ -1473,30 +1552,12 @@
           "comment": "zaznaczam a)",
           "date": "25-06-2018 15:01:08"
         }
-      ],
-      "answers": [
-        {
-          "answer": "Do zapamiętywania aktywności użytkowników w pliku",
-          "correct": true
-        },
-        {
-          "answer": "Do podglądu zapytań wykonywanych przez użytkowników",
-          "correct": true
-        },
-        {
-          "answer": "Do ustalania profilu dostępu użytkowników",
-          "correct": false
-        },
-        {
-          "answer": "Do zapisywania informacji o blędach w dzienniku systemowym",
-          "correct": false
-        }
       ]
     },
     {
       "question": "Aby wyświetlić wszystkie instancje w DB2 należy użyć polecenia",
       "id": 1980,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "db2icrt",
@@ -1514,23 +1575,13 @@
           "answer": "set db2instance=myinst",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Zaznacz poprawne stwierdzenia dotyczące kopii dziennika transakcji w MS SQL Server",
       "id": 1978,
-      "comments": [
-        {
-          "author": "~anon@77.255.*.*",
-          "comment": "UWAGA dodaję sporo pytań ale nie jestem pewien odpowiedzi więc nie zaznaczam! Proszę kogoś o pomoc przy rozwiązaniu pytań bez odpowiedzi! ",
-          "date": "05-09-2013 19:22:13"
-        },
-        {
-          "author": "~F@89.75.*.*",
-          "comment": "Poprawne:\nUmożliwia odtworzenie stanu bazy danych do określonego punktu w czasie\t\nWymaga zawsze uprzedniego odtworzenia kopii pełnej",
-          "date": "06-09-2013 20:22:05"
-        }
-      ],
+      "numberOfComments": 2,
       "answers": [
         {
           "answer": "Umożliwia odtworzenie stanu bazy danych do określonego punktu w czasie",
@@ -1548,23 +1599,24 @@
           "answer": "Umożliwia odtworzenie bazy danych bez uprzedniego odtwarzania jakichkolwiek innych kopii zapasowych",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~anon@77.255.*.*",
+          "comment": "UWAGA dodaję sporo pytań ale nie jestem pewien odpowiedzi więc nie zaznaczam! Proszę kogoś o pomoc przy rozwiązaniu pytań bez odpowiedzi! ",
+          "date": "05-09-2013 19:22:13"
+        },
+        {
+          "author": "~F@89.75.*.*",
+          "comment": "Poprawne:\nUmożliwia odtworzenie stanu bazy danych do określonego punktu w czasie\t\nWymaga zawsze uprzedniego odtworzenia kopii pełnej",
+          "date": "06-09-2013 20:22:05"
+        }
       ]
     },
     {
       "question": "Zaznacz poprawne stwierdzenia dotyczące transakcji w MS SQL Server",
       "id": 1981,
-      "comments": [
-        {
-          "author": "~anon@194.237.*.*",
-          "comment": "poprawne odpowiedzi:\nInstrukcje DDL są przetwarzane transakcyjnie\nInstrukcje DML są przetwarzane transakcyjnie\nTransakcje mogą być zagnieżdżone",
-          "date": "16-06-2014 11:43:56"
-        },
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "potwierdzam - widziałem klucz :)",
-          "date": "16-02-2019 23:28:55"
-        }
-      ],
+      "numberOfComments": 2,
       "answers": [
         {
           "answer": "Po zatwierdzeniu transakcji poleceniem COMMIT można ją jeszcze wycofać instrukcją ROLLBACK jeżeli był wykonany SAVEPOINT",
@@ -1582,11 +1634,42 @@
           "answer": "Transakcje mogą być zagnieżdżone",
           "correct": true
         }
+      ],
+      "comments": [
+        {
+          "author": "~anon@194.237.*.*",
+          "comment": "poprawne odpowiedzi:\nInstrukcje DDL są przetwarzane transakcyjnie\nInstrukcje DML są przetwarzane transakcyjnie\nTransakcje mogą być zagnieżdżone",
+          "date": "16-06-2014 11:43:56"
+        },
+        {
+          "author": "~anon@89.64.*.*",
+          "comment": "potwierdzam - widziałem klucz :)",
+          "date": "16-02-2019 23:28:55"
+        }
       ]
     },
     {
       "question": "Uprawnienia DBADM w DB2 pozwala na",
       "id": 1982,
+      "numberOfComments": 4,
+      "answers": [
+        {
+          "answer": "nadawanie uprawnień SELECT, INSERT, UPDATE i DELETE do tabel innym użytkownikom",
+          "correct": true
+        },
+        {
+          "answer": "tworzenie tabel",
+          "correct": true
+        },
+        {
+          "answer": "tworzenie instancji",
+          "correct": false
+        },
+        {
+          "answer": "tworzenie przestrzeni tablicowych",
+          "correct": false
+        }
+      ],
       "comments": [
         {
           "author": "~F@89.75.*.*",
@@ -1608,41 +1691,12 @@
           "comment": "Wróć! Dzisiaj pytałem EMM, DBADM nie może tworzyć instancji. \n\nPrawidłowe odpowiedzi to:\nTworzenie tabel\nNadawanie uprawnień SELECT, INSERT, UPDATE i DELETE do tabel innym użytkownikom",
           "date": "08-09-2013 19:37:56"
         }
-      ],
-      "answers": [
-        {
-          "answer": "nadawanie uprawnień SELECT, INSERT, UPDATE i DELETE do tabel innym użytkownikom",
-          "correct": true
-        },
-        {
-          "answer": "tworzenie tabel",
-          "correct": true
-        },
-        {
-          "answer": "tworzenie instancji",
-          "correct": false
-        },
-        {
-          "answer": "tworzenie przestrzeni tablicowych",
-          "correct": false
-        }
       ]
     },
     {
       "question": "Pytanie dotyczy MS SQL Server. Pełna kopia zapasowa była wykonywana w nocy z soboty na niedzielę. W każdy inny dzień o tej samej porze była wykonywana kopia różnicowa. Co godzinę w każy dzień roboczy była wykonywana kopia dziennika transakcji. Awaria nastąpiła w piątek o godzinie 12. Z których plików i w jakiej kolejności odtworzysz bazę danych?",
       "id": 1983,
-      "comments": [
-        {
-          "author": "~beliar@62.111.*.*",
-          "comment": "Zawsze odtwarza się najświeższy pełny, potem najnowszy różnicowy i potem najnowsze logi (czyli jak dla mnie odp 2).",
-          "date": "06-09-2013 15:07:41"
-        },
-        {
-          "author": "~F@89.75.*.*",
-          "comment": "Nie dotyczy tego zadania ale można również odtworzyć bazę bez backupu różnicowego tylko trzeba mieć wtedy backup logu z odpowiednio długiego czasu pokrywającego się z \n backupem pełnym. Usłyszałem to od prowadzącego gdyby ktoś miał wątpliwości w to co napisałem :)",
-          "date": "06-09-2013 20:29:11"
-        }
-      ],
+      "numberOfComments": 2,
       "answers": [
         {
           "answer": "Najpierw pełny z weekendu, następnie wszystkie różnicowe wykonane po pełnym, następnie logi z piątku",
@@ -1660,11 +1714,42 @@
           "answer": "Najpierw pełny z weekendu, następnie różnicowy z nocy z czwartku na piątek, następnie wszystkie logi od poniedziałku do piątku",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~beliar@62.111.*.*",
+          "comment": "Zawsze odtwarza się najświeższy pełny, potem najnowszy różnicowy i potem najnowsze logi (czyli jak dla mnie odp 2).",
+          "date": "06-09-2013 15:07:41"
+        },
+        {
+          "author": "~F@89.75.*.*",
+          "comment": "Nie dotyczy tego zadania ale można również odtworzyć bazę bez backupu różnicowego tylko trzeba mieć wtedy backup logu z odpowiednio długiego czasu pokrywającego się z \n backupem pełnym. Usłyszałem to od prowadzącego gdyby ktoś miał wątpliwości w to co napisałem :)",
+          "date": "06-09-2013 20:29:11"
+        }
       ]
     },
     {
       "question": "Zaznacz poprawne stwierdzenia dotyczące konfiguracji typu \"mirroring\" w MS SQL Server",
       "id": 1984,
+      "numberOfComments": 4,
+      "answers": [
+        {
+          "answer": "Istnieje możliwość takiej konfiguracji. aby zapasowy serwer był zawsze w pełni zsynchronizowany z głównym",
+          "correct": false
+        },
+        {
+          "answer": "W tej konfiguracji możliwa jest praca z zapasową bazą danych włączenie z aktualizacją",
+          "correct": false
+        },
+        {
+          "answer": "Może istnieć tylko jeden serwer zapasowy",
+          "correct": false
+        },
+        {
+          "answer": "W tej konfiguracji możliwa jest praca z zapasową bazą danych, ale tylko do odczytu",
+          "correct": false
+        }
+      ],
       "comments": [
         {
           "author": "~anon@37.152.*.*",
@@ -1686,29 +1771,30 @@
           "comment": "Odp. B i D - NIEPOPRAWNE\ndowód: \"Nie ma możliwości pracy z zapasową bazą danych.\"",
           "date": "04-02-2017 22:10:45"
         }
-      ],
-      "answers": [
-        {
-          "answer": "Istnieje możliwość takiej konfiguracji. aby zapasowy serwer był zawsze w pełni zsynchronizowany z głównym",
-          "correct": false
-        },
-        {
-          "answer": "W tej konfiguracji możliwa jest praca z zapasową bazą danych włączenie z aktualizacją",
-          "correct": false
-        },
-        {
-          "answer": "Może istnieć tylko jeden serwer zapasowy",
-          "correct": false
-        },
-        {
-          "answer": "W tej konfiguracji możliwa jest praca z zapasową bazą danych, ale tylko do odczytu",
-          "correct": false
-        }
       ]
     },
     {
       "question": "Automatyczne zatwierdzanie transakcji było włączone. Użytkownik wykonał instrukcję:<p></p>\n<p>-------------------------------------------<br>INSERT INTO tabela (a) VALUES (1)<br><br>COMMIT<br><br>INSERT INTO tabela (a) VALUES (2)<br><br>ROLLBACK<br>-------------------------------------------</p>\n<p><br>Ile rekordów będzie zawierała tabela przy założeniu, że na początku była pusta?\n          </p>",
       "id": 1985,
+      "numberOfComments": 7,
+      "answers": [
+        {
+          "answer": "1",
+          "correct": false
+        },
+        {
+          "answer": "Instrukcja będzie czekać na zwolnienie blokady",
+          "correct": false
+        },
+        {
+          "answer": "2",
+          "correct": true
+        },
+        {
+          "answer": "0",
+          "correct": false
+        }
+      ],
       "comments": [
         {
           "author": "~beliar@62.111.*.*",
@@ -1745,41 +1831,12 @@
           "comment": "na egzaminie jest aktualnie wersja, że 1 to poprawna odpowiedź, ale automatyczne zatwierdzanie transakcji było WYŁĄCZONE",
           "date": "16-02-2019 23:33:23"
         }
-      ],
-      "answers": [
-        {
-          "answer": "1",
-          "correct": false
-        },
-        {
-          "answer": "Instrukcja będzie czekać na zwolnienie blokady",
-          "correct": false
-        },
-        {
-          "answer": "2",
-          "correct": true
-        },
-        {
-          "answer": "0",
-          "correct": false
-        }
       ]
     },
     {
       "question": "Zaznacz prawdziwe stwierdzenia dotyczące kopii zapasowych w MS SQL Server",
       "id": 1986,
-      "comments": [
-        {
-          "author": "~anon@5.134.*.*",
-          "comment": "Odp. A - POPRAWNA\ndowodu w postaci pisanej nie mam, ale wystarczy wyklikać opcję backup z SQL Server Management Studio - okno tworzenia backupu zawiera pole do wyboru bazy danych, nie da się wybrać dwóch",
-          "date": "04-02-2017 22:20:18"
-        },
-        {
-          "author": "~anon@5.134.*.*",
-          "comment": "Odp. B i C - POPRAWNE\ndowód: \"Jeden nośnik (a w szczególności plik) może zawierać wiele zestawów kopii zapasowych. Gdy wykonujemy backup do pliku lub urządzenia, które zawiera już jakąś kopię zapasową, przy ustawieniach domyślnych, do istniejącego nośnika zostanie dopisana nowa kopia zapasowa.\"",
-          "date": "04-02-2017 22:21:35"
-        }
-      ],
+      "numberOfComments": 2,
       "answers": [
         {
           "answer": "Pojedyncza kopia zapasowa dotyczy zawsze jednej bazy danych",
@@ -1797,28 +1854,24 @@
           "answer": "Kopia zapasowa bazy danych użytkownika nie zawiera uprawnień na poziomie obiektów",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~anon@5.134.*.*",
+          "comment": "Odp. A - POPRAWNA\ndowodu w postaci pisanej nie mam, ale wystarczy wyklikać opcję backup z SQL Server Management Studio - okno tworzenia backupu zawiera pole do wyboru bazy danych, nie da się wybrać dwóch",
+          "date": "04-02-2017 22:20:18"
+        },
+        {
+          "author": "~anon@5.134.*.*",
+          "comment": "Odp. B i C - POPRAWNE\ndowód: \"Jeden nośnik (a w szczególności plik) może zawierać wiele zestawów kopii zapasowych. Gdy wykonujemy backup do pliku lub urządzenia, które zawiera już jakąś kopię zapasową, przy ustawieniach domyślnych, do istniejącego nośnika zostanie dopisana nowa kopia zapasowa.\"",
+          "date": "04-02-2017 22:21:35"
+        }
       ]
     },
     {
       "question": "Dla bazy danych, zawierającej tylko tabele Artykuł i Komentarze, dla których pomyślnie wykonano instrukcję:<br><br>-------------------------------------------<p></p>\n<p><br>ALTER TABLE Komentarze ADD<br>&nbsp;&nbsp; &nbsp;CONSTRAINT Komentarze _fk FOREIGN KEY (id_art)<br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;REFERENCES Artykul (id)<br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;ON DELETE RESTRICT;<br>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;<br>-------------------------------------------\n          </p>",
       "id": 1987,
-      "comments": [
-        {
-          "author": "~anon@5.134.*.*",
-          "comment": "odnośnie ustawień referencji ON DELETE RESTRICT zarówno a wykładzie z ABD, jak i SBD, nie ma słowa, a skoro nie ma słowa, to pytania być na egzaminie nie powinno",
-          "date": "04-02-2017 22:29:25"
-        },
-        {
-          "author": "~anon@5.134.*.*",
-          "comment": "BTW - wikipedia: \"RESTRICT is not supported by Microsoft SQL 2012 and earlier.\"",
-          "date": "04-02-2017 22:36:38"
-        },
-        {
-          "author": "~anon@5.134.*.*",
-          "comment": "odnośnie odpowiedzi: POPRAWNA jest A, ON DELETE RESTRICT oznacza, że może się nie udać usunięcie z tabeli nadrzędnej, w tym przypadku nadrzędna dla tego ustawienia jest tabela Artykul",
-          "date": "04-02-2017 22:38:21"
-        }
-      ],
+      "numberOfComments": 3,
       "answers": [
         {
           "answer": "Usunięcie rekordu z tabeli Komentarze powiedzie się zawsze",
@@ -1836,23 +1889,29 @@
           "answer": "Usunięcie rekordu z tabeli Artykuł powiedzie się zawsze",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~anon@5.134.*.*",
+          "comment": "odnośnie ustawień referencji ON DELETE RESTRICT zarówno a wykładzie z ABD, jak i SBD, nie ma słowa, a skoro nie ma słowa, to pytania być na egzaminie nie powinno",
+          "date": "04-02-2017 22:29:25"
+        },
+        {
+          "author": "~anon@5.134.*.*",
+          "comment": "BTW - wikipedia: \"RESTRICT is not supported by Microsoft SQL 2012 and earlier.\"",
+          "date": "04-02-2017 22:36:38"
+        },
+        {
+          "author": "~anon@5.134.*.*",
+          "comment": "odnośnie odpowiedzi: POPRAWNA jest A, ON DELETE RESTRICT oznacza, że może się nie udać usunięcie z tabeli nadrzędnej, w tym przypadku nadrzędna dla tego ustawienia jest tabela Artykul",
+          "date": "04-02-2017 22:38:21"
+        }
       ]
     },
     {
       "question": "Wykorzystując sekwencję<p></p>\n<p>&nbsp;</p>\n<p>-------------------------------------------</p>\n<p>CREATE SEQUENCE seq1 AS BIGINT</p>\n<p>START WITH 1</p>\n<p>INCREMENT BY 2</p>\n<p>NO MAXVALUE</p>\n<p>NO CYCLE</p>\n<p>CACHE 10;</p>\n<p>-------------------------------------------</p>\n<p>&nbsp;</p>\n<p>Wiersz wstawiony do tabeli uzyskał numer 15 -- po czym wystąpiła awaria bazy danych. Jaki numer będzie miał kolejny rekord?\n          </p>",
       "id": 1988,
-      "comments": [
-        {
-          "author": "~beliar@62.111.*.*",
-          "comment": "Jak dla mnie dobije do 20 z powodu CACHE 10 i następny rekord będzie miał nr 21.",
-          "date": "06-09-2013 15:05:33"
-        },
-        {
-          "author": "~anon@95.49.*.*",
-          "comment": "\"If the Database Engine stops abnormally for an event such as a power failure, the sequence restarts with the number read from system tables\"\nlink: https://msdn.microsoft.com/en-us/library/ff878091.aspx",
-          "date": "26-01-2017 23:49:28"
-        }
-      ],
+      "numberOfComments": 2,
       "answers": [
         {
           "answer": "25",
@@ -1870,12 +1929,24 @@
           "answer": "16",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~beliar@62.111.*.*",
+          "comment": "Jak dla mnie dobije do 20 z powodu CACHE 10 i następny rekord będzie miał nr 21.",
+          "date": "06-09-2013 15:05:33"
+        },
+        {
+          "author": "~anon@95.49.*.*",
+          "comment": "\"If the Database Engine stops abnormally for an event such as a power failure, the sequence restarts with the number read from system tables\"\nlink: https://msdn.microsoft.com/en-us/library/ff878091.aspx",
+          "date": "26-01-2017 23:49:28"
+        }
       ]
     },
     {
       "question": "Aby utworzyć w DB2 nową instancję należy użyć polecenia",
       "id": 1989,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "db2ilist",
@@ -1893,11 +1964,31 @@
           "answer": "set db2instance=myinst",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Zaznacz poprawne stwierdzenia dotyczące replikacji w MS SQL Server",
       "id": 1990,
+      "numberOfComments": 6,
+      "answers": [
+        {
+          "answer": "Przy replikacji scalającej można modyfikować dane na publikatorze i na każdym subskrybencie",
+          "correct": true
+        },
+        {
+          "answer": "Domyślna konfiguracja replikacji transakcyjnej jest dwukierunkowa",
+          "correct": false
+        },
+        {
+          "answer": "Publikator może znajdować się na tym samym serwerze, co dystrybutr",
+          "correct": true
+        },
+        {
+          "answer": "Przy replikacji migawokowej (snapshot) można modyfikować dane po stronie subskrybenta i nie będą one nadpisywane",
+          "correct": false
+        }
+      ],
       "comments": [
         {
           "author": "~anon@83.9.*.*",
@@ -1929,30 +2020,12 @@
           "comment": "w kluczu poprawna jest tylko odp. nr 3 ale być może pytanie lub warianty się różnią :)",
           "date": "16-02-2019 23:36:58"
         }
-      ],
-      "answers": [
-        {
-          "answer": "Przy replikacji scalającej można modyfikować dane na publikatorze i na każdym subskrybencie",
-          "correct": true
-        },
-        {
-          "answer": "Domyślna konfiguracja replikacji transakcyjnej jest dwukierunkowa",
-          "correct": false
-        },
-        {
-          "answer": "Publikator może znajdować się na tym samym serwerze, co dystrybutr",
-          "correct": true
-        },
-        {
-          "answer": "Przy replikacji migawokowej (snapshot) można modyfikować dane po stronie subskrybenta i nie będą one nadpisywane",
-          "correct": false
-        }
       ]
     },
     {
       "question": "Dwie jednokolumnowe tabele zawierają rekordy: A{ ‘a’,’a’, ‘b’, ‘b’, ‘b’} i B{ ‘a’,’a’, ‘b’} Używając w DB2 operatora UNION ALL w wyniku otrzymamy",
       "id": 1991,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "2",
@@ -1970,12 +2043,13 @@
           "answer": "5",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Zaznacz prawdziwe zdanie dotyczące PostgreSQL (do rozwiazania)",
       "id": 2977,
-      "comments": null,
+      "numberOfComments": 1,
       "answers": [
         {
           "answer": "Rola postgresql jest domyślna",
@@ -1989,28 +2063,19 @@
           "answer": "Rola admin jest domyślna",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~mike@46.186.*.*",
+          "comment": "Rola postgres jest domyślna - kto ma wątpliwości sugeruję otworzyć pgAdmin, zakładka Login/Group Roles i zobaczyć co kto siedzi ;-)",
+          "date": "29-06-2017 20:07:20"
+        }
       ]
     },
     {
       "question": "Zaznacz poprawne stwierdzenie dotyczące indeksów w MS SQL Server/ Do Rozwiazania 2018",
       "id": 3092,
-      "comments": [
-        {
-          "author": "~:D@83.28.*.*",
-          "comment": "A nie jest przypadkiem correct?",
-          "date": "03-07-2018 23:23:38"
-        },
-        {
-          "author": "~anon@195.191.*.*",
-          "comment": "A jest rowniez poprawne",
-          "date": "04-07-2018 09:41:25"
-        },
-        {
-          "author": "mykhi",
-          "comment": "zaznaczam A)",
-          "date": "04-07-2018 11:48:07"
-        }
-      ],
+      "numberOfComments": 3,
       "answers": [
         {
           "answer": "Indeks pogrupowany lepiej wspiera sortowanie niż niepogrupowany",
@@ -2028,28 +2093,29 @@
           "answer": "Indeks niepogrupowany układa dane w pliku w kolejności klucza indeksu",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~:D@83.28.*.*",
+          "comment": "A nie jest przypadkiem correct?",
+          "date": "03-07-2018 23:23:38"
+        },
+        {
+          "author": "~anon@195.191.*.*",
+          "comment": "A jest rowniez poprawne",
+          "date": "04-07-2018 09:41:25"
+        },
+        {
+          "author": "mykhi",
+          "comment": "zaznaczam A)",
+          "date": "04-07-2018 11:48:07"
+        }
       ]
     },
     {
       "question": "<span>Jakie prawa sa wazniejsze:</span>",
       "id": 2564,
-      "comments": [
-        {
-          "author": "~anon@89.73.*.*",
-          "comment": "ktoś, coś?",
-          "date": "02-07-2016 20:48:31"
-        },
-        {
-          "author": "~qq@83.6.*.*",
-          "comment": "są jednakowo ważne, pytałem się prowadzącego",
-          "date": "04-02-2017 18:19:30"
-        },
-        {
-          "author": "~anon@5.134.*.*",
-          "comment": "zgadza się, nie ma praw ważnych i ważniejszych - prawa użytkownika są sumą jego praw na tabele, rolę, schemat i jego własnych - są więc równoznaczne",
-          "date": "04-02-2017 22:40:14"
-        }
-      ],
+      "numberOfComments": 3,
       "answers": [
         {
           "answer": "<span>nalozone na tabele</span>",
@@ -2067,11 +2133,47 @@
           "answer": "<span>sa jednakowo ważne</span>",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~anon@89.73.*.*",
+          "comment": "ktoś, coś?",
+          "date": "02-07-2016 20:48:31"
+        },
+        {
+          "author": "~qq@83.6.*.*",
+          "comment": "są jednakowo ważne, pytałem się prowadzącego",
+          "date": "04-02-2017 18:19:30"
+        },
+        {
+          "author": "~anon@5.134.*.*",
+          "comment": "zgadza się, nie ma praw ważnych i ważniejszych - prawa użytkownika są sumą jego praw na tabele, rolę, schemat i jego własnych - są więc równoznaczne",
+          "date": "04-02-2017 22:40:14"
+        }
       ]
     },
     {
       "question": "<span>Zaznacz prawdziwe stwierdzenie o jobs:</span>",
       "id": 2650,
+      "numberOfComments": 6,
+      "answers": [
+        {
+          "answer": "Mogą wywolywać transact sql",
+          "correct": true
+        },
+        {
+          "answer": "Mogą wywołać procedurę systemową typy sp",
+          "correct": true
+        },
+        {
+          "answer": "Mogą zawierać wiele powiązanych ze soba kroków",
+          "correct": true
+        },
+        {
+          "answer": "Mogą zapisać wynik swojego działania w logu systemowym",
+          "correct": true
+        }
+      ],
       "comments": [
         {
           "author": "~kivas@88.156.*.*",
@@ -2103,41 +2205,12 @@
           "comment": "zaznaczam wszystkie, było żadne",
           "date": "27-06-2017 18:46:34"
         }
-      ],
-      "answers": [
-        {
-          "answer": "Mogą wywolywać transact sql",
-          "correct": true
-        },
-        {
-          "answer": "Mogą wywołać procedurę systemową typy sp",
-          "correct": true
-        },
-        {
-          "answer": "Mogą zawierać wiele powiązanych ze soba kroków",
-          "correct": true
-        },
-        {
-          "answer": "Mogą zapisać wynik swojego działania w logu systemowym",
-          "correct": true
-        }
       ]
     },
     {
       "question": "Który z serwisów musi być uruchomiony w MS SQL, aby móc automatycznie stworzyć zaplanowane zadania?:",
       "id": 2651,
-      "comments": [
-        {
-          "author": "~kivas@88.156.*.*",
-          "comment": "1. słuzy do automatycznego wlaczenia agenta po restarcie\n2. SQL Server Agent. SQL Server Agent jest usługa systemu Microsoft Windows, która umożliwia zautomatyzują niektóre zadania administracyjne. SQL Server Agent uruchamia zadania, monitoruje program SQL Server i przetwarzania alertów.\n3. zarzadza transakcjami\n4.wyszukiwarka (?)\n\n2 odpowiedz jest poprawna",
-          "date": "04-02-2017 07:37:34"
-        },
-        {
-          "author": "mykhi",
-          "comment": "zaznaczam ",
-          "date": "04-02-2017 09:49:05"
-        }
-      ],
+      "numberOfComments": 2,
       "answers": [
         {
           "answer": "Sql server auto start agent",
@@ -2155,28 +2228,24 @@
           "answer": "Microsoft search",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~kivas@88.156.*.*",
+          "comment": "1. słuzy do automatycznego wlaczenia agenta po restarcie\n2. SQL Server Agent. SQL Server Agent jest usługa systemu Microsoft Windows, która umożliwia zautomatyzują niektóre zadania administracyjne. SQL Server Agent uruchamia zadania, monitoruje program SQL Server i przetwarzania alertów.\n3. zarzadza transakcjami\n4.wyszukiwarka (?)\n\n2 odpowiedz jest poprawna",
+          "date": "04-02-2017 07:37:34"
+        },
+        {
+          "author": "mykhi",
+          "comment": "zaznaczam ",
+          "date": "04-02-2017 09:49:05"
+        }
       ]
     },
     {
       "question": "Pytanie dotyczy MS SQL Serwer. Użytkownik ma prawo do SELECT, INSERT, UPDATE, DELETE na tabeli \"emp\". Należy do roli \"kadry\", która ma DENY na INSERT, UPDATE i DELETE na tej tabeli. Należy też do roli \"księgowość\", która ma prawa SELECT i INSERT na tej tabeli. Jakie instrukcje będzie mógł wykonać użytkownik na tej tabeli?",
       "id": 3093,
-      "comments": [
-        {
-          "author": "~anon@89.74.*.*",
-          "comment": "Ktoś?",
-          "date": "04-07-2018 02:11:11"
-        },
-        {
-          "author": "~kozak@79.184.*.*",
-          "comment": "SELECT jest poprawna, DENY \"wyłącza\" inne",
-          "date": "04-07-2018 08:11:53"
-        },
-        {
-          "author": "~anon@195.191.*.*",
-          "comment": "PRAWDA, tylko Select poprawny",
-          "date": "04-07-2018 09:42:10"
-        }
-      ],
+      "numberOfComments": 3,
       "answers": [
         {
           "answer": "SELECT",
@@ -2194,11 +2263,47 @@
           "answer": "UPDATE",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~anon@89.74.*.*",
+          "comment": "Ktoś?",
+          "date": "04-07-2018 02:11:11"
+        },
+        {
+          "author": "~kozak@79.184.*.*",
+          "comment": "SELECT jest poprawna, DENY \"wyłącza\" inne",
+          "date": "04-07-2018 08:11:53"
+        },
+        {
+          "author": "~anon@195.191.*.*",
+          "comment": "PRAWDA, tylko Select poprawny",
+          "date": "04-07-2018 09:42:10"
+        }
       ]
     },
     {
       "question": "W przypadku jakich zapytań wskazane jest użycie indeksu pogrupowanego zamiast niepogrupowanego?",
       "id": 2962,
+      "numberOfComments": 5,
+      "answers": [
+        {
+          "answer": "zapytania sortujące",
+          "correct": true
+        },
+        {
+          "answer": "zapytania punktowe(zwracające pojedyńcze wartości)",
+          "correct": false
+        },
+        {
+          "answer": "zapytania z użyciem LIKE",
+          "correct": false
+        },
+        {
+          "answer": "zapytania zakresowe (np. warunek z BETWEEN)",
+          "correct": true
+        }
+      ],
       "comments": [
         {
           "author": "~pio@46.112.*.*",
@@ -2225,29 +2330,30 @@
           "comment": "potwierdzam - w kluczu to samo :)",
           "date": "16-02-2019 23:39:19"
         }
-      ],
-      "answers": [
-        {
-          "answer": "zapytania sortujące",
-          "correct": true
-        },
-        {
-          "answer": "zapytania punktowe(zwracające pojedyńcze wartości)",
-          "correct": false
-        },
-        {
-          "answer": "zapytania z użyciem LIKE",
-          "correct": false
-        },
-        {
-          "answer": "zapytania zakresowe (np. warunek z BETWEEN)",
-          "correct": true
-        }
       ]
     },
     {
       "question": "Jakie rodzaje kopii zapasowych możemy wykorzystywać przy ustawieniu bazy danych \"recovery model\" na \"sample\" w MS SQL Server? DO ROZWIĄZANIA",
       "id": 2963,
+      "numberOfComments": 5,
+      "answers": [
+        {
+          "answer": "pełną (full)",
+          "correct": true
+        },
+        {
+          "answer": "różnicową (differential)",
+          "correct": true
+        },
+        {
+          "answer": "dziennika transakcji (transactional log)",
+          "correct": false
+        },
+        {
+          "answer": "nie można wykonywać kopii zapasowych",
+          "correct": false
+        }
+      ],
       "comments": [
         {
           "author": "~anon@185.131.*.*",
@@ -2274,30 +2380,12 @@
           "comment": "zaznaczam a i b",
           "date": "30-06-2019 14:26:18"
         }
-      ],
-      "answers": [
-        {
-          "answer": "pełną (full)",
-          "correct": true
-        },
-        {
-          "answer": "różnicową (differential)",
-          "correct": true
-        },
-        {
-          "answer": "dziennika transakcji (transactional log)",
-          "correct": false
-        },
-        {
-          "answer": "nie można wykonywać kopii zapasowych",
-          "correct": false
-        }
       ]
     },
     {
       "question": "zaznacz poprawne stwierdzenia dotyczące plików i grup plików (filegroup) w MS SQL Server",
       "id": 2964,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "plik bazy danych może należeć do wielu grup plików&nbsp;",
@@ -2315,23 +2403,13 @@
           "answer": "grupie plików zawsze odpowiada litera na dysku. Wszystkie pliki z grupy muszą znajdować się na tym samym dysku",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "w trybie Windows authentication do serwera MS SQL mogą logować się użytkownicy? &nbsp;DO ROZWIĄZANIA",
       "id": 2965,
-      "comments": [
-        {
-          "author": "~mike@46.186.*.*",
-          "comment": "odp: C i D - swoją drogą jest to duplikat, identyczne pytanie (i odpowiedzi) już w bazie istnieje",
-          "date": "01-07-2017 16:52:36"
-        },
-        {
-          "author": "~anon@178.183.*.*",
-          "comment": "Dokładnie :D zgadzam się z mike",
-          "date": "01-07-2017 17:21:39"
-        }
-      ],
+      "numberOfComments": 2,
       "answers": [
         {
           "answer": "z systemu Windows, ale tylko należący do grupy administratorów&nbsp;",
@@ -2349,28 +2427,24 @@
           "answer": "z systemu Windows&nbsp;",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~mike@46.186.*.*",
+          "comment": "odp: C i D - swoją drogą jest to duplikat, identyczne pytanie (i odpowiedzi) już w bazie istnieje",
+          "date": "01-07-2017 16:52:36"
+        },
+        {
+          "author": "~anon@178.183.*.*",
+          "comment": "Dokładnie :D zgadzam się z mike",
+          "date": "01-07-2017 17:21:39"
+        }
       ]
     },
     {
       "question": "zaznacz poprawne stwierdzenia dotyczące poziomów izolacji transakcji w MS SQL Server?",
       "id": 2966,
-      "comments": [
-        {
-          "author": "~anon@185.131.*.*",
-          "comment": "odpowiedź 1 poprawna https://edu.pjwstk.edu.pl/wiki/e2c3275d0e1a4bc0da360dd225d74a46/Poziomy%20izolacji%20w%20MS%20SQL%20Server.ashx \n\n2 nie jestem pewny ale chyba tak\n\n3 domyślny to read commited\n\n4 im wyższy poziom izolacji tym gorsza wydajność",
-          "date": "26-06-2017 11:18:18"
-        },
-        {
-          "author": "~Bukem@80.238.*.*",
-          "comment": "2 tez poprawne, źródło wykłady na eduxie",
-          "date": "30-06-2017 18:31:10"
-        },
-        {
-          "author": "~anon@195.191.*.*",
-          "comment": "A i B poprawne!",
-          "date": "04-07-2018 10:39:16"
-        }
-      ],
+      "numberOfComments": 3,
       "answers": [
         {
           "answer": "przy poziomie serializable nie występuje problem fantomów&nbsp;",
@@ -2388,11 +2462,47 @@
           "answer": "wyższy poziom izolacji (np. serializable) poprawia wydajności bazy danych&nbsp;",
           "correct": true
         }
+      ],
+      "comments": [
+        {
+          "author": "~anon@185.131.*.*",
+          "comment": "odpowiedź 1 poprawna https://edu.pjwstk.edu.pl/wiki/e2c3275d0e1a4bc0da360dd225d74a46/Poziomy%20izolacji%20w%20MS%20SQL%20Server.ashx \n\n2 nie jestem pewny ale chyba tak\n\n3 domyślny to read commited\n\n4 im wyższy poziom izolacji tym gorsza wydajność",
+          "date": "26-06-2017 11:18:18"
+        },
+        {
+          "author": "~Bukem@80.238.*.*",
+          "comment": "2 tez poprawne, źródło wykłady na eduxie",
+          "date": "30-06-2017 18:31:10"
+        },
+        {
+          "author": "~anon@195.191.*.*",
+          "comment": "A i B poprawne!",
+          "date": "04-07-2018 10:39:16"
+        }
       ]
     },
     {
       "question": "zaznacz poprawne stwierdzenia dotyczące konfiguracji typu \"log shipping\" w MS SQL Server? DO ROZWIĄZANIA",
       "id": 2967,
+      "numberOfComments": 4,
+      "answers": [
+        {
+          "answer": "w tej konfiguracji możliwa jest praca z zapasową bazą danych włącznie z aktualizacją&nbsp;",
+          "correct": false
+        },
+        {
+          "answer": "istnieje możliwość takiej konfiguracji, aby zapasowy serwer był zawsze w pełni zsynchronizowany z głównym&nbsp;",
+          "correct": false
+        },
+        {
+          "answer": "w tej konfiguracji możliwa jest praca z zapasową bazą danych, ale tylko do odczytu&nbsp;",
+          "correct": true
+        },
+        {
+          "answer": "może istnieć tylko jeden serwer zapasowy&nbsp;",
+          "correct": false
+        }
+      ],
       "comments": [
         {
           "author": "~anon@185.131.*.*",
@@ -2414,30 +2524,12 @@
           "comment": "zaznaczam c)",
           "date": "25-06-2018 15:01:35"
         }
-      ],
-      "answers": [
-        {
-          "answer": "w tej konfiguracji możliwa jest praca z zapasową bazą danych włącznie z aktualizacją&nbsp;",
-          "correct": false
-        },
-        {
-          "answer": "istnieje możliwość takiej konfiguracji, aby zapasowy serwer był zawsze w pełni zsynchronizowany z głównym&nbsp;",
-          "correct": false
-        },
-        {
-          "answer": "w tej konfiguracji możliwa jest praca z zapasową bazą danych, ale tylko do odczytu&nbsp;",
-          "correct": true
-        },
-        {
-          "answer": "może istnieć tylko jeden serwer zapasowy&nbsp;",
-          "correct": false
-        }
       ]
     },
     {
       "question": "zaznacz poprawne stwierdzenie dotyczące opcji \"recovery model\" w MS SQL Server &nbsp; DO ROZWIĄZANIA",
       "id": 2968,
-      "comments": null,
+      "numberOfComments": 1,
       "answers": [
         {
           "answer": "przy ustawieniu na \"simple\" wszystkie operacje będą zapisywane w dzienniku i przechowywane tam aż do wyczyszczenia dziennika&nbsp;",
@@ -2455,23 +2547,19 @@
           "answer": "model \"full\" jest zalecany dla baz danych, w których zależy nam na bezpieczeństwie dancyh&nbsp;",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~anon@185.131.*.*",
+          "comment": "1 nie będą usuwane \n2 ma wpływ \n3 tak\n4 tak",
+          "date": "26-06-2017 11:44:06"
+        }
       ]
     },
     {
       "question": "Zaznacz poprawne stwierdzenia dotyczące alarmów (alerts) w MS SQL Server. DO ROZWIĄZANIA",
       "id": 2972,
-      "comments": [
-        {
-          "author": "~Mike@46.186.*.*",
-          "comment": "wszystkie, poniżej wklejka z wykładów:\n\nAlarmy (Alerts) pozwalają na zdefiniowanie, jak ma zareagować serwer na zajście pewnych zdarzeń. Możemy zdefiniować Alert reagujący na wystąpienie błędu o określonym numerze lub poziomie Severity albo zawierającego dany tekst w komunikacie. Alert może być również uruchomiony, gdy wybrany licznik (Counter) narzędzia Performance osiągnie określoną wartość.\n\nMożemy określić, jak ma zareagować serwer na wystąpienie alarmu. Może zostać powiadomiony operator (przez e-mail, net send lub pager) lub może zostać uruchomione zadanie (Job).",
-          "date": "01-07-2017 18:01:23"
-        },
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "Nie wszystkie, tylko a, c, d. Nie mogą być uruchamiane ręcznie.",
-          "date": "03-07-2018 20:21:05"
-        }
-      ],
+      "numberOfComments": 2,
       "answers": [
         {
           "answer": "mogą być uruchamiane przez wystąpienie błędu o określonym numerze",
@@ -2489,28 +2577,24 @@
           "answer": "mogą być uruchamiane przez zdarzenie związane z licznikiem \"performance\"",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~Mike@46.186.*.*",
+          "comment": "wszystkie, poniżej wklejka z wykładów:\n\nAlarmy (Alerts) pozwalają na zdefiniowanie, jak ma zareagować serwer na zajście pewnych zdarzeń. Możemy zdefiniować Alert reagujący na wystąpienie błędu o określonym numerze lub poziomie Severity albo zawierającego dany tekst w komunikacie. Alert może być również uruchomiony, gdy wybrany licznik (Counter) narzędzia Performance osiągnie określoną wartość.\n\nMożemy określić, jak ma zareagować serwer na wystąpienie alarmu. Może zostać powiadomiony operator (przez e-mail, net send lub pager) lub może zostać uruchomione zadanie (Job).",
+          "date": "01-07-2017 18:01:23"
+        },
+        {
+          "author": "~anon@89.64.*.*",
+          "comment": "Nie wszystkie, tylko a, c, d. Nie mogą być uruchamiane ręcznie.",
+          "date": "03-07-2018 20:21:05"
+        }
       ]
     },
     {
       "question": "Zaznacz poprawne stwierdzenie dotyczące opcji \"recovery model\" w MS SQL Server. DO ROZWIĄZANIA",
       "id": 2973,
-      "comments": [
-        {
-          "author": "~anon@37.47.*.*",
-          "comment": "a) chyba nie (nie jestem pewny) b) nie c) tak d) tak",
-          "date": "25-06-2018 14:49:54"
-        },
-        {
-          "author": "mykhi",
-          "comment": "zaznaczam c) i d)",
-          "date": "25-06-2018 15:02:11"
-        },
-        {
-          "author": "~anon@83.28.*.*",
-          "comment": "powtorzone juz 3ci raz xD",
-          "date": "03-07-2018 23:29:02"
-        }
-      ],
+      "numberOfComments": 3,
       "answers": [
         {
           "answer": "przy ustawieniu \"simple\" wszystkie operacje będą zapisywane w dzienniku i przechowywane tam aż do wyczyszczenia dziennika&nbsp;",
@@ -2528,23 +2612,29 @@
           "answer": "model \"full\" jest zalecany dla baz danych, w których zależy nam na bezpieczeństwie danych&nbsp;",
           "correct": true
         }
+      ],
+      "comments": [
+        {
+          "author": "~anon@37.47.*.*",
+          "comment": "a) chyba nie (nie jestem pewny) b) nie c) tak d) tak",
+          "date": "25-06-2018 14:49:54"
+        },
+        {
+          "author": "mykhi",
+          "comment": "zaznaczam c) i d)",
+          "date": "25-06-2018 15:02:11"
+        },
+        {
+          "author": "~anon@83.28.*.*",
+          "comment": "powtorzone juz 3ci raz xD",
+          "date": "03-07-2018 23:29:02"
+        }
       ]
     },
     {
       "question": "zaznacz poprawne stwierdzenia dotyczące replikacji w MS SQL Server. DO ROZWIĄZANIA",
       "id": 2974,
-      "comments": [
-        {
-          "author": "~anon@185.15.*.*",
-          "comment": "Pytanie podobne do: https://pja.mykhi.org/generatory2.0/?comment=1990 i według tego na pewno odpowiedź B) jest prawidłowa",
-          "date": "25-06-2018 13:23:24"
-        },
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "B poprawna z klucza :)",
-          "date": "16-02-2019 23:42:46"
-        }
-      ],
+      "numberOfComments": 2,
       "answers": [
         {
           "answer": "przy domyślnej konfiguracji replikacji transakcyjnej można modyfikować dane po stronie subskrybenta i nie będą one nadpisywane&nbsp;",
@@ -2562,28 +2652,24 @@
           "answer": "można skonfigurować środowisko replikacji bez publikatora",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~anon@185.15.*.*",
+          "comment": "Pytanie podobne do: https://pja.mykhi.org/generatory2.0/?comment=1990 i według tego na pewno odpowiedź B) jest prawidłowa",
+          "date": "25-06-2018 13:23:24"
+        },
+        {
+          "author": "~anon@89.64.*.*",
+          "comment": "B poprawna z klucza :)",
+          "date": "16-02-2019 23:42:46"
+        }
       ]
     },
     {
       "question": "Zaznacz prawdziwe stwierdzenia dotyczące indeksów w MS SQL Server.",
       "id": 2975,
-      "comments": [
-        {
-          "author": "~mike@46.186.*.*",
-          "comment": "A - źle (tak układa pogrupowany a nie niepogrupowany)\nB, C , D prawda",
-          "date": "01-07-2017 19:27:10"
-        },
-        {
-          "author": "~anon@195.191.*.*",
-          "comment": "b c d poprawne",
-          "date": "04-07-2018 10:11:56"
-        },
-        {
-          "author": "mykhi",
-          "comment": "zaznaczam",
-          "date": "04-07-2018 11:46:43"
-        }
-      ],
+      "numberOfComments": 3,
       "answers": [
         {
           "answer": "indeks niepogrupowany układa dane w pliku w kolejności klucza indeksu&nbsp;",
@@ -2601,11 +2687,47 @@
           "answer": "indeks pogrupowany lepiej wspiera wyszukiwanie zakresowe niż niepogrupowany&nbsp;",
           "correct": true
         }
+      ],
+      "comments": [
+        {
+          "author": "~mike@46.186.*.*",
+          "comment": "A - źle (tak układa pogrupowany a nie niepogrupowany)\nB, C , D prawda",
+          "date": "01-07-2017 19:27:10"
+        },
+        {
+          "author": "~anon@195.191.*.*",
+          "comment": "b c d poprawne",
+          "date": "04-07-2018 10:11:56"
+        },
+        {
+          "author": "mykhi",
+          "comment": "zaznaczam",
+          "date": "04-07-2018 11:46:43"
+        }
       ]
     },
     {
       "question": "zaznacz poprawne stwierdzenia dotyczące \"maintenance plans\" w MS SQL Server. DO ROZWIĄZANIA",
       "id": 2976,
+      "numberOfComments": 4,
+      "answers": [
+        {
+          "answer": "mogą zawierać wiele pod-planów (subplans) z których każdy jest uruchamiany osobnym harmonogramem i zawiera osobne zadania&nbsp;",
+          "correct": false
+        },
+        {
+          "answer": "mogą składać się z wielu powiązanych ze soba kroków&nbsp;",
+          "correct": false
+        },
+        {
+          "answer": "mogą uruchomić polecenie SQL",
+          "correct": false
+        },
+        {
+          "answer": "mogą wykonać kopię zapasową bazy dancyh&nbsp;",
+          "correct": false
+        }
+      ],
       "comments": [
         {
           "author": "~mg@80.51.*.*",
@@ -2627,30 +2749,12 @@
           "comment": "wszystkie prawidłowe - z klucza :)",
           "date": "16-02-2019 23:43:55"
         }
-      ],
-      "answers": [
-        {
-          "answer": "mogą zawierać wiele pod-planów (subplans) z których każdy jest uruchamiany osobnym harmonogramem i zawiera osobne zadania&nbsp;",
-          "correct": false
-        },
-        {
-          "answer": "mogą składać się z wielu powiązanych ze soba kroków&nbsp;",
-          "correct": false
-        },
-        {
-          "answer": "mogą uruchomić polecenie SQL",
-          "correct": false
-        },
-        {
-          "answer": "mogą wykonać kopię zapasową bazy dancyh&nbsp;",
-          "correct": false
-        }
       ]
     },
     {
       "question": "Zaznacz poprawne stwierdzenia dotyczące użytkowników w MS SQL",
       "id": 3271,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Użytkownik (user) musi być związany z kontem logowania (login) aby można było z niego korzystać",
@@ -2668,12 +2772,13 @@
           "answer": "Konto logowania (login) zakładamy w konkretnej bazie danych",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "&nbsp;<p></p>\n<p>Wskaż poprawne stwierdzenia dotyczące kont logowania (logins) i użytkowników (users) w MS SQL</p>\n<p>\n          </p>",
       "id": 3323,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "&nbsp;<p></p>\n<p>Konto logowania (login) jest zawsze tworzone dla jednej bazy danych</p>\n<p></p>",
@@ -2691,12 +2796,13 @@
           "answer": "&nbsp;<p></p>\n<p>Dla konta logowania (login) możemy bezpośrednio przypisać prawo SELECT do tabeli.</p>\n<p></p>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "&nbsp;<p></p>\n<p><span><span><span><span><span><span><span><span>Czy PostgreSQL obsługuje następujące indeksy?</span></span></span></span></span></span></span></span></p>\n<p>\n          </p>",
       "id": 3324,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "&nbsp;<p></p>\n<p align=\"left\">Indeks typu hash</p>\n<p></p>",
@@ -2714,12 +2820,13 @@
           "answer": "&nbsp;<p></p>\n<p>Indeks typu WDS</p>\n<p></p>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "&nbsp;<p></p>\n<p>Wskaż poprawne stwierdzenia dotyczące schematów w MS SQL Server:</p>\n<p>\n          </p>",
       "id": 3325,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "&nbsp;<p></p>\n<p>Schemat nie może istnieć bez powiązanej z nim roli.</p>\n<p></p>",
@@ -2737,12 +2844,13 @@
           "answer": "&nbsp;<p></p>\n<p>Do schematu może należeć wielu użytkowników.</p>\n<p></p>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "&nbsp;<p></p>\n<p>Jaką wartość powinniśmy zwrócić z funkcji wykorzystywanej jako wyzwalacz?</p>\n<p>\n          </p>",
       "id": 3326,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "&nbsp;<p></p>\n<p><span><span><span><span><span><span><span><span>Z wyzwalacza musimy zwracać zmienną wierszową, której struktura będzie dokładnie taka sama jak struktura wiersza tabeli na której uruchomiliśmy wyzwalacz.</span></span></span></span></span></span></span></span></p>\n<p></p>",
@@ -2760,12 +2868,13 @@
           "answer": "&nbsp;<p></p>\n<p><span><span><span><span><span><span><span><span>Z wyzwalacza możemy zwrócić dowolną wartość (INT, VARCHAR, ...)</span></span></span></span></span></span></span></span></p>\n<p></p>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "&nbsp;<p></p>\n<p>W MS SQL Server wykonywana była pełna kopia zapasowa w nocy z soboty na niedzielę. W każdy inny dzień o tej samej porze była wykonywana kopia różnicowa. W godzinach: 10, 12, 14 i 16 w każdy dzień roboczy była wykonywana kopa dziennika transakcji. Awaria nastąpiła w czwartek o godz. 13:00. Z których kopii zapasowych i w jakiej kolejności odtworzysz bazę danych?</p>\n<p>\n          </p>",
       "id": 3327,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "&nbsp;<p></p>\n<p>Najpierw pełny z weekendu, następnie różnicowy z nocy ze środy na czwartek, następnie wszystkie logi od poniedziałku do środy.</p>\n<p></p>",
@@ -2783,12 +2892,13 @@
           "answer": "&nbsp;<p></p>\n<p>Najpierw pełny z weekendu, następnie wszystkie różnicowe wykonane po pełnym, następnie wszystkie logi wykonane po pełnym.</p>\n<p></p>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "&nbsp;<p></p>\n<p>Wybierz prawdziwe stwierdzenia dotyczące kopii zapasowych w MS SQL Server:</p>\n<p>\n          </p>",
       "id": 3328,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "&nbsp;<p></p>\n<p>Kopia różnicowa (differential backup) zawiera wszystkie zmiany, które zaszły w bazie danych od czasu wykonania ostatniej jakiejkolwiek kopii zapasowej.</p>\n<p></p>",
@@ -2806,12 +2916,13 @@
           "answer": "&nbsp;<p></p>\n<p>Kopia dziennika transakcji (transaction log backup) zawiera wszystkie zmiany, które zaszły w bazie danych od czasu wykonania ostatniej kopii dziennika transakcji.</p>\n<p></p>",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "&nbsp;<p></p>\n<p>Zaznacz poprawne stwierdzenia na rozszerzenie PostgresFDW</p>\n<p>\n          </p>",
       "id": 3329,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "&nbsp;<p></p>\n<p>Pozwala na komunikację z zewnętrznym serwerem PostgreSQL</p>\n<p></p>",
@@ -2829,12 +2940,13 @@
           "answer": "&nbsp;<p></p>\n<p>Pozwala na komunikację z dowolnym serwerem/relacyjną bazą danych</p>\n<p></p>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "&nbsp;<p></p>\n<p><span><span><span><span><span><span><span><span>Rozważ następujące zapytanie SQL:</span></span></span></span></span></span></span></span><br> <br> <span><span><span><span><span>select fname, lname from person</span></span></span></span></span><br> <span><span><span><span><span>where&nbsp;</span></span></span></span></span>fname='Anna' or lname='Kowalska';<br> <br> Jaki zestaw indeksów będzie w tym wypadku najkorzystniejszy<br> z poniższych?</p>\n<p>\n          </p>",
       "id": 3330,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "&nbsp;<p></p>\n<p><span><span><span><span><span><span><span><span>create index index1 on person(fname, lname);&nbsp;</span></span></span></span></span></span></span></span></p>\n<p></p>",
@@ -2852,12 +2964,13 @@
           "answer": "&nbsp;<p></p>\n<p>Żadne z wymienionych rozwiązań nie przyspieszy zapytania</p>\n<p></p>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "&nbsp;<p></p>\n<p>Które z poniższych fragmentów reprezentuje poprawną składnię pozwalającą na stworzenie<br> funkcji?</p>\n<p>\n          </p>",
       "id": 3331,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "&nbsp;<p></p>\n<p>CREATE OR REPLACE FUNCTION public.dodaj(<br> &nbsp; &nbsp; firstname text,<br> &nbsp; &nbsp; lastname text,<br> &nbsp; &nbsp; address text)<br> &nbsp; RETURNS void AS<br> $BODY$<br> DECLARE avg_sal numeric;<br> BEGIN<br> avg_sal:=(SELECT COALESCE(AVG(Salary),0) FROM Client);<br> INSERT INTO Client (FirstName, LastName, Address, Salary) VALUES(FirstName, LastName, Address, avg_sal);<br> END;<br> $BODY$<br> &nbsp; LANGUAGE plpgsql VOLATILE<br> &nbsp; COST 100;</p>\n<p></p>",
@@ -2875,12 +2988,13 @@
           "answer": "&nbsp;<p></p>\n<p>CREATE OR REPLACE FUNCTION public.dodaj(<br> &nbsp; &nbsp; firstname text,<br> &nbsp; &nbsp; lastname text,<br> &nbsp; &nbsp; address text)<br> &nbsp; RETURNS void AS<br> $BODY$<br> DECLARE avg_sal numeric:=(SELECT COALESCE(AVG(Salary),0) FROM Client);<br> BEGIN<br> INSERT INTO Client (FirstName, LastName, Address, Salary) VALUES(FirstName, LastName, Address, avg_sal);<br> END;<br> $BODY$<br> &nbsp; LANGUAGE plpgsql VOLATILE<br> &nbsp; COST 100;</p>\n<p></p>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "&nbsp;<p></p>\n<p>Wskaż poprawne stwierdzenia dotyczące zaplanowanych zadań (jobs) w MS SQL Server:</p>\n<p>\n          </p>",
       "id": 3332,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "&nbsp;<p></p>\n<p>Job może zapisać swój wynik w dzienniku systemowym.</p>\n<p></p>",
@@ -2898,12 +3012,13 @@
           "answer": "&nbsp;<p></p>\n<p>Job może uruchomić komendę systemu operacyjnego.</p>\n<p></p>",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "&nbsp;<p></p>\n<p>Jaki jest typ zwracany przez funkcję, która będzie wykorzystana jako wyzwalacz (RETURN ?)?</p>\n<p>&nbsp;</p>\n<pre><span><span><span><span><span><span><span><span>CREATE FUNCTION trig_name() RETURNS </span></span></span></span></span></span></span></span><strong><span><span><span><span><span><span><span>?</span></span></span></span></span></span></span></strong><span><span><span><span><span><span><span> AS $trig_name$</span></span></span></span></span></span></span>\n<span><span> <span><span><span>BEGIN</span></span></span></span></span>\n<span><span><span><span><span>...</span></span></span></span></span></pre>\n<p>\n          </p>",
       "id": 3333,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "&nbsp;<p></p>\n<p>INT</p>\n<p></p>",
@@ -2921,12 +3036,13 @@
           "answer": "&nbsp;<p></p>\n<p>TRIGGER</p>\n<p></p>",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "&nbsp;<p></p>\n<p>Zaznacz poprawne stwierdzenia dotyczące indeksów w MS SQL Server</p>\n<p>\n          </p>",
       "id": 3334,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "&nbsp;<p></p>\n<p>Może istnieć tylko jeden indeks pogrupowany na jednej tabeli</p>\n<p></p>",
@@ -2944,12 +3060,13 @@
           "answer": "&nbsp;<p></p>\n<p>Indeks pogrupowany układa dane w kolejności kolumny, na której założony jest indeks</p>\n<p></p>",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "&nbsp;<p></p>\n<p>Wybierz prawdziwe stwierdzenia dotyczące kopii zapasowych w MS SQL Server:</p>\n<p>\n          </p>",
       "id": 3335,
-      "comments": null,
+      "numberOfComments": 1,
       "answers": [
         {
           "answer": "&nbsp;<p></p>\n<p>Jedna, pełna kopia zapasowa może być rozdystrybuowana na kilka plików</p>\n<p></p>",
@@ -2967,12 +3084,19 @@
           "answer": "&nbsp;<p></p>\n<p>Kopia zapasowa zawiera również obiekty takie jak procedury składowane czy wyzwalacze.</p>\n<p></p>",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~hello@84.201.*.*",
+          "comment": "Z wykładu: Plik z kopią zapasową zawiera wszystkie obiekty bazy, między innymi: tabele, perspektywy, procedury składowane, wyzwalacze, użytkowników wraz z uprawnieniami itd. ",
+          "date": "03-07-2021 14:57:37"
+        }
       ]
     },
     {
       "question": "&nbsp;<p></p>\n<p>Które z poniższych sposobów na nadanie wartości zmiennej wewnątrz bloku BEGIN/END jest poprawny w plpgsql?</p>\n<p>\n          </p>",
       "id": 3336,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "&nbsp;<p></p>\n<p>DECLARE avg_sal numeric;<br> BEGIN<br> <strong>select avg(sal) into avg_sal from client;</strong><br> END;</p>\n<p></p>",
@@ -2990,12 +3114,13 @@
           "answer": "&nbsp;<p></p>\n<p>$BODY$<br> DECLARE avg_sal numeric;<br> BEGIN<br> <strong>avg_sal:=10;</strong><br> END;</p>\n<p></p>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "&nbsp;<p></p>\n<p>Zaznacz poprawne stwierdzenia dotyczące plików i grup plików (filegroup) w MS SQL Server</p>\n<p>\n          </p>",
       "id": 3337,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "&nbsp;<p></p>\n<p>Wszystkie pliki z grupy plików (filegroup) muszą znajdować się w tym samym folderze.</p>\n<p></p>",
@@ -3013,12 +3138,13 @@
           "answer": "&nbsp;<p></p>\n<p>Plik bazy danych może należeć do wielu grup plików.</p>\n<p></p>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "&nbsp;<p></p>\n<p>W MS SQL Server nadano użytkownikowi prawa SELECT i INSERT na poziomie tabeli \"emp\". Należy on też do roli \"kadry\", która ma prawa: SELECT i UPDATE na tej tabeli. Należy też do roli \"księgowość\", która ma prawa SELECT i DELETE, lecz DENY na UPDATE. Jakie instrukcje będzie mógł wykonać użytkownik na tej tabeli?</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>\n          </p>",
       "id": 3338,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "&nbsp;<p></p>\n<p>INSERT</p>\n<p></p>",
@@ -3036,12 +3162,13 @@
           "answer": "&nbsp;<p></p>\n<p>SELECT</p>\n<p></p>",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "&nbsp;<p></p>\n<p><span><span><span><span><span><span><span><span>Rozważ następujące zapytanie SQL:</span></span></span></span></span></span></span></span></p>\n<p>&nbsp;</p>\n<p><span><span><span><span><span><span><span><span>select idperson, fname, lname, birthdate from person</span></span></span></span></span></span></span></span><br> <span><span><span><span><span><span><span><span>where fname='Anna' and birthdate='01-01-2001';</span></span></span></span></span></span></span></span></p>\n<p>&nbsp;</p>\n<p><span><span><span><span><span><span><span><span>Który z poniższych indeksów realizuję strategię \"tylko indeks\"?</span></span></span></span></span></span></span></span></p>\n<p>&nbsp;</p>\n<p><span><span><span><span><span><span><span><span></span></span></span></span></span></span></span></span></p>\n<p>&nbsp;</p>\n<p><span><span><span><span><span><span><span><span></span></span></span></span></span></span></span></span></p>\n<p>\n          </p>",
       "id": 3339,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "&nbsp;<p></p>\n<p>create index index1 ON person USING GIN (birthdate, fname);</p>\n<p></p>",
@@ -3059,23 +3186,13 @@
           "answer": "&nbsp;<p></p>\n<p>create index index1 on person(fname); <br> create index index2 on person(birthdate);</p>\n<p></p>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Któr z uprawnień są najsilniejsze?",
       "id": 3031,
-      "comments": [
-        {
-          "author": "~anon@212.180.*.*",
-          "comment": "B poprawna. Wykład z EDUX. Rozdział 5. Poziomy uprawnień",
-          "date": "17-02-2018 22:25:56"
-        },
-        {
-          "author": "mykhi",
-          "comment": "zaznaczam",
-          "date": "17-02-2018 22:31:26"
-        }
-      ],
+      "numberOfComments": 2,
       "answers": [
         {
           "answer": "na poziomie roli",
@@ -3093,8 +3210,20 @@
           "answer": "na poziomie tabeli",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~anon@212.180.*.*",
+          "comment": "B poprawna. Wykład z EDUX. Rozdział 5. Poziomy uprawnień",
+          "date": "17-02-2018 22:25:56"
+        },
+        {
+          "author": "mykhi",
+          "comment": "zaznaczam",
+          "date": "17-02-2018 22:31:26"
+        }
       ]
     }
   ],
-  "updatedAt": 1614650414152
+  "updatedAt": 1625347561923
 }

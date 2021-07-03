@@ -5,7 +5,7 @@
     {
       "question": "Jeżeli wiemy, że maszyna kapsułkująca podczas jednego cyklu produkcyjnego zacina się z prawdopodobieństwem 0.1, a w przeciągu dnia uruchamiamy 10 cykli produkcyjnych, to prawdą jest to, że:",
       "id": 3340,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Spodziewamy się jednego zacięcia",
@@ -19,12 +19,13 @@
           "answer": "Spodziewamy się pięciu zacięć",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Na ile sposobów możemy rozdać 5 różnych książek trójce dzieci, tak aby każde z nich dostało co najmniej jedną książkę:",
       "id": 3341,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "3!*S(5,3)",
@@ -38,12 +39,13 @@
           "answer": "5!*S(3,2)",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Zbiorem potęgowym zbioru {<span>∅</span>} jest:",
       "id": 3342,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "{<span>∅</span>,{<span>∅</span>}}",
@@ -57,12 +59,13 @@
           "answer": "{{<span>∅</span>}}",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Które z poniższych zbiorów są równoliczne z zbiorem liczb naturalnych:",
       "id": 3343,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "R",
@@ -76,12 +79,13 @@
           "answer": "{1,5,2,6}",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Jeżeli nieprawdą jest że wszyscy wysocy ludzię są inteligentni to wiemy, że prawdą jest:",
       "id": 3344,
-      "comments": null,
+      "numberOfComments": 1,
       "answers": [
         {
           "answer": "Niscy ludzie są inteligentni",
@@ -95,12 +99,19 @@
           "answer": "Wzrost nie pozwala na jednoznaczne wnioskowanie o inteligencji",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~Wander@194.31.*.*",
+          "comment": "A dlaczego wariant \"Wzrost nie pozwala na jednoznaczne wnioskowanie o inteligencji\" jest niepoprawny ?\n",
+          "date": "27-08-2020 18:55:29"
+        }
       ]
     },
     {
       "question": "Iluzjonista wydobył z pięciu różnych cylindrów pięć różnych przedmiotów. Po prezentacji włożył je losowo po jednym do cylindra. Na ile sposobów mógł to zrobić, jeśli żaden przedmiot nie trafił do cylindra w którym był?",
       "id": 3345,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "196",
@@ -114,12 +125,13 @@
           "answer": "55",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Do zdań, dla których do określenia wartości wystarczy analiza syntaksuczna należą",
       "id": 3346,
-      "comments": null,
+      "numberOfComments": 1,
       "answers": [
         {
           "answer": "Zdania złożone",
@@ -137,12 +149,19 @@
           "answer": "Zadne&nbsp;",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~Rat@83.24.*.*",
+          "comment": "Zdania proste",
+          "date": "31-08-2020 21:43:42"
+        }
       ]
     },
     {
       "question": "Wariancja zmiennej losowej zawsze",
       "id": 3382,
-      "comments": null,
+      "numberOfComments": 1,
       "answers": [
         {
           "answer": "jest dodatnia,",
@@ -156,12 +175,19 @@
           "answer": "jest nieujemna.",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~Kubson@89.69.*.*",
+          "comment": "Jest nieujemna.\n\"Wariancja zawsze jest liczbą nieujemną. Jest inaczej nazywana również miarą rozrzutu. Zawsze zwróćmy uwagę, czy wariancja wyszła nam nieujemna. Jeżeli wyszła ujemna, to mamy błąd.\"  - z dupy.",
+          "date": "13-02-2021 11:26:30"
+        }
       ]
     },
     {
       "question": "Liczba podzbiorów zbioru {A,B,C,D,E} o parzystej liczbie elementów jest:",
       "id": 3383,
-      "comments": null,
+      "numberOfComments": 1,
       "answers": [
         {
           "answer": "równa 16",
@@ -175,11 +201,33 @@
           "answer": "równa 20",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~Kubson@89.69.*.*",
+          "comment": "Czemu nie 20? 32 - 5 poj (bez pustego) - 6 pot - 1 pięcio = 20",
+          "date": "13-02-2021 11:42:15"
+        }
       ]
     },
     {
       "question": "Relacja określona następująco: R = { (x,y)&nbsp;<span>∈</span>&nbsp;R x R: ( x*y = 1) } jest",
       "id": 3384,
+      "numberOfComments": 4,
+      "answers": [
+        {
+          "answer": "funkcją częściową",
+          "correct": true
+        },
+        {
+          "answer": "asymetryczna",
+          "correct": true
+        },
+        {
+          "answer": "funkcja całkowitą",
+          "correct": false
+        }
+      ],
       "comments": [
         {
           "author": "~anon@37.30.*.*",
@@ -201,22 +249,8 @@
           "comment": "Częściowa, to chyba częściowego porządku, czyli: zwrotna, antysymetryczna i przechodnia.",
           "date": "13-02-2021 11:50:09"
         }
-      ],
-      "answers": [
-        {
-          "answer": "funkcją częściową",
-          "correct": true
-        },
-        {
-          "answer": "asymetryczna",
-          "correct": true
-        },
-        {
-          "answer": "funkcja całkowitą",
-          "correct": false
-        }
       ]
     }
   ],
-  "updatedAt": 1614650414152
+  "updatedAt": 1625347561923
 }

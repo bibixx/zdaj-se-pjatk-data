@@ -5,7 +5,7 @@
     {
       "question": "<p class=\"MsoListParagraph\"><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><strong><span lang=\"PL\">Podstawowe algorytmy techniki rastrowej.</span></strong></p>",
       "id": 2570,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"PL\">dwa przecinające się odcinki mogą nie mieć wspólnego piksela</span>",
@@ -23,12 +23,13 @@
           "answer": "<span lang=\"PL\">Dwa przecinające się odcinki mogą mieć więcej niż jeden punkt wspólny&nbsp;</span>",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p class=\"MsoListParagraph\"><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><strong><span lang=\"PL\">Podstawowe algorytmy techniki rastrowej.</span></strong></p>",
       "id": 2571,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"PL\">Dwa przecinające się odcinki mogą mieć więcej niż jeden punkt wspólny&nbsp;</span>",
@@ -46,12 +47,13 @@
           "answer": "<span lang=\"PL\">efekt aliasingu można usunąć korzystając z metody Gouraud&nbsp;</span>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<strong><span lang=\"PL\">Krzywa Béziera jest określona przez punkty kontrolne P0(2,1), P1(3,3), P2(5,3), P3(3,2)</span></strong>",
       "id": 2572,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"PL\">punkt dla którego parametr bieżący u=0.5 ma współrzędne</span>",
@@ -65,12 +67,13 @@
           "answer": "<span lang=\"PL\">przynajmniej jeden punkt odcinka P2P3 należy do krzywej&nbsp;</span>",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p class=\"MsoNoSpacing\"><strong><span lang=\"PL\">W metodzie Phonga</span></strong></p>",
       "id": 2573,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"PL\">wnętrze wielokąta jest zawsze wypełnione stałą barwą&nbsp;</span>",
@@ -84,12 +87,13 @@
           "answer": "<span lang=\"PL\">możliwe jest uzyskanie efektu rozświetlenia&nbsp;</span>",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p class=\"MsoNoSpacing\"><strong><span lang=\"PL\">Algorytm malarski</span></strong></p>",
       "id": 2574,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"PL\">Wymaga sortowania wielokątów&nbsp;</span>",
@@ -103,12 +107,13 @@
           "answer": "<span lang=\"PL\">jest wykorzystywany w metodzie śledzenia promieni</span>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p class=\"MsoNoSpacing\"><strong><span lang=\"PL\">Bryła widzenia</span></strong></p>",
       "id": 2575,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"PL\">określa fragment sceny 3D potencjalnie widoczny na ekranie&nbsp;</span>",
@@ -122,12 +127,13 @@
           "answer": "<span lang=\"PL\">&nbsp;w rzucie perspektywicznym jest ostrosłupem ściętym&nbsp;</span>",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p class=\"MsoNoSpacing\"><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><strong><span lang=\"PL\">Rysowanie odcinka na rastrze</span></strong></p>",
       "id": 2576,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"PL\">Nachylenie odcinka nie ma znaczenia</span>",
@@ -141,28 +147,13 @@
           "answer": "<span lang=\"PL\">W algorytmie Bresenhama czwarty piksel odcinka o wierzchołkach (2,1), (10,5) ma współrzędne (4,2)&nbsp;</span>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></strong><strong><span lang=\"PL\">Transformacje geometryczne na płaszczyźnie</span></strong>",
       "id": 2577,
-      "comments": [
-        {
-          "author": "~s8780@89.74.*.*",
-          "comment": "Trzecia składowa we współrzędnych jednorodnych powinna być równa 1. To byla pomylka 1/2 przy wpisywaniu. Prosze to poprawic",
-          "date": "26-08-2015 22:53:39"
-        },
-        {
-          "author": "mykhi",
-          "comment": "poprawiam",
-          "date": "26-08-2015 22:54:32"
-        },
-        {
-          "author": "~maciek@89.66.*.*",
-          "comment": "nadal niepoprawione\n",
-          "date": "14-02-2019 14:36:28"
-        }
-      ],
+      "numberOfComments": 3,
       "answers": [
         {
           "answer": "<p class=\"MsoNoSpacing\"><span lang=\"PL\">przy składaniu transformacji kolejność mnożenia macierzy nie moze byc dowolna</span></p>",
@@ -180,12 +171,29 @@
           "answer": "<span lang=\"PL\">Transformacje geometryczne są wykonywane w odniesieniu do krawędzi figur&nbsp;</span>",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~s8780@89.74.*.*",
+          "comment": "Trzecia składowa we współrzędnych jednorodnych powinna być równa 1. To byla pomylka 1/2 przy wpisywaniu. Prosze to poprawic",
+          "date": "26-08-2015 22:53:39"
+        },
+        {
+          "author": "mykhi",
+          "comment": "poprawiam",
+          "date": "26-08-2015 22:54:32"
+        },
+        {
+          "author": "~maciek@89.66.*.*",
+          "comment": "nadal niepoprawione\n",
+          "date": "14-02-2019 14:36:28"
+        }
       ]
     },
     {
       "question": "<strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></strong><strong><span lang=\"PL\">Transformacje geometryczne na płaszczyźnie</span></strong>",
       "id": 2578,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<p class=\"MsoNoSpacing\"><span lang=\"PL\">przy składaniu transformacji kolejność mnożenia macierzy nie moze byc dowolna</span></p>",
@@ -203,12 +211,13 @@
           "answer": "<span lang=\"PL\">Transformacje geometryczne są wykonywane w odniesieniu do krawędzi figur&nbsp;</span>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p class=\"MsoNoSpacing\"><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><strong><span lang=\"PL\">Transformacje geometryczne na płaszczyźnie</span></strong></p>",
       "id": 2579,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"PL\">Trzecia składowa we współrzędnych jednorodnych powinna być równa 1</span>",
@@ -226,12 +235,13 @@
           "answer": "<span lang=\"PL\">Transformacje geometryczne są wykonywane w odniesieniu do krawędzi figur&nbsp;</span>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p class=\"MsoNoSpacing\"><strong><span lang=\"PL\"><span>&nbsp; &nbsp; &nbsp;</span></span></strong><strong><span lang=\"PL\">Współrzędne</span></strong></p>",
       "id": 2580,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"PL\">punktów rastra nie są liczbami całkowitymi&nbsp;</span>",
@@ -249,12 +259,13 @@
           "answer": "<span lang=\"PL\">piksela na ekranie monitora należą do przedziałów wyznaczonych przez rozdzielczość pikselową ekranu&nbsp;</span>",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p class=\"MsoNoSpacing\"><strong><span lang=\"PL\"><span>&nbsp; &nbsp; &nbsp;&nbsp;</span></span></strong><strong><span lang=\"PL\">Algorytmy wypełniania i obcinania</span></strong></p>",
       "id": 2581,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"PL\">W algorytmach typu seed nie jest konieczna znajomość równania konturu wypełnianej figury&nbsp;</span>",
@@ -272,12 +283,13 @@
           "answer": "<span lang=\"PL\">W algorytmie typu scan line (przeglądania wierszami) konieczne jest wskazanie punktu początkowego&nbsp;</span>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p class=\"MsoNoSpacing\"><strong><span lang=\"PL\"><span>&nbsp; &nbsp; &nbsp;</span></span></strong><strong><span lang=\"PL\">Krzywe i powierzchnia Beziera</span></strong></p>",
       "id": 2582,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"PL\">Liczba punktów sterujących jednoznacznie określa stopień wielomianu opisującego krzywą&nbsp;</span>",
@@ -295,12 +307,13 @@
           "answer": "<span lang=\"PL\">Przy n punktach sterujących stopień wielomianu opisującego krzywą jest równy n = 1&nbsp;</span>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<strong><span lang=\"PL\"><span>&nbsp; &nbsp; &nbsp;&nbsp;</span></span></strong><strong><span lang=\"PL\">Krzywe i powierzchnia Beziera</span></strong><p></p>\n<p class=\"MsoNoSpacing\">&nbsp;\n          </p>",
       "id": 2583,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"PL\">Krzywa zawsze przechodzi przez pierwszy i ostatni punkt sterujący&nbsp;</span>",
@@ -318,12 +331,13 @@
           "answer": "<span lang=\"PL\">Liczba punktów sterujących jednoznacznie określa stopień wielomianu opisującego krzywą&nbsp;</span>",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p class=\"MsoNoSpacing\"><strong><span lang=\"PL\"><span>&nbsp; &nbsp; &nbsp; &nbsp;</span></span></strong><strong><span lang=\"PL\">Aliasing</span></strong></p>",
       "id": 2584,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"PL\">&nbsp;jest skutkiem skończonej rozdzielczości rastra</span>",
@@ -341,12 +355,13 @@
           "answer": "<span>&nbsp;może być usunięty metodami&nbsp;</span><span>sprzętowymi</span>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p class=\"MsoNoSpacing\"><strong><span lang=\"PL\"><span>&nbsp; &nbsp; &nbsp;&nbsp;</span></span></strong><strong><span lang=\"PL\">Aliasing</span></strong></p>",
       "id": 2585,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"PL\">w metodzie subpikselowej szacuje się stopień pokrycia piksela przez odcinek&nbsp;</span>",
@@ -360,12 +375,13 @@
           "answer": "<span lang=\"PL\">jest skutkiem skończonej rozdzielczości rastra</span>",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p class=\"MsoNoSpacing\"><strong><span lang=\"PL\"><span>&nbsp; &nbsp;&nbsp;</span></span></strong><strong><span lang=\"PL\">Tor</span></strong><span lang=\"PL\"> <strong>wyświetlania</strong></span></p>",
       "id": 2586,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"PL\">Rozdzielczość liniowa monitora o przekątnej 15’, stosunku boków 4/3 i rozdzielczości pikselowej 800x600 wynosi 68 ppi&nbsp;</span>",
@@ -383,12 +399,13 @@
           "answer": "<span lang=\"PL\">przy wyświetlaniu rastrowym wszystkie piksele są wyświetlane równocześnie&nbsp;</span>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p class=\"MsoNoSpacing\"><strong><span lang=\"PL\"><span>&nbsp;&nbsp;</span></span></strong><strong><span lang=\"PL\">Tor</span></strong><span lang=\"PL\"> <strong>wyświetlania</strong></span></p>",
       "id": 2587,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"PL\">Częstość wyświetlania obrazów na ekranie jest dowolna&nbsp;</span>",
@@ -406,12 +423,13 @@
           "answer": "<span lang=\"PL\">w torze między pamięcią obrazu a monitorem CRT konieczne jest stosowanie przetworników cyfrowo-analogowych</span>",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p class=\"MsoNoSpacing\"><strong><span lang=\"PL\"><span>&nbsp; &nbsp; &nbsp; &nbsp;</span></span></strong><strong><span lang=\"PL\">Algorytm</span></strong><span lang=\"PL\"> <strong>Bresenhama</strong></span></p>",
       "id": 2588,
-      "comments": null,
+      "numberOfComments": 1,
       "answers": [
         {
           "answer": "<span lang=\"PL\">nachylenie odcinka ma znaczenie&nbsp;</span>",
@@ -425,12 +443,19 @@
           "answer": "<span lang=\"PL\">trzeci piksel odcinka o wierzchołkach (2,1), (10, 5) ma współrzędne (4,2)&nbsp;</span>",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~anon@79.143.*.*",
+          "comment": "chyba 3 jest poprawne?\nhttps://www.ahirlabs.com/programing/computer-graphics/bresenham-line-drawing-calulator/",
+          "date": "07-02-2021 15:48:45"
+        }
       ]
     },
     {
       "question": "<p class=\"MsoNoSpacing\"><strong><span lang=\"PL\"><span>&nbsp; &nbsp; &nbsp;</span></span></strong><strong><span lang=\"PL\">Karty graficzne:</span></strong></p>",
       "id": 2589,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"PL\">Pixel Shader umożliwia użytkownikowi korzystanie z własnych algorytmów przy przetwarzaniu wierzchołków&nbsp;</span>",
@@ -444,12 +469,13 @@
           "answer": "<span lang=\"PL\">W najnowszych kartach graficznych obliczenia związanie z modelowaniem są wykonywane przez procesor graficzny&nbsp;</span>",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p class=\"MsoNoSpacing\"><strong><span lang=\"PL\"><span>&nbsp; &nbsp; &nbsp; &nbsp;</span></span></strong><strong><span lang=\"PL\">Diagram Voronoi</span></strong></p>",
       "id": 2590,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"PL\">&nbsp;W każdym wierzchołku diagramu spotykają się dokładnie 4 krawędzie&nbsp;</span>",
@@ -463,12 +489,13 @@
           "answer": "<span lang=\"PL\">Diagram umożliwia rozwiązanie problemu triangularyzacji&nbsp;</span>",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p class=\"MsoNoSpacing\"><strong><span lang=\"PL\"><span>&nbsp; &nbsp; &nbsp;&nbsp;</span></span></strong><strong><span lang=\"PL\">Sztuczna rzeczywistość</span></strong></p>",
       "id": 2591,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"PL\">W systemach VR możliwe jest wskazywanie i chwytanie obiektów za pomocą sztucznej rękawiczki&nbsp;</span>",
@@ -482,12 +509,13 @@
           "answer": "<span lang=\"PL\">&nbsp;System śledzenia głowy dostarcza informacji w postaci 6 współ.&nbsp;</span>",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p class=\"MsoListParagraph\"><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><strong><span lang=\"PL\">Przekształcanie obrazów</span></strong></p>",
       "id": 2592,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"PL\">operacja morphingu pozwala przekształcać jeden obraz w drugi&nbsp;</span>",
@@ -505,12 +533,13 @@
           "answer": "<span lang=\"PL\">obraz z odcieniami szarości można zamienić na obraz barwny&nbsp;</span>",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p class=\"MsoListParagraph\"><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><strong><span lang=\"PL\">Przekształcanie obrazów</span></strong></p>",
       "id": 2593,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"PL\">po zastosowaniu operacji progowania uzyskuje się obraz dwubarwny&nbsp;</span>",
@@ -528,12 +557,13 @@
           "answer": "<span lang=\"PL\">korzystając z metod progowania można zmienić obraz z odcieniami szarości w obraz dwubarwny&nbsp;</span>",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p class=\"MsoListParagraph\"><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><strong><span lang=\"PL\">Rzutowanie</span></strong></p>",
       "id": 2594,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"PL\">w rzucie perspektywicznym bryła widzenia jest prostopadłościanem&nbsp;</span>",
@@ -551,12 +581,13 @@
           "answer": "<span lang=\"PL\">) w rzucie równoległym ortogonalnym odcinki równoległe do siebie pozostają równoległe po wykonaniu rzutowania na płaszczyznę ekranu&nbsp;</span>",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p class=\"MsoListParagraph\"><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><strong><span lang=\"PL\">Przekształcanie obrazów</span></strong></p>",
       "id": 2595,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"PL\">po zastosowaniu operacji progowania uzyskuje się obraz dwubarwny&nbsp;</span>",
@@ -574,23 +605,13 @@
           "answer": "<span lang=\"PL\">korzystając z metod progowania można zmienić obraz z odcieniami szarości w obraz dwubarwny&nbsp;</span>",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p class=\"MsoListParagraph\"><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><strong><span lang=\"PL\">Rzutowanie</span></strong></p>",
       "id": 2596,
-      "comments": [
-        {
-          "author": "~s16395@212.180.*.*",
-          "comment": "z punktu widzenia grk internetowe: ogólnie lepiej będzie napisać ostrosłup ścięty, wygląda że odpowiedzi są na odwrót bo to rzut perspektywiczny będzie dawać ostrosłup a równoległy prostopadłościan, w ostatnim nie jest napisane czy jest równoległy, czy perspektywiczny, więc przyjąłbym wtedy fałsz?",
-          "date": "03-09-2018 22:53:43"
-        },
-        {
-          "author": "~KGracki@185.186.*.*",
-          "comment": "Nie",
-          "date": "16-12-2020 15:18:56"
-        }
-      ],
+      "numberOfComments": 2,
       "answers": [
         {
           "answer": "<span lang=\"PL\">w rzucie równoległym ortogonalnym odcinki równoległe do siebie pozostają równoległe po wykonaniu rzutowania na płaszczyznę ekranu</span>",
@@ -608,12 +629,24 @@
           "answer": "<span lang=\"PL\">) w rzucie ukośnym promienie rzutujące są do siebie równoległe&nbsp;</span>",
           "correct": true
         }
+      ],
+      "comments": [
+        {
+          "author": "~s16395@212.180.*.*",
+          "comment": "z punktu widzenia grk internetowe: ogólnie lepiej będzie napisać ostrosłup ścięty, wygląda że odpowiedzi są na odwrót bo to rzut perspektywiczny będzie dawać ostrosłup a równoległy prostopadłościan, w ostatnim nie jest napisane czy jest równoległy, czy perspektywiczny, więc przyjąłbym wtedy fałsz?",
+          "date": "03-09-2018 22:53:43"
+        },
+        {
+          "author": "~KGracki@185.186.*.*",
+          "comment": "Nie",
+          "date": "16-12-2020 15:18:56"
+        }
       ]
     },
     {
       "question": "<p class=\"MsoListParagraph\"><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><strong><span lang=\"PL\">Barwa w grafice komputerowej</span></strong></p>",
       "id": 2597,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"PL\">w modelu HSV składowa nasycenia jest określana w stopniach&nbsp;</span>",
@@ -631,12 +664,13 @@
           "answer": "<span lang=\"PL\">w modelu CIE xyz reprezentowane są wszystkie barwy widzialne&nbsp;</span>",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p class=\"MsoListParagraph\"><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><strong><span lang=\"PL\">Barwa w grafice komputerowej</span></strong></p>",
       "id": 2598,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"PL\">w modelu HSV barwa biała leży na powierzchni bocznej ostrosłupa&nbsp;</span>",
@@ -654,12 +688,13 @@
           "answer": "<span lang=\"PL\">w modelu CMY odcienie szarości są reprezentowane przez pkt leżące na osi Y&nbsp;</span>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p class=\"MsoListParagraph\"><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><strong><span lang=\"PL\">Barwa w grafice komputerowej</span></strong></p>",
       "id": 2599,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"PL\">&nbsp;w modelu HSV składowa S reprezentuje nasycenie barwy&nbsp;</span>",
@@ -677,12 +712,13 @@
           "answer": "<span lang=\"PL\">w modelu RGB przy reprezentacji barwy za pomocą 24 bitów barwa czarna ma współrzędne (255, 255, 255)&nbsp;</span>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p class=\"MsoListParagraph\"><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><strong><span lang=\"PL\">Barwa w grafice komputerowej</span></strong></p>",
       "id": 2600,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"PL\">w systemie full-color każda składowa barwy jest reprezentowana przez 10 bitów&nbsp;</span>",
@@ -700,12 +736,13 @@
           "answer": "<span lang=\"PL\">Model CMY umożliwia reprezentowanie wszystkich barw widzialnych&nbsp;</span>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p class=\"MsoListParagraph\"><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><strong><span lang=\"PL\">Barwa w grafice komputerowej</span></strong></p>",
       "id": 2601,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"PL\">Model RGB pozwala generować odcienie szarości&nbsp;</span>",
@@ -719,12 +756,13 @@
           "answer": "<span lang=\"PL\">Model RGB wykorzystywany w grafice komputerowej ma budową dyskretną&nbsp;</span>",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p class=\"MsoListParagraph\"><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><strong><span lang=\"PL\">Podstawowe algorytmy rastrowe</span></strong></p>",
       "id": 2602,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"PL\">w algorytmie Bresenhama rysowania odcinka w każdym cyklu obliczeń korzysta się z równania linii prostej&nbsp;</span>",
@@ -742,12 +780,13 @@
           "answer": "<span lang=\"PL\">dwa przecinające się odcinki mogą nie mieć wspólnego odcinka&nbsp;</span>",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p class=\"MsoListParagraph\"><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><strong><span lang=\"PL\">Podstawowe algorytmy rastrowe</span></strong></p>",
       "id": 2603,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"PL\">dwa przecinające się odcinki mogą mieć więcej niż jeden piksel wspólny&nbsp;</span>",
@@ -765,12 +804,13 @@
           "answer": "<span lang=\"PL\">efekt aliasingu można usunąć korzystając z metody Gourauda&nbsp;</span>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p class=\"MsoListParagraph\"><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><strong><span lang=\"PL\">Stereoskopia</span></strong></p>",
       "id": 2604,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"PL\">dla uzyskania efektu widzenia przestrzennego potrzebna jest para identycznych obrazów&nbsp;</span>",
@@ -788,12 +828,13 @@
           "answer": "<span lang=\"PL\">dla wyznaczenia pary obrazów wykorzystuje się metodę rzutu równoległego&nbsp;</span>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p class=\"MsoListParagraph\"><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><strong><span lang=\"PL\">Stereoskopia</span></strong></p>",
       "id": 2605,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"PL\">przy wyznaczaniu par obrazów uwzględnia się rozstaw oczu obserwatora obserwatora od ekranu&nbsp;</span>",
@@ -807,12 +848,13 @@
           "answer": "<span lang=\"PL\">istotne jest uwzględnienie w obliczeniach odległości obserwatora od ekranu&nbsp;</span>",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p class=\"MsoListParagraph\"><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><strong><span lang=\"PL\">Eliminowanie powierzchni niewidocznych</span></strong></p>",
       "id": 2606,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"PL\">&nbsp;metoda śledzenia promieni zapewnia eliminowanie powierzchni niewidocznych&nbsp;</span>",
@@ -830,12 +872,13 @@
           "answer": "<span lang=\"PL\">metoda&nbsp;</span><span>z-bufora wymaga korzystania z pomocniczego bufora pamięci określonej przez rozdzielczość ekranu</span><p></p>\n<p><span lang=\"PL\">&nbsp;<br></span></p>",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p class=\"MsoListParagraph\"><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><strong><span lang=\"PL\">Eliminowanie powierzchni niewidocznych</span></strong></p>",
       "id": 2607,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"PL\">&nbsp;metoda malarska&nbsp;</span><span>wymaga korzystania z pomocniczego bufora pamięci określonej przez rozdzielczość ekranu</span><p></p>\n<p><span lang=\"PL\">&nbsp;<br></span></p>",
@@ -853,12 +896,13 @@
           "answer": "<span lang=\"PL\">metoda z-bufora wymaga korzystania z pomocniczego bufora pamięci określonej przez rozdzielczość ekranu&nbsp;</span><p></p>\n<p><span lang=\"PL\"><span>&nbsp;</span>&nbsp;</span></p>",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p class=\"MsoListParagraph\"><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><strong><span lang=\"PL\">Eliminowanie powierzchni niewidocznych</span></strong></p>",
       "id": 2608,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"PL\">w algorytmie z-bufora konieczne jest wstępne sortowanie wielokątów&nbsp;</span>",
@@ -876,12 +920,13 @@
           "answer": "<span lang=\"PL\">algorytm z-bufora jest wykorzystywany do wypełniania powierzchni wielokątów&nbsp;</span>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p><span><span><span>Scena składa się z sześcianu i odległego źródła światła. Obserwator może być w dowolnym miejscu poza sześcianem</span></span></span></p>",
       "id": 2993,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<p><span><span><span>przy obliczaniu oświetlenia sceny trzeba rozwiązać problem widoczn. ścian ze źródła św.</span></span></span></p>",
@@ -895,12 +940,13 @@
           "answer": "<p><span><span><span>w trakcie obliczeń konieczne jest wyznaczenie normalnych do poszczególnych ścian</span></span></span></p>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p><span><span><span>Zasłanianie</span></span></span></p>",
       "id": 2994,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<p><span><span><span>metoda badania normalnych do ścian obiektów jest uniwersalną metodą rozwiązywania problemu przesłaniania</span></span></span></p>",
@@ -914,12 +960,13 @@
           "answer": "<p><span><span><span>w metodzie z-bufora przy wyznaczaniu barwy piksela o współrzędnych x,y zawsze pamięta się współrzędną z ostatnio analizowanego punktu o współrzędnych x,y,z</span></span></span></p>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p><span><span>Przy modelowaniu obiektów 3D</span></span></p>",
       "id": 2995,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<p><span><span>metodą wielokątową preferowane jest korzystanie z trójkątów</span></span></p>",
@@ -933,12 +980,13 @@
           "answer": "<p><span><span>metodą octree dokonuje się równomiernego podziału z zadaną dokładnością</span></span></p>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p><span><span><span>W modelach wyznaczania oświetlenia</span></span></span></p>",
       "id": 2996,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<p><span><span><span>światło rozproszenia jest związane z wybranym źródłem światła</span></span></span></p>",
@@ -952,12 +1000,13 @@
           "answer": "<p><span><span><span>przy analizie odbicia zwierciadlanego wektor normalny jest skierowany do obserwatora</span></span></span></p>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p><span><span><span>Różne:</span></span></span></p>",
       "id": 2997,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<p><span><span><span>przy opisie parametrycznym odcinka znając wartość parametru bieżącego można wyznaczyć współrzędne odpowiedniego punktu na odcinku</span></span></span></p>",
@@ -975,12 +1024,13 @@
           "answer": "<p><span><span><span>w standardzie MPEG przy kompresji sekwencji obrazów wykorzystuje się kompresję każdego obrazu niezależnie kompresją JPEG</span></span></span></p>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p><span><span><span>Różne</span></span></span></p>",
       "id": 2998,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<p><span><span><span>w formacie BMP można zapisywać obrazy o różnych rozdzielczościach</span></span></span></p>",
@@ -990,12 +1040,13 @@
           "answer": "<p><span><span>warping to jedna z metod kodowania obrazu&nbsp;</span></span></p>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p><span><span>Podstawowe informacje&nbsp;</span></span></p>",
       "id": 2999,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<p><span><span>kwadrat o współrzędnych wierzchołków (0,0), (1,0), (1,1), (0,1) został poddany operacji </span></span></p>\n<p>&nbsp;<span>skalowania ze współczynnikami Sx=2, Sy=3 i przesunięte o wektor [2,3]. Współrzędne figury to (2,5)</span></p>",
@@ -1009,12 +1060,13 @@
           "answer": "<p><span><span><span>w transformacj</span><span>i skalowania punk względem którego następuje skalowanie musi pokrywać się z początkiem układu współrzędnych</span></span></span></p>",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p><span><span><span>.Bryły&nbsp;</span></span></span></p>",
       "id": 3000,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<p><span><span>w metodzie Brep przy wektorowej reprezentacji bryły są definiowane i wyświetlane tylko </span></span></p>\n<p>&nbsp;</p>\n<p><span><span><span>wierzchołki i krawędzie bryły</span></span></span></p>",
@@ -1028,12 +1080,13 @@
           "answer": "<p><span><span><span>w metodzie CSG jest dostępne tylko info o wnętrzu bryły</span></span></span></p>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p><span><span><span>Przejście ze sceny 3D na 2D&nbsp;</span></span></span></p>",
       "id": 3001,
-      "comments": null,
+      "numberOfComments": 1,
       "answers": [
         {
           "answer": "<p><span><span><span>w rzucie ukośnym promienie rzutujące przecinają się w jednym punkcie</span></span></span></p>",
@@ -1051,12 +1104,19 @@
           "answer": "<p><span>w rzutowaniu ortogonalnym odległość odcinków zawsze zostaje zachowana</span></p>",
           "correct": true
         }
+      ],
+      "comments": [
+        {
+          "author": "~ja@31.178.*.*",
+          "comment": "czy pierwsze nie jest przypadkiem błędne?",
+          "date": "10-02-2021 18:47:27"
+        }
       ]
     },
     {
       "question": "<span>Przejście ze sceny 3D na 2D&nbsp;</span>",
       "id": 3002,
-      "comments": null,
+      "numberOfComments": 1,
       "answers": [
         {
           "answer": "<p><span>w rzucie perspektywicznym istotna jest odległość obserwatora od ekranu&nbsp;</span></p>",
@@ -1070,12 +1130,19 @@
           "answer": "<p><span>w rzucie ukośnym promienie rzutujące przecinają się w jednym punkcie&nbsp;</span></p>",
           "correct": true
         }
+      ],
+      "comments": [
+        {
+          "author": "~anon@89.71.*.*",
+          "comment": "w rzucie ukośnym promienie sie nie przecinają",
+          "date": "15-12-2020 20:40:06"
+        }
       ]
     },
     {
       "question": "<p><span><span>Kompresja i przetwarzanie obrazów&nbsp;</span></span></p>",
       "id": 3003,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<p><span><span><span>Kompresja obrazu metodą RLE jest kompresją stratną</span></span></span></p>",
@@ -1089,12 +1156,13 @@
           "answer": "<p><span><span><span>Odbicie zwierc. obr. (w poziomie) można uzyskać zamieniając miejscami odpowiednie wzorce obr</span><span>.</span></span></span></p>",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p><span><span>Kompresja i przetwarzanie obrazów</span></span></p>",
       "id": 3004,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<p><span><span><span>w kompresji JPEG wykorzystuje się tranformatę sinusową</span></span></span></p>",
@@ -1112,12 +1180,13 @@
           "answer": "<p><span><span><span>kompresja liczby barw w obrazie jest</span><span> kompresją bezstratną</span></span></span></p>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p><span><span><span>Dany jest obraz o rozdzielczości 640x480x24 (w innym zestawie: 1024x768x24)</span></span></span></p>",
       "id": 3005,
-      "comments": null,
+      "numberOfComments": 1,
       "answers": [
         {
           "answer": "<p><span><span><span>do zapamiętania obrazu (bez kompresji) potrzebna jest pamięć min. </span><span>0.5 MB</span></span></span></p>",
@@ -1131,12 +1200,19 @@
           "answer": "<p><span><span><span>jeżeli korzystamy z modemu 56 kb/s to czas przesyłania obrazu wynosi 6 s</span></span></span></p>",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~s16395@212.180.*.*",
+          "comment": "640x480x24=4,37e6~900kB~0,86MB, a co do czasu na piksel, to może warto dodać do pytania jakieś parametry, czy to jest LCD / CRT",
+          "date": "03-09-2018 22:56:43"
+        }
       ]
     },
     {
       "question": "<p><span><span><span>Ile klatek należy wygenerować dla filmu animowanego wyświetlanego z częstotliwością 24 klatek/s i trwającego 3 min?</span></span></span></p>",
       "id": 3006,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<p lang=\"en-US\"><span><span>1090</span></span></p>",
@@ -1150,12 +1226,13 @@
           "answer": "<p lang=\"en-US\"><span><span>4320</span></span></p>",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Podstawowe algorytmy rastrowe.",
       "id": 3007,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "W algorytmach obcinania odcinków wyrónia sié etap wstépnej eliminacj odcinków",
@@ -1169,12 +1246,13 @@
           "answer": "Algorytm wypeniania z punktem poczátkowym umożliwia wypenianie figur niewypukłych",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p><span><span>Teksturowanie&nbsp;</span></span></p>",
       "id": 3008,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<p><span><span><span>wzór tekstury jest zawsze odwzorowany bezpośrednio na docelowy obiekt</span></span></span></p>",
@@ -1192,12 +1270,13 @@
           "answer": "<p><span><span><span>w procesie teksturowani</span><span>a zawsze stosuje się odwzorowyw.</span><span> jeden teksel -&gt; jeden piksel</span></span></span></p>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p><span><span>Teksturowanie</span></span></p>",
       "id": 3009,
-      "comments": null,
+      "numberOfComments": 1,
       "answers": [
         {
           "answer": "<p><span><span>przy odwzorowywaniu tekstury na złożony obiekt czasami stosuje się odwzorowanie na </span></span></p>\n<p>&nbsp;</p>\n<p><span><span><span>pośrednią powierzchnię</span></span></span></p>",
@@ -1215,12 +1294,19 @@
           "answer": "<p><span><span><span>przy teksturowaniu barwa piksela zawsze jest określana przez barwę jednego teksel</span><span>a&nbsp;</span></span></span></p>",
           "correct": true
         }
+      ],
+      "comments": [
+        {
+          "author": "~s16395@212.180.*.*",
+          "comment": "\"Rys. XI.7. Teksturowanie metodą odwzorowania wprost. Barwa piksela jest określona przez kilka tekseli.\" Poza tym nie jestem pewien co do stwierdzenia teksel to odpowiednik piksela na płaszczyźnie...",
+          "date": "03-09-2018 23:00:20"
+        }
       ]
     },
     {
       "question": "<p><span><span>Animacja&nbsp;</span></span></p>",
       "id": 3010,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<p><span><span><span>zmiana kształtu obiektu w kolejnych ramkach to też animacja</span></span></span></p>",
@@ -1238,12 +1324,13 @@
           "answer": "<p><span><span><span>tor poruszania się punku można opisać za pomocą linii beziera</span></span></span></p>",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<span>Animacja&nbsp;</span>",
       "id": 3011,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<p><span><span><span>w animacji występuje pojęcie ramek kluczowych</span></span></span></p>",
@@ -1261,12 +1348,13 @@
           "answer": "<p><span><span><span>w animacji zawsze przestrzega się praw fizyki</span></span></span></p>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p><span><span>Rzutowanie</span></span></p>",
       "id": 3012,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<p><span><span><span>bryła widzenia zwiera obiekty które na pewno będą widoczne na ekranie</span></span></span></p>",
@@ -1280,12 +1368,13 @@
           "answer": "<p><span><span><span>w rzucie ukośnym promienie rzutujące są do siebie równoległe&nbsp;</span></span></span></p>",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p><span><span>Rzutowanie</span></span></p>",
       "id": 3013,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<p><span><span><span>w rzucie perspektywicznym bryła widzenia jest prostopadłościanem</span></span></span></p>",
@@ -1303,12 +1392,13 @@
           "answer": "<p><span><span><span>bryła widzenia zwiera obiekty które na pewno będą widoczne na ekranie</span></span></span></p>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p><span><span>Rzutowanie&nbsp;</span></span></p>",
       "id": 3014,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<p><span><span><span>w rzucie ukośnym promienie rzutujące są do siebie równoległe</span></span></span></p>",
@@ -1322,12 +1412,13 @@
           "answer": "<p><span><span>w rzucie równoległym ortogonalnym odcinki równoległe do siebie pozostają równoległe po </span></span></p>\n<p>&nbsp;</p>\n<p><span><span><span>wykonaniu rzutowania na płaszczyznę ekranu&nbsp;</span></span></span></p>",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Barwa w grafice komputerowej",
       "id": 3015,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "W modelu barw sRGB wykorzystywana jest barwa biała D65",
@@ -1341,12 +1432,13 @@
           "answer": "W modelu barw CIE XYZ reprezentowane są wszystkie barwy widzialne",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Rzutowanie",
       "id": 3016,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "W rzucie równoległym ortogonalnym bryła widzenia jest ostrosłupem ścietym",
@@ -1360,12 +1452,13 @@
           "answer": "<p><span><span>w rzucie równoległym ortogonalnym odcinki równoległe do siebie pozostają równoległe po </span></span></p>\n<p>&nbsp;</p>\n<p><span><span><span>wykonaniu rzutowania na płaszczyznę ekranu&nbsp;</span></span></span></p>",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Eliminowanie powierzchni niewidocznych",
       "id": 3019,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Metoda malarska wymaga korzystania z pomocniczego buforu pamięcio pojęmności określonej przez bufor ekranu",
@@ -1379,12 +1472,13 @@
           "answer": "Metoda z-bufora jest wykorzystywana w grafice 2D",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Metody cieniowania",
       "id": 3020,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "W metodzie Phonga wyznacza się barwy pikseli należących do trójkąta, dla którego znane są wartościach normalnych w wierzchołkach",
@@ -1398,12 +1492,13 @@
           "answer": "Metoda Gourand jest stosowana w odniesieniu do obiektów 3D przed operacją rzutowania na płaszczyzne ekranu",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Metoda śledzenia promienia",
       "id": 3021,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Metoda ta pozwala rozwiązać problem zasłaniania",
@@ -1417,12 +1512,13 @@
           "answer": "Przy korzystaniu z tej metody wykorzystuje sie równiez metode Gourand",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p>&nbsp;</p>\n<p lang=\"pl-PL\"><span> <span><span><strong>Wyjaśnić zasadę działania monitora autostereoskopowego.</strong></span></span></span></p>",
       "id": 3022,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<p lang=\"pl-PL\"><span><span><span>Ekran LCD podzielony jest na pionowe paski, na których wyświetlane są na przemian obrazy dla prawego i lewego oka. Druga warstwa ruchomych przesłon znajduje się przed wcześniejszą warstwą i umożliwia oglądanie odpowiednich pasków przez lewe i prawie oko</span></span></span></p>",
@@ -1432,12 +1528,13 @@
           "answer": "<p lang=\"pl-PL\"><span><span><span>Monitor wolumetryczny to urządzanie wyświetlające obraz w przestrzeni ( pełnym 3D ). Aktualnie można ten efekt uzyskać albo za pomocą specjalnego projektora wyświetlającego 5000 obrazków na sekundę,</span></span></span><span>przekręconych o 1,25 stopnia każdy.</span></p>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p lang=\"pl-PL\"><span><span><span><strong>Wyjaśnić co to jest odwzorowanie(mapowanie) normalnych.</strong></span></span></span></p>",
       "id": 3023,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<p lang=\"pl-PL\"><span><span><span>Jest to technika teksturowania, która symuluje niewielkie wypukłości na powierzchni, bez ingerencji w geometrie obiektu. Polega na zastąpieniu normalnych (prostopadłych do powierzchni) obiektu, wektorami normalnymi zapisanymi na mapie</span></span></span></p>",
@@ -1447,12 +1544,13 @@
           "answer": "<p lang=\"pl-PL\"><span><span><span>Jest to technika polegająca na tworzeniu mapy normalnych na podstawie skomplikowanego kształtu złożonego np z trójkątów. Mapa pozwala na zmniejszenie liczy trójkątów w danym kształcie. Nakładając mapę normalnych na uproszczony kształt uzyskujemy zbliżony efekt, przy redukcji skomplikowania.</span></span></span></p>",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p lang=\"pl-PL\"><span><span><span><strong>Wyjaśnić pojęcia: OBB, rękawica w systemach sztucznej rzeczywistości.</strong></span></span></span></p>",
       "id": 3024,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<p lang=\"pl-PL\"><span><span><span>OBB – Oriented Bounding Box - metoda wykrywania kolizji dwóch prostopadłościanów, przy czym każdy z nich może mieć inny wektor przesunięcia i rotacji względem początku układu współrzędnych. Poza tym&nbsp;</span></span></span><span>aspektem, jest identyczny jak AABB. Jest najbardziej precyzyjną metodą wykrywania kolizji ale i najbardziej skomplikowaną obliczeniowo.</span></p>",
@@ -1462,12 +1560,13 @@
           "answer": "<p lang=\"pl-PL\"><span><span><span>Rękawica: manipulator który przenosi ruchy użytkownika w rzeczywistym świecie na odpowiednie ruchy w systemie sztucznej rzeczywistości. Rękawica bardziej zaawansowana technologicznie może też przenosić wrażenia dotykowe ze świata wirtualnego do rzeczywistego, pogłębiając zanurzanie się w wirtualnym świecie.</span></span></span></p>",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p lang=\"pl-PL\"><span><span><span><strong>Wyjaśnić koncepcję monitora wolumetrycznego.</strong></span></span></span></p>",
       "id": 3025,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<p lang=\"pl-PL\"><span><span><span>Monitor wolumetryczny to urządzanie wyświetlające obraz w przestrzeni ( pełnym 3D ). Aktualnie można ten efekt uzyskać albo za pomocą specjalnego projektora wyświetlającego 5000 obrazków na sekundę,</span></span></span><span>przekręconych o 1,25 stopnia każdy. Innym sposobem jest zastosowanie technologii opartej na macierzy diod LED. Reprezentowany obraz jest w pełni trójwymiarowy, unosząc się w powietrzu i tym samym umożliwia oglądanie takiego modelu z każdej strony. Jeszcze inną realizacją wyświetlacza wolumetrycznego</span></p>",
@@ -1477,12 +1576,13 @@
           "answer": "<p lang=\"pl-PL\"><span><span><span>jest tzw. Depth Cube - kostka ekranów LCD położonych jeden za drugim, na których obraz wyświetlany jest w danej chwili tylko na jednym z ekranów, podczas gdy pozostałe są przezroczyste. Szybkie przełączanie ekranów i wyświetlanie na nich kolejnych „plastrów” sceny pozwala na wyświetlenie obrazu 3D.</span></span></span></p>",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<pre>Podstawowe algorytmy rastrowe</pre>",
       "id": 3026,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<pre>w algorytmie obcinania odcinków wyróżnia się etap wstępnej eliminacji odcinków</pre>",
@@ -1496,12 +1596,13 @@
           "answer": "<pre>w algorytmie Bresenhama rysowania odcinka nie korzysta się z równania linii prostej na\n której leży odcinek</pre>",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Teksturowanie",
       "id": 3027,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Wzór tekstury jest zawsze odwzorowywany bezpośrednio na docelowy obiekt",
@@ -1515,12 +1616,13 @@
           "answer": "W metodzie bump mupping modyfikowana jest powierzchnia obiektu",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Przetwarzanie obrazów",
       "id": 3028,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "W wyniku pseudokolorowania uzyskuje sie obraz dwubarwny",
@@ -1534,12 +1636,13 @@
           "answer": "W operacji kodowania obrazów na zasadzie predykcji bierze sie pod uwagę określone sąsiedzotwo pikseli",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Kompresja obrazów",
       "id": 3029,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "W metodach bezstratnych obraz po dekompresji może sie róznic od obrazu pierwotnego.",
@@ -1553,8 +1656,9 @@
           "answer": "W metodzie Huffmana kod przypisaywany barwie zależy od częstości jej wystepowania w obrazie",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     }
   ],
-  "updatedAt": 1614650414152
+  "updatedAt": 1625347561923
 }

@@ -5,7 +5,7 @@
     {
       "question": "Rejestr złożony z „zielonych”, „białych” i żółtych stron jest opisany specyfikacja:",
       "id": 2116,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "SOAP",
@@ -23,12 +23,13 @@
           "answer": "XLST",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "W strukturze kopert (envelope) SOAP, nagłówki są przeznaczone dla:",
       "id": 2117,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Zawsze dla ostatecznego odbiorcy komunikatu",
@@ -46,12 +47,13 @@
           "answer": "Dla protokołów niższej warstwy",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Zastosowanie XML do zapisu komunikatów SOAP nie jest motywowane:",
       "id": 2118,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Umożliwieniem odczytu komunikatu na dowolnej platformie",
@@ -69,12 +71,13 @@
           "answer": "Dążeniem do wykorzystania infrastruktury protokołu http",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "DOM (Document Object Model) jest :",
       "id": 2119,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Deklaratywnym językiem przekształceń XML opratym na szablonach",
@@ -92,12 +95,13 @@
           "answer": "Interfejsem zaliczanym do klasy tzw. Wiązań XML (XML Binding)",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Wyrażenie ścieżkowe w XPath:",
       "id": 2120,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Selekcjonuje zawsze pojedynczy element lub atrybut",
@@ -115,12 +119,13 @@
           "answer": "Może zawierać zagnieżdżony kod Java Script",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "W DTD typ atrybutu możemy m.in. określić jako",
       "id": 2121,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Date",
@@ -138,12 +143,13 @@
           "answer": "ID",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Pokazany niżej element XML „tresc” posiada:<br>\n<br>\n&lt;tresc&gt;<br>\nSzanowny Panie<br>\n&lt;nazwisko klienta&gt;Kowalski&lt;/nazwisko klienta&gt;<br>\nPotwierdzamy przyjęcie Pana zamówienia.<br>\n&lt;/tresc&gt;<br>",
       "id": 2122,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Zawartość tekstową",
@@ -161,12 +167,13 @@
           "answer": "Trzy encje wewnętrzne",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "We wzorcu PRG( POST-REDIRECT-GET) celem jest:",
       "id": 2182,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Zmniejszenie liczby przesyłanych komunikatów przy komunikacji ze stroną",
@@ -184,12 +191,13 @@
           "answer": "Wyelminownie konieczności stosowania żadań POST",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "&nbsp;<p></p>\n<p><strong><span>Poniższy dokument XML jest:</span></strong></p>\n<p><br></p>\n<p class=\"MsoListParagraphCxSpFirst\"><span>&nbsp;</span>&lt;?xml version=”1.0” encoding =”UTF-8”&gt;</p>\n<p class=\"MsoListParagraphCxSpMiddle\">&lt;dokument autor = „Nowak”&gt;</p>\n<p class=\"MsoListParagraphCxSpMiddle\">To jest treść dokumentu</p>\n<p class=\"MsoListParagraphCxSpLast\">&lt;dokument&gt;\n          </p>",
       "id": 2123,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Poprawny, ale tylko składniowo (well fordem)",
@@ -207,12 +215,13 @@
           "answer": "Niepoprawny",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Z punktu widzenia bezpieczeństwa, plik Cookiem powinny być:",
       "id": 2124,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Wyłączone z użycia poprzez odpowiednie ustawienia konfiguracyjne przeglądarki",
@@ -230,12 +239,13 @@
           "answer": "Zawsze zaszyfrowane - w transmisji na dysku",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "&nbsp;<p></p>\n<p class=\"MsoListParagraph\"><strong><span><span>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></strong><strong>Które z zaleceń jest niewłaściwe dla bezpiecznego identyfikatora sesji w aplikacji WWW?</strong>\n          </p>",
       "id": 2125,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Powinien być w pełni losowy",
@@ -253,12 +263,13 @@
           "answer": "Jego wartość powinna zależeć od parametrów użytkownika",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "&nbsp;<p></p>\n<p class=\"MsoListParagraph\"><strong><span><span>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></strong><strong>Dla aplikacji WWW służących sprzedaży towarów poprzez Internet, najbardziej wskazany jest model:</strong>\n          </p>",
       "id": 2126,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": ",,grubego klienta''",
@@ -276,12 +287,13 @@
           "answer": ",,klienta-broker-serwer\"",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Komunikacja z serwerem aplikacyjnym za pomocą RMI jest cechą:",
       "id": 2127,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "aplikacji WWW w modelu „grubego klienta”",
@@ -299,12 +311,13 @@
           "answer": "aplikacji opartych na Web Services",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<strong>Dla którego z poniższych zadań środki wyrazu języka DTD nie wystarczą?</strong>",
       "id": 2177,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Deklaracja wartości domyślnej dla atrybutu",
@@ -322,12 +335,13 @@
           "answer": "Deklaracja elemtnu o zawartości mieszanej",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<strong>Usługą, która nie wykazuje zjawiska ,,lokalności odwołan\" jest</strong>",
       "id": 2178,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "NFS",
@@ -345,12 +359,13 @@
           "answer": "WWW",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "&nbsp;<p></p>\n<p class=\"MsoListParagraph\"><strong><span><span>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></strong><strong>Tzw. Dynamiczny HTML opiera się na specyfikacjach: </strong>\n          </p>",
       "id": 2128,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "HTML, JSP i Serverletach",
@@ -368,12 +383,13 @@
           "answer": "XML, SOAP, WSDL",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "&nbsp;<p></p>\n<p class=\"MsoListParagraph\"><strong><span><span>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></strong><strong>Ciasteczka (Cookies) umożliwiają skryptom: </strong>\n          </p>",
       "id": 2129,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "prześledzenie aktywności użytkownika w innych serwisach",
@@ -391,23 +407,13 @@
           "answer": "instalację kodu uruchamianego przy starcie przeglądarki",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Podejście REST (Representational State Transfer) nie zaleca:",
       "id": 2130,
-      "comments": [
-        {
-          "author": "~GoodGirl@89.67.*.*",
-          "comment": "Poprawna: \"Podtrzymania stanu sesji na serwerze\"\nNa podstawie wykładu 12, slajd 4",
-          "date": "27-01-2014 19:23:58"
-        },
-        {
-          "author": "mykhi",
-          "comment": "poprawiam.",
-          "date": "27-01-2014 19:29:28"
-        }
-      ],
+      "numberOfComments": 2,
       "answers": [
         {
           "answer": "Udostępnienia zasobów wyodrębnionych jako encje",
@@ -425,12 +431,24 @@
           "answer": "Ograniczenia dostępnych akcji do metod Web API",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~GoodGirl@89.67.*.*",
+          "comment": "Poprawna: \"Podtrzymania stanu sesji na serwerze\"\nNa podstawie wykładu 12, slajd 4",
+          "date": "27-01-2014 19:23:58"
+        },
+        {
+          "author": "mykhi",
+          "comment": "poprawiam.",
+          "date": "27-01-2014 19:29:28"
+        }
       ]
     },
     {
       "question": "&nbsp;<p></p>\n<p class=\"MsoListParagraph\"><strong><span><span>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></strong><strong>Który z komunikatów występuje w protokole http?</strong>\n          </p>",
       "id": 2131,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "PING",
@@ -448,23 +466,13 @@
           "answer": "ENCRYPT",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Centralizacja niektórych aspektów w technologii P2P nie jest podyktowana problemem:",
       "id": 2132,
-      "comments": [
-        {
-          "author": "~GoodGirl@89.67.*.*",
-          "comment": "Poprawna: \"Zapewnienia prywatności uczestników\"",
-          "date": "27-01-2014 23:13:36"
-        },
-        {
-          "author": "mykhi",
-          "comment": "poprawiam.",
-          "date": "27-01-2014 23:14:42"
-        }
-      ],
+      "numberOfComments": 2,
       "answers": [
         {
           "answer": "sprawności wyszukiwania innych węzłów",
@@ -482,12 +490,24 @@
           "answer": "Zapewnienia prywatności uczestników",
           "correct": true
         }
+      ],
+      "comments": [
+        {
+          "author": "~GoodGirl@89.67.*.*",
+          "comment": "Poprawna: \"Zapewnienia prywatności uczestników\"",
+          "date": "27-01-2014 23:13:36"
+        },
+        {
+          "author": "mykhi",
+          "comment": "poprawiam.",
+          "date": "27-01-2014 23:14:42"
+        }
       ]
     },
     {
       "question": "Wskaż zalecenie niewłaściwe dla bezpiecznego identyfikatora sesji w aplikacji:",
       "id": 2133,
-      "comments": null,
+      "numberOfComments": 1,
       "answers": [
         {
           "answer": "Powinien być w pełni losowy",
@@ -505,12 +525,19 @@
           "answer": "Jego wartość powinna zależeć od parametrów użytkownika",
           "correct": true
         }
+      ],
+      "comments": [
+        {
+          "author": "~GoodGuy@31.11.*.*",
+          "comment": "Poprawna: \"Jego wartość powinna zależeć od parametrów użytkownika\".\n\nTakie samo pytanie jak 11.",
+          "date": "27-01-2014 23:19:16"
+        }
       ]
     },
     {
       "question": "&nbsp;<p></p>\n<p class=\"MsoListParagraph\"><strong><span><span>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></strong><strong>Protokół TCP jest protokołem :</strong>\n          </p>",
       "id": 2134,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Połączeniowym , niezawodnego przesyłania",
@@ -528,12 +555,13 @@
           "answer": "Bezpołączeniowym, bez potwierdzenia odbioru",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "&nbsp;<p></p>\n<p class=\"MsoListParagraph\"><strong><span><span>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></strong><strong>W modelu warstw protokołów internetowych, protokół http przynależy do warstwy:</strong>\n          </p>",
       "id": 2135,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Połączeniowej",
@@ -551,12 +579,13 @@
           "answer": "Aplikacji",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "&nbsp;<p></p>\n<p class=\"MsoListParagraph\"><strong><span><span>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></strong><strong>Rejestr UDDI jest dostępny jako<span>&nbsp; </span>(wskaż kompletną odpowiedź):</strong>\n          </p>",
       "id": 2136,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Tradycyjny serwis WWW",
@@ -574,12 +603,13 @@
           "answer": "Usługa standardu Corba lub usługa Web Service",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p class=\"MsoListParagraphCxSpFirst\"><strong>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></strong><strong>Selektor CSS sformułowany jako h5.n1 selekcjonuje element[y]:</strong></p>\n<p class=\"MsoListParagraphCxSpMiddle\">&nbsp;</p>",
       "id": 2137,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span>&lt;h5 id=”n1”&gt;....&lt;/h5&gt;</span>",
@@ -597,12 +627,13 @@
           "answer": "&nbsp;&lt;h5 class=”n1”&gt;... &lt;/h5&gt;",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p class=\"MsoListParagraph\"><strong>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></strong><strong>Transport bez gwarancji niezawodnego dostarczenia oferuje protokół:</strong></p>",
       "id": 2138,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "FTP",
@@ -620,12 +651,13 @@
           "answer": "<span>IMCP</span>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "&nbsp;<p></p>\n<p class=\"MsoListParagraph\"><strong><span><span>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></strong><strong>Która z poniższych cech jest nieodłączną właściwością Web Services:</strong>\n          </p>",
       "id": 2139,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Sprzedaż usługi poprzez serwis internetowy",
@@ -643,12 +675,13 @@
           "answer": "Hermetyzacja",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<strong>Wadą języków znaczników jest</strong>",
       "id": 2176,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Niemożność automatycznego skontrolowania poprawności",
@@ -666,12 +699,13 @@
           "answer": "Znaczna objętość zapisanej tak informacji",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<strong><span>W języku Xforms walidacja formularzy jest osiągalna za pomocą:</span></strong>",
       "id": 2140,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<p class=\"\\&quot;\\\\&quot;MsoListParagraph\\\\&quot;\\&quot;\"><span>Definicja danych oparta na XML Schema</span></p>",
@@ -689,12 +723,13 @@
           "answer": "<p class=\"\\&quot;\\\\&quot;MsoListParagraph\\\\&quot;\\&quot;\">Wyrażeń Xpath<strong></strong></p>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "&nbsp;<p></p>\n<p class=\"MsoListParagraph\"><strong><span><span>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></strong><strong>Język WSDL służy wyspecyfikowaniu (wskaż kompletną odpowiedź):</strong>\n          </p>",
       "id": 2141,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Zapotrzebowanie klienta na usługę WWW",
@@ -712,12 +747,13 @@
           "answer": "Semantyki usługi",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p class=\"MsoListParagraphCxSpFirst\"><strong>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></strong><strong>Projekt Seti@Home to:</strong></p>\n<p class=\"MsoListParagraphCxSpMiddle\">&nbsp;</p>",
       "id": 2142,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "System rozproszonych obliczeń oparty na P2P",
@@ -735,23 +771,13 @@
           "answer": "<p class=\"\\&quot;MsoListParagraph\\&quot;\">Generyczna platforma do tworzenia systemów opartych o architekturę P2P<strong></strong></p>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Definicja w Języku WSDL nie obejmuje",
       "id": 2143,
-      "comments": [
-        {
-          "author": "~GoodGuy@31.11.*.*",
-          "comment": "Tutaj \"Wskazania usług, które trzeba wywołać przed użyciem specyfikowanej usługi\"\n\nŹródło: Prezentacja 11, slajdy: od 14-18",
-          "date": "27-01-2014 19:01:54"
-        },
-        {
-          "author": "mykhi",
-          "comment": "fixed.",
-          "date": "27-01-2014 19:04:39"
-        }
-      ],
+      "numberOfComments": 2,
       "answers": [
         {
           "answer": "Specyfikacji typów XML użytych w komunikatach",
@@ -769,12 +795,24 @@
           "answer": "Wskazania usług, które trzeba wywołać przed użyciem specyfikowanej usługi",
           "correct": true
         }
+      ],
+      "comments": [
+        {
+          "author": "~GoodGuy@31.11.*.*",
+          "comment": "Tutaj \"Wskazania usług, które trzeba wywołać przed użyciem specyfikowanej usługi\"\n\nŹródło: Prezentacja 11, slajdy: od 14-18",
+          "date": "27-01-2014 19:01:54"
+        },
+        {
+          "author": "mykhi",
+          "comment": "fixed.",
+          "date": "27-01-2014 19:04:39"
+        }
       ]
     },
     {
       "question": "&nbsp;<p></p>\n<p class=\"MsoListParagraph\"><strong><span lang=\"EN-US\"><span>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></strong><strong><span lang=\"EN-US\">SAX ( Simple Api for XML) jest:</span></strong>\n          </p>",
       "id": 2144,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Deklaratywnym językiem przekształceń XML opartym na szablonach",
@@ -792,28 +830,13 @@
           "answer": "Językiem zgodnym ze składnia XML, przewidzianym do zagnieżdżenia w dokumentach",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p class=\"MsoListParagraphCxSpFirst\"><strong><em><span lang=\"EN-US\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></em></strong>&nbsp;<strong><span lang=\"EN-US\">Poniższy dokument XML:<em></em></span></strong></p>\n<p class=\"MsoListParagraphCxSpMiddle\"><strong><span lang=\"EN-US\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>&lt;?xml &nbsp;version=”1.0” encoding=”UTF-8” ?&gt;</em></span></strong></p>\n<p class=\"MsoListParagraphCxSpMiddle\"><strong><em><span lang=\"EN-US\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;!DOCTYPE dok [ &lt;!ELEMENT dok EMPTY &gt; ] &gt;</span></em></strong></p>\n<p>&nbsp;</p>\n<p class=\"MsoListParagraphCxSpLast\"><strong><em><span lang=\"EN-US\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;dok id=”a1” /&gt;</span></em></strong></p>",
       "id": 2145,
-      "comments": [
-        {
-          "author": "~morda@89.64.*.*",
-          "comment": "Poprawny ale tylko składniowo (well formed)",
-          "date": "04-02-2018 00:29:24"
-        },
-        {
-          "author": "~anon@2a01:110f:150c:8e00:7d39:d29:ed8c:ef69",
-          "comment": "jeśli niepoprawny to niech ktoś wskaże błąd, wg mnie:\n\tPoprawny składniowo i strukturalnie",
-          "date": "04-02-2020 19:56:14"
-        },
-        {
-          "author": "~albatros@5.173.*.*",
-          "comment": "Czy atrybuty mogą być zapisane w tagu zamykającym? Wydaje mi się, że to przez to niepoprawny. ",
-          "date": "05-02-2020 11:44:16"
-        }
-      ],
+      "numberOfComments": 3,
       "answers": [
         {
           "answer": "<p class=\"\\&quot;\\\\&quot;\\\\\\\\&quot;MsoListParagraphCxSpFirst\\\\\\\\&quot;\\\\&quot;\\&quot;\">Poprawny ale tylko składniowo (well formed)</p>",
@@ -831,12 +854,29 @@
           "answer": "&nbsp;&nbsp;Niepoprawny",
           "correct": true
         }
+      ],
+      "comments": [
+        {
+          "author": "~morda@89.64.*.*",
+          "comment": "Poprawny ale tylko składniowo (well formed)",
+          "date": "04-02-2018 00:29:24"
+        },
+        {
+          "author": "~anon@2a01:110f:150c:8e00:7d39:d29:ed8c:ef69",
+          "comment": "jeśli niepoprawny to niech ktoś wskaże błąd, wg mnie:\n\tPoprawny składniowo i strukturalnie",
+          "date": "04-02-2020 19:56:14"
+        },
+        {
+          "author": "~albatros@5.173.*.*",
+          "comment": "Czy atrybuty mogą być zapisane w tagu zamykającym? Wydaje mi się, że to przez to niepoprawny. ",
+          "date": "05-02-2020 11:44:16"
+        }
       ]
     },
     {
       "question": "&nbsp;<p></p>\n<p class=\"MsoListParagraph\"><strong><span><span>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></strong><strong>Język XSLT:</strong>\n          </p>",
       "id": 2146,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "W dokumentach XML zastępuje stosowane w HTML arkusze CSS",
@@ -854,28 +894,13 @@
           "answer": "Jest strumieniowym interfejsem programistycznym do obróbki XML",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p class=\"MsoListParagraph\"><strong>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></strong><strong>Wyrażenie XPath w postaci //student/imie[2] zwróci:</strong></p>",
       "id": 2147,
-      "comments": [
-        {
-          "author": "~domino@89.67.*.*",
-          "comment": "Tu jest chyba błąd powinno być: drugie imie pierwszego studenta...",
-          "date": "28-06-2016 08:54:48"
-        },
-        {
-          "author": "~JanPawełTrzeci@91.230.*.*",
-          "comment": "wyżej jest zadanie z /lista/student/imie[2], i tam jest napisane \"drugie imie pierwszego studenta\"",
-          "date": "28-06-2016 09:33:34"
-        },
-        {
-          "author": "~domino@188.146.*.*",
-          "comment": "Aaa faktycznie na pierwszy rzut oka nie zauwazylem roznicy ;)",
-          "date": "28-06-2016 09:43:46"
-        }
-      ],
+      "numberOfComments": 3,
       "answers": [
         {
           "answer": "<p class=\"\\&quot;MsoListParagraphCxSpFirst\\&quot;\"><span>elementy student, które posiadają dokładnie po 2 pod elementy imię</span></p>",
@@ -893,12 +918,29 @@
           "answer": "<strong><span>&nbsp;</span></strong><span>drugie imie pierwszego studenta zapisanego w dokumencie</span>",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~domino@89.67.*.*",
+          "comment": "Tu jest chyba błąd powinno być: drugie imie pierwszego studenta...",
+          "date": "28-06-2016 08:54:48"
+        },
+        {
+          "author": "~JanPawełTrzeci@91.230.*.*",
+          "comment": "wyżej jest zadanie z /lista/student/imie[2], i tam jest napisane \"drugie imie pierwszego studenta\"",
+          "date": "28-06-2016 09:33:34"
+        },
+        {
+          "author": "~domino@188.146.*.*",
+          "comment": "Aaa faktycznie na pierwszy rzut oka nie zauwazylem roznicy ;)",
+          "date": "28-06-2016 09:43:46"
+        }
       ]
     },
     {
       "question": "<p class=\"MsoListParagraphCxSpFirst\"><strong>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></strong><strong>Z punktu widzenia zaleceń bezpieczeństwa, komentarze dot. kodu PHP:</strong></p>",
       "id": 2148,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span>należy bezwzględnie usunąć z umieszczonych na serwerze stron</span>",
@@ -916,12 +958,13 @@
           "answer": "<span>&nbsp;&nbsp;&nbsp;</span><span>można pozostawić w dowolnej postaci w kodzie strony</span>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "&nbsp;<p></p>\n<p class=\"MsoListParagraph\"><strong><span><span>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></strong><strong>Aby zapisać w DTD, że osoba może mieć 1 lub 2 imiona, należy</strong>\n          </p>",
       "id": 2149,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "&lt;!ELEMENT osoba (imię,imię?)&gt;",
@@ -939,12 +982,13 @@
           "answer": "Nie można sformułować takiego warunku",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p class=\"MsoListParagraphCxSpFirst\"><strong>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></strong><strong>W aplikacji WWW realizującej w Javie wzorzec „model-widok-kontroler” funkcje kontrolera realizuje:</strong></p>\n<p class=\"MsoListParagraphCxSpMiddle\">&nbsp;</p>",
       "id": 2150,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "&nbsp;&nbsp;<span lang=\"\\&quot;EN-US\\&quot;\">Servlet??</span>",
@@ -962,28 +1006,13 @@
           "answer": "<span>&nbsp;</span><span>Adapter JDBC</span>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Pokazany niżej element XML \"zamowienie\" posiada<br><br>\n&lt;zamowienie&gt;<br>\n&lt;klient&gt;Janko Chanowski&lt;/klient&gt;<br>\n&lt;towar&gt;MS Word PL&lt;/towar&gt;<br>\n&lt;/zamówienie&gt;<br>",
       "id": 2151,
-      "comments": [
-        {
-          "author": "~Baza@95.160.*.*",
-          "comment": "To pytanie nie ma sensu. Pytanie jest o czymś innym a wiadomość o czym innym.Chodzi raczej o coś w stylu:\n<lista>\n<imie1></imie1>\n<imie2></imie2>\n</lista>",
-          "date": "27-01-2014 09:48:50"
-        },
-        {
-          "author": "~anon@95.160.*.*",
-          "comment": "powinno byc pytanie Pokazany niżej element XML \"zamowienie\" posiada\n<zamowienie>\n\n<klient>Janko Chanowski</klient>\n\n<towar>MS Word PL</towar>\n\n</zamówienie>\n\nale sie walnolem przy wpisywaniu xd\n",
-          "date": "27-01-2014 10:58:26"
-        },
-        {
-          "author": "mykhi",
-          "comment": "poprawiłem.",
-          "date": "27-01-2014 13:08:58"
-        }
-      ],
+      "numberOfComments": 3,
       "answers": [
         {
           "answer": "Zawartość tekstową",
@@ -1001,12 +1030,29 @@
           "answer": "Dwa atrybuty",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~Baza@95.160.*.*",
+          "comment": "To pytanie nie ma sensu. Pytanie jest o czymś innym a wiadomość o czym innym.Chodzi raczej o coś w stylu:\n<lista>\n<imie1></imie1>\n<imie2></imie2>\n</lista>",
+          "date": "27-01-2014 09:48:50"
+        },
+        {
+          "author": "~anon@95.160.*.*",
+          "comment": "powinno byc pytanie Pokazany niżej element XML \"zamowienie\" posiada\n<zamowienie>\n\n<klient>Janko Chanowski</klient>\n\n<towar>MS Word PL</towar>\n\n</zamówienie>\n\nale sie walnolem przy wpisywaniu xd\n",
+          "date": "27-01-2014 10:58:26"
+        },
+        {
+          "author": "mykhi",
+          "comment": "poprawiłem.",
+          "date": "27-01-2014 13:08:58"
+        }
       ]
     },
     {
       "question": "<p class=\"MsoListParagraphCxSpFirst\"><strong>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></strong><strong>Adres 127.1.1.1&nbsp; należy do puli adresów pętli:</strong></p>\n<p class=\"MsoListParagraphCxSpMiddle\">&nbsp;</p>",
       "id": 2152,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span>&nbsp;</span><span>multicast (rozgłaszania grupowego)</span>",
@@ -1024,12 +1070,13 @@
           "answer": "<span>&nbsp; &nbsp;&nbsp;&nbsp;</span><span>broadcast</span>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p class=\"MsoListParagraphCxSpFirst\"><strong>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></strong><strong>Termin „Aplikacja XML” oznacza:</strong></p>\n<p class=\"MsoListParagraphCxSpMiddle\">&nbsp;</p>",
       "id": 2153,
-      "comments": null,
+      "numberOfComments": 1,
       "answers": [
         {
           "answer": "<span>&nbsp;</span><span>Oprogramowanie wczytujące i modyfikujące dokument XML</span>",
@@ -1047,12 +1094,19 @@
           "answer": "<span>Element fizycznego podziału kodu XML</span>",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~anon@89.71.*.*",
+          "comment": "XML applications are software programs that process and manipulate data using XML. 1 poprawne",
+          "date": "29-01-2021 15:20:57"
+        }
       ]
     },
     {
       "question": "&nbsp;<p></p>\n<p class=\"MsoListParagraphCxSpFirst\"><strong><span><span>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></strong><strong>Poniższy dokument XML jest:</strong></p>\n<p class=\"MsoListParagraphCxSpMiddle\">&lt;?xml version=”1.0” encoding=”utf-8” ?&gt;</p>\n<p class=\"MsoListParagraphCxSpMiddle\">&lt;dokument autor=”Nowak” autor=”Kowalski”&gt;</p>\n<p class=\"MsoListParagraphCxSpMiddle\">To jest treść dokumentu</p>\n<p class=\"MsoListParagraphCxSpLast\">&lt;/dokument&gt;\n          </p>",
       "id": 2154,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Poprawny, ale tylko składniowo (well fordem)",
@@ -1070,11 +1124,31 @@
           "answer": "Niepoprawny",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Wyrażenie &lt;!-- &nbsp;--&gt; w dokumencie XML sklasyfikujemy jako:",
       "id": 2155,
+      "numberOfComments": 5,
+      "answers": [
+        {
+          "answer": "Deklarację XML",
+          "correct": true
+        },
+        {
+          "answer": "Instrukcję przetwarzania",
+          "correct": false
+        },
+        {
+          "answer": "Encję parametryczną",
+          "correct": false
+        },
+        {
+          "answer": "Element tekstowy",
+          "correct": false
+        }
+      ],
       "comments": [
         {
           "author": "~GoodGuy@31.11.*.*",
@@ -1101,29 +1175,30 @@
           "comment": "maciek juz po 11, marsz do łóżka wyłączaj ten kompiuter",
           "date": "06-02-2019 23:30:13"
         }
-      ],
-      "answers": [
-        {
-          "answer": "Deklarację XML",
-          "correct": true
-        },
-        {
-          "answer": "Instrukcję przetwarzania",
-          "correct": false
-        },
-        {
-          "answer": "Encję parametryczną",
-          "correct": false
-        },
-        {
-          "answer": "Element tekstowy",
-          "correct": false
-        }
       ]
     },
     {
       "question": "Zawartość tzw. Koperty (envelope) w protokole SOAP tworzą:",
       "id": 2156,
+      "numberOfComments": 4,
+      "answers": [
+        {
+          "answer": "Nagłówki http i dokument XML?",
+          "correct": false
+        },
+        {
+          "answer": "Element Winding i port",
+          "correct": false
+        },
+        {
+          "answer": "Jeden lub więcej elementów template",
+          "correct": false
+        },
+        {
+          "answer": "Elementy Header i Body",
+          "correct": true
+        }
+      ],
       "comments": [
         {
           "author": "~GoodGuy@31.11.*.*",
@@ -1145,30 +1220,12 @@
           "comment": "ano!",
           "date": "27-01-2014 18:03:53"
         }
-      ],
-      "answers": [
-        {
-          "answer": "Nagłówki http i dokument XML?",
-          "correct": false
-        },
-        {
-          "answer": "Element Winding i port",
-          "correct": false
-        },
-        {
-          "answer": "Jeden lub więcej elementów template",
-          "correct": false
-        },
-        {
-          "answer": "Elementy Header i Body",
-          "correct": true
-        }
       ]
     },
     {
       "question": "&nbsp;<p></p>\n<p class=\"MsoListParagraph\"><strong><span><span>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></strong><strong>Z punktu widzenia bezpieczeństwa, komentarze dotyczące kodu strony PHP:</strong>\n          </p>",
       "id": 2157,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Należy bezwzględnie usunąć ze stosowanych na serwerze stron",
@@ -1186,12 +1243,13 @@
           "answer": "Można pozostawić w dowolnej postaci w kodzie strony",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p class=\"MsoListParagraphCxSpFirst\"><strong>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></strong><strong>Zaznacz prawdziwe stwierdzenie na temat specyfikacji HTML 5:</strong></p>\n<p class=\"MsoListParagraphCxSpMiddle\">&nbsp;</p>",
       "id": 2158,
-      "comments": null,
+      "numberOfComments": 1,
       "answers": [
         {
           "answer": "<span>Ma zakres identyczny z XHTML 2, ale nie stosuje składni XML</span>",
@@ -1209,11 +1267,37 @@
           "answer": "<span>Wprowadza własne elementy reprezentujące obiekty grafiki wektorowej</span>",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~anon@89.64.*.*",
+          "comment": "Wprowadza własne elementy reprezentujące obiekty grafiki wektorowej  ????",
+          "date": "06-02-2018 17:03:02"
+        }
       ]
     },
     {
       "question": "Wyrażenie XPath w postaci /lista/student/imie[2] zwróci:",
       "id": 2159,
+      "numberOfComments": 6,
+      "answers": [
+        {
+          "answer": "drugie imię pierwszego studenta zapisanego w dokumencie",
+          "correct": false
+        },
+        {
+          "answer": "wszystkie drugie imiona studentów w dokumencie",
+          "correct": true
+        },
+        {
+          "answer": "imię lub imiona drugiego studenta w dokumencie",
+          "correct": false
+        },
+        {
+          "answer": "elementy student, które posiadają dokładnie po 2 podelementy imię",
+          "correct": false
+        }
+      ],
       "comments": [
         {
           "author": "~hacker@89.64.*.*",
@@ -1245,30 +1329,12 @@
           "comment": "odznaczam a)",
           "date": "06-02-2021 20:52:24"
         }
-      ],
-      "answers": [
-        {
-          "answer": "drugie imię pierwszego studenta zapisanego w dokumencie",
-          "correct": false
-        },
-        {
-          "answer": "wszystkie drugie imiona studentów w dokumencie",
-          "correct": true
-        },
-        {
-          "answer": "imię lub imiona drugiego studenta w dokumencie",
-          "correct": false
-        },
-        {
-          "answer": "elementy student, które posiadają dokładnie po 2 podelementy imię",
-          "correct": false
-        }
       ]
     },
     {
       "question": "Ataki typu cross-site scripting (XSS) opierają się na:",
       "id": 3393,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Stworzeniu witryny o podobnym adresie udającej zaufany serwis",
@@ -1286,12 +1352,13 @@
           "answer": "Lukach w bezpieczeństwie interpretera skryptów w przeglądarce użytkownika",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Adres IP 192.168.0.1 należy do puli adresów:",
       "id": 3394,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "multicast (rozgłaszania grupowego)",
@@ -1309,28 +1376,13 @@
           "answer": "broadcast",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Stosowane w RoR nazwenictwo, które np. każe nazwać kontroler tak jak obsługiwaną przezeń encję, tylko z użyciem liczby mnogiej, jest przejawem zasady:",
       "id": 3395,
-      "comments": [
-        {
-          "author": "~Frugo@2a02:a319:4044:6500:ed1d:352b:7eb0:ca15",
-          "comment": "Poprawna: MVC",
-          "date": "09-02-2021 04:32:18"
-        },
-        {
-          "author": "~ty@2a02:a311:403b:5100:2850:a244:9ab6:a5d9",
-          "comment": "podbijam",
-          "date": "09-02-2021 10:48:36"
-        },
-        {
-          "author": "mykhi",
-          "comment": "zaznaczam",
-          "date": "09-02-2021 20:26:01"
-        }
-      ],
+      "numberOfComments": 3,
       "answers": [
         {
           "answer": "Don't Repeat Yourself",
@@ -1348,12 +1400,29 @@
           "answer": "Convention over Configuration",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~Frugo@2a02:a319:4044:6500:ed1d:352b:7eb0:ca15",
+          "comment": "Poprawna: MVC",
+          "date": "09-02-2021 04:32:18"
+        },
+        {
+          "author": "~ty@2a02:a311:403b:5100:2850:a244:9ab6:a5d9",
+          "comment": "podbijam",
+          "date": "09-02-2021 10:48:36"
+        },
+        {
+          "author": "mykhi",
+          "comment": "zaznaczam",
+          "date": "09-02-2021 20:26:01"
+        }
       ]
     },
     {
       "question": "&nbsp;<p></p>\n<p class=\"MsoListParagraph\"><strong><span><span>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></strong><strong>Ataki typu „SQL injection” polegają na:</strong>\n          </p>",
       "id": 2160,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Spreprawoaniu wartości używanej przez skrypt jako część polecenia SQL",
@@ -1371,28 +1440,13 @@
           "answer": "Przechwyceniu z kodu strony hasła dostępu do bazy SQL",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p class=\"MsoListParagraphCxSpFirst\"><strong>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></strong><strong>Poniższy element XML jest:</strong></p>\n<p class=\"MsoListParagraphCxSpMiddle\"><strong>&lt;?xml version=”1.0” encoding=”utf-8” ?&gt;</strong></p>\n<p class=\"MsoListParagraphCxSpMiddle\"><strong>&lt;!DOCTYPE dok [ &lt;!ELEMENT dok (x) &gt;&nbsp; &lt; !ELEMENT x (#PCDATA) &gt; ] &gt;</strong></p>\n<p class=\"MsoListParagraphCxSpMiddle\"><strong>&lt;dok&gt; &lt;x&gt; nagłówek &lt;/x&gt;</strong></p>\n<p class=\"MsoListParagraphCxSpMiddle\"><strong>&lt;/dok&gt;</strong></p>\n<p class=\"MsoListParagraphCxSpMiddle\">&nbsp;</p>",
       "id": 2161,
-      "comments": [
-        {
-          "author": "~anon@89.67.*.*",
-          "comment": "Dlaczego waszym zdaniem ten kod jest niepoprawny? ",
-          "date": "27-01-2014 12:45:20"
-        },
-        {
-          "author": "~GoodGuy@31.11.*.*",
-          "comment": "Wydaje mi się, że jest \"Poprawny składniowo i strukturalnie\".\n\nNie mogę się dopatrzeć błędów.",
-          "date": "27-01-2014 23:45:20"
-        },
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "Niepoprawny - spacja przed drugim !ELEMENT",
-          "date": "06-02-2019 18:28:29"
-        }
-      ],
+      "numberOfComments": 3,
       "answers": [
         {
           "answer": "<span>Poprawny, ale tylko składniowo</span>",
@@ -1410,12 +1464,29 @@
           "answer": "&nbsp;&nbsp;&nbsp;Niepoprawny",
           "correct": true
         }
+      ],
+      "comments": [
+        {
+          "author": "~anon@89.67.*.*",
+          "comment": "Dlaczego waszym zdaniem ten kod jest niepoprawny? ",
+          "date": "27-01-2014 12:45:20"
+        },
+        {
+          "author": "~GoodGuy@31.11.*.*",
+          "comment": "Wydaje mi się, że jest \"Poprawny składniowo i strukturalnie\".\n\nNie mogę się dopatrzeć błędów.",
+          "date": "27-01-2014 23:45:20"
+        },
+        {
+          "author": "~anon@89.64.*.*",
+          "comment": "Niepoprawny - spacja przed drugim !ELEMENT",
+          "date": "06-02-2019 18:28:29"
+        }
       ]
     },
     {
       "question": "<p class=\"MsoListParagraphCxSpFirst\"><strong>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></strong><strong>Ciasteczka Cookies mogą być odczytywane i zapisywane:</strong></p>\n<p class=\"MsoListParagraphCxSpMiddle\">&nbsp;</p>",
       "id": 2162,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span>&nbsp;&nbsp;&nbsp;</span><span>Tylko przez kod działający po stronie serwera</span>",
@@ -1433,12 +1504,13 @@
           "answer": "<span>&nbsp;&nbsp;</span><span>Tworzenie i zapis tylko na serwerze, odczyt po stronie klienta</span>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p class=\"MsoListParagraphCxSpFirst\"><strong>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></strong><strong>Selektor CSS sformułowany jako ul ol selekcjonuje element[y]</strong></p>\n<p class=\"MsoListParagraphCxSpMiddle\">&nbsp;</p>",
       "id": 2163,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span>&nbsp;</span><span>Wszystkie elementy &lt;ol&gt;..&lt;/ol&gt; oraz elementy&lt;ul&gt;…&lt;/ul&gt;????</span>",
@@ -1456,12 +1528,13 @@
           "answer": "<span>&lt;ul&gt;ol&lt;/ul&gt;</span>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "&nbsp;<p></p>\n<p class=\"MsoListParagraph\"><strong><span><span>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></strong><strong>Sprawdzenie zgodności loginu i hasła to rodzaj:</strong>\n          </p>",
       "id": 2164,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Enkapsulacji",
@@ -1479,12 +1552,13 @@
           "answer": "Autentykacji",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p class=\"MsoListParagraphCxSpFirst\"><strong>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></strong><strong>Wyrażenie &lt;?xml-stylesheet…?&gt; reprezentuje w dokumencie XML</strong></p>\n<p class=\"MsoListParagraphCxSpMiddle\">&nbsp;</p>",
       "id": 2165,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span>&nbsp;&nbsp;</span><span>Deklarację XML</span>",
@@ -1502,12 +1576,13 @@
           "answer": "<span>&nbsp;&nbsp;</span><span>Element tekstowy</span>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "&nbsp;<p></p>\n<p class=\"MsoListParagraph\"><strong><span><span>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></strong><strong>Do technologii dynamicznych stron WWW nie zaliczamy:</strong>\n          </p>",
       "id": 2166,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "PHP",
@@ -1525,11 +1600,31 @@
           "answer": "ASP",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p class=\"MsoListParagraphCxSpFirst\"><strong>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></strong><strong>Finalne postacie specyfikacji World Wide Web Consortium noszą nazwę:</strong></p>\n<p class=\"MsoListParagraphCxSpMiddle\">&nbsp;</p>",
       "id": 2167,
+      "numberOfComments": 5,
+      "answers": [
+        {
+          "answer": "<span>Rekomendacji</span>",
+          "correct": false
+        },
+        {
+          "answer": "&nbsp;standardów",
+          "correct": true
+        },
+        {
+          "answer": "<span>&nbsp; &nbsp;&nbsp;&nbsp;</span><span>wzorców</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>&nbsp;&nbsp;&nbsp;</span><span>propozycji</span>",
+          "correct": false
+        }
+      ],
       "comments": [
         {
           "author": "~bre@83.6.*.*",
@@ -1556,30 +1651,12 @@
           "comment": "habela/wykład 10 - slajd 39\nW3C Recommendation: Postać finalna.\nwięc raczej rekomendacje. ",
           "date": "07-02-2019 00:48:24"
         }
-      ],
-      "answers": [
-        {
-          "answer": "<span>Rekomendacji</span>",
-          "correct": false
-        },
-        {
-          "answer": "&nbsp;standardów",
-          "correct": true
-        },
-        {
-          "answer": "<span>&nbsp; &nbsp;&nbsp;&nbsp;</span><span>wzorców</span>",
-          "correct": false
-        },
-        {
-          "answer": "<span>&nbsp;&nbsp;&nbsp;</span><span>propozycji</span>",
-          "correct": false
-        }
       ]
     },
     {
       "question": "<p class=\"MsoListParagraphCxSpFirst\"><strong>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></strong><strong>Która z metod żądania nie występuje w protokole http?</strong></p>\n<p class=\"MsoListParagraphCxSpMiddle\"><span><strong>&nbsp;</strong></span></p>",
       "id": 2168,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Ping",
@@ -1597,12 +1674,13 @@
           "answer": "<strong><span>&nbsp;&nbsp;</span></strong><span>Post</span>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "&nbsp;<p></p>\n<p class=\"MsoListParagraph\"><strong><span><span>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></strong><strong>Środowisko wykonania skryptów JavaScript w przeglądarce klienta:</strong>\n          </p>",
       "id": 2169,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Pozwala na wykonywanie wydruków na standardowej drukarce",
@@ -1620,12 +1698,13 @@
           "answer": "Pozwala na zapis i odczyt Cookies, ale nie wszystkich",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p class=\"MsoListParagraphCxSpFirst\"><strong>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></strong><strong>Model warstwy OSI zawiera m.in. warstwę:</strong></p>\n<p class=\"MsoListParagraphCxSpMiddle\"><strong>&nbsp;</strong></p>",
       "id": 2170,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span>Interfejsu użytkownika</span>",
@@ -1643,12 +1722,13 @@
           "answer": "Transportu",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p class=\"MsoListParagraphCxSpFirst\"><strong>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></strong><strong>Technologii dynamicznych stron WWW nie charakteryzuje:</strong></p>\n<p class=\"MsoListParagraphCxSpMiddle\"><strong>&nbsp;</strong></p>",
       "id": 2171,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<strong><span>&nbsp;&nbsp;</span></strong><span>Możliwość generowania dokumentów na żądanie</span>",
@@ -1666,12 +1746,13 @@
           "answer": "<strong><span>&nbsp; &nbsp;&nbsp;</span></strong><span>Możliwość ograniczania dostępu klientom w oparciu o ich adres IP</span>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "&nbsp;<p></p>\n<p class=\"MsoListParagraph\"><strong><span><span>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></strong><strong>Zaznacz fałszywe zdanie na temat protokołu http:</strong>\n          </p>",
       "id": 2172,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Pracuje w modelu bezpołączeniowym",
@@ -1689,12 +1770,13 @@
           "answer": "Nie specyfikuje sposobu szyfrowania komunikatów",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "&nbsp;<p></p>\n<p class=\"MsoListParagraph\"><strong><span><span>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></strong><strong>Numery IP są określane jako adresy:</strong>\n          </p>",
       "id": 2173,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Domenowe",
@@ -1712,12 +1794,13 @@
           "answer": "Znakowe",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<strong>Model warstwowy OSI (Open Sowftware Interconnection) zawiera m. in. warstwę:</strong>",
       "id": 2174,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "cookies",
@@ -1735,12 +1818,13 @@
           "answer": "filtrów",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<strong>Która z metod żądania nie występuje w prokole HTTP?</strong>",
       "id": 2175,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "POST",
@@ -1758,11 +1842,31 @@
           "answer": "PING",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Wyrażenie XPath w postaci //student/imie[2]/parent::* zwróci",
       "id": 2179,
+      "numberOfComments": 9,
+      "answers": [
+        {
+          "answer": "drugie imię pierwszego studenta zapisanego w dokumencie",
+          "correct": false
+        },
+        {
+          "answer": "wszystkie drugie imiona studentów zapisane w dokumencie",
+          "correct": false
+        },
+        {
+          "answer": "pierwsze imię każdego studenta, który posiada dwa imiona",
+          "correct": false
+        },
+        {
+          "answer": "te elementy student, które posiadają 2 lub więcej podelementów imie",
+          "correct": true
+        }
+      ],
       "comments": [
         {
           "author": "~kozak@89.64.*.*",
@@ -1809,30 +1913,12 @@
           "comment": "Się zdziwisz, jak jutro pójdziesz i Ci się trafi 1 czy 2 pytania. Akurat w tym przypadku baza była 2-3 lata temu aktualizowana, więc sięga kilkaset pytań. Więc to tak naprawdę zależy od szczęścia.",
           "date": "06-02-2019 20:57:38"
         }
-      ],
-      "answers": [
-        {
-          "answer": "drugie imię pierwszego studenta zapisanego w dokumencie",
-          "correct": false
-        },
-        {
-          "answer": "wszystkie drugie imiona studentów zapisane w dokumencie",
-          "correct": false
-        },
-        {
-          "answer": "pierwsze imię każdego studenta, który posiada dwa imiona",
-          "correct": false
-        },
-        {
-          "answer": "te elementy student, które posiadają 2 lub więcej podelementów imie",
-          "correct": true
-        }
       ]
     },
     {
       "question": "<strong>Pokazany niżej element XML \"zamowienie\" posiada:</strong><p></p>\n<p>&lt;zamowienie&gt;</p>\n<p>&lt;klient&gt; Jan Nowak&lt;/klient&gt;</p>\n<p>&lt;towar&gt; MS word Pl&lt;/towar&gt;</p>\n<p>&lt;/zamowienie&gt;\n          </p>",
       "id": 2180,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Zawartość tekstową",
@@ -1850,12 +1936,13 @@
           "answer": "Referencje do encji",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<strong>Tzw. URL-encoding jest stosowany dla:</strong>",
       "id": 2181,
-      "comments": null,
+      "numberOfComments": 1,
       "answers": [
         {
           "answer": "Przesyłania załącznikow binarnych w email protokołem SMTP",
@@ -1873,11 +1960,37 @@
           "answer": "Kodowaniu haseł zapisywanych w bazie danych",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~wiktor siurdyk@159.205.*.*",
+          "comment": "*zakłada prochowiec* zgadzam sie z odpowiedza",
+          "date": "06-02-2019 15:26:34"
+        }
       ]
     },
     {
       "question": "<strong>Sprawdzenie zgodnosci loginu i hasła to rodzaj:</strong><p></p>\n<p>&nbsp;</p>\n<p>&nbsp;\n          </p>",
       "id": 2563,
+      "numberOfComments": 6,
+      "answers": [
+        {
+          "answer": "Enkapsulacji",
+          "correct": false
+        },
+        {
+          "answer": "Autoryzacja",
+          "correct": false
+        },
+        {
+          "answer": "Walidacja",
+          "correct": false
+        },
+        {
+          "answer": "uwierzytelnienie",
+          "correct": true
+        }
+      ],
       "comments": [
         {
           "author": "~anon@89.64.*.*",
@@ -1909,30 +2022,12 @@
           "comment": "jest tak jak ~anon@83.6.*.* mówi, authentication != authorization",
           "date": "08-02-2021 11:01:11"
         }
-      ],
-      "answers": [
-        {
-          "answer": "Enkapsulacji",
-          "correct": false
-        },
-        {
-          "answer": "Autoryzacja",
-          "correct": false
-        },
-        {
-          "answer": "Walidacja",
-          "correct": false
-        },
-        {
-          "answer": "uwierzytelnienie",
-          "correct": true
-        }
       ]
     },
     {
       "question": "W&nbsp;<em>Ruby on rails&nbsp;</em>pliki .erb (Embedded Ruby) spotkamy w roli:",
       "id": 3391,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Widoku",
@@ -1950,12 +2045,13 @@
           "answer": "Rutera",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Adres IP 192.168.1.1 należy do puli adresów:",
       "id": 3392,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "multicast (rozgłaszania grupowego)",
@@ -1973,11 +2069,31 @@
           "answer": "broadcast",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Która metoda http ma ciało",
       "id": 3175,
+      "numberOfComments": 4,
+      "answers": [
+        {
+          "answer": "Head",
+          "correct": false
+        },
+        {
+          "answer": "Delete",
+          "correct": false
+        },
+        {
+          "answer": "Get",
+          "correct": false
+        },
+        {
+          "answer": "Post",
+          "correct": true
+        }
+      ],
       "comments": [
         {
           "author": "~albatros@93.105.*.*",
@@ -1999,30 +2115,12 @@
           "comment": "done",
           "date": "07-02-2021 18:29:20"
         }
-      ],
-      "answers": [
-        {
-          "answer": "Head",
-          "correct": false
-        },
-        {
-          "answer": "Delete",
-          "correct": false
-        },
-        {
-          "answer": "Get",
-          "correct": false
-        },
-        {
-          "answer": "Post",
-          "correct": true
-        }
       ]
     },
     {
       "question": "Aby wpisane przez użytkownika na stronie hasło nie pojawiło się w adresie URL żądania, powinniśmy przsłać je komunikatem HTTP metodą:",
       "id": 3043,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "HEAD",
@@ -2040,12 +2138,13 @@
           "answer": "GET",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Aby wyselekcjonować w dokumencie elementy towar, których atrybut cena nie przekracza 1000 użyjemy wyrażenia XPath:",
       "id": 3044,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "//towar[@cena&lt;=1000]",
@@ -2063,12 +2162,13 @@
           "answer": "XPath nie obsługuje operacji na typach liczbowych",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Aby wyselekcjonować w dokumencie XML wszystkie elementy \"pracownik\" należy użyć następującego wyrażenia XPath:",
       "id": 3045,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "//pracownik",
@@ -2086,11 +2186,31 @@
           "answer": "/*::pracownik",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "W DTD typ atrybutu możemy m.in. określić jako:",
       "id": 3046,
+      "numberOfComments": 8,
+      "answers": [
+        {
+          "answer": "DATE",
+          "correct": false
+        },
+        {
+          "answer": "INT",
+          "correct": false
+        },
+        {
+          "answer": "String",
+          "correct": false
+        },
+        {
+          "answer": "ID",
+          "correct": true
+        }
+      ],
       "comments": [
         {
           "author": "~anon@79.184.*.*",
@@ -2132,30 +2252,12 @@
           "comment": "zrobione jak wyżej ^",
           "date": "07-02-2021 18:28:56"
         }
-      ],
-      "answers": [
-        {
-          "answer": "DATE",
-          "correct": false
-        },
-        {
-          "answer": "INT",
-          "correct": false
-        },
-        {
-          "answer": "String",
-          "correct": false
-        },
-        {
-          "answer": "ID",
-          "correct": true
-        }
       ]
     },
     {
       "question": "UDP jest protokołem:",
       "id": 3047,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "połączeniowym, niezawodnego przesyłania",
@@ -2173,12 +2275,13 @@
           "answer": "bezpołączeniowym, bez potwierdzeń odbioru",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Język+XSLT:",
       "id": 3048,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Zaimplementowano+wyłącznie+po+stronie+przeglądarki+klienta",
@@ -2196,12 +2299,13 @@
           "answer": "Działa+wyłącznie+po+stronie+serwera",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Ataki typu \"OS command injection\" polegają na:",
       "id": 3049,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "dołączeniu swego loginu do pliku haseł systemu operacyjnego serwera",
@@ -2219,12 +2323,13 @@
           "answer": "spreparowaniu wartości używanej przez skrypt jako część polecenia systemu operacyjnego",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Kaskadowe arkusze stylów (CSS):",
       "id": 3396,
-      "comments": null,
+      "numberOfComments": 1,
       "answers": [
         {
           "answer": "Są interpretowane po stronie serwera",
@@ -2242,23 +2347,19 @@
           "answer": "Wykluczają możliwość zastosowania grafiki wektorowej",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~anon@2a02:a319:803e:5900:692b:6692:da88:2956",
+          "comment": "prawidłowa odpowiedź to \"Pozwalają usprawnić ładowanie korzystających z nich stron\"",
+          "date": "15-02-2021 19:22:13"
+        }
       ]
     },
     {
       "question": "Do technologii dynamicznych stron WWW nie zaliczamy:",
       "id": 3397,
-      "comments": [
-        {
-          "author": "~Frugo@2a02:a319:4044:6500:ed1d:352b:7eb0:ca15",
-          "comment": "Odp: Apletów Javy",
-          "date": "09-02-2021 04:09:14"
-        },
-        {
-          "author": "mykhi",
-          "comment": "zaznaczam",
-          "date": "09-02-2021 09:42:26"
-        }
-      ],
+      "numberOfComments": 2,
       "answers": [
         {
           "answer": "PHP",
@@ -2276,12 +2377,24 @@
           "answer": "JSP i JSF",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~Frugo@2a02:a319:4044:6500:ed1d:352b:7eb0:ca15",
+          "comment": "Odp: Apletów Javy",
+          "date": "09-02-2021 04:09:14"
+        },
+        {
+          "author": "mykhi",
+          "comment": "zaznaczam",
+          "date": "09-02-2021 09:42:26"
+        }
       ]
     },
     {
       "question": "Kod JavaScript możemy umieszczać (podaj kompletną odpowiedź):",
       "id": 3398,
-      "comments": null,
+      "numberOfComments": 1,
       "answers": [
         {
           "answer": "W plikach zewnętrznych oraz wewnątrz elementu head lub body dokumentu HTML",
@@ -2299,12 +2412,19 @@
           "answer": "W plikach zewnętrznych oraz wewnątrz elementu head dokumentu HTML",
           "correct": false
         }
+      ],
+      "comments": [
+        {
+          "author": "~Frugo@2a02:a319:4044:6500:ed1d:352b:7eb0:ca15",
+          "comment": "Poprawna odp: W plikach zewnętrznych oraz wewnątrz elementu head lub body dokumentu HTML",
+          "date": "09-02-2021 03:50:11"
+        }
       ]
     },
     {
       "question": "Wyrażenie w języku Ruby&nbsp;<strong>:xyz.class</strong> zwróci:",
       "id": 3399,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "klasę Method",
@@ -2322,11 +2442,31 @@
           "answer": "błąd - wyrażenie rozpoczęte dwukropkiem niezgodne ze składnią języka",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Selektor CSS sformułowany jako&nbsp;<strong>h1 + p</strong> selekcjonuje element[y]",
       "id": 3400,
+      "numberOfComments": 4,
+      "answers": [
+        {
+          "answer": "Elementy p występujące wewnątrz elementu h1",
+          "correct": false
+        },
+        {
+          "answer": "Elementy h1 oraz elementy p",
+          "correct": false
+        },
+        {
+          "answer": "Elementy p występujące bezpośrednio po elementach h1",
+          "correct": true
+        },
+        {
+          "answer": "Elementy h1 mające klasę o nazwie p",
+          "correct": false
+        }
+      ],
       "comments": [
         {
           "author": "~anonim@2a02:a319:803e:5900:bc57:6609:49b:87c6",
@@ -2348,30 +2488,12 @@
           "comment": "nie zaznaczone jeszcze",
           "date": "09-02-2021 10:44:04"
         }
-      ],
-      "answers": [
-        {
-          "answer": "Elementy p występujące wewnątrz elementu h1",
-          "correct": false
-        },
-        {
-          "answer": "Elementy h1 oraz elementy p",
-          "correct": false
-        },
-        {
-          "answer": "Elementy p występujące bezpośrednio po elementach h1",
-          "correct": true
-        },
-        {
-          "answer": "Elementy h1 mające klasę o nazwie p",
-          "correct": false
-        }
       ]
     },
     {
       "question": "<span>XML oraz SGML nazywamy meta-językami, gdyż:</span>",
       "id": 3401,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span>Stosują znaczniki</span>",
@@ -2389,12 +2511,13 @@
           "answer": "<span>Dostarczają rozwiązań dla zdefiniowania dowolnych nowych języków dziedzinowych</span>",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<span>Treść ciasteczka jest przekazywana pomiędzy serwerem a przeglądarką:</span>",
       "id": 3402,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span>jako ciało komunikatu o metodzie POST</span>",
@@ -2412,12 +2535,13 @@
           "answer": "<span>wewnątrz części nagłówkowej dokumentu HTML</span>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<span>Wskaż wadę tradycyjnych technologii tzw. \"rozproszonych obiektów\":</span>",
       "id": 3403,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span>Brak środków dla definiowania abstrakcyjnych interfejsów</span>",
@@ -2435,12 +2559,13 @@
           "answer": "<span>Specyficzny dla danej technologii, binarny protokół komunikacyjny</span>",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<span>Która z poniższych&nbsp;</span><span>nie jest</span><span>&nbsp;technologią działającą po stronie serwera:</span>",
       "id": 3404,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span>NodeJS</span>",
@@ -2458,12 +2583,13 @@
           "answer": "<span>ExpressJS</span>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<span>Dokumenty w XHTML w porównaniu z dokumentami HTML cechuje:</span>",
       "id": 3405,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span>Zastąpienie arkuszy stylów CSS arkuszami XSL-FO</span>",
@@ -2481,12 +2607,13 @@
           "answer": "<span>Brak wsparcia dla tworzenia tabel (elementy table)</span>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Pokazany niżej element XML \"wzórPodpisu\" określimy jako element:<p></p>\n<p>&lt;klient&gt;</p>\n<p>&lt;nazwisko&gt;Jan Kowalski&lt;/nazwisko&gt;</p>\n<p>&lt;wzórPodpisu plik=\"jk3434.jpg\" /&gt;</p>\n<p>&lt;/klient&gt;</p>\n<p>&nbsp;\n          </p>",
       "id": 3406,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "pusty",
@@ -2504,12 +2631,13 @@
           "answer": "o zawartości znakowej",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Ciasteczka (cookies) umożliwiają skryptom:",
       "id": 3407,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "prześledzenie aktywności użytkownika w innych serwisach",
@@ -2527,12 +2655,13 @@
           "answer": "zapis informacji w po stronie przeglądarki i jej odczyt",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Poniższy dokument XML jest:",
       "id": 3408,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Niepoprawny",
@@ -2550,12 +2679,13 @@
           "answer": "Poprawny składniowo (well formed)",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "By zrealizować ochronę dostępu do stron WWW za pomocą loginu i hasła potrzeba:",
       "id": 3409,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Wystarczy odpowiednio skonfigurowany serwer statycznych stron WWW",
@@ -2573,12 +2703,13 @@
           "answer": "Instalacji na serwerze WWW którejś z technologii dynamicznych stron WWW",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Interfejs DOM <strong>nie pozwala</strong> skryptom JavaScript na:",
       "id": 3410,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "przeszukiwanie dokumentów HTML zgromadzonych w katalogu domowym użytkownika",
@@ -2596,12 +2727,13 @@
           "answer": "tworzenie nowych węzłów dokumentu",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<span>Technologii dynamicznych stron WWW nie charakteryzuje:</span>",
       "id": 3411,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span>możliwość przeniesienia większości obliczeń na stronę klienta</span>",
@@ -2619,12 +2751,13 @@
           "answer": "<span>możliwość ograniczania dostępu klientom w oparciu o ich adres IP</span>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Dostęp do cookie może uzyskać strona:",
       "id": 3412,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "strona z tej samej domeny, o ile definicja danego cookie na to zezwoliła",
@@ -2642,12 +2775,13 @@
           "answer": "każda strona z tej samej domeny, z której założono cookie",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "System DNS stanowi:",
       "id": 3413,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "bazę danych rozproszoną hierarchicznie na dowolnym szczeblu nazw",
@@ -2665,12 +2799,13 @@
           "answer": "scentralizowaną bazę z pewną liczbą zapasowych replik",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Wyrażenia ścieżkowe XPath&nbsp;<strong><span>nie</span></strong>&nbsp;służą w XSLT:",
       "id": 3414,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Określaniu wzorca, do którego dopasowywany jest szablon",
@@ -2688,12 +2823,13 @@
           "answer": "Wskazywaniu miejsca, w którym należy uruchomić szablony",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "EJS (Embedded JavaScript) jest technologią:",
       "id": 3415,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "stosowaną w programowaniu mikrokontrolerów dla urządzeń mobilnych",
@@ -2711,12 +2847,13 @@
           "answer": "kliencką (przeglądarkową) służącą tworzeniu szablonów",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Która z poniższych&nbsp;<span><strong>nie jest</strong></span> technologią działającą po stronie serwera",
       "id": 3416,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Mongo",
@@ -2734,12 +2871,13 @@
           "answer": "NodeJS",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Technologię aktywnych stron WWW charakteryzuje:",
       "id": 3417,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "możliwość zaimplementowania specyficznych kontrolek interfejsu użytkownika",
@@ -2757,12 +2895,13 @@
           "answer": "brak dostępu do mechanizmu cookies",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Pokazany obok element XML <em>zamowienie&nbsp;</em>jest:<p></p>\n<p>&lt;zamowienie idZam=\"xyz1234\" /&gt;\n          </p>",
       "id": 3418,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Elementem o zawartości elementowej",
@@ -2780,12 +2919,13 @@
           "answer": "Poprawnym strukturalnie (valid)",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Pokazany niżej element XML \"wzórPodpisu\" określimy jako element:<br>&lt;klient&gt;<br>&lt;nazwisko&gt;Jan Kowalski&lt;/nazwisko&gt;<br>&lt;wzórPodpisu plik=\"ad31241.jpg\" /&gt;<br>&lt;/klient&gt;",
       "id": 3419,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "niepoprawny składniowo",
@@ -2803,12 +2943,13 @@
           "answer": "pusty",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Do tworzenia serwisów adresowanych do szerokiego grona odbiorców, z racji kompatybilności i ekonomiki aktualizacji najbardziej wskazany jest model:",
       "id": 3420,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "\"klient-broker-serwer\"",
@@ -2826,12 +2967,13 @@
           "answer": "\"cienkiego klienta\"",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Dla skryptu JS działającego w przeglądarce obiekt-korzeń reprezentujący dostępne środowisko znajdziemy pod nazwą:",
       "id": 3421,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "document",
@@ -2849,12 +2991,13 @@
           "answer": "console",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Klasyczne wyrażenie funkcyjne JS różni od składni 'arrow function' ( ()=&gt;{} ):",
       "id": 3422,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "możliwość deklarowania tylko w ramach definicji class",
@@ -2872,12 +3015,13 @@
           "answer": "Wyłącznie składnia",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "MongoDB zaliczamy do systemów baz danych:",
       "id": 3423,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "opartych na modelu relacyjnym",
@@ -2895,12 +3039,13 @@
           "answer": "zaprojektowanych do działania po stronie przeglądarki",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Która z poniższych <strong>nie jest</strong> technologią działającą po stronie serwera:",
       "id": 3424,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "NodeJS",
@@ -2918,12 +3063,13 @@
           "answer": "BackboneJS",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Przekształcenie XSLT wymaga, aby poprawnym składniowo XML był dokument:",
       "id": 3425,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Wejściowy",
@@ -2941,12 +3087,13 @@
           "answer": "Żaden z nich nie musi być w postaci XML",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Selektor CSS sformułowany jako ul, ol selekcjonuje elementy[y]",
       "id": 3426,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "&lt;ol&gt;&lt;/ol&gt; oraz &lt;ul&gt;&lt;/ul&gt;",
@@ -2960,12 +3107,13 @@
           "answer": "&lt;ul class=\"ol\"&gt;_&lt;/ul&gt;&nbsp; &nbsp;&lt;ul class=\"ol\"&gt;_&lt;/ul&gt;",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Atrybut pełniący rolę unikalnego identyfikatora możemy w DTD zadeklarować",
       "id": 3427,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "DTD nie umożliwia wymuszenia takiej integralności",
@@ -2983,12 +3131,13 @@
           "answer": "typem PrimaryKey",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Dla określenia identyfikatora sesji przy współdziałaniu z serwisem WWW nie stosuje się:",
       "id": 3428,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Numeru IP klienta formułującego żądanie",
@@ -3006,12 +3155,13 @@
           "answer": "Generowania przez stronę parametrów dołączanych do URL podczas nawigacji",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Podtrzymanie stanu interakcji klienta z serwerem w taki sposób, że dane pozostają niedostępne dla skryptów działających po stronie przeglądarki jest cechą mechanizmu:",
       "id": 3429,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "cookies z opcją HttpOnly",
@@ -3029,12 +3179,13 @@
           "answer": "parametrów przekazywanych w ramach query string",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Która z metod komunikatu występuje w protokole HTTP?",
       "id": 3430,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "POST",
@@ -3052,12 +3203,13 @@
           "answer": "ENCRYPT",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "System WWW charakteryzuje:",
       "id": 3431,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "bezpołączeniowy model odwołań",
@@ -3075,12 +3227,13 @@
           "answer": "przesyłanie komunikatów przy użyciu protokołu UDP",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Poniższy dokument XML jest:<p></p>\n<p><img src=\"data:image/png;base64,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\" alt=\"\">\n          </p>",
       "id": 3432,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Niepoprawny",
@@ -3098,12 +3251,13 @@
           "answer": "Poprawny, ale tylko składniowo (well formed)",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Tzw. \"3-way handshake\" występuje w protokole:",
       "id": 3433,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "UDP",
@@ -3121,12 +3275,13 @@
           "answer": "IP",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Dla określenia identyfikatora sesji przy współdziałaniu z serwisem WWW nie stosuje się:",
       "id": 3434,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Numeru IP klienta formułującego żądanie",
@@ -3144,12 +3299,13 @@
           "answer": "Zapisania identyfikatora wewnątrz cookie",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Pojęcie domknięcia (closure) w języku JavaScript wiąże się z",
       "id": 3435,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "niemożnością dodawania nowych atrybutów po utworzeniu obiektu instrukcją new",
@@ -3167,12 +3323,13 @@
           "answer": "stosowaniem funkcji jako pełnoprawnego typu stosowanego do zmiennych, atrybutów oraz parametrów",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Przekształcenie XSLT wymaga, aby poprawnym składniowo XML był dokument:",
       "id": 3436,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Wejściowy",
@@ -3190,12 +3347,13 @@
           "answer": "Wejściowy i wyjściowy",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Który z poniższych zestawów słów kluczowych wchodzi w skład najświeższych wersji ECMAScript?",
       "id": 3437,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "class, interface, init, const",
@@ -3213,12 +3371,13 @@
           "answer": "class, inherits, variable",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Aplety:",
       "id": 3438,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "dysponują uprawnieniami identycznymi jak skrypty JavaScript",
@@ -3236,12 +3395,13 @@
           "answer": "pozwalają skonstruować interfejs użytkownika wykraczający poza kontrolki HTML",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Numery portów są przekazywane w ramach:",
       "id": 3439,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "protokołu aplikacyjnego",
@@ -3259,12 +3419,13 @@
           "answer": "protokołu warstwy sieciowej",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Architektura SOA zakłada współdziałanie elementów:",
       "id": 3440,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "interpreter JavaScript, serwer WWW, silnik serwletów",
@@ -3282,12 +3443,13 @@
           "answer": "przeglądarka, serwer aplikacji, serwer baz danych",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Instrukcja JSON.parse(JSON.stringify(obiekt)) w JavaScript umożliwia",
       "id": 3441,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Zaszyfrowanie i utrwalenie zawartości obiektu w pamięci po stronie przeglądarki",
@@ -3305,12 +3467,13 @@
           "answer": "Zapisanie kompletu atrybutów obiektu w bazie MongoDB",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Źródłem zagrożenia typu SQL Injection jest przede wszystkim (zaznacz najwłaściwsze):",
       "id": 3442,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "łatwe do odgadnięcia hasło do bazy danych",
@@ -3328,12 +3491,13 @@
           "answer": "nieskuteczne filtrowanie danych wejściowych przez funkcjonalność aplikacji WWW",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Podane wyrazenie XPath /osoby/osoba[@wiek&lt;60]/nazwisko zawiera:",
       "id": 3443,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "3 predykaty",
@@ -3351,12 +3515,13 @@
           "answer": "odwołanie do instrukcji przetwarzania \"wiek\"",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Projekt języka XHTML jako następcy HTML nie był podyktowany",
       "id": 3445,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<p><span>Zwiększeniem łatwości tworzenia stron WWW w tym języku</span></p>\n<div id=\"gtx-trans\">&nbsp;</div>",
@@ -3374,12 +3539,13 @@
           "answer": "<p><span>Efektywnością przetwarzania</span></p>\n<div id=\"gtx-trans\">&nbsp;</div>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p><span>W przeciwieństwie do XML Schema, specyfikacja DTD nie pozwala zadeklarować</span></p>\n<div id=\"gtx-trans\">&nbsp;</div>",
       "id": 3446,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<p><span>encji zewnętrznych</span></p>\n<div id=\"gtx-trans\">&nbsp;</div>",
@@ -3397,12 +3563,13 @@
           "answer": "<span>wyliczeniowej wartości dla atrybutu (np. {\"czerwone\", \"zielone\", \"żółte\"})</span>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p><span>W technologiach dokumentów dynamicznych, przechowywaniu informacji związanych ze współpracującym użytkownikiem służą zmienne</span></p>\n<div id=\"gtx-trans\">&nbsp;</div>",
       "id": 3447,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<p><span>Aplikacji</span></p>\n<div id=\"gtx-trans\">&nbsp;</div>",
@@ -3420,12 +3587,13 @@
           "answer": "<p><span>Lokalne</span></p>\n<div id=\"gtx-trans\">&nbsp;</div>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p><span>Który z komunikatów nie występuje w protokole HTTP</span></p>\n<div id=\"gtx-trans\">&nbsp;</div>",
       "id": 3448,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<p><span>BODY</span></p>\n<div id=\"gtx-trans\">&nbsp;</div>",
@@ -3443,12 +3611,13 @@
           "answer": "<p><span>POST</span></p>\n<div id=\"gtx-trans\">&nbsp;</div>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p><span>Poniższy dokument XML jest</span></p>\n<p><img src=\"data:image/png;base64,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\" alt=\"\"></p>\n<div id=\"gtx-trans\">&nbsp;</div>",
       "id": 3449,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<p><span>Poprawny, ale tylko składniowo (well formed)</span></p>\n<div id=\"gtx-trans\">&nbsp;</div>",
@@ -3466,12 +3635,13 @@
           "answer": "<p><span>Poprawny składniowo a być może też strukturalnie</span></p>\n<div id=\"gtx-trans\">&nbsp;</div>",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Pokazany niżej element XML \"tresc\" posiada:<p></p>\n<p>&lt;tresc&gt;</p>\n<p>&amp;naglowek;</p>\n<p>Potwierdzamy przyjęcie zamówienia nr 3433</p>\n<p>&lt;/tresc&gt;\n          </p>",
       "id": 3480,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<p>Zawartość elementową</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
@@ -3489,12 +3659,13 @@
           "answer": "<p>Odnośnik do encji</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "Do technologii dynamicznych stron WWW zaliczamy:",
       "id": 3481,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<p>aplety Javy</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
@@ -3512,12 +3683,13 @@
           "answer": "<p>XPath</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
           "correct": false
         }
-      ]
+      ],
+      "comments": []
     },
     {
       "question": "<p>Wybierz odpowiedź najtrafniej charakteryzującą JSX stosowany w ramach technologii React :</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
       "id": 3482,
-      "comments": null,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<p>język dziedzinowy stanowiący część frameworku BackboneJS</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
@@ -3535,8 +3707,9 @@
           "answer": "<p>rozwiązanie składniowe wymgajające preprocesora</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
           "correct": true
         }
-      ]
+      ],
+      "comments": []
     }
   ],
-  "updatedAt": 1614650414152
+  "updatedAt": 1625347561923
 }
