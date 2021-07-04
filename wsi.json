@@ -3525,23 +3525,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@194.145.*.*",
-          "comment": "które tutaj odpowiedzi mogą być?",
-          "date": "07-02-2020 14:08:58"
-        },
-        {
-          "author": "~Mj@37.47.*.*",
-          "comment": "Myślę że wszystkie poza code and fix ",
-          "date": "07-02-2020 17:01:13"
-        },
-        {
-          "author": "~anon@2a02:a311:4345:4880:d08c:1868:c99a:9a03",
-          "comment": "i tu poprawne 1) 2) 4)",
-          "date": "11-02-2020 22:44:12"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Które zadania typowo należą do roli klienta w architekturze klient-serwer?",
@@ -3729,33 +3713,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~belmondo@83.24.*.*",
-          "comment": "chyba 1, 3 i 4",
-          "date": "03-02-2021 17:21:48"
-        },
-        {
-          "author": "~optimusKEK @83.5.*.*",
-          "comment": "tak mi się wydaje, że odpowiedź 1 i 3 są prawidłowe, co do 4 to nie jestem pewien ",
-          "date": "04-02-2021 18:50:01"
-        },
-        {
-          "author": "~belmondziak@2a02:a310:45d:f280:e14e:f830:68ab:5850",
-          "comment": "@belmondo ma rację",
-          "date": "04-02-2021 21:01:56"
-        },
-        {
-          "author": "~belmondziarz@79.191.*.*",
-          "comment": "dokladnie",
-          "date": "08-02-2021 19:15:14"
-        },
-        {
-          "author": "~SancoBart@195.164.*.*",
-          "comment": "1, 3, 4 potwierdzam",
-          "date": "08-02-2021 21:51:45"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Które z poniższych modeli są modelami danych:",
@@ -3803,13 +3761,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~ferdekmerdek@185.104.*.*",
-          "comment": "imo 1 git",
-          "date": "08-02-2021 20:00:10"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "&nbsp;<p></p>\n<p class=\"MsoListParagraph\"><strong><span><span><span>&nbsp; &nbsp;&nbsp;</span></span></span></strong><strong><span>Jakie są zalety tworzenia klientów WWW w architekturze klient-serwer?</span></strong>\n          </p>",
@@ -3829,13 +3781,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "Czy taka podpowiedź to dobry pomysł w przypadku quizu? :)",
-          "date": "08-02-2019 00:25:28"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Najpopularniejsze rodzaje phishingu mailowego to:",
@@ -3883,43 +3829,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~t@91.230.*.*",
-          "comment": "2 i 4 ?",
-          "date": "17-02-2019 11:25:34"
-        },
-        {
-          "author": "~anon@83.24.*.*",
-          "comment": "2,3 i 4 poprawne\n",
-          "date": "30-01-2020 12:59:00"
-        },
-        {
-          "author": "~anon@5.173.*.*",
-          "comment": "3 chyba jest ok, reszta nie wiem",
-          "date": "02-02-2020 04:30:54"
-        },
-        {
-          "author": "~anon@178.235.*.*",
-          "comment": "Z tego co znalazłem 3 na pewno. 1 i 4 też gdyż perspektywy/widoki są \"wirtualną tabelą\", a ich wartości nie są przechowywane w bazie danych, a są \"wyliczane na żądanie\" przez sprzęt. \nPerspektywa ewidentnie służy do przechowywania danych więc odp z prezentacją raczej fałszywa.",
-          "date": "03-02-2020 03:15:52"
-        },
-        {
-          "author": "~anon@83.24.*.*",
-          "comment": "wszystkie poza 1",
-          "date": "04-02-2020 19:44:19"
-        },
-        {
-          "author": "~eluwinka@109.206.*.*",
-          "comment": "Prosze o zaznaczenie 2,3,4",
-          "date": "04-02-2020 22:08:02"
-        },
-        {
-          "author": "mykhi",
-          "comment": "ależ proszę bardzo :D",
-          "date": "04-02-2020 23:05:43"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Z poniższej listy wybierz własności, jakie charakteryzują Aktora przypadku Użycia",
@@ -3943,18 +3853,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@83.31.*.*",
-          "comment": "Może ktoś wyjaśnić o co chodzi z tym Aktorem? XD",
-          "date": "07-02-2019 14:28:36"
-        },
-        {
-          "author": "~anon@176.221.*.*",
-          "comment": "jest prezentacja na ftp folder Andrzejj",
-          "date": "07-02-2019 19:47:29"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Które z poniższych zdań są prawdziwe",
@@ -4002,18 +3901,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~Pls_help_Iam_under_the_water_brbrbrrr_69@80.48.*.*",
-          "comment": "Ktoś zna może odpowiedź?",
-          "date": "08-02-2021 20:58:55"
-        },
-        {
-          "author": "~Baszszar al-Asad@83.142.*.*",
-          "comment": "prawdopodobnie MAM i MDM",
-          "date": "08-02-2021 21:13:43"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Do ekosystemu rozwiązań bezpieczeństwa urządzeń mobilnych należą:",
@@ -4081,14 +3969,8 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~pawlacz@155.133.*.*",
-          "comment": "zła odpowiedź zaznaczona, powinna być wskazanie uzytkownika,opis funkcjonalnosci,wartość biznesowa",
-          "date": "13-02-2021 18:02:48"
-        }
-      ]
+      "comments": []
     }
   ],
-  "updatedAt": 1625347561923
+  "updatedAt": 1625387660233
 }

@@ -6607,13 +6607,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@93.73.*.*",
-          "comment": "dlaczego b nie pasuje , chyba to nie będzie \nnot(M)->P <=> M or P ?",
-          "date": "01-09-2019 12:18:06"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "W zbiorze liczb całkowitych (m,n) zachodzi zależność (m-n)(m+n) | 7. Ile jest klas abstrakcji?",
@@ -6633,33 +6627,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~grzeg95@88.156.*.*",
-          "comment": "b",
-          "date": "30-08-2019 13:45:37"
-        },
-        {
-          "author": "~anon@89.72.*.*",
-          "comment": "Ktoś potwierdzi? Albo jakiś dowód? ",
-          "date": "02-09-2019 19:23:53"
-        },
-        {
-          "author": "~anon@93.73.*.*",
-          "comment": "ich będzie 4\n",
-          "date": "02-09-2019 19:25:37"
-        },
-        {
-          "author": "~grzeg95@88.156.*.*",
-          "comment": "0:[1...]\n1:[0...]\n3:[4...]\n4:[3...]\nto zadanie nie jest dobre na egzamin ",
-          "date": "29-06-2020 13:00:34"
-        },
-        {
-          "author": "~sad@95.156.*.*",
-          "comment": "jak to liczyc? wie ktos?",
-          "date": "31-08-2020 11:53:42"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Dane są dwie tabele Osoby(Imie, Nazwisko, Zarobki, Id_działu) oraz Działy(Id_działu, Nazwa). Które z następujących instrukcji są poprawnymi instrukcjami SQL w Oracle",
@@ -6683,23 +6651,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@162.158.*.*",
-          "comment": "chyba nie ten egzamin, ale ja się nie znam",
-          "date": "24-06-2019 20:26:55"
-        },
-        {
-          "author": "~Marcin@162.158.*.*",
-          "comment": "Jak znam PCH, to on byłby w stanie coś takiego zrobić",
-          "date": "24-06-2019 20:46:28"
-        },
-        {
-          "author": "~anon@162.158.*.*",
-          "comment": "brakuje tylko pytania o klucz",
-          "date": "24-06-2019 20:50:02"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<p><span>Niech <strong><img src=\"blob:https://pja.mykhi.org/be7ec8b5-8dc4-474a-a7d3-2d9c7d6c8626\" alt=\"pastedGraphic.png\"></strong>. Relację <strong><img src=\"blob:https://pja.mykhi.org/71cbe83c-e9f2-4fc0-9ccc-e5087b078521\" alt=\"pastedGraphic_1.png\"></strong> określamy wzorem: <strong><img src=\"blob:https://pja.mykhi.org/f8b2b16d-6ea3-4c87-8dfc-946c95c6ec2c\" alt=\"pastedGraphic_2.png\"></strong> wtedy i tylko wtedy gdy <strong><img src=\"blob:https://pja.mykhi.org/416a8ec2-fd33-4644-8d85-f4dc3c4effdb\" alt=\"pastedGraphic_3.png\"></strong>. Czy następujące stwierdzenia są prawdziwe?</span></p>",
@@ -6723,13 +6675,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~xD@91.205.*.*",
-          "comment": "to niezłe pasted graphic.png",
-          "date": "18-06-2020 20:11:59"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Rzucono 2 kościami symetrycznymi, zdarzenie <strong>A to suma oczek na obu kostkach</strong>, zdarzenie <strong>B to iloczyn oczek na obu kostkach</strong>.",
@@ -6749,28 +6695,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@162.158.*.*",
-          "comment": "Jeszcze odpowiedzi P(A'|B)=0,5 oraz P(B|A')=1",
-          "date": "25-06-2019 15:50:09"
-        },
-        {
-          "author": "~pchZIOM@162.158.*.*",
-          "comment": "Potwierdzam, też je miałem.",
-          "date": "26-06-2019 17:27:10"
-        },
-        {
-          "author": "~anon@89.72.*.*",
-          "comment": "I która poprawna? \nżadna? ",
-          "date": "31-08-2019 18:05:30"
-        },
-        {
-          "author": "~grzeg95@2a00:f41:1823:31c4:781b:9392:301e:c14b",
-          "comment": "To pytanie nie ma sensu.",
-          "date": "01-09-2019 12:33:08"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Mamy wierzchołki {1,2,3,4,5} a krawędzi 8. Ile może powstać grafów?",
@@ -6790,18 +6715,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~pchZIOM@162.158.*.*",
-          "comment": "Wydaje mi się, że 1 graf.",
-          "date": "26-06-2019 17:28:45"
-        },
-        {
-          "author": "~grzeg95@88.156.*.*",
-          "comment": "~pchZIOM, a mi się nie wydaje. Duplikat 149",
-          "date": "30-08-2019 12:53:03"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Ile może powstać grafów o elementach {1, 2, 3, 4, 5}, które mają dokładnie 8 krawędzi?",
@@ -6821,13 +6735,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~grzeg95@88.156.*.*",
-          "comment": "Graf prosty o n wierzchołkach posiada n(n-1)/2 krawędzi. Wybieram k krawędzi. Symbol Newtona(n(n-1)/2 k). Tutaj wychodzi 45. Jedno z zadań, które nie powinno być na egzaminie bez możliwości posiadania jakichkolwiek wzorów! ",
-          "date": "30-08-2019 12:50:51"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Nieprawdą jest że Jan i Ola zdali egzamin. Zaznacz poprawne zdania.",
@@ -6847,18 +6755,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~rypa@89.65.*.*",
-          "comment": "a to nie jest ~(A i B), gdzie A = 1 i B = 1, czyli ~1 -> 0(oboje nie zdali)? moim zdaniem poprawne jest c (i b pod warunkiem, że rozumiemy lub jako albo jedno albo drugie i odrzucamy przypadek kiedy oboje zdali).",
-          "date": "20-08-2019 17:44:22"
-        },
-        {
-          "author": "~grzeg95@88.156.*.*",
-          "comment": "A, B nie -> a = 0, b = 0; C Tak. Zdania są jednoznaczne.",
-          "date": "30-08-2019 12:23:17"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "W zbiorze liczb zespolonych C okeślono relację równoważności $R$: dla dowolnych x<sub>1</sub>,x<sub>2</sub>&nbsp;€&nbsp;<span><em>(należy)</em></span> C z<sub>1</sub> R z<sub>2</sub> wtedy i tylko wtedy gdy |z<sub>1</sub>-z<sub>2</sub>|≥ 0",
@@ -6882,13 +6779,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~grzeg95@88.156.*.*",
-          "comment": "C jest ok",
-          "date": "30-08-2019 12:24:33"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Jeżeli a,b są ze sobą w relacji Brat .Brat<sup>-1</sup>, to wynika z tego, że",
@@ -6912,33 +6803,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~grzeg95@88.156.*.*",
-          "comment": "a, b, c",
-          "date": "30-08-2019 12:10:36"
-        },
-        {
-          "author": "~anon@93.73.*.*",
-          "comment": "dlaczego a, brat^-1 to odwracanie elementów relacja ( zamiast (x,y) będzie (y,x) )?",
-          "date": "01-09-2019 09:41:24"
-        },
-        {
-          "author": "~grzeg95@37.47.*.*",
-          "comment": "up racja\nBrat^-1 to wciąż facet, ale np. matka^-1 = ojciec i na odwrót, a brat jest bardziej złożony.\nhttps://pja.mykhi.org/2sem/MAD/wyklady/MAD_w_3.pdf \nkażdy jest anon, co wy nicku nie macie?",
-          "date": "01-09-2019 12:44:46"
-        },
-        {
-          "author": "~grzeg95@37.47.*.*",
-          "comment": "Czyli wychodzi na to, że brat = brat^-1",
-          "date": "01-09-2019 12:46:05"
-        },
-        {
-          "author": "~anon@93.73.*.*",
-          "comment": "grzeg95 nu chyba nie , oczywiście że będzie zawierał pary gdzie a=b ale i pary gdzie elementy będą różne .\nJeżeli poprawnie rozumię iloczyn kartezianski pomiędzy zbiorami elementy których są pary to A{(a,b)} , B{(b,c)} to AxB = {(a,c)} \n\njeżeli naprzykład BRAT (gdzie y jest bratem x) będzie wyglądał jak \n{(siostra1,brat1),(brat2,brat1),(brat1,brat2)}\n\nwtedy BRAT^-1 będzie\n{(brat1,siostra1),(brat1,brat2),(brat2,brat1)}\n\nto BRATxBRAT^-1\n{(siostra1,siostra1),(siostra1,brat2),(brat2,siostra1),(brat2,brat2),(brat1,brat1)}\nwtedy nie dla wszystkich elementów wypełnia a=b ale i a≠b również nie wypełnia\n",
-          "date": "01-09-2019 19:18:38"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Zbiór częściowo uporządkowany może mieć",
@@ -6962,28 +6827,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~lolek@2a02:a312:603c:880:44ab:9027:6f57:af9a",
-          "comment": "Odp c ??",
-          "date": "24-08-2019 14:43:17"
-        },
-        {
-          "author": "~grzeg95@88.156.*.*",
-          "comment": "a, c\nMoże być jeden element najmniejszy i największy.\nMoże być wiele elementów minimalnych i maksymalnych.",
-          "date": "30-08-2019 13:40:28"
-        },
-        {
-          "author": "~anon@2a02:a312:603c:880:65bb:5402:3c83:40b6",
-          "comment": "a) nie może być gdyż \"Zauważ, że w zbiorze może być wiele (lub może nie być w ogóle) elementów maksymalnych (lub minimalnych), ale może być co najwyżej jeden element największy (lub najmniejszy). W szczególności jeśli jest więcej niż jeden element maksymalny (odpowiednio minimalny), to są one nieporównywalne, więc element największy (odpowiednio najmniejszy) nie istnieje (implikacja w drugą stronę nie zachodzi).\"",
-          "date": "30-08-2019 14:51:18"
-        },
-        {
-          "author": "~grzeg95@88.156.*.*",
-          "comment": "up racja",
-          "date": "30-08-2019 15:26:47"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Jeśli a,b są ze sobą w relacji BRAT .BRAT, to wynika z tego że",
@@ -7007,23 +6851,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@213.159.*.*",
-          "comment": "c poprawne ?",
-          "date": "20-08-2019 17:37:22"
-        },
-        {
-          "author": "~macierz@89.64.*.*",
-          "comment": "nie wiem, ale tak mi się wydaje",
-          "date": "21-08-2019 20:50:41"
-        },
-        {
-          "author": "~grzeg95@88.156.*.*",
-          "comment": "c poprawne",
-          "date": "30-08-2019 12:09:33"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Rzucono 5 razy symetryczną monetą",
@@ -7047,33 +6875,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~dariusz@91.239.*.*",
-          "comment": "Jeżeli jest 5 mozliwosci na 1 orła to 5/32 < 1/6 czyli odpowiedz a) jest poprawna",
-          "date": "18-08-2019 16:04:46"
-        },
-        {
-          "author": "~maurycy@91.239.*.*",
-          "comment": "c) tez jest poprawne",
-          "date": "19-08-2019 15:13:05"
-        },
-        {
-          "author": "~anon@213.159.*.*",
-          "comment": "a) poprawne bo 1/32 * ( 5 nad 1 )< 1/6\nb) również bo 26/32 ( prawdopodobieństwo tego że wypadnie albo 2 albo 3 albo 4 albo 5)>3/4( 24/32 )\nc) nie bo 1/32 * 3 < 1/10",
-          "date": "20-08-2019 17:28:46"
-        },
-        {
-          "author": "~anon@2a02:a312:603c:880:10a9:a647:cecc:133c",
-          "comment": "c) rowniez poprawne bo to nie jest 1/32 tylko 4/32 (OORRR/ROORR/RROOR/RRROO)",
-          "date": "26-08-2019 12:44:04"
-        },
-        {
-          "author": "~grzeg95@88.156.*.*",
-          "comment": "a) (1-{RRRRR}) 31/32 czyli 186/192 nie jest mniejsze niż 32/192\nb) (1-{RRRRR, ORRRR, RORRR, RRORR, RRROR, RRRRO}) 26/32 czyli 3.25/4 jest większe niż 3/4\nc) {OORRR, ROORR, RROOR, RRROO} 4/32 czyli 40/320 jest większe niż 32/320",
-          "date": "30-08-2019 13:38:10"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Ile elementów ma zbiór {ø,{X},P(X)} jeśli X jest zbiorem n elementowym",
@@ -7097,18 +6899,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~lolek@194.69.*.*",
-          "comment": "Prośba o zaznaczenie a)",
-          "date": "22-08-2019 11:10:05"
-        },
-        {
-          "author": "mykhi",
-          "comment": "zaznaczam a)",
-          "date": "22-08-2019 11:18:37"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Mamy funkcję f:X→Y oraz dwa podzbiory: A⊆X oraz B⊆Y",
@@ -7156,13 +6947,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@2a02:a312:603c:880:10a9:a647:cecc:133c",
-          "comment": "z diagramu venna wychodzi odp c) ( + pch tak zaznaczyl na wykladzie ) oraz jezeli w odp a) kropka to mnożenie to odp a) tez jest prawdilowa",
-          "date": "26-08-2019 12:31:57"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Niech f:R→R będzie funkcją określoną wzorem f(x)=|x<sup>2</sup>+4x-21|. Wówczas",
@@ -7182,23 +6967,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~lolek@83.6.*.*",
-          "comment": "tutaj odp A jest prawidlowa",
-          "date": "31-08-2019 16:36:53"
-        },
-        {
-          "author": "~grzeg95@2a00:f41:1823:31c4:781b:9392:301e:c14b",
-          "comment": "podbijam",
-          "date": "01-09-2019 12:13:49"
-        },
-        {
-          "author": "~anon@185.135.*.*",
-          "comment": "podbijam",
-          "date": "02-09-2019 18:41:41"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Jeżeli szansa na wygranie w każdym pojedynczym losowaniu wynosi 25% to prawdopodobieństwo wygranej w czwartym losowaniu jeżeli wiemy że przegraliśmy juz trzy losowania z rzędu jest:",
@@ -7218,38 +6987,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~jp2@91.239.*.*",
-          "comment": "a) i b) powinny wydaja sie legitne",
-          "date": "18-08-2019 16:06:14"
-        },
-        {
-          "author": "~anon@213.159.*.*",
-          "comment": "a i c bo\nprawdopodobieństwo wygranej = 0,75*0,75*0,75*0,25=0,10546875\nco jest mniej niż  prawdopodobieństwo przegranej w tym losowaniu i mniej od 25%",
-          "date": "20-08-2019 17:33:43"
-        },
-        {
-          "author": "~anon@2a02:a312:603c:880:10a9:a647:cecc:133c",
-          "comment": "odp b) tylko bo za kazdym razem mamy 25% i to się nie zmienia! nie sumujemy ani nic bo nie zwieksza (czyt. nie zmienia) nam sie to prawdopobienstwo wraz z naszymi przegranymi",
-          "date": "26-08-2019 12:29:46"
-        },
-        {
-          "author": "~rypa@83.31.*.*",
-          "comment": "podbijam anona wyżej. b) moim zdaniem powinno być poprawne, bo rozpatrujemy tylko czwarty rzut i jakie mamy w nim szanse na wygraną",
-          "date": "29-08-2019 19:16:36"
-        },
-        {
-          "author": "~anon@185.135.*.*",
-          "comment": "Moim zdaniem tylko odpowiedź A, rozwiązywałem zadanie schematem Bernoulliego",
-          "date": "02-09-2019 19:09:25"
-        },
-        {
-          "author": "~lolek@2a02:a312:603c:880:540a:c9e5:e40f:1305",
-          "comment": "ja potwierdzam ze B - na konsultacjach widziałem",
-          "date": "02-09-2019 19:31:22"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Liczba rozmieszczeń 5 nieodróżnialnych kul w 4 urnach jest",
@@ -7269,33 +7007,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@185.135.*.*",
-          "comment": "Wszystkie odpowiedzi poprawne, prośba o zaznaczenie",
-          "date": "02-09-2019 18:34:53"
-        },
-        {
-          "author": "~anonek@2a02:a31c:362:1300:5dcd:a666:527f:f903",
-          "comment": "Odpowiedz A i B, info z konsultacji z PCH",
-          "date": "02-09-2019 22:08:15"
-        },
-        {
-          "author": "~anon@89.72.*.*",
-          "comment": "Ja widziałem na konsultacjach wszystkie",
-          "date": "03-09-2019 01:22:38"
-        },
-        {
-          "author": "~anon@188.146.*.*",
-          "comment": "wszystkie nie bo \"od liczby rozmieszczeń\" jest bez sensu i nalezy to rozumiec jako liczba rozmieszczen jest mniejszca gdy kule sa odroznialne, a to zawsze nieprawda bo jesli mozesz cos odroznic to jest masz wiecej przypadkow nie mniej \n",
-          "date": "27-06-2020 02:49:31"
-        },
-        {
-          "author": "~grzeg95@88.156.*.*",
-          "comment": "a) wkładamy po jednej kuli, zostaje nam jedna, i trafi do jednej z czterech urn, prawda\nb) wynika z pierwszego, prawda\nc) 1) k nierozróżnialnych w n rozróżnialnych to (n+k-1 n-1) czyli z treści zadania 70,\n2) n rozróżnialnych w m pudełkach to m(m+1)(m+2)...(m+n-1) czyli 840, prawda",
-          "date": "27-06-2020 16:35:36"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Które z następujących wyrażeń są tautologiami?",
@@ -7315,28 +7027,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~rypa@89.65.*.*",
-          "comment": "a czy przypadkiem a i c nie są poprawne?",
-          "date": "20-08-2019 17:32:02"
-        },
-        {
-          "author": "~anon@5.173.*.*",
-          "comment": "a i c są poprawne, proszę o uzupełnienie",
-          "date": "20-08-2019 19:13:49"
-        },
-        {
-          "author": "~grzeg95@88.156.*.*",
-          "comment": "a, c",
-          "date": "30-08-2019 14:25:44"
-        },
-        {
-          "author": "~Bydle@5.173.*.*",
-          "comment": "a)\np→(q→p) opuszczamy implikacje w nawiasie\np→(~qvp) opuszczamy kolejną implikacje\n~pv(~qvp) robimy łączność sumy\n(~pvp)v~q sprowadzenie do prawdy \n1v~q = 1 tautologia\nb)\np→(~p∨q) opuszczamy implikacje\n~pv(~pvq) robimy łączność sumy\n(~pv~p)vq idempotentność sumy\n~pvq nie jest tautologią (np gdy p=1,q=0)\nc)\n(~p→p)→p opuszczam implikacje w nawiasie\n(pvp)→p robie idempotentność sumy i opuszczam implikacje\n~pvp = 1 jest tautologią",
-          "date": "27-06-2020 22:57:06"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Czy dla dowolnych skończonych zbiorów A, B zachodzi:",
@@ -7356,13 +7047,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~padawan@91.239.*.*",
-          "comment": "|A|+|B|>=|A∪B| to jest prawda",
-          "date": "23-08-2019 21:35:40"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Czy suma&nbsp;Σ<sup>2n</sup><sub>i=1&nbsp;</sub>&nbsp; &nbsp; &nbsp;(5) jest równa",
@@ -7402,13 +7087,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@185.135.*.*",
-          "comment": "odpowiedź: 2^(n-2), wszystkie odpowiedzi są błędne",
-          "date": "02-09-2019 18:40:45"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Domknięcie symetryczne i przechodnie relacji zwrotnej jest",
@@ -7428,13 +7107,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~grzeg95@88.156.*.*",
-          "comment": "A) NIE. relacja pełna musi zawierać relację spójną\nB) NIE. relacja spójna jest bardzo rzadkim zjawiskiem\nC) NIE. relacja częściowego porządku: zwrotna, przechodnia, antysymetryczna",
-          "date": "30-08-2019 15:23:42"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Czy suma&nbsp;Σ<sup>n</sup><sub>i=1<sup>2n</sup></sub> jest równa",
@@ -7454,13 +7127,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~grzeg95@88.156.*.*",
-          "comment": "(2n + 2n + [n razy]) => 2(n + n + [n razy]) => 2n^2",
-          "date": "30-08-2019 15:16:53"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Czy następujące wyrażenia są tautologiami rachunku zdań?",
@@ -7480,23 +7147,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~ITN2k20@89.74.*.*",
-          "comment": "czy (p→p)→p nie powinno być prawdziwe?\n(0 -> 0) -> 0   daje nam 1 -> 0 czyli prawda\na (1 -> 1 ) -> 1 daje nam 1 -> 1 czyli rowniez prawda, \nwyrażenie jest tautologią",
-          "date": "05-04-2020 23:12:20"
-        },
-        {
-          "author": "~ventan@2a02:a317:a045:5280:c2e:9207:d0c:70d6",
-          "comment": "ITN2k20 1 -> 0 nie jest prawdą.\nnatomiast b) p->(p->p) powinno być prawdziwe:\njak p=0 to w nawiasie 0->0 = 1 więc po wyjściu z nawiasu 0->1 =1 czyli prawda\njak p=1 to w nawiasie 1->1 = 1 więc po wyjściu z nawiasu 1->1 =1 czyli prawda\nwięc jest to tautologia",
-          "date": "15-06-2020 17:37:38"
-        },
-        {
-          "author": "~anon@5.173.*.*",
-          "comment": "a)\n(p^q)→p najpierw opuszczamy implikacje\n~(p^q)vq z praw de morgana robimy\n(~pv~q)vq teraz łączność sumy\n~pv(~qvq) możemy wyprowadzić prawde\n~pv1 = 1 czyli a jest tautologią\nb)\np→(p→p)\topuszczamy implikacje w nawiasie\np→(~pvp) wyprowadzamy prawde i opuszczamy implikacje\n~pv1 = 1 czyli to też jest tautologią\nc)\n(p→p)→p opuszczamy implikacje w nawiasie\n(~pvp)→p wyprowadzamy prawde z nawiasu i opuszczamy implikacje\n~1vp = 0vp nie możemy powiedzieć, że jest to tautologia,bo dla p=0 zdanie jest fałszywe",
-          "date": "28-06-2020 01:44:53"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Jeśli zmienna losowa ma wartość nieskończoną, to",
@@ -7536,28 +7187,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~lolek@2a02:a312:603c:880:3de7:15f2:2f0a:b37e",
-          "comment": "na próbnym zamiast spójnej była odp zwrotna i pch zaznaczył właśnie antysymetryczna i zwrotna",
-          "date": "03-09-2019 07:41:42"
-        },
-        {
-          "author": "~chillerautopia@37.30.*.*",
-          "comment": "tutaj antysymetryczna, b poprawne",
-          "date": "29-06-2020 13:46:26"
-        },
-        {
-          "author": "mykhi",
-          "comment": "zaznaczam b)",
-          "date": "29-06-2020 13:47:39"
-        },
-        {
-          "author": "~anon@2a01:110f:1413:c300:5836:2ad1:b974:5fed",
-          "comment": "wie ktoś jak to rozwiazac?",
-          "date": "28-08-2020 15:20:37"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Jeśli zmienna losowa ma wartość nieskończoną, to",
@@ -7577,13 +7207,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@185.135.*.*",
-          "comment": "Odpowiedź A jest poprawna\nB jest fałszywa,\nC nie wiem\n\nPytanie się powtarza",
-          "date": "02-09-2019 20:22:30"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Czy w dowolnym zbiorze zachodzi :&nbsp;",
@@ -7626,5 +7250,5 @@
       "comments": []
     }
   ],
-  "updatedAt": 1625347561923
+  "updatedAt": 1625387660233
 }

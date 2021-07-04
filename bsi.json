@@ -3331,18 +3331,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~SzMatek@89.78.*.*",
-          "comment": "Tu chyba jest błąd. Kryptoanaliza - procedura w ktorej wiadomosc tajna jest przekształcana na wiadomosc jawna. Innymi słowy łamanie szyfrów",
-          "date": "04-02-2013 18:15:18"
-        },
-        {
-          "author": "~kelu@89.74.*.*",
-          "comment": "przekształcanie wiadomości tajnej na jawną to po prostu deszyfrowanie a nie kryptoanaliza :P",
-          "date": "06-02-2015 21:21:52"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Protokol Shamira",
@@ -3418,18 +3407,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~sng@91.189.*.*",
-          "comment": "Wydaje mi się, że SSL jest w warstwie prezentacji czyli wg. modelu OSI jest to warstwa 6.\nhttp://pl.wikipedia.org/wiki/SSL",
-          "date": "06-02-2013 23:07:24"
-        },
-        {
-          "author": "~sng@91.189.*.*",
-          "comment": "mój błąd. SLL wg RFC jest zaprojektowany do modelu IP a nie OSI więc jest w warstwie 4.",
-          "date": "06-02-2013 23:22:11"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Czym jest kerberosowanie?",
@@ -3477,13 +3455,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@91.207.*.*",
-          "comment": "Błąd, jak w 2 następnych. C2 zapewnia Kontrolę dostępu (C2), Ochronę minimalną (D) oraz Ochronę uznaniową (C1)",
-          "date": "01-02-2021 11:41:56"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Co zapewnie bezpieczenstwo na poziomie B3?",
@@ -3511,13 +3483,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@91.207.*.*",
-          "comment": "To co w następnym pytaniu, B3 zapewnia wszystko poza opisem matematycznym.",
-          "date": "01-02-2021 11:38:40"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Co zapewnie bezpieczenstwo na poziomie A1?",
@@ -3545,43 +3511,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~m.Iron@83.28.*.*",
-          "comment": "Według wykładów wymagania \"wyższego poziomu, spełniać muszą również wymagania poziomu niższego.\" A1 jest najwyższym poziomem, więc oprócz matematycznego modelu zapewnia też ochronę minimalną, strukturalną i przez podział:\n\nhttp://edu.pjwstk.edu.pl/wyklady/bsi/scb/index07.html",
-          "date": "17-01-2014 22:40:21"
-        },
-        {
-          "author": "~kogut@109.206.*.*",
-          "comment": "wiec jak ? ",
-          "date": "05-02-2019 19:42:23"
-        },
-        {
-          "author": "~magda@2a02:a317:223f:f780:c9f5:eb9b:1b20:56ee",
-          "comment": "powinny być wszystkie zaznaczone, m.Iron ma rację",
-          "date": "07-02-2020 07:37:36"
-        },
-        {
-          "author": "~magda@2a02:a317:223f:f780:c9f5:eb9b:1b20:56ee",
-          "comment": "powinny być wszystkie zaznaczone, m.Iron ma rację",
-          "date": "07-02-2020 07:37:51"
-        },
-        {
-          "author": "mykhi",
-          "comment": "zaznaczam wszystkie",
-          "date": "07-02-2020 09:48:06"
-        },
-        {
-          "author": "~ekhm@212.2.*.*",
-          "comment": "Czemu nie zaznaczamy kontroli dostepu?",
-          "date": "07-02-2020 13:29:34"
-        },
-        {
-          "author": "~anon@2a02:a310:c122:f680:19e1:423f:d67c:5a9b",
-          "comment": "up",
-          "date": "09-02-2020 19:59:49"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Rowin skrot IDS:",
@@ -3733,18 +3663,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~kamniel@79.184.*.*",
-          "comment": "To jest źle, powinno być 27001.\nZe strony https://wiedza.pkn.pl/web/wiedza-normalizacyjna/zarzadzanie-bezpieczenstwem-informacji\n\n\n\"Polska Norma PN-ISO/IEC 27001:2014-12 Technika informatyczna – Techniki bezpieczeństwa – Systemy zarządzania bezpieczeństwem informacji – Wymagania jest wprowadzeniem normy  ISO/IEC 27001:2013\nPolska norma PN-ISO/IEC 27002:2014-12 Technika informatyczna – Techniki bezpieczeństwa – Praktyczne zasady zabezpieczania informacji jest wprowadzeniem normy ISO/IEC 27002:2013 \"",
-          "date": "24-02-2018 21:17:57"
-        },
-        {
-          "author": "~karol@188.146.*.*",
-          "comment": "PN-ISO/IEC27005:2014-01-wersja polska,Technika informatyczna--Techniki bezpieczeństwa--Zarządzanie ryzykiem w bezpieczeństwie informacji(w normie podano *WYTYCZNE* dotyczące zarządzania ryzykiem w bezpieczeństwie informacji, rozwinięto ogólne koncepcje określone w ISO/IEC27001,opracowano ją w celu wsparcia wdrożenia podejścia do bezpieczeństwa opartego na zarządzaniu ryzykiem;\n\nhttps://techinfo.uodo.gov.pl/wp-content/uploads/2018/03/status-i-zakres-norm-technicznych-ver3.pdf",
-          "date": "01-07-2019 16:09:12"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Zasady specyfikacji,implementacji i oceny bezpieczenstwa opisuje norma:",
@@ -3800,18 +3719,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~dafase@89.70.*.*",
-          "comment": "Czemu akurat 25%? A nie odpowiedz \"Nie daje gwarancji\"",
-          "date": "16-01-2013 20:13:04"
-        },
-        {
-          "author": "mykhi",
-          "comment": "oczywiście, że nie daje gwarancji (hasło nie musi być w słowniku). pytanie dodał ktoś inny, pewnie źle zaznaczył odpowiedź - zaraz poprawię.",
-          "date": "16-01-2013 20:21:58"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Przy dowolnie długim czasie łamanie hasła metodą siłową:",
@@ -3862,5 +3770,5 @@
       "comments": []
     }
   ],
-  "updatedAt": 1625347561923
+  "updatedAt": 1625387660233
 }

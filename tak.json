@@ -4789,38 +4789,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@178.36.*.*",
-          "comment": "wszystkie poprawne\nhttps://pl.wikipedia.org/wiki/CD-RW\nto jest CD-RW, nie CD R",
-          "date": "10-02-2018 14:39:31"
-        },
-        {
-          "author": "~sd@79.184.*.*",
-          "comment": "+1 prosze naprawic te pytanie!",
-          "date": "11-02-2018 19:20:08"
-        },
-        {
-          "author": "~anon@83.31.*.*",
-          "comment": "''dopisywanie danych na końcu, jeśli nie jest jeszcze zbyt zapełniona'' - jest poprawna, jestem z konsultacji",
-          "date": "15-02-2018 21:41:19"
-        },
-        {
-          "author": "~anon@83.28.*.*",
-          "comment": "czyli wszystkie czy tylko 1 i 3?",
-          "date": "04-02-2019 13:09:00"
-        },
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "Wg mnie wszystkie, bo tak jak 178.36 napisał, to jest CD-RW a nie CD-R",
-          "date": "04-02-2019 21:12:39"
-        },
-        {
-          "author": "~pchhahaha@5.184.*.*",
-          "comment": "wszystkie poprawne",
-          "date": "04-02-2019 22:08:22"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Kiedy stosujemy szybszy algorytm, wykonując mniej działań zmiennopozycyjnych",
@@ -4840,13 +4809,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~kodomo@159.205.*.*",
-          "comment": "2 true",
-          "date": "29-01-2017 16:22:16"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Liczba ścieżek na dysku jest",
@@ -4866,73 +4829,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~ASD@87.206.*.*",
-          "comment": "wut? Czemu niby \"taka sama, jak liczba cylindrow\"? Przecie cylinder to zbiór ścieżek równooddalonych od środka talerzy, wiec w przykładowym dysku jednotalerzowym obustronnym, na którego powierzchni górnej są np 2 ścieżki, i na powierzchni dolnej również 2 ścieżki, to są 2 cylindry, w których w skład każdego cylindra wchodzą 2 ścieżki, więc pierwsza odpowiedź jest błędna. Jeśli nie, to proszę o wytłumaczenie i poprawę",
-          "date": "30-01-2015 20:16:19"
-        },
-        {
-          "author": "~anon@89.76.*.*",
-          "comment": "http://www.linuxpl.org/SAG/x757.html\nCTRL+F\n\"Wszystkie odpowiadające sobie ścieżki nazywane są cylindrem\"",
-          "date": "01-02-2016 17:15:58"
-        },
-        {
-          "author": "~anon@89.65.*.*",
-          "comment": "@up liczba ścieżek na jednej powierzchni talerza jest taka sama jak liczba cylindrów (pytanie 9). W dodatku w podanym linku zdanie zaczyna się od \"Każda powierzchnia\". Zatem odpowiedź A) jest błędna.",
-          "date": "01-02-2016 20:15:11"
-        },
-        {
-          "author": "~anon@89.69.*.*",
-          "comment": "Podbijam poprzedników, A jest błędna",
-          "date": "17-01-2018 22:12:53"
-        },
-        {
-          "author": "mykhi",
-          "comment": "odznaczam A",
-          "date": "17-01-2018 23:05:53"
-        },
-        {
-          "author": "~anon@89.69.*.*",
-          "comment": "Cytując biblię pch rozmieszczenie sciezek i sektorow nie jest trwala cecha i jest wykonywane podczas formatowania. A więc nie ustala tego producent.",
-          "date": "29-01-2018 20:11:21"
-        },
-        {
-          "author": "~KamilSmoragiewicz@94.254.*.*",
-          "comment": "I Tak Nie zdacie, już za późno",
-          "date": "06-02-2018 13:11:54"
-        },
-        {
-          "author": "~KamilSmoragiewicz@94.254.*.*",
-          "comment": "I Tak Nie zdacie, już za późno",
-          "date": "06-02-2018 13:11:59"
-        },
-        {
-          "author": "~anon@178.36.*.*",
-          "comment": "BOŻE ŚWIĘTY LUDZIE FORMATOWANIE TO CZYSZCZENIE DANYCH A NIE MACHANIE RÓŻDŻKĄ ŻEBY FIZYCZNIE ZMIENIĆ DYSK I UTWORZYĆ NA NIM NOWE ŚCIEŻKI",
-          "date": "09-02-2018 22:32:53"
-        },
-        {
-          "author": "~mykhi@83.24.*.*",
-          "comment": "WSZYSTKO",
-          "date": "13-02-2018 00:12:39"
-        },
-        {
-          "author": "~anon@5.173.*.*",
-          "comment": "In other words, the number of tracks on a single surface in the drive exactly equals the number of cylinders of the drive\n\nvia: https://en.wikipedia.org/wiki/Track_(disk_drive)",
-          "date": "01-02-2020 18:44:01"
-        },
-        {
-          "author": "~anon@5.173.*.*",
-          "comment": "czyli 1 dobrze",
-          "date": "01-02-2020 18:44:17"
-        },
-        {
-          "author": "~anon@5.173.*.*",
-          "comment": "albo nie xD",
-          "date": "01-02-2020 18:48:28"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Uzycie systemu stalopozycyjnego w stosunku do zmiennopozycyjnego",
@@ -4952,23 +4849,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~phs@80.238.*.*",
-          "comment": "Na egzaminie próbnym odpowiedź \"zwiększa zakres reprezentowalności\" była poprawna.",
-          "date": "27-01-2016 12:18:21"
-        },
-        {
-          "author": "~anon@89.74.*.*",
-          "comment": "pyt163 jest takie samo, a ma inne prawidlowe odp",
-          "date": "25-01-2017 14:35:28"
-        },
-        {
-          "author": "~anon@95.49.*.*",
-          "comment": "Nie jest takie samo jest odwrotnie sprecyzowane \"Użycie systemu zmiennopozycyjnego w stosunku do stałopozycyjnego\"",
-          "date": "30-01-2017 22:00:31"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Port równolegly jest",
@@ -4992,83 +4873,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~new@83.31.*.*",
-          "comment": "wtf, ostatnie nie jest prawdziwe",
-          "date": "13-02-2013 01:24:04"
-        },
-        {
-          "author": "~anon@37.109.*.*",
-          "comment": "\"Zawsze wolniejszy niż szeregowy\"\nTo na bank nie jest poprawna odpowiedź !\nWedług mnie nie ma poprawnej odpowiedzi.",
-          "date": "27-01-2014 10:59:24"
-        },
-        {
-          "author": "~anon@89.79.*.*",
-          "comment": "prezentacja 03pl.ppt 31 slajd. Port równoległy jest zazwyczaj szybszy ale nie zawsze (USB to rodzaj szeregowego który jest niekiedy wydajniejszy niż równoległy)",
-          "date": "27-01-2014 20:18:17"
-        },
-        {
-          "author": "~anon@37.109.*.*",
-          "comment": "Skoro jest zazwyczaj szybszy niż szeregowy to chyba nie może być zawsze wolniejszy, czy się mylę... ?",
-          "date": "10-02-2014 11:53:52"
-        },
-        {
-          "author": "~TW@77.113.*.*",
-          "comment": "Port SCSI (port równoległy) 640MB/s vs. Port SATA I (port szeregowy) 179 MB/s. A co za tym idzie port RÓWNOLEGŁY może być szybszy od portu SZEREGOWEGO. ",
-          "date": "09-02-2015 22:07:21"
-        },
-        {
-          "author": "~anon@95.49.*.*",
-          "comment": "widze że ktoś tu się próbuje uczyć na jutro xD\n",
-          "date": "09-02-2015 22:30:47"
-        },
-        {
-          "author": "~alex@89.79.*.*",
-          "comment": "ostatnie nie jest prawdą...",
-          "date": "25-01-2016 19:17:32"
-        },
-        {
-          "author": "~kick@95.49.*.*",
-          "comment": "Port szeregowy(np. USB) czasami przekracza wydajność tradycyjnych portów równoległych.\nPort równoległy przesyła bity grupowo, a port szeregowy pojedynczo.",
-          "date": "01-02-2016 23:42:49"
-        },
-        {
-          "author": "~anon@89.65.*.*",
-          "comment": "@up no spoko, ale nie o to jest pytanie",
-          "date": "02-02-2016 12:03:30"
-        },
-        {
-          "author": "~hr@95.49.*.*",
-          "comment": "Ze względu na prostszą synchronizację niż w przypadku portu równoległego, porty szeregowe w praktyce osiągają większe przepustowości. Teoretyczna przepustowość portów równoległych jest większa, ponieważ nie istnieje ograniczenie ilości równolegle wykorzystywanych linii sygnałowych. https://pl.wikipedia.org/wiki/Port_szeregowy",
-          "date": "02-02-2016 12:09:56"
-        },
-        {
-          "author": "~anon@178.36.*.*",
-          "comment": "USB jest szybsze od wszystkich/zdecydowanej większości portów, polecam chodzić na wykłady",
-          "date": "07-02-2018 18:32:23"
-        },
-        {
-          "author": "~anon@178.36.*.*",
-          "comment": "a usb jest portem szeregowym (też wykłady się kłaniają)\ndo tego dochodzi jeszcze słówko ZAWSZE, usb jest szybszy od sata więc już mamy jakiś szeregowy szybszy od jakiegoś równoległego\nGG EZ",
-          "date": "07-02-2018 18:35:03"
-        },
-        {
-          "author": "~ssss@83.31.*.*",
-          "comment": "czyli?\n",
-          "date": "02-02-2019 16:05:11"
-        },
-        {
-          "author": "~annon@34@77.252.*.*",
-          "comment": "pch, sam dał przykład że czasami używa się równoległych (np w kamerach telewizyjnych), natomiast chwilę później było że USB, jako szeregowy zazwyczaj ma większą prędkość, jaka jest więc odpowiedź z tym słowem ZAWSZE xd (?) ",
-          "date": "27-01-2020 19:17:06"
-        },
-        {
-          "author": "~anon@194.145.*.*",
-          "comment": "wg mnie ostatnie nieprawdziwa\n",
-          "date": "03-02-2020 16:04:13"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Aby określić złożoność pesymistyczną algorytmu musimy odnieść ją do:",
@@ -5092,28 +4897,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@89.76.*.*",
-          "comment": "95 108 120 to te same pytania.Na pewno pytanie 120 się pojawia z takimi odpowiedziami,ale nie wiem czy są poprawne",
-          "date": "26-01-2017 16:57:47"
-        },
-        {
-          "author": "~anon@194.153.*.*",
-          "comment": "Według odpowiedzi do pytania 2624 poprawne odpowiedzi to 1, 2 i 4 chociaż na chłopski rozum wydaje mi się że tylko 2 bo jaki sens ma odpowiedz 1? Algorytm odnieść do algorytmu lol, 4 tez dziwne",
-          "date": "02-02-2018 13:03:38"
-        },
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "Musimy odnieść ją tylko do konkretnych danych tzw. najabrdziej złośliwych. https://pl.wikipedia.org/wiki/Z%C5%82o%C5%BCono%C5%9B%C4%87_obliczeniowa\n",
-          "date": "12-02-2018 12:31:49"
-        },
-        {
-          "author": "~anon@83.24.*.*",
-          "comment": "według pch do konkretnych danych, dla których algorytmbedzie wykonywał się najdłużej",
-          "date": "29-01-2020 16:04:58"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Do magistrali podłącza się",
@@ -5157,38 +4941,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~zzz@88.156.*.*",
-          "comment": "Operacja elementarna (dominująca) – w teorii obliczeń operacja charakterystyczna dla danego algorytmu, na ogół zajmująca w nim najwięcej czasu. Wycinek z wiki, czyżby odpowiedz 2 byla prawidlowa?",
-          "date": "27-01-2014 20:26:42"
-        },
-        {
-          "author": "~JJ@89.78.*.*",
-          "comment": "Wydaje mi się że nie ponieważ na wiki masz ,, na ogół \" a  tutaj w odpowiedzi ,,ze wszystkich\"",
-          "date": "27-01-2014 21:03:45"
-        },
-        {
-          "author": "~anon@89.67.*.*",
-          "comment": "W innym pliku (z 2006r) jest ze 1 odpowiedź jest poprawna. Dodatkowo na jednej stronie znalazłem informacje, że dominujące to takie których wykonanie wpływa na czas wykonania algorytmu dla każdych danych - z tego wychodzi,że zawsze się wykonują. Pytanie tylko czy jest ich najwięcej...",
-          "date": "02-02-2015 23:29:47"
-        },
-        {
-          "author": "~agnieszka@89.64.*.*",
-          "comment": "https://main.edu.pl/en/user.phtml?op=lesson&n=23&page=algorytmika\n\n\"Operacja dominująca to taka operacja 'o', że liczba wszystkich operacji wykonanych przez algorytm jest nie większa niż 'c' (liczba operacji 'o'), dla pewnej stałej c∈N . W szczególności oznacza to, że sama operacja dominująca musi składać się ze stałej (niezależnej od rozmiaru danych) liczby podoperacji.\"\n\nCzyli jeżeli po ludzku by sformułować odpowiedź pierwszą, to byłaby poprawna - I guess?",
-          "date": "11-01-2018 01:28:23"
-        },
-        {
-          "author": "mykhi",
-          "comment": "zmieniam pierwszą na poprawną",
-          "date": "11-01-2018 18:36:24"
-        },
-        {
-          "author": "~yespoorplease@79.184.*.*",
-          "comment": "pierwsze zadanie ma dwa razy \"Że dla żadnych danych żadna operacja nie wykonuje się więcej razy\" :p\njedno za dużo",
-          "date": "10-02-2020 22:59:05"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "W systemie zmiennopozycyjnym, w którym ceche reprezentujemy za pomocą jednego bajtu, a mantyse za pomocą 5 bajtów",
@@ -5208,53 +4961,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~new@83.31.*.*",
-          "comment": "wydaje mi się, że drugie jest OK",
-          "date": "13-02-2013 01:28:02"
-        },
-        {
-          "author": "~utc@87.206.*.*",
-          "comment": "56 pytanie TAK 2012:\nW systemie zmiennopozycyjnym, w którym ceche reprezentujemy za pomocą jednego bajtu, a mantyse za pomocą 5 bajtów\n>kazda z wartości z przedzialu -1000..1000 moze byc reprezentowana, choc niektóre z bledem\n>liczba tych wartości, które są reprezentowane bez bledu jest skonczona",
-          "date": "05-02-2015 22:40:36"
-        },
-        {
-          "author": "~anon@89.65.*.*",
-          "comment": "według pytania 53, odpowiedź B) jest również poprawna",
-          "date": "31-01-2016 00:23:12"
-        },
-        {
-          "author": "~anon@178.36.*.*",
-          "comment": "ale przecież -1000...1000 to WARTOŚCI a nie mantysa, mantysa jest ułamkiem a skoro cecha to 1 bajt to jedyne co możemy uzyskać to m lub -m gdzie m to mantysa więc trochę nie bardzo, a b w smie też poprawne, bo przedział to [-1, 15/16] i zarówno 0 (0.00000) jak i -1 (1.11111) można uzyskać",
-          "date": "07-02-2018 18:24:12"
-        },
-        {
-          "author": "~anon@178.36.*.*",
-          "comment": "cofam, właśnie zrozumiałem że to bajt, a nie bit xD",
-          "date": "07-02-2018 18:24:49"
-        },
-        {
-          "author": "~anon@178.36.*.*",
-          "comment": "poprawne są wszystkie",
-          "date": "07-02-2018 18:25:22"
-        },
-        {
-          "author": "~anon@89.65.*.*",
-          "comment": "dlaczego -1000 -> 1000?",
-          "date": "05-02-2019 08:21:58"
-        },
-        {
-          "author": "~anon@2a02:a310:45b:5280:2c23:f637:38dd:f8b2",
-          "comment": "to które są w koncu poprawne? Wszystkie 3?",
-          "date": "30-01-2020 15:26:25"
-        },
-        {
-          "author": "~anonek@5.173.*.*",
-          "comment": "https://stackoverflow.com/questions/3793838/which-is-the-first-integer-that-an-ieee-754-float-is-incapable-of-representing-e\n\nNie wszystkich liczb całkowitych w przedziale da się przedstawić dokładnie",
-          "date": "30-01-2020 18:28:13"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Przerzutnik sluzy do",
@@ -5358,33 +5065,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@89.74.*.*",
-          "comment": "O, a co tu się odpierdala? Dzisiaj egzamin i nagle teraz jest dokładne jeszcze?",
-          "date": "02-02-2016 00:28:08"
-        },
-        {
-          "author": "~anon@78.11.*.*",
-          "comment": "XD czujny",
-          "date": "02-02-2016 02:48:54"
-        },
-        {
-          "author": "~anon@89.65.*.*",
-          "comment": "no bo jest dokładne",
-          "date": "02-02-2016 12:02:01"
-        },
-        {
-          "author": "~piotrolot1@89.77.*.*",
-          "comment": "nie sądzę \"Wadą notacji stałopozycyjnej jest jej mały zakres i mała precyzja. \"",
-          "date": "05-02-2017 22:14:42"
-        },
-        {
-          "author": "~anon@178.36.*.*",
-          "comment": "precyzja jest mała przy NOTOWANIU niektórych ułamków (np. 1/3) ale DODAWANIE jest dokładne\n\nnie wiem tylko z jakiej paki ma nie być rozdzielne względem mnożenia. przecież nic ty nie zaokrąglasz, działa jak zwykłe ułamki dziesiętne",
-          "date": "07-02-2018 18:30:32"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Płyty CD-RW są wielokrotnie zapisywane:",
@@ -5404,18 +5085,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@87.206.*.*",
-          "comment": "Za angielską wikipedię:\n\"The reflective layer is, however, a silver-indium-antimony-tellurium alloy, which has in its original state, a polycrystalline structure and reflective properties. When writing the laser beam uses its maximum power (8 - 14 mW) to heat the material to 500–700 °C. This causes liquefaction of the material. In this state, the alloy loses its polycrystalline structure, assumes an amorphous state and lose its reflectivity. The lost reflectivity serves the same function as bumps on a manufactured CDs and the opaque spots on a CD-R which will be read as a \"0\". The polycrystalline state of the disk forms the trenches, which is read as \"1\". The scanning signal when reading is created by strong or weak reflection of the laser beam (not unlike the destructive interference of light caused by and used to read \"pits\" in pressed CD-ROMs). To erase the disc, the write beam heats the amorphous regions with low power to about 200 °C. The alloy is not melted, but returns to the polycrystalline state and is thus again reflective.\"\n\nErgo, kiedy laser nagrywa coś na płytę, \"rozpuszcza\" stop metalu, który po (chem-fiz majic) staje się przezroczysty/traci refleksyjność. Kiedy chcemy coś skasować, laser \"wygrzewa\" płytę, przez co ów stop znowu może odbijać wiązkę. \nWięc teoretycznie jest to \"odwracalne termiczne uszkodzenie\", jednak w pytaniu chodzi raczej o >>powierzchnię<< płyty...",
-          "date": "02-02-2015 16:58:43"
-        },
-        {
-          "author": "~anonim@31.63.*.*",
-          "comment": "Odpowiedź \"powierzchnia ulega odwracalnego termicznemu uszkodzeniu\" jest dobrze. ",
-          "date": "30-01-2016 13:18:53"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Płyty CD-R są jednokrotnie zapisywalne ponieważ",
@@ -5435,43 +5105,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@178.42.*.*",
-          "comment": "Każda zmiana paramterów powierzchni płyty kompaktowej jest nieodwracalna",
-          "date": "01-02-2014 07:12:28"
-        },
-        {
-          "author": "~anon@81.15.*.*",
-          "comment": "dokładnie przecież laser trwale uszkadza płytę",
-          "date": "01-02-2015 13:30:52"
-        },
-        {
-          "author": "~anon@87.206.*.*",
-          "comment": "dla płyt CD-R się zgodzę z przedmówcami, jednak pamiętajcie, że dla płyty CD-RW, to zmiana parametrów płyty CD-RW jest odwracalna, bo to inna technologia jest ;)",
-          "date": "01-02-2015 18:13:53"
-        },
-        {
-          "author": "~alex@89.79.*.*",
-          "comment": "Czyli w końcu jak ? Odpowiedź 1 powinna być prawidłowa ?",
-          "date": "23-01-2016 18:45:31"
-        },
-        {
-          "author": "~quatron@83.6.*.*",
-          "comment": "Płyta kompaktowa to również CD-RW, dlatego odpowiedź pierwsza jest nieprawidłowa. ",
-          "date": "29-01-2016 12:55:16"
-        },
-        {
-          "author": "~anon@89.65.*.*",
-          "comment": "@up n1",
-          "date": "29-01-2016 22:21:24"
-        },
-        {
-          "author": "~anon@194.153.*.*",
-          "comment": "w bardzo podobnym pytaniu była dobra odpowiedz \"laser trwale uszkadza termicznie plyte CD-R\" to jest prawda przecież wiec jak to pierwsze źle",
-          "date": "02-02-2018 12:25:06"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "John Backus zasłynął jako twórca",
@@ -5491,23 +5125,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~alex@89.79.*.*",
-          "comment": "W razie czego : twórca języka programowania Fortran , jeden z twórców notacji BNF wykorzystywanej do zapisu składni języków programowania.",
-          "date": "27-01-2016 21:46:15"
-        },
-        {
-          "author": "~DanielPietruczuk@78.11.*.*",
-          "comment": "dziena ziom",
-          "date": "01-02-2020 19:40:52"
-        },
-        {
-          "author": "~anon@2a02:a317:2244:2b00:50a0:65a4:1eca:b212",
-          "comment": "jd",
-          "date": "01-02-2020 22:50:06"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Nigdy nie uzyskamy przepełnienia zmiennopozycyjnego w kodzie uzupełnieniowym do 2",
@@ -5547,18 +5165,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~oboże@178.235.*.*",
-          "comment": "ktoś coś  może o tym powiedzieć wiecej? COOO TO JESST\n",
-          "date": "04-01-2019 11:11:02"
-        },
-        {
-          "author": "mykhi",
-          "comment": "https://pl.wikipedia.org/wiki/Problem_NP-zupe%C5%82ny",
-          "date": "04-01-2019 11:41:00"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Pierwszy kompilator Pascala napisany przez N. Wirtha na początku lat 70-tych:",
@@ -5598,33 +5205,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@80.55.*.*",
-          "comment": "Tak było u PCH , ale sprawdzając chyba to jest błędna odpowiedź moim zdaniem . Bo powstał na uniwersytecie w Pansylwani jakoś tak . ",
-          "date": "31-01-2019 11:59:43"
-        },
-        {
-          "author": "~gg@178.235.*.*",
-          "comment": "+",
-          "date": "02-02-2019 17:08:11"
-        },
-        {
-          "author": "~anon@5.173.*.*",
-          "comment": "Właśnie wlacam z konsultacji z PCH, potwierdzone że ENIAC nie powstał w Princeton anonki",
-          "date": "06-02-2019 09:30:44"
-        },
-        {
-          "author": "mykhi",
-          "comment": "odznaczam b)",
-          "date": "06-02-2019 10:14:00"
-        },
-        {
-          "author": "~anon@2a02:a31a:404a:c000:781e:e21:8773:d1b",
-          "comment": "na egzaminie była też poprawna odpowiedz \"Skonstruowany na Uniwersytecie w Pensylwanii\"",
-          "date": "09-02-2020 13:52:13"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<p class=\"western\"><span>Aby określić złożoność pesymistyczną algorytmu musimy odnieść ją do:</span></p>",
@@ -5644,83 +5225,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~Raf@89.67.*.*",
-          "comment": "Jak to w końcu jest z tą złożonością? W 95 pytaniu jest odpowiedź, że do wszystkich danych, a tutaj że do wszystkich algorytmów ?",
-          "date": "01-02-2015 19:43:36"
-        },
-        {
-          "author": "~anon@85.222.*.*",
-          "comment": "do wszystkich danych",
-          "date": "02-02-2015 21:13:43"
-        },
-        {
-          "author": "~anon@178.42.*.*",
-          "comment": "Wiec do wszystkich algorytmow tez jest dobrze czy nie?",
-          "date": "28-01-2016 15:42:41"
-        },
-        {
-          "author": "~anon@89.65.*.*",
-          "comment": "@up zależy jak pch sobie danego dnia zinterpretuje :)",
-          "date": "29-01-2016 22:46:17"
-        },
-        {
-          "author": "~Stonoga@87.207.*.*",
-          "comment": "\"wszystkich możliwych do wyobrażenia algorytmów\" brzmi jak podpucha... przecież można wyobrazić sobie nieskończoną ilość algorytmów",
-          "date": "01-02-2016 22:24:32"
-        },
-        {
-          "author": "~anon@89.74.*.*",
-          "comment": "chyba chodzi o złoznosc pesymistyczną problemu",
-          "date": "25-01-2017 19:37:04"
-        },
-        {
-          "author": "~Jużniewiemwcowierzyć@89.65.*.*",
-          "comment": "...",
-          "date": "30-01-2017 20:08:12"
-        },
-        {
-          "author": "~anon@89.70.*.*",
-          "comment": "@up",
-          "date": "29-01-2018 19:46:10"
-        },
-        {
-          "author": "~anon@194.153.*.*",
-          "comment": "jak można odnieść złożoność algorytmu do wszystkich możliwych do wyobrażenia algorytmów?",
-          "date": "03-02-2018 16:17:24"
-        },
-        {
-          "author": "~goose@94.254.*.*",
-          "comment": "niemożliwie jest odnieść do wszystkich algorytmów",
-          "date": "05-02-2018 23:06:30"
-        },
-        {
-          "author": "~GniewTomaszewa@37.47.*.*",
-          "comment": "no i huj",
-          "date": "05-02-2018 23:35:03"
-        },
-        {
-          "author": "~mermody@94.254.*.*",
-          "comment": "Złożoność pesymistyczna określa złożoność w \"najgorszym\" przypadku. Jeśli D oznacza zbiór wszystkich możliwych danych wejściowych, d jeden z elementów tego zbioru, a f funkcję, która dla danego d zwraca liczbę operacji, to złożoność pesymistyczna jest zdefiniowana jako:\n",
-          "date": "06-02-2018 08:43:36"
-        },
-        {
-          "author": "~anon@83.31.*.*",
-          "comment": "do konkretnych danych jest prawidłową odpowiedzią",
-          "date": "12-02-2018 19:59:55"
-        },
-        {
-          "author": "~XD@79.189.*.*",
-          "comment": "to pytanie się powtarza w bazie i ma dwa różne zestawy poprawnych odpowiedzi xd",
-          "date": "19-01-2019 12:45:32"
-        },
-        {
-          "author": "~XD@79.189.*.*",
-          "comment": "numery pytań w bazie: 2624 i 2212 (to).",
-          "date": "19-01-2019 12:46:41"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<p class=\"western\"><span>Relacja \"Problem A jest sprowadzalny do problemu B\" jest relacją</span></p>",
@@ -5740,28 +5245,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@89.67.*.*",
-          "comment": "Dodatkowo może być zwrotną. Przynajmniej tak jest w innych plikach",
-          "date": "02-02-2015 23:25:54"
-        },
-        {
-          "author": "~DanielPe@78.11.*.*",
-          "comment": "To pytanie jest zdublowane i 2 razy jest inne odpowiedź. Przysięgam, że napierdole się jak księciunio po tym TAK'u",
-          "date": "02-02-2020 17:22:31"
-        },
-        {
-          "author": "~anon@2a02:a310:45b:5280:f5ae:6a29:2b15:11a0",
-          "comment": "@up zgadzam sie w chuj, jak zdam za 1 to kupuje bilet w totolotka bo prawdopodobienstwo wygranej jest podobne",
-          "date": "02-02-2020 23:42:39"
-        },
-        {
-          "author": "~anon@2a02:a31a:13d:9a80:7d25:2898:31c1:95ce",
-          "comment": "@up zdaliście?",
-          "date": "18-12-2020 17:41:17"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Kto udostępnia klucz publiczny?",
@@ -5785,93 +5269,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@83.31.*.*",
-          "comment": "A nie przypadkiem odbiorca?",
-          "date": "30-01-2016 23:50:02"
-        },
-        {
-          "author": "~kate@89.66.*.*",
-          "comment": "Odbiorca chyba ma prywatny...",
-          "date": "01-02-2016 01:04:14"
-        },
-        {
-          "author": "~anon@94.254.*.*",
-          "comment": "Ma oba, prywatny dla siebie, a udostępnia publiczny",
-          "date": "02-02-2016 13:05:50"
-        },
-        {
-          "author": "~anon@159.205.*.*",
-          "comment": "czyli prawidlowa odpowiedz to nadawca i odbiorca?\n",
-          "date": "25-01-2017 20:31:03"
-        },
-        {
-          "author": "~Pieski i kwadraty@89.76.*.*",
-          "comment": "oj ciężko to widze...",
-          "date": "25-01-2017 20:57:10"
-        },
-        {
-          "author": "~elo@79.184.*.*",
-          "comment": "przecież odbiorca udostępnia klucz aby nadawca mógł nim zakodować wiadomość (wtedy tylko odbiorca może odkodować ją swoim prywatnym)... mykhi poprawisz?",
-          "date": "30-01-2017 05:52:03"
-        },
-        {
-          "author": "~petenshi@37.47.*.*",
-          "comment": "Ale w zależności od rodzaju szyfrowania wysyła albo nadawca albo odbiorca, więc co będzie prawidłowe?",
-          "date": "31-01-2017 00:00:23"
-        },
-        {
-          "author": "~anon@94.254.*.*",
-          "comment": "chuj wie",
-          "date": "06-02-2018 01:04:42"
-        },
-        {
-          "author": "~anon@178.36.*.*",
-          "comment": "Odbiorca ma klucz prywatny służący do odszyfrowania, oprócz tego udostępnia publiczny - szyfrujący",
-          "date": "10-02-2018 17:10:49"
-        },
-        {
-          "author": "~anon@83.31.*.*",
-          "comment": "w ogóle bez sensu, jeśli ktoś coś udostępnia to jest nadawcą. taka gra słów i koniec tematu :D",
-          "date": "12-02-2018 20:08:18"
-        },
-        {
-          "author": "~anon@83.31.*.*",
-          "comment": "jeśli \"odbiorca\" udostępnia klucz, to jest \"nadawcą\"\n",
-          "date": "12-02-2018 20:09:42"
-        },
-        {
-          "author": "~nieumiem@89.70.*.*",
-          "comment": "To które poprawne\n",
-          "date": "12-02-2018 22:10:00"
-        },
-        {
-          "author": "~filozof@89.76.*.*",
-          "comment": "Jeżeli jedno jajko gotuje się 3 min to dwa jajka gotuja się? \n",
-          "date": "12-02-2018 22:11:23"
-        },
-        {
-          "author": "~anon@37.47.*.*",
-          "comment": "Na miękko",
-          "date": "12-02-2018 22:18:52"
-        },
-        {
-          "author": "~S$S@87.207.*.*",
-          "comment": "Zapewne dłużej niż jedno ponieważ jajko ma wyższy potencjał do przechwytywania energii od jednego",
-          "date": "12-02-2018 23:58:04"
-        },
-        {
-          "author": "~anon@83.31.*.*",
-          "comment": "z pewnością dłużej niż jedno, gdyż po prostu jajko jest zimniejsze niż woda gotująca się, więc całość układu po dodaniu jajka będzie zimniejsza",
-          "date": "13-02-2018 10:51:24"
-        },
-        {
-          "author": "~zbysiek@83.28.*.*",
-          "comment": "Odbiorca wysyła klucz publiczny z wzorem do zaszyfrowania wiadomości, wg. którego będzie odszyfrowywał tą wiadomość po odebreniu jej od nadawcy.",
-          "date": "09-02-2019 17:56:02"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Który obrazek najczęśćiej przewija się w tekście polskiego wydania podręcznika Brooksheara?",
@@ -5891,53 +5289,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~goshi@84.10.*.*",
-          "comment": "A więc dowiadujemy się że istnieje jakiś podręcznik",
-          "date": "03-02-2016 18:28:03"
-        },
-        {
-          "author": "~alex@89.79.*.*",
-          "comment": "Wiadomo od pierwszego wykładu",
-          "date": "04-02-2016 02:54:16"
-        },
-        {
-          "author": "~ciasnabasia@217.67.*.*",
-          "comment": "bo faktycznie obrazek w książce wykazuje Twoją wiedze z zakresu Techniki i Architektury komputera",
-          "date": "25-01-2017 10:37:34"
-        },
-        {
-          "author": "~anon@83.31.*.*",
-          "comment": "Poproszę to pytanie na egzaminie.",
-          "date": "05-02-2018 23:04:07"
-        },
-        {
-          "author": "~XD@79.184.*.*",
-          "comment": "XD sztos",
-          "date": "05-02-2018 23:30:55"
-        },
-        {
-          "author": "~ITN -TAK@83.6.*.*",
-          "comment": "To ile za mnie zaplacicie? XD",
-          "date": "06-02-2018 00:11:42"
-        },
-        {
-          "author": "~TAK@88.220.*.*",
-          "comment": "Jak w tym roku znowu będzie to golę czachę",
-          "date": "25-01-2019 13:15:07"
-        },
-        {
-          "author": "~Gregorio@83.28.*.*",
-          "comment": "Tylko uszu nie upierdol\n",
-          "date": "03-02-2019 08:29:14"
-        },
-        {
-          "author": "~DanielPietruczuk@78.11.*.*",
-          "comment": "Obym dostał takie pytanie, free pointsy od pch",
-          "date": "01-02-2020 18:58:48"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span>Dlaczego Euklides2 był szybszy od euklides 1</span>",
@@ -5977,43 +5329,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~TT@87.207.*.*",
-          "comment": "Do poprawy, W ciągu ostatnich 15 lat",
-          "date": "10-02-2018 18:18:31"
-        },
-        {
-          "author": "~sd@79.184.*.*",
-          "comment": "Nie ma zadnych popraw https://www.polskieradio.pl/23/266/Artykul/843208,Jak-komputer-pokonal-czlowieka-w-szachy ty jest napisane ze wiec niz 15 lat. 2 jest prawidlowe",
-          "date": "10-02-2018 19:26:03"
-        },
-        {
-          "author": "~anon@188.146.*.*",
-          "comment": "100% ponad 15 lat, bylem u pch i widzialem odpowiedzi.",
-          "date": "11-02-2018 14:12:51"
-        },
-        {
-          "author": "~anon@83.31.*.*",
-          "comment": "no ale teraz przecież też pokonują, programy stały się głupsze i teraz już nie umieją pokonać mistrza?\n",
-          "date": "12-02-2018 20:11:30"
-        },
-        {
-          "author": "~anon@94.254.*.*",
-          "comment": "stary ale chodzi o to kiedy program pokonal czlowieka po raz pierwszy\n",
-          "date": "12-02-2018 20:30:09"
-        },
-        {
-          "author": "~tomaszew@89.64.*.*",
-          "comment": "1996 Kasparow, 100%, potwierdzone info u pch",
-          "date": "13-02-2018 03:31:07"
-        },
-        {
-          "author": "~lala@46.227.*.*",
-          "comment": "To już więcej niż 15 lat czyli ponad 15 czyli odpowiedź ponad 10?",
-          "date": "02-02-2019 15:26:42"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Programy komputerowe",
@@ -6033,18 +5349,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~xd@94.172.*.*",
-          "comment": "A edytowac w dowolnym edytorze nie mozna?",
-          "date": "06-02-2021 22:07:30"
-        },
-        {
-          "author": "~anon@188.217.*.*",
-          "comment": "ja tez tak mysle",
-          "date": "10-02-2021 16:36:33"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "(010) jest okresem rozwinięcia liczby",
@@ -6064,23 +5369,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~pch@78.11.*.*",
-          "comment": "Kurwa mówiłem że to jest źle. Pozdrawiam Pch",
-          "date": "04-02-2020 00:05:21"
-        },
-        {
-          "author": "~pch@78.11.*.*",
-          "comment": "Zmieniam zdanie, jednak dobrze",
-          "date": "04-02-2020 00:07:04"
-        },
-        {
-          "author": "~pch@79.98.*.*",
-          "comment": "Upraszam o zaprzestanie podszywania się pod moją osobę. Osobiście dopilnuję aby wyciągnięte zostały konsekwencje tych żartów.",
-          "date": "04-02-2020 00:08:57"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Komputer ENIAC powstały w 1945 roku:",
@@ -6104,33 +5393,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~yahoo@37.47.*.*",
-          "comment": "dzisiaj było na próbnym, że w powstał w Princestone",
-          "date": "29-01-2019 18:16:01"
-        },
-        {
-          "author": "~pchtochuj@5.173.*.*",
-          "comment": "z Princeton sprowadzono matematyka Osvalda Veblena na szefa projektu",
-          "date": "03-02-2019 18:33:40"
-        },
-        {
-          "author": "~dexter@185.15.*.*",
-          "comment": "@yahoo potwierdzone info?",
-          "date": "04-02-2019 21:17:21"
-        },
-        {
-          "author": "~anon@71.19.*.*",
-          "comment": "wybierz tylko \"ważył ponad 27 ton\"",
-          "date": "04-02-2019 21:54:02"
-        },
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "Nie powstał w Princetone, tylko został do niego przetransportowany",
-          "date": "04-02-2019 22:22:08"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Charles Babbage stowrzył maszynę różnicową aby:",
@@ -6150,63 +5413,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~paw@84.10.*.*",
-          "comment": "powinno być Lovelace",
-          "date": "05-12-2016 18:44:41"
-        },
-        {
-          "author": "~krzak@88.220.*.*",
-          "comment": "Lovelace to go ogarniała i pisała programy (m.in. napisała pierwszy program ever, worth to know). Poprawne jest na pewno liczenie funkcji, ale nie wiem czy i nie dodawanie i odejmowanie, skoro to uszczerbek tego, co ta maszyna potrafiła.https://pl.wikipedia.org/wiki/Maszyna_r%C3%B3%C5%BCnicowa",
-          "date": "27-01-2017 19:01:56"
-        },
-        {
-          "author": "~xenon2@109.241.*.*",
-          "comment": "Jest to maszyna różnicowa. Czyli dodawanie i odejmowanie tylko. Tak jak liczydło.",
-          "date": "04-02-2017 19:32:26"
-        },
-        {
-          "author": "~xenon2@109.241.*.*",
-          "comment": "Wyniki podkładało się do wzorów i obliczało.",
-          "date": "04-02-2017 19:33:36"
-        },
-        {
-          "author": "~ilonaPolejKielona@79.191.*.*",
-          "comment": "czy któraś odpowiedz jest prawidłowa?",
-          "date": "05-02-2018 18:54:01"
-        },
-        {
-          "author": "~anon@94.254.*.*",
-          "comment": "Chyba cały myk polega na tym, że on jej przecież nie ukończył - Ergo - nie stworzył.",
-          "date": "05-02-2018 19:02:24"
-        },
-        {
-          "author": "~anon@89.70.*.*",
-          "comment": "Z wikipedii: \"Maszyna różnicowa - mechaniczne, automatyczne urządzenie, służące do tworzenia tablic matematycznych dla funkcji wielomianowych\". a) Jest dla żartu b) Jest niezgodne z opisem c) Też niezgodne ponieważ MR została stworzona tylko do wielomianów, a nie każdej funkcji. Jest dobrze. ",
-          "date": "12-02-2018 17:29:17"
-        },
-        {
-          "author": "~anon@83.31.*.*",
-          "comment": "nie stworzył jej, popieram Pana dwie odpowiedzi wyżej ",
-          "date": "12-02-2018 20:16:56"
-        },
-        {
-          "author": "~??@178.235.*.*",
-          "comment": "czyli żadna  odpowiedź nie jest poprawna? Na egzaminie też się tak może zdarzyć?",
-          "date": "04-01-2019 11:13:36"
-        },
-        {
-          "author": "~~anon@88.11@83.24.*.*",
-          "comment": "Poprawna to \"tabularyzować wartości wielomianów, które przybliżają znane funkcje\", pozostałe błędne",
-          "date": "01-02-2021 15:22:24"
-        },
-        {
-          "author": "~anon@89.76.*.*",
-          "comment": "Różnicową zbudował, nie udało się z analityczną.",
-          "date": "11-02-2021 21:35:07"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<p>Sprawdź poprawność działań w 8 bitowym kodzie uzupełnieniowym</p>",
@@ -6246,28 +5453,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~petenshi@37.47.*.*",
-          "comment": "Czemu pierwsze byłoby dobrze? Co z danymi super małymi jak 1/1 000 000 000? one nie są chyba reprezentowane",
-          "date": "29-01-2017 17:00:06"
-        },
-        {
-          "author": "~anon@89.78.*.*",
-          "comment": "Zapewne to będzie ten błąd.",
-          "date": "29-01-2017 19:29:33"
-        },
-        {
-          "author": "~anon@89.78.*.*",
-          "comment": "A liczby całkowite z przedziału reprezentowalności będą miały jakiś błąd?",
-          "date": "29-01-2017 20:01:41"
-        },
-        {
-          "author": "~anon@89.67.*.*",
-          "comment": "pierwsze jest źle, ponieważ nie można reprezentować liczby dodatniej mniejszej niż zakres. Czyli w tym wypadku najmniejsza dodatnia reprezentowalna liczba to 1/2^9.  Wydaję mi się że drugie też jest źle ponieważ mantysa ma aż 16 bajtów a cecha tylko 1. Dlatego będą coraz większe odległości. Różnica między liczbami będzie > 1\n",
-          "date": "30-01-2017 18:31:15"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Twórcami kalkulatorów mechanicznych byli :",
@@ -6287,23 +5473,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@188.146.*.*",
-          "comment": "Na stronie 7 w książce są 3 nazwiska: Leibniz, Pascal i Babbage, to dlaczego Schickard jest dobrą odp? ",
-          "date": "11-02-2018 18:49:46"
-        },
-        {
-          "author": "~anon@89.69.*.*",
-          "comment": "Czy musi byc w książce by byl tworca?",
-          "date": "11-02-2018 21:56:02"
-        },
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "Prezentacja 01, slajd 30: Schickard był twórcą kalkulatora",
-          "date": "12-02-2018 00:01:17"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Następujące działania w kodzie uzupełnieniowym są poprawnie wykonane dla liczb&nbsp; całkowitych 8-bitowych",
@@ -6323,33 +5493,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~lolololo@89.65.*.*",
-          "comment": "wystarczy wpisać w kalkulator programisty, pierwszy bit znika i zostaje 11010100 w trzecim podpunkcie, więc chyba c) powinno być true",
-          "date": "30-01-2017 21:12:37"
-        },
-        {
-          "author": "~agnieszka@89.64.*.*",
-          "comment": "Nope, żeby 3 było true, powinno być 0101 0100.",
-          "date": "11-01-2018 02:20:36"
-        },
-        {
-          "author": "~hubertd@94.254.*.*",
-          "comment": "Jakim cudem drugie jest fałszem?",
-          "date": "04-02-2018 16:08:06"
-        },
-        {
-          "author": "~popus@95.160.*.*",
-          "comment": "drugie jest prawda, ponieważ w kodzie uzupełnieniowym wykonujemy zlywkle dodawanie binarne, i ostatnia operacja 1 + 1 daje nam 0 i 1 zostaje przeniesiona lecz poza zakres czyli nie rozwazamy jej i zostaje nam 0000 0000",
-          "date": "04-02-2018 20:03:13"
-        },
-        {
-          "author": "~anon@83.31.*.*",
-          "comment": "drugie jest błędne, ponieważ nie jest to poprawne działanie. Mówił o tym na wykładzie, że jeśli wynik się nie zgadza to nie jest działanie nie jest poprawne. -128 + -128 nie wynosi 0",
-          "date": "12-02-2018 20:24:22"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Aby określić złożoność pesymistyczną algorytmu musimy odnieść ją do:",
@@ -6369,63 +5513,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~Mikesz@89.76.*.*",
-          "comment": "pytanie brzmiało: Aby określić złożoność pesymistyczną algorytmu musimy odnieść ją do:",
-          "date": "24-01-2017 15:06:17"
-        },
-        {
-          "author": "mykhi",
-          "comment": "poprawiam",
-          "date": "24-01-2017 15:11:08"
-        },
-        {
-          "author": "~anon@89.74.*.*",
-          "comment": "a tu nie powinno byc\"wszystkich mozliwych danych\"?",
-          "date": "25-01-2017 14:24:48"
-        },
-        {
-          "author": "~ten_co_wyzej@89.74.*.*",
-          "comment": "bo pytanie 1932 jest takie samo i ma inne odp",
-          "date": "25-01-2017 14:26:24"
-        },
-        {
-          "author": "~anon@89.78.*.*",
-          "comment": "moze to pytanie jednak nie brzmiało tak jak jest teraz. Jak było wcześniej?",
-          "date": "31-01-2017 12:10:39"
-        },
-        {
-          "author": "mykhi",
-          "comment": "tak samo tylko bez polskich znaków i \"do:\" na końcu.",
-          "date": "31-01-2017 12:23:57"
-        },
-        {
-          "author": "~anon@89.69.*.*",
-          "comment": "Wzorując się na prezentacjach pch prawidlowa odpowiedz to odwolanie sie do najbardziej zlosliuwych danych.",
-          "date": "03-02-2018 20:03:05"
-        },
-        {
-          "author": "~tomaszew@89.64.*.*",
-          "comment": "rip",
-          "date": "06-02-2018 03:04:23"
-        },
-        {
-          "author": "~anon@83.31.*.*",
-          "comment": "wszystkie odpowiedzi są błędne. Jedyna prawidłowa odpowiedź, to, do konkretnych danych",
-          "date": "12-02-2018 20:26:18"
-        },
-        {
-          "author": "~anon@83.31.*.*",
-          "comment": "wszystkie odpowiedzi są błędne. Jedyna prawidłowa odpowiedź, to, do konkretnych danych",
-          "date": "12-02-2018 20:26:22"
-        },
-        {
-          "author": "~anon@77.252.*.*",
-          "comment": "\twszystkie odpowiedzi są błędne. Jedyna prawidłowa odpowiedź, to, do konkretnych danych",
-          "date": "03-02-2020 23:32:35"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "(010) jest okresem rozwinięcia liczby",
@@ -6445,33 +5533,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@178.42.*.*",
-          "comment": "Dlaczego tak?",
-          "date": "25-01-2017 22:16:45"
-        },
-        {
-          "author": "~M Krupa@79.191.*.*",
-          "comment": "Dlatego, iż:\n2/7  -> ~ 0,010010\n1/5  -> ~ 0,001100\n1/10 -> ~ 0,000110",
-          "date": "31-01-2017 01:26:04"
-        },
-        {
-          "author": "~123@94.254.*.*",
-          "comment": "Chyba cos ci sie pomylilo 2/7 -> ~ 0,2857142857142857 okres (285714) wszystkie odp sa zle",
-          "date": "04-02-2018 20:29:40"
-        },
-        {
-          "author": "~mm@95.160.*.*",
-          "comment": "chodzi o system binarny a nie dziesietny",
-          "date": "04-02-2018 21:25:23"
-        },
-        {
-          "author": "~tomaszew@89.64.*.*",
-          "comment": "XD",
-          "date": "13-02-2018 03:42:28"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "(0110) jest okresem podstawowym :",
@@ -6491,98 +5553,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@109.241.*.*",
-          "comment": "Czy nie powinna być poprawna odpowiedź tylko 2/5?",
-          "date": "26-01-2017 16:49:24"
-        },
-        {
-          "author": "~anon@87.205.*.*",
-          "comment": "poprawna to 2/5 i 4/5\n",
-          "date": "26-01-2017 19:41:37"
-        },
-        {
-          "author": "~anon@109.241.*.*",
-          "comment": "rzeczywiście jeszcze 4/5 ",
-          "date": "26-01-2017 20:29:45"
-        },
-        {
-          "author": "mykhi",
-          "comment": "zaznaczam 4/5",
-          "date": "26-01-2017 20:58:42"
-        },
-        {
-          "author": "~petenshi@37.47.*.*",
-          "comment": "od kiedy 1/10 ma okres (0110) i do tego okres podstawowy? może to ktoś jakoś udowodnić?",
-          "date": "28-01-2017 13:46:41"
-        },
-        {
-          "author": "~Maciek@37.47.*.*",
-          "comment": "\"podstawowy okres\", możliwe, że chodzi o ten pierwszy możliwy. Wtedy a.) prawdziwe",
-          "date": "28-01-2017 15:17:21"
-        },
-        {
-          "author": "~anon@37.47.*.*",
-          "comment": "no właśnie A będzie prawdziwe, ale reszta błędna",
-          "date": "29-01-2017 14:30:57"
-        },
-        {
-          "author": "~ciasnabasia@217.67.*.*",
-          "comment": "tylko 1/10 jest prawdziwe, info od Profesorka",
-          "date": "30-01-2017 13:02:49"
-        },
-        {
-          "author": "mykhi",
-          "comment": "odznaczm 4/5",
-          "date": "30-01-2017 13:07:46"
-        },
-        {
-          "author": "~Maciek@95.49.*.*",
-          "comment": "Jak to tylko 1/10 ?!?",
-          "date": "30-01-2017 13:25:26"
-        },
-        {
-          "author": "~ciasnabasia@217.67.*.*",
-          "comment": "normalnie maciÓś",
-          "date": "30-01-2017 13:41:02"
-        },
-        {
-          "author": "~Maciek@95.49.*.*",
-          "comment": "To wytłumacz mi dlaczego",
-          "date": "30-01-2017 14:01:23"
-        },
-        {
-          "author": "~anon@87.205.*.*",
-          "comment": "to nie ma żadnego sensu żeby 1/10 pasowało",
-          "date": "30-01-2017 14:18:42"
-        },
-        {
-          "author": "~NieMaLoginów@89.77.*.*",
-          "comment": "Możliwe ale przypominam,że w samym egzaminie są błędy,których pch nie zamierza poprawiać.",
-          "date": "30-01-2017 15:05:01"
-        },
-        {
-          "author": "~anon@89.69.*.*",
-          "comment": "Według ostatniego wykładu dobra odpowiedz to 2/5",
-          "date": "31-01-2018 08:24:55"
-        },
-        {
-          "author": "~anon@89.70.*.*",
-          "comment": "Potwirdzam",
-          "date": "04-02-2018 19:40:02"
-        },
-        {
-          "author": "~anon@94.254.*.*",
-          "comment": "ja pierdole to zajebisty ten egzamin xd",
-          "date": "06-02-2018 01:12:12"
-        },
-        {
-          "author": "~anon@178.36.*.*",
-          "comment": "Okresy podstawowe dla podanych ułamków:\n2/5 = 0.01100110 -> (0110)\n1/10 = 0.0001100 -> (0011)\n4/5 = 0.11001100 -> (1100)\npodstawowy to ten nie przesunięty, nie wiem jak to klarowniej wytłumaczyć sry\n",
-          "date": "10-02-2018 14:58:03"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Uniknąć przechwycenia numeru karty kredytowej przy transakcjach internetowych możemy za pomocą",
@@ -6602,53 +5573,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~Khondziu_Osiem@89.68.*.*",
-          "comment": "Zdaje mi się, że tu poprawną odpowiedzią, będą hasła jednorazowe. Połącznie PPP występuje przy \"telefonicznym\" łączeniu się 2 urządzeń (w tym przypadku ppp ma zastosowanie przy płaceniu kartą, ale w sklepie przez terminal).",
-          "date": "24-01-2017 22:32:06"
-        },
-        {
-          "author": "~anon@89.74.*.*",
-          "comment": "sam pch mowil ze ppp to jak sie placi kartą w sklepie chyba",
-          "date": "25-01-2017 14:08:24"
-        },
-        {
-          "author": "~anon@89.65.*.*",
-          "comment": "Według ostatniego wykładu poprawna odpowiedź jest Haseł jednoraziwych",
-          "date": "28-01-2017 11:26:22"
-        },
-        {
-          "author": "~anon@188.146.*.*",
-          "comment": "Nie ma połączeń ppp w internecie. ",
-          "date": "28-01-2017 12:05:49"
-        },
-        {
-          "author": "~anon@178.235.*.*",
-          "comment": "Jake nahyj PPP w transakcjach internetowych??",
-          "date": "30-01-2017 16:26:04"
-        },
-        {
-          "author": "~anon@109.241.*.*",
-          "comment": "To jest niejasne. Jest tez wielopoziomowa autentifikacja poprzez haslo głowne i tymczasowe. Czyli wielokrotne. ",
-          "date": "03-02-2017 21:05:56"
-        },
-        {
-          "author": "~anon@178.36.*.*",
-          "comment": "wszystkie błędnie, przed przechwyceniem hasła przy INTERNETOWYCH broni szyfrowanie",
-          "date": "10-02-2018 15:33:52"
-        },
-        {
-          "author": "~anon@5.173.*.*",
-          "comment": "Ktoś wie jaka będzie poprawna odpowiedź?\n",
-          "date": "07-02-2019 23:18:35"
-        },
-        {
-          "author": "~KART0N0@37.248.*.*",
-          "comment": "szyfrowanie kluczem publicznym",
-          "date": "01-02-2020 17:24:47"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span>Kompilacja kodu źródłowego to:</span>",
@@ -6688,43 +5613,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~halp@194.153.*.*",
-          "comment": "Czy tu chodzi o to ?https://en.wikipedia.org/wiki/Functional_completeness",
-          "date": "11-02-2018 16:51:47"
-        },
-        {
-          "author": "~anon@178.42.*.*",
-          "comment": "te odpowiedzi nie maja sensu jak moze byc odpowiedz uzywajac WYLACZNIE bramek NAND i jeszcze not and oraz or ",
-          "date": "12-02-2018 15:53:43"
-        },
-        {
-          "author": "~Informatyk@91.206.*.*",
-          "comment": "To akurat jest OK - z not, and oraz or NA PEWNO da się zbudować każdy układ logiczny, właśnie próbuję wyprowadzić OR z NAND\n",
-          "date": "12-02-2018 16:43:14"
-        },
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "samym nandem chyba sie nie da",
-          "date": "12-02-2018 17:26:37"
-        },
-        {
-          "author": "~anon@83.31.*.*",
-          "comment": "dobre odpowiedzi są zazwaczone",
-          "date": "12-02-2018 20:29:41"
-        },
-        {
-          "author": "~Segwit2x@188.146.*.*",
-          "comment": "Da się wszystko zbudowac samymi nandami na 100%",
-          "date": "03-02-2019 17:01:25"
-        },
-        {
-          "author": "~xdxd@37.120.*.*",
-          "comment": "jest ok\nhttps://en.wikipedia.org/wiki/Functional_completeness",
-          "date": "07-10-2020 13:08:34"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span>W warszawskiej książce telefonicznej, wyszukując binarnie:</span>",
@@ -6744,53 +5633,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~halp@194.153.*.*",
-          "comment": "Dlaczego 30 kiedy nie wiemy jaka jest ilość nazwisk ? Co to za magiczna liczba :D ",
-          "date": "11-02-2018 17:04:44"
-        },
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "???",
-          "date": "12-02-2018 19:45:01"
-        },
-        {
-          "author": "~???????@178.42.*.*",
-          "comment": "?????????????",
-          "date": "12-02-2018 20:06:01"
-        },
-        {
-          "author": "~anon@83.31.*.*",
-          "comment": "co kurwa? xD",
-          "date": "12-02-2018 20:30:25"
-        },
-        {
-          "author": "~anon@94.254.*.*",
-          "comment": "no wlasnie skad te 30 nazwisk sie wzielo ? xd\n",
-          "date": "12-02-2018 20:31:17"
-        },
-        {
-          "author": "~anon@83.31.*.*",
-          "comment": "może chodzi o to, że jeśli warszawska, to numery muszą się zaczynać od 22 773 ?? ??, czyli mamy 4 niewiadome, i mogą one być 0 albo 1 bo mamy system binarny, czyli 8 + 4 + 2 + 1 = 15, a 15<30, więc numerów może być tylko 15. Ale nadal to głupie",
-          "date": "12-02-2018 21:02:06"
-        },
-        {
-          "author": "~tomaszew@89.70.*.*",
-          "comment": "to które",
-          "date": "12-02-2018 22:32:20"
-        },
-        {
-          "author": "~Informatyk@91.206.*.*",
-          "comment": "Wyszukiwanie binarne to algorytm działający dla uporządkowanych danych.\nSzybkość algorytmu to O(logn). Liczba mieszkańców Warszawy to ok 1,7 mln, czyli < 2^21.\nDo znalezienia dowolnego nazwiska wystarczy 21 podziałów. 30 podziałów wystarczyłoby, aby sprawdzić nazwisko dowolnego użytkownika telefonu:)\nTutaj odpowiedzi wyjątkowo są OK.",
-          "date": "12-02-2018 22:53:51"
-        },
-        {
-          "author": "~anon@162.158.*.*",
-          "comment": "Może i odpowiedzi są OK, ale pytanie dalej z dupy, kiedy nie wiemy ile jest numerów w książce. Czytając te pytania egzamin wydaje mi się po prostu niepoważny. Brawo dla wykładowcy. /s",
-          "date": "28-06-2019 22:47:50"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span>Liczba wszystkich możliwych funkcji Boolowskich odwzorowujących 3 wartości wejściowe w 2 wartości wyjściowe to:</span>",
@@ -6810,58 +5653,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@89.67.*.*",
-          "comment": "jest na to jakiś wzór? ",
-          "date": "11-02-2018 14:54:24"
-        },
-        {
-          "author": "~anon@83.31.*.*",
-          "comment": "???",
-          "date": "13-02-2018 02:56:20"
-        },
-        {
-          "author": "~anon@89.70.*.*",
-          "comment": "help ktos?",
-          "date": "03-09-2018 23:08:42"
-        },
-        {
-          "author": "~dexter@185.15.*.*",
-          "comment": "https://cs.fit.edu/~wds/classes/adm/Lectures/BooleanFunctions.pdf",
-          "date": "04-02-2019 17:24:55"
-        },
-        {
-          "author": "~dexter@185.15.*.*",
-          "comment": "Theorem 1.\nThere are\n2\n2\nn\ndifferent Boolean functions on n Boolean variables.",
-          "date": "04-02-2019 17:26:04"
-        },
-        {
-          "author": "~szawid_doplik@185.244.*.*",
-          "comment": "^link wyzej - 2^2^3 czyli 2^8 czyli 256, zadna poprawna, pozdrawiam cieplutko",
-          "date": "07-02-2019 20:29:37"
-        },
-        {
-          "author": "~yespoorplease@79.184.*.*",
-          "comment": "^+1",
-          "date": "10-02-2020 23:23:45"
-        },
-        {
-          "author": "mykhi",
-          "comment": "odznaczam ostatnią",
-          "date": "11-02-2020 00:24:34"
-        },
-        {
-          "author": "~user@185.233.*.*",
-          "comment": "ostatnia jest poprawna\n",
-          "date": "24-01-2021 14:52:24"
-        },
-        {
-          "author": "~anon@185.233.*.*",
-          "comment": "2^(2*2^3)=2^16=65536 - z wykłady nr 6 tak str.13.",
-          "date": "24-01-2021 14:54:27"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Z<span>apisem binarnym (w 4 bitach) liczby całkowitej -3 jest:</span>",
@@ -6921,18 +5713,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anonek@188.146.*.*",
-          "comment": "Czy ktoś wie czy to poprawne?",
-          "date": "04-02-2020 01:28:33"
-        },
-        {
-          "author": "~pch@87.206.*.*",
-          "comment": "Dla mnie sa poprawne.",
-          "date": "04-02-2020 01:52:08"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<table width=\"100%\">\n<tbody>\n<tr bgcolor=\"#ffffdd\">\n<td colspan=\"4\">Niezmiennik w metodzie Hoare'a:</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>",
@@ -6972,23 +5753,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "nie powinno być 10-100?",
-          "date": "04-02-2019 17:16:13"
-        },
-        {
-          "author": "~anon@83.24.*.*",
-          "comment": "wydaje mi się że nie bo zakres w 8-bitowy procesorze wynosi od -128 do 127",
-          "date": "07-02-2021 15:44:49"
-        },
-        {
-          "author": "~AntoniBanderas@217.138.*.*",
-          "comment": "2 poprawne",
-          "date": "07-02-2021 16:44:26"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<table width=\"100%\">\n<tbody>\n<tr bgcolor=\"#ffffdd\">\n<td colspan=\"4\">Układy logiczne sekwencyjne (z pamięcią stanu):</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>",
@@ -7032,23 +5797,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@83.31.*.*",
-          "comment": "niepoprawne tylko \"nigdy\" ",
-          "date": "12-02-2018 21:16:53"
-        },
-        {
-          "author": "~anon@46.174.*.*",
-          "comment": "Chodzi o pierwszą wygraną czyli rok 1997",
-          "date": "12-02-2018 21:24:02"
-        },
-        {
-          "author": "~anonek@5.173.*.*",
-          "comment": "Dziwnie sformułowane pytanie...\nKiedy maszyna wygrała? Zamiast kiedy pierwszy raz maszyna wygrała?\n\nPoprawną odpowiedzią by nawet mogło być dzisiaj xD",
-          "date": "29-01-2020 02:35:52"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Arytmometr kontaktuje się z pamięcią procesora przez:",
@@ -7072,33 +5821,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~Segwit2x@188.146.*.*",
-          "comment": "Magistrala tez true",
-          "date": "26-03-2018 22:54:58"
-        },
-        {
-          "author": "~anon@79.184.*.*",
-          "comment": "co tu prawidlowe ostatecznie?",
-          "date": "04-02-2019 20:32:02"
-        },
-        {
-          "author": "~pchhahaha@5.184.*.*",
-          "comment": "chyba rejestry",
-          "date": "04-02-2019 22:12:25"
-        },
-        {
-          "author": "~Karol_c39@212.91.*.*",
-          "comment": "Rejestry komunikuje się z procesorem pośrednio przez magistralę. Tak mi powiedział PCH. Czyli rejestr i magistrala są true",
-          "date": "09-02-2019 12:40:26"
-        },
-        {
-          "author": "~lis@31.0.*.*",
-          "comment": "nie nie, tylko rejestr... dzieki magistrali dane wejsciowe dla operacji, ktora ma wykonac arytmometr sa przekazywane do rejestrow procesora (czyli po prostu pamieci procesora), a jednostka artmetyczno-logiczna, ktorej czescia jest arytmometr, pobiera te dane wejsciowe. wiec pytanie jest OK",
-          "date": "01-02-2020 19:23:15"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Szybkość poboru danych z twardego dysku może zależeć od",
@@ -7122,13 +5845,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~lis@37.47.*.*",
-          "comment": "Szybkosc magistrali nie jest taka oczywista, czy chodzi tutaj o to, ze najpierw z pamieci masowej transportowane sa dane do pamieci glownej i potem z pamieci glownej trasnportowane sa wlasnie przez szybka/wolna magistrale do procesora? ",
-          "date": "02-02-2020 17:50:42"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Procesory CISC w porównaniu z procesorami RISC",
@@ -7188,18 +5905,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~DanielPietruczuk@78.11.*.*",
-          "comment": "Jest dokładnie takie samo pytanie gdzie poprawną odpowiedzią jest \"częściowy przypadek\" so, która jest poprawna?",
-          "date": "01-02-2020 21:20:37"
-        },
-        {
-          "author": "~anon@5.173.*.*",
-          "comment": "Relacje zwrotne:\n\nKażda relacja równoważności i każdy częściowy porządek, szerzej: każdy praporządek\n\nvia: wikipedia",
-          "date": "01-02-2020 21:56:34"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Algorytm potęgowania binarnego",
@@ -7219,13 +5925,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@37.248.*.*",
-          "comment": "https://pl.wikipedia.org/wiki/Algorytm_szybkiego_pot%C4%99gowania\n\nlogarytm wykladnika jest poprawny",
-          "date": "30-01-2020 10:53:11"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Problemy NP-zupełne",
@@ -7265,28 +5965,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@2a02:a31a:404a:c000:8cdf:9c40:ea95:6e66",
-          "comment": "Klucz publiczny nie jest ogłaszany przypadkiem tylko przez nadawcę?? przez odbiorcę to klucz prywatny. ",
-          "date": "28-01-2020 19:33:02"
-        },
-        {
-          "author": "~anon@2a02:a311:a23c:d180:51a4:cd8b:9eee:8745",
-          "comment": "Tez mi sie tak wydaje,klucz publiczny przez nadawce a prywatny przez odbiorce",
-          "date": "28-01-2020 19:39:34"
-        },
-        {
-          "author": "~lol@89.64.*.*",
-          "comment": "potwierdzam, nadawca szyfruje kluczem publicznym a odbiorca kluczem prywatnym odszyfrowuje.",
-          "date": "28-01-2020 20:15:28"
-        },
-        {
-          "author": "~yespoorplease@91.230.*.*",
-          "comment": "@mykhi nadawca jest odpowiedzią poprawną",
-          "date": "11-02-2020 09:01:22"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Przerwania",
@@ -7306,48 +5985,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@79.184.*.*",
-          "comment": "dodalem z poprzedniego roku",
-          "date": "04-02-2019 22:44:11"
-        },
-        {
-          "author": "~paki@188.147.*.*",
-          "comment": "2 i 3 jest dobrze",
-          "date": "11-02-2019 18:21:19"
-        },
-        {
-          "author": "~lol@89.64.*.*",
-          "comment": "prosto z dzisiaj - odpowiedź 2 jest poprawna. Zamiast \"mogą być generowane przez procesy\" było \"mają priorytety\" które też było poprawnę.",
-          "date": "28-01-2020 19:49:56"
-        },
-        {
-          "author": "mykhi",
-          "comment": "zaznaczam b)",
-          "date": "28-01-2020 23:17:02"
-        },
-        {
-          "author": "~anon@83.24.*.*",
-          "comment": "Czemu 1 niepoprane?\n",
-          "date": "03-02-2020 13:34:47"
-        },
-        {
-          "author": "~lol@89.64.*.*",
-          "comment": "PCH tak orzekł. Niestety nie pamiętam, czy to to, że przerwania nie mają nic do komunikacji procesora, czy coś w podobie.",
-          "date": "03-02-2020 15:51:38"
-        },
-        {
-          "author": "~pch@37.30.*.*",
-          "comment": "3 poprawne?",
-          "date": "10-02-2020 20:11:10"
-        },
-        {
-          "author": "~mka@79.184.*.*",
-          "comment": "chyba tak, 3 poprawne)))",
-          "date": "10-02-2020 22:08:59"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "w kodowaniu liczb rzeczywistych w kodzie uzupelnieniowym do 2",
@@ -7367,28 +6005,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@79.184.*.*",
-          "comment": "dodalem z poprzedniego roku",
-          "date": "04-02-2019 22:44:01"
-        },
-        {
-          "author": "~ree@178.235.*.*",
-          "comment": "y=-x moze powodowac blad, bo jesli mamy x=-128 i zrobimy y=-x to wtedy nie otrzymamy 128 bo w u2 na 8 bitach maksymalnie moze byc 127",
-          "date": "04-02-2019 23:20:41"
-        },
-        {
-          "author": "~waper@5.173.*.*",
-          "comment": "^up +1",
-          "date": "02-02-2020 21:36:37"
-        },
-        {
-          "author": "~anon@5.173.*.*",
-          "comment": "zobaczcie sobie w c++\nchar a = -128;\nchar b = -a;\n\njak wyświetlcie b to pokaże -128\n\na teraz:\nchar c = -127;\nchar d = -c;\n\nto c wyświetli 127",
-          "date": "02-02-2020 21:46:16"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Mnożenie zmiennopozycyjne jest",
@@ -7428,13 +6045,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~dexter@185.15.*.*",
-          "comment": "nie udzielam gwarancji co do poprawności odpowiedzi",
-          "date": "05-02-2019 19:49:11"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Następujące działania w kodzie uzupełnieniowym są poprawnie wykonane dla liczb całkowitych 8-bitowych",
@@ -7454,83 +6065,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~agnieszka@89.64.*.*",
-          "comment": "Wydaje mi się, że 1 i 3 są poprawne.",
-          "date": "11-01-2018 02:36:25"
-        },
-        {
-          "author": "~123@94.254.*.*",
-          "comment": "No i dobrze ci sie wydaje, co za debil te odpowiedzi dodaje",
-          "date": "04-02-2018 20:41:59"
-        },
-        {
-          "author": "~anon@37.47.*.*",
-          "comment": "przeciez doslownie robilismy to pytanie z pch na wykladzie, jesli nawet dla maszyny 177+177 to -2, to jest to błąd dla programisty",
-          "date": "04-02-2018 22:17:03"
-        },
-        {
-          "author": "~anon@89.69.*.*",
-          "comment": "Co nie zmienia faktu ze 3 jest poprawne\n",
-          "date": "11-02-2018 13:56:14"
-        },
-        {
-          "author": "mykhi",
-          "comment": "zaznaczam 1 i 3 ",
-          "date": "11-02-2018 15:41:07"
-        },
-        {
-          "author": "~anon@83.31.*.*",
-          "comment": "pierwsze błędne, jest przepełnienie, więc nie jest poprawnie wykonane. jak dwie dodatnie mogą dać ujemną?",
-          "date": "12-02-2018 21:08:16"
-        },
-        {
-          "author": "~anon@178.42.*.*",
-          "comment": "Czemu odpowiedz nr 2 niby jest błędna? Widać, ze jest prawidłowe",
-          "date": "13-02-2018 02:22:35"
-        },
-        {
-          "author": "~anon@77.252.*.*",
-          "comment": "Odp 1 jest nieprawidłowa, dzisiaj pch rozwiązał to zadanie na wykładzie i powiedział że dwie liczby dodatnie nie mogą dać ujemnej.",
-          "date": "29-01-2019 17:13:12"
-        },
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "odp 1 jest fałszywa! Liczba 01111111 jest dodatnia, a liczba 11111110 jest ujemna. Suma dwóch dodatnich liczb nigdy nie będzie ujemna. Poprawcie to zanim ktoś się natnie ",
-          "date": "11-02-2019 18:55:17"
-        },
-        {
-          "author": "~anon@162.158.*.*",
-          "comment": "To ktore sa prawidlowe w koncu?",
-          "date": "23-06-2019 21:50:50"
-        },
-        {
-          "author": "~anon@2a02:a311:4345:4880:a900:3f5d:b2a7:fc0d",
-          "comment": "np. tutaj, pierwsza powinna być odznaczona, a reszta jest legit?",
-          "date": "02-02-2020 18:26:22"
-        },
-        {
-          "author": "~anonek@5.173.*.*",
-          "comment": "dla procesora 1 jak najbardziej poprawne, int overflow wystąpił, ale matematycznie bez sensu xD\nto nie wiem jak to interpretować",
-          "date": "02-02-2020 19:01:18"
-        },
-        {
-          "author": "~anon@79.184.*.*",
-          "comment": "~123@94.254 wyzywasz ludzi od debili a sam podajesz złe odpowiedzi... smh",
-          "date": "10-02-2020 20:49:43"
-        },
-        {
-          "author": "~anon@79.184.*.*",
-          "comment": "@mykhi tylko odp. 3 jest poprawna!\n\nPierwsze niby się zgadza bo jak policzymy zgodnie z algorytmem rzeczywiście wyjdzie nam że 01111111 + 01111111 = 11111110, ale zawsze trzeba jeszcze sprawdzić czy po zamianie na dziesiętny działanie ma sens. W tym wypadku:\n01111111 + 01111111 = 11111110 to inaczej 127 + 127 = -2, czyli odp. a) jest zła.\n\nDrugie jest w ogóle źle zrobione (-86 - 86 != -44)\n\nA trzecie się zgadza, bo 01111111 + 10000000 = 11111111\tto inaczej 127-128 = -1 czyli true",
-          "date": "10-02-2020 21:00:44"
-        },
-        {
-          "author": "mykhi",
-          "comment": "odznaczam 1)",
-          "date": "10-02-2020 21:25:47"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Dodawanie stałopozycyjne jest",
@@ -7550,73 +6085,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@185.102.*.*",
-          "comment": "przemienne true?",
-          "date": "06-02-2017 23:04:54"
-        },
-        {
-          "author": "~anon@79.191.*.*",
-          "comment": "Identyczne pytanie jak 1940, przydało by się usunąć. I jeszcze odp zła, nie jest dokładne tylko przemienne. ",
-          "date": "07-02-2017 09:31:42"
-        },
-        {
-          "author": "~anon@188.146.*.*",
-          "comment": "Stałopozycyjne jest dokładne, a dodawanie jako takie przemienne",
-          "date": "01-02-2018 17:21:53"
-        },
-        {
-          "author": "~gk@89.64.*.*",
-          "comment": "zgadzam sie z anonem",
-          "date": "05-02-2018 16:55:33"
-        },
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "drugie takie pytanie, na dodatek zła odpowiedź, czy ktoś te pytania wgl moderuje?",
-          "date": "05-02-2018 17:42:40"
-        },
-        {
-          "author": "~krzysiek@89.69.*.*",
-          "comment": "jest dokladne w porownaniu z zmiennopozycyjnym.",
-          "date": "05-02-2018 18:00:02"
-        },
-        {
-          "author": "~~kubatoCwel@79.191.*.*",
-          "comment": "jak to jest dokładne? dokładniejsze jest zmiennopozycyjne? ",
-          "date": "05-02-2018 18:06:18"
-        },
-        {
-          "author": "~anon@89.69.*.*",
-          "comment": "dodawanie stalopozycyjne jest dokladne, zmiennopozycyjnego wada jest znacznie mniejsza dokladnosc a wiekszy zakres",
-          "date": "05-02-2018 18:09:51"
-        },
-        {
-          "author": "~anon@79.191.*.*",
-          "comment": "oki dzieki",
-          "date": "05-02-2018 18:13:56"
-        },
-        {
-          "author": "~MarcinSekrecki@89.64.*.*",
-          "comment": "Chce sie ktos pouczyc razem?? xd",
-          "date": "05-02-2018 18:16:49"
-        },
-        {
-          "author": "~feedbias_int@159.205.*.*",
-          "comment": "\"Wadą notacji stałopozycyjnej jest jej mały zakres i mała precyzja\" Prosciutko z prezentacji pch\n",
-          "date": "05-02-2018 23:27:05"
-        },
-        {
-          "author": "~anon@89.69.*.*",
-          "comment": "Czyli wynika z tego ze jest dokladniejsze od zmiennopozycyjnego ale dalej niedokladne :P",
-          "date": "11-02-2018 13:57:24"
-        },
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "xd\n",
-          "date": "12-02-2018 16:38:20"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Gdy dodajemy dwie liczby w systemie stałopozycyjnym, może się zdarzyć, że :",
@@ -7636,13 +6105,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@188.217.*.*",
-          "comment": "2 jest poprawna",
-          "date": "10-02-2021 17:06:15"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Pomysł skompilowania Pascala na nieistniejący procesor",
@@ -7706,13 +6169,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~yespoorplease@79.184.*.*",
-          "comment": "1.nie: bo jest podwójna prezentacja zera\n2.nie: np 1 = 0001 a już po zamianie nie, bo 1001 = 6. w znak-moduł zwykły by to jeszcze działało\n3.nie: jest tyle samo, bo dalej pierwszy bit nie ma żadnej wartości",
-          "date": "09-02-2020 00:54:14"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "W procesorach Pentium",
@@ -7752,13 +6209,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~włamywacz komputerowy@89.64.*.*",
-          "comment": "siema nie zgadzam sie",
-          "date": "04-02-2020 20:50:09"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Koniami trojańskimi są:",
@@ -7778,53 +6229,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~JD@88.156.*.*",
-          "comment": "xd",
-          "date": "03-02-2020 23:53:09"
-        },
-        {
-          "author": "~anon@88.156.*.*",
-          "comment": "ja sie pytam po co\n",
-          "date": "03-02-2020 23:54:01"
-        },
-        {
-          "author": "~ITN@2a02:a317:2247:1480:ed32:5420:56a1:3fe",
-          "comment": "co? xD",
-          "date": "04-02-2020 00:07:24"
-        },
-        {
-          "author": "~anon@79.98.*.*",
-          "comment": "gówno\n",
-          "date": "04-02-2020 00:14:26"
-        },
-        {
-          "author": "~pch@89.64.*.*",
-          "comment": "Zle chodz sie domyslam.\n",
-          "date": "04-02-2020 00:27:18"
-        },
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "guwno piszemy przez UW. ",
-          "date": "04-02-2020 01:14:56"
-        },
-        {
-          "author": "~AdamMalysz@5.173.*.*",
-          "comment": "Skont te pytania",
-          "date": "04-02-2020 01:50:23"
-        },
-        {
-          "author": "~KamilStoch@2a00:f41:183f:a085:42e1:5916:5567:1b30",
-          "comment": "Leć Adam leć... po słownik.",
-          "date": "04-02-2020 01:53:19"
-        },
-        {
-          "author": "~PiotrŻyła@134.19.*.*",
-          "comment": "heh\n",
-          "date": "04-02-2020 07:52:34"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<div class=\"module__title js-about-item-title\"><span class=\"module__title__link\">Jak program AlphaZero pokonał mistrza szachowego G.Kasparova?<br></span></div>",
@@ -7844,23 +6249,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~lenny@89.76.*.*",
-          "comment": "To chyba DeepBlue, a nie AlphaZero, grał z Kasparovem",
-          "date": "17-01-2021 19:04:23"
-        },
-        {
-          "author": "~anon@79.184.*.*",
-          "comment": "Podbijam, AlphaZero z nikim nie grał\n",
-          "date": "11-02-2021 20:19:26"
-        },
-        {
-          "author": "~anon@89.76.*.*",
-          "comment": "AlphaZero ograł Stockfisha, czyli inny program działający w oparciu o odmienny algorytm. ",
-          "date": "11-02-2021 22:18:21"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<p class=\"MsoNormal\"><span>Duza złozoność algorytmów lub problemów algorytmicznych</span></p>",
@@ -7900,13 +6289,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~kmwtw@2a01:110f:d01:c100:2d0e:7fc0:71ae:f4dc",
-          "comment": "b i c nie są poprawne?\n",
-          "date": "04-02-2021 15:39:59"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<p class=\"MsoNormal\">W maszynach grających w szachy na arcymistrzowskim poziomie korzysta się z :</p>\n<p>&nbsp;</p>",
@@ -8086,23 +6469,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~2137@83.9.*.*",
-          "comment": "b) popranwe",
-          "date": "01-02-2021 20:02:02"
-        },
-        {
-          "author": "~anon@79.184.*.*",
-          "comment": "Wszystkie true imo",
-          "date": "11-02-2021 20:25:01"
-        },
-        {
-          "author": "~lala@2a02:a317:223a:f900:c0e3:b5d4:1c1:39a4",
-          "comment": "is it all true ?",
-          "date": "11-02-2021 21:01:02"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<p class=\"MsoNormal\">Buforów używa się przy transmisji danych z dysku</p>\n<p>&nbsp;</p>",
@@ -8142,18 +6509,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~ass@83.24.*.*",
-          "comment": "Trzecie nie będzie poprawne?",
-          "date": "05-02-2021 19:29:07"
-        },
-        {
-          "author": "~kmwtw@2a01:110f:d01:c100:68a3:1b17:2fc4:2493",
-          "comment": "Z jakiejś prezentacji pch z MiMUW: \"Zatem złożoność algorytmu na poziomie operacji na cyfrach jest kwadratowa, czyli w tym przypadku proporcjonalna do kwadratu z logarytmu\"",
-          "date": "11-02-2021 12:47:55"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<p class=\"MsoNormal\"><span>Jeżeli kupujemy komputer czterordzeniowy i czytamy, że jest taktowany zegarem</span></p>\n<p class=\"MsoNormal\"><span>4GHZ, to oznacza, że</span></p>",
@@ -8233,28 +6589,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~kmwtw@2a01:110f:d01:c100:2d0e:7fc0:71ae:f4dc",
-          "comment": "A tutaj przypadkiem 1. nie jest poprawna?",
-          "date": "04-02-2021 14:39:54"
-        },
-        {
-          "author": "~rescik@2a02:a310:45d:f280:e14e:f830:68ab:5850",
-          "comment": "wydaje mi się że nie",
-          "date": "04-02-2021 14:46:02"
-        },
-        {
-          "author": "~anon@2a01:110f:d01:c100:2d0e:7fc0:71ae:f4dc",
-          "comment": "A, słusznie, nie jest\n",
-          "date": "04-02-2021 15:11:13"
-        },
-        {
-          "author": "~anon@88.156.*.*",
-          "comment": "2 nie jest poprawne, 12/64 jest lepszym przybliżeniem i jest reprezentowalne bez błędu",
-          "date": "17-02-2021 18:27:22"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<p class=\"MsoNormal\">160 <span>(101) jest okresem rozwinięcia liczby</span></p>",
@@ -8294,13 +6629,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~mee@79.184.*.*",
-          "comment": "poprawne jest 2 (uzyskiwanie...)",
-          "date": "24-02-2021 00:01:35"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<p class=\"MsoNormal\"><span>Następujące działania w kodzie uzupełnieniowym są poprawnie wykonane dla</span></p>\n<p class=\"MsoNormal\"><span>liczb całkowitych 8-bitowych</span></p>",
@@ -8320,13 +6649,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~kmwtw@2a01:110f:d01:c100:68a3:1b17:2fc4:2493",
-          "comment": "-128 + 1 = -127, drugie poprawne",
-          "date": "11-02-2021 13:04:36"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<p class=\"MsoNormal\"><span>Następujące działania w kodzie uzupełnieniowym sa poprawnie wykonane dla</span></p>\n<p class=\"MsoNormal\"><span>liczb całkowitych 8 bitowych</span></p>",
@@ -8366,13 +6689,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~yespoorplease@79.184.*.*",
-          "comment": "To jest źle, gdyż pierwsze (10^6 bajtów) jest tylko poprawne. A nie, tak jak jest zaznaczone dla MiB.\nGdyż 1 MB nie jest równe 1 MiB.\nPozdrawiam\nhttps://pl.wikipedia.org/wiki/Bajt",
-          "date": "09-02-2020 01:40:02"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Sieci neuronowe potrafią",
@@ -8392,48 +6709,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@89.68.*.*",
-          "comment": "\"dzialac nawet wtedy, gdy czesc sieci ulegnie zniszczeniu\" jest dobra odpowiedzia",
-          "date": "06-02-2017 17:09:30"
-        },
-        {
-          "author": "~anon@109.241.*.*",
-          "comment": "1 i 3 true",
-          "date": "06-02-2017 19:06:28"
-        },
-        {
-          "author": "~halp@194.153.*.*",
-          "comment": "^ 1 i 3 tru",
-          "date": "03-02-2018 23:30:07"
-        },
-        {
-          "author": "~true@188.146.*.*",
-          "comment": "1 i 3 poprawna",
-          "date": "05-02-2018 16:05:15"
-        },
-        {
-          "author": "~anon@89.70.*.*",
-          "comment": "Popraw @mykhi jak mozesz",
-          "date": "05-02-2018 19:18:16"
-        },
-        {
-          "author": "~Derp@83.24.*.*",
-          "comment": "Zgadzam się z ~anon@89.70.*.*\n1,3 są poprawne wg. najnowszej prezentacji z pch ;-;",
-          "date": "05-02-2018 21:12:27"
-        },
-        {
-          "author": "~SQL@79.184.*.*",
-          "comment": "prosze poprawic",
-          "date": "11-02-2018 21:03:05"
-        },
-        {
-          "author": "mykhi",
-          "comment": "zaznaczam 1 i 3",
-          "date": "11-02-2018 21:27:08"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Dowód Turinga nierozstrzygalności problemu stopu",
@@ -8453,28 +6729,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@178.36.*.*",
-          "comment": "2. TRUE 100%\n1. i 3. nie pamiętam",
-          "date": "10-02-2018 17:22:52"
-        },
-        {
-          "author": "~anon@89.67.*.*",
-          "comment": "przecież problemu stopu nie da się rozwiązać",
-          "date": "12-02-2018 15:00:51"
-        },
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "Tylko 2 prawdziwe (Brookshear s.530)",
-          "date": "13-02-2018 02:35:30"
-        },
-        {
-          "author": "mykhi",
-          "comment": "zaznaczam 2",
-          "date": "13-02-2018 09:11:10"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Przerzutnik służy do",
@@ -8494,33 +6749,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~AnalDestructor@87.207.*.*",
-          "comment": "i tak nie zdacie",
-          "date": "05-02-2018 21:00:21"
-        },
-        {
-          "author": "~anon@94.254.*.*",
-          "comment": "xd",
-          "date": "05-02-2018 23:29:12"
-        },
-        {
-          "author": "~ANAL@89.64.*.*",
-          "comment": "Hej, pozdrawiam grupe 29C!",
-          "date": "06-02-2018 10:29:09"
-        },
-        {
-          "author": "~yesverymuch@79.184.*.*",
-          "comment": "Strzelałbym, że do \"wzmacniania sygnału przy transmisji danych\", ale still nie mam pewnego źródła",
-          "date": "03-02-2020 22:53:39"
-        },
-        {
-          "author": "~pch@83.24.*.*",
-          "comment": "prawidłowa to do zapamiętywania danych, tutaj żadna poprawna",
-          "date": "06-02-2021 17:29:12"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span>Maszyna Turinga o poniższej specyfikacji:</span><p></p>\n<div><span>(START,#)-&gt;(STOP,#,right)<br>(START,0)-&gt;(A,0,right)<br>(START,1)-&gt;(B,1,right)<br><br>(A,#)-&gt;(A,0,right)<br>(A,0)-&gt;(A,0,right)<br>(A,1)-&gt;(A,0,right)<br><br>(B,#)-&gt;(B,1,right)<br>(B,0)-&gt;(B,1,right)<br>(B,1)-&gt;(B,1,right)</span><br><br></div>\n<p><span>realizuje zadanie:</span>\n          </p>",
@@ -8540,23 +6769,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anonek@5.173.*.*",
-          "comment": "Ktoś umie to wytłumaczyć, albo jakieś źródła, żeby to zrozumieć czemu tak akurat?",
-          "date": "29-01-2020 02:36:49"
-        },
-        {
-          "author": "~anon@2a02:a310:45b:5280:b565:8c0:133a:f54d",
-          "comment": "^poprostu zapamietaj ze 3 poprawne XDDD",
-          "date": "01-02-2020 14:20:39"
-        },
-        {
-          "author": "~Skony@78.11.*.*",
-          "comment": "START, STOP, A, B to stany maszyny. Maszyna zawsze jest w jednym ze stanów. Zaczyna w stanie START. 0,1,# to symbole na taśmie, gdzie # to tzw. symbol pusty. Dla przykładowej skończonej taśmy 0110# zaczynając od pierwszej pozycji na lewo maszyna zwróci taśmę 00000 (START:0->A:0 w prawo A:1-> A:0 w prawo A:1->A:0 w prawo A:0->A:0 w prawo A:#->A:0 w prawo KONIEC TAŚMY)\ndla taśmy #110# zwróci #110# (START:#->STOP:# w prawo BRAK INSTRUKCJI DLA STANU:STOP ZAKOŃCZENIE PRACY MASZYNY)",
-          "date": "03-02-2020 23:17:37"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "W maszynach grających w (?) arcymistrzowskim poziomie (?)",
@@ -8576,43 +6789,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~Anon@185.20.*.*",
-          "comment": "eeee... co? czemu to pytanie ma tyle znaków zapytania??",
-          "date": "05-02-2018 16:07:34"
-        },
-        {
-          "author": "~anon@79.184.*.*",
-          "comment": "Ktoś nie pamiętał dokładnie treści pytania, więc wrzucił tyle ile zdołał",
-          "date": "05-02-2018 16:13:45"
-        },
-        {
-          "author": "~anon@83.31.*.*",
-          "comment": "nie musi mieć bibliotek otwarć i końcówek, tak jak nie ma go najnowszy program szachowy alpha zero",
-          "date": "06-02-2018 10:26:11"
-        },
-        {
-          "author": "~anon@178.235.*.*",
-          "comment": "Fakt, ale na wykładzie mówił że programy same tworzą sobie biblioteki otwarć i końcówek",
-          "date": "06-02-2018 10:34:08"
-        },
-        {
-          "author": "~anon@37.47.*.*",
-          "comment": "no moze nie miec a moze miec 0.0",
-          "date": "02-02-2020 18:01:47"
-        },
-        {
-          "author": "~anon@37.47.*.*",
-          "comment": "ze te biblioteki",
-          "date": "02-02-2020 18:01:52"
-        },
-        {
-          "author": "~yesverymuch@79.184.*.*",
-          "comment": "\"W maszynach grajacych w szachy...\"",
-          "date": "03-02-2020 23:20:02"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "problem posta:",
@@ -8652,63 +6829,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "a w brydża?",
-          "date": "12-02-2018 14:56:53"
-        },
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "w brydża czasem tak a czasem nie, zależy kto pyta",
-          "date": "12-02-2018 15:43:16"
-        },
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "a kto pyta nie błądzi",
-          "date": "12-02-2018 17:27:09"
-        },
-        {
-          "author": "~anon@46.113.*.*",
-          "comment": "с каких пор шашки - это warcaby? омг...",
-          "date": "12-02-2018 20:11:10"
-        },
-        {
-          "author": "~n@178.42.*.*",
-          "comment": "nie",
-          "date": "12-02-2018 20:18:54"
-        },
-        {
-          "author": "~rowna_sie_kwadratowi_obu_ramion@89.73.*.*",
-          "comment": "a w cs-a?",
-          "date": "13-02-2018 00:22:51"
-        },
-        {
-          "author": "~ziomek@178.42.*.*",
-          "comment": "no można pyknąć. Zaproś na steamie.",
-          "date": "13-02-2018 01:09:24"
-        },
-        {
-          "author": "~Segwit2x@188.146.*.*",
-          "comment": "W brydża nie.",
-          "date": "26-03-2018 22:46:44"
-        },
-        {
-          "author": "~MasterOfITNS@2a02:a310:c040:2600:a003:ad17:d10f:2bac",
-          "comment": "В доту кто пойдет?",
-          "date": "02-02-2020 18:59:02"
-        },
-        {
-          "author": "~NoName@2a02:a310:c040:2600:a003:ad17:d10f:2bac",
-          "comment": "_____________________________#####____\n_________ Я сосал_____________#####____\n___________меня ебали  _______####______\n_________прошлым летом!!________##________\n_____________________________######_____\n____________________________#######_____\n____####__________________#########___\n___######________________###_######___\n#########_______________###__######__\n_#######_______________###___######___\n_______#################____######__\n_______##########################__\n________################____#####____\n_________##___________##_____####______\n_________##___________##_____#########___\n_______###__________###______#########__",
-          "date": "02-02-2020 19:01:22"
-        },
-        {
-          "author": "~\t₡҈Ⱥ҈М҈ П҈Ǿ ₡҈ɆБɆ@2a02:a310:c265:e200:e5b9:a6b6:904b:2fb1",
-          "comment": "Nu G+O",
-          "date": "02-02-2020 19:01:54"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Fragmentacja nie dotyczy:&nbsp;",
@@ -8728,28 +6849,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~what@79.184.*.*",
-          "comment": "od kiedy fragmentacja nie dotyczy ssd?",
-          "date": "01-02-2020 11:33:43"
-        },
-        {
-          "author": "~anon@2a02:a31a:404a:c000:2c61:3b22:7a2:9582",
-          "comment": "od zawsze :) ssd jest zrobiony w takiej samej technologi jak ram, tam nie ma co się pofragmentować ",
-          "date": "01-02-2020 16:41:13"
-        },
-        {
-          "author": "~smartAnon@91.238.*.*",
-          "comment": "to niezła ta sama technologia co RAM xDDDDDDD",
-          "date": "03-02-2020 19:09:20"
-        },
-        {
-          "author": "~dupa@2a02:a310:c263:e700:a40b:1761:c4a0:4cb9",
-          "comment": "Przecież dane fragmentują się tak samo, po prostu jet to na tyle małym problemem, że można się nim nie przejmować.",
-          "date": "03-02-2020 20:28:02"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Rozważmy algorytm Kruskala w wersji:<p></p>\n<ul>\n<li>z pomocniczą kolejką priorytetową zaimplementowaną w kopcu-drzewie binarnym,</li>\n<li>operacją budowy kolejki priorytetowej PQConstruct zgodną z szybkim algorytmem konstrukcji kopca-drzewa binarnego HeapFastConstruct,</li>\n<li>z pomocniczą strukturą Find-Union zaimplementowaną w drzewie n-arnym z balansowaniem i kompresją ścieżek,</li>\n</ul>\n<p>postaci:</p>\n<p>&nbsp;</p>\n<p><img src=\"https://gakko.pjwstk.edu.pl/public/2271//ASD/Zima1516/TestyPseudokody/Kruskal.gif\" alt=\"\"></p>\n<p>dla grafu <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+G%3d(V%2cE)+%24\" alt=\"\">:</p>\n<ul>\n<li>zbiór wierzchołków grafu <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+V%3d%5c%7b+0%2c1%2c...%2c7+%5c%7d+%24\" alt=\"\">,</li>\n<li>zbiór krawędzi grafu <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+E+%24\" alt=\"\">zadany tablicą list incydencji:\n<ul>\n<li><img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+%5b0%5d%3d((2%2c5)%2c(4%2c5))+%24\" alt=\"\"></li>\n<li><img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+%5b1%5d%3d((2%2c2)%2c(3%2c4)%2c(4%2c4)%2c(6%2c1))+%24\" alt=\"\"></li>\n<li><img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+%5b2%5d%3d((0%2c5)%2c(1%2c2)%2c(4%2c1)%2c(5%2c5)%2c(7%2c5))+%24\" alt=\"\"></li>\n<li><img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+%5b3%5d%3d((1%2c4))+%24\" alt=\"\"></li>\n<li><img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+%5b4%5d%3d((0%2c5)%2c(1%2c4)%2c(2%2c1)%2c(5%2c1))+%24\" alt=\"\"></li>\n<li><img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+%5b5%5d%3d((2%2c5)%2c(4%2c1)%2c(6%2c1)%2c(7%2c5))+%24\" alt=\"\"></li>\n<li><img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+%5b6%5d%3d((1%2c1)%2c(5%2c1)%2c(7%2c4))+%24\" alt=\"\"></li>\n<li><img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+%5b7%5d%3d((2%2c5)%2c(5%2c5)%2c(6%2c4))+%24\" alt=\"\"></li>\n</ul>\n</li>\n</ul>\n<p>przedstawionego na poniższym rysunku.</p>\n<p>&nbsp;</p>\n<p><img src=\"https://gakko.pjwstk.edu.pl/public/2271//ASD/Zima1516/TestyRysunki/Kruskal/Kruskal_22.gif\" alt=\"\"></p>\n<p>Które z poniższych zdań jest prawdziwe? Uwaga! W przypadku niejednoznacznej możliwości wyboru krawędzi, jako pierwszą wybieramy krawędź, której etykiety wierzchołków krańcowych w kolejności niemalejącej tworzą mniejszą liczbę naturalną.\n          </p>",
@@ -8829,13 +6929,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~mee@79.184.*.*",
-          "comment": "poprawna jest odpowiedź 1 i 2 (potrafi wykonać swój własny kod i kod dowolnej maszyny Turinga)",
-          "date": "24-02-2021 00:13:38"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Pamięć wirtualna to kocnepcja pozwalająca na:",
@@ -8875,13 +6969,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~mee@79.184.*.*",
-          "comment": "poprawna odpowiedź to stosu systemowego ale czy kopca systemowego to nwm",
-          "date": "24-02-2021 00:14:29"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Notacja&nbsp;Ο",
@@ -8921,13 +7009,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~3raz@93.105.*.*",
-          "comment": "Hejka, miałem to pytanie na teście, a później omówione na konsultacji i prawidłową odpowiedzią jest : definiując graf stanów i przejść między nimi, mam screena",
-          "date": "16-02-2021 17:53:58"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Programowanie obiektowe&nbsp;",
@@ -9027,13 +7109,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~mee@79.184.*.*",
-          "comment": "poprawna odpowiedź to 2 i 3 (korzystamy... i dostajemy...)",
-          "date": "24-02-2021 00:16:23"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Rozważmy algorytm AVLConstruct postaci:<p></p>\n<p>&nbsp;</p>\n<p><img src=\"https://gakko.pjwstk.edu.pl/public/2271//ASD/Zima1516/TestyPseudokody/AVLConstruct.gif\" alt=\"\"></p>\n<p>Niech drzewo <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+T+%24\" alt=\"\"> będzie rezultatem działania algorytmu AVLConstruct dla danych wejściowych:</p>\n<ul>\n<li>tablica elementów <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+E%3d%5c%5b+13%2c9%2c7%2c12%2c10%2c4%2c3%2c6%2c11%2c17+%5c%5d+%24\" alt=\"\">.</li>\n</ul>\n<p>Które z poniższych zdań jest prawdziwe?\n          </p>",
@@ -9672,5 +7748,5 @@
       "comments": []
     }
   ],
-  "updatedAt": 1625347561923
+  "updatedAt": 1625387660233
 }

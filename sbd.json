@@ -11080,18 +11080,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@162.158.*.*",
-          "comment": "b i c nie są wartosciami (np skalarnymi)",
-          "date": "29-06-2019 21:40:16"
-        },
-        {
-          "author": "~df@91.207.*.*",
-          "comment": "W SSMS wszystkie poprawnie się skompilowały, więc wszystkie są poprawne.",
-          "date": "10-07-2020 19:20:12"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<p><span>&nbsp; &nbsp;Dane są trzy tabele Klienci ( Id_Klienta, Imie , Nazwisko ), Produkty (Id_Produktu , Nazwa , Cena ) oraz Zakupy (Id_Klienta , Id_Produktu , Ilosc ) . Wskaż poprawne zapytania SQL znajdujące nazwy i ceny produktów , które zostały zakupione przez przynajmniej jednego klienta .</span></p>",
@@ -11139,43 +11128,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@94.254.*.*",
-          "comment": "Trzecie jest niepoprawne - brakuje słowa LOOP ",
-          "date": "29-01-2016 17:22:31"
-        },
-        {
-          "author": "~piotrek@95.49.*.*",
-          "comment": "Pierwsze jest poprawne. ",
-          "date": "09-08-2016 13:51:22"
-        },
-        {
-          "author": "~mm@89.67.*.*",
-          "comment": "Pierwsze nie jest poprawne. W Trzecim zgadzam się - brakuje LOOP",
-          "date": "01-07-2017 12:30:09"
-        },
-        {
-          "author": "~anon@148.81.*.*",
-          "comment": "1 i 3 źle",
-          "date": "01-07-2017 12:38:19"
-        },
-        {
-          "author": "~Mossi@94.254.*.*",
-          "comment": "FOR i IN [REVERSE] wartość1..wartość2 LOOP \n\tciąg_instrukcji \nEND LOOP;",
-          "date": "07-07-2018 06:27:45"
-        },
-        {
-          "author": "~anon@46.112.*.*",
-          "comment": "up",
-          "date": "07-02-2019 22:18:46"
-        },
-        {
-          "author": "mykhi",
-          "comment": "odznaczam c)",
-          "date": "07-02-2019 22:20:01"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<p><span>&nbsp; &nbsp;Wskaż poprawne zapytanie SQL (dialekt Oracle) znajdujące pracowników zarabiających minimalną pensję na ich stanowiskach pracy :</span></p>",
@@ -11223,13 +11176,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~df@91.207.*.*",
-          "comment": "Wg. PJtu:\nhttp://edu.pjwstk.edu.pl/wyklady/szb/scb/rW3.htm\n\nb, c, d",
-          "date": "10-07-2020 19:29:33"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<p lang=\"en-US\"><span><span><span>Do zakładania blokad służą konstrukcje:</span></span></span></p>",
@@ -11313,28 +11260,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@194.93.*.*",
-          "comment": "wszystkie 3 sa poprawne",
-          "date": "16-02-2015 08:27:40"
-        },
-        {
-          "author": "~Gimbus@91.230.*.*",
-          "comment": "\nCytując wykład:\n\"Trzy role są z góry zdefiniowane:\nCONNECT - zawierająca uprawnienie CREATE SESSION,\nRESOURCE - uprawnienia do tworzenia obiektów,\nDBA - uprawnienia do wykonywania funkcji administratora systemu.\"\n\nCzyli wszystkie 3 poprawne.",
-          "date": "04-07-2015 13:18:25"
-        },
-        {
-          "author": "~anon@89.67.*.*",
-          "comment": "Dokladnie wszystkie 3 sa poprawne",
-          "date": "01-07-2017 14:34:37"
-        },
-        {
-          "author": "~marol kichalak@159.205.*.*",
-          "comment": "mykhi popraw prosze",
-          "date": "31-01-2018 23:50:30"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<p><span><strong>Wśród uprawnień przyznawanych w instrukcji GRANT występują:</strong></span></p>",
@@ -11354,18 +11280,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~mm@89.67.*.*",
-          "comment": "Przykłąd do commit, poproszę. Nigdzie nie znalazłem nic o jakimkolwiek grant commit.",
-          "date": "01-07-2017 10:08:55"
-        },
-        {
-          "author": "~df@91.207.*.*",
-          "comment": "Commit jest źle\nTylko a i b",
-          "date": "10-07-2020 19:33:31"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<p><span><strong>Napisanie w SQL*Plus - describe tabela, spowoduje:&nbsp;</strong></span></p>",
@@ -11409,28 +11324,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@88.156.*.*",
-          "comment": "Skoro wymaga dodatkowej tabeli łączącej, to nie oznacza też, że jest to wiele - wiele?",
-          "date": "28-01-2016 23:14:43"
-        },
-        {
-          "author": "~anon@81.15.*.*",
-          "comment": "zgadzam się z przedmówca \"W przypadku asocjacji wiele-do-wielu konieczne jest wprowadzenie dodatkowej tabeli\"",
-          "date": "30-01-2016 17:36:47"
-        },
-        {
-          "author": "~anon@46.112.*.*",
-          "comment": "Tak, ale chodzi o połączeniu tabel. A w przypadku połączenia z encją asocjacyjnej, same tabele państwo oraz rzewa nie są połączone bezpośrednio",
-          "date": "07-02-2019 15:56:46"
-        },
-        {
-          "author": "~df@91.207.*.*",
-          "comment": "Poprawne:\nwiele-wiele\nWymaga tabeli asocjacyjnej",
-          "date": "10-07-2020 19:34:29"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Klauzula \"DECLARE Dane_Osoby Osoba%ROWTYPE\" jest w PL/SQL:",
@@ -11454,28 +11348,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@87.207.*.*",
-          "comment": "to nie jest deklaracja nowego rekordu tylko zmiennej o typie rekordu dającej dostęp do kolumn podobny jak do pól obiektu np. w Javie",
-          "date": "29-01-2017 14:04:54"
-        },
-        {
-          "author": "~anon@31.178.*.*",
-          "comment": "proponuję zmienić\n",
-          "date": "01-07-2017 10:07:22"
-        },
-        {
-          "author": "~Kogug@109.206.*.*",
-          "comment": "potwierdzam \n\n",
-          "date": "02-07-2018 22:20:12"
-        },
-        {
-          "author": "mykhi",
-          "comment": "odznaczam a)",
-          "date": "02-07-2018 22:38:02"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Które z mechanizmów są używane w hurtowni danych:",
@@ -11615,23 +11488,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~Mossi@94.254.*.*",
-          "comment": "Wstępnie postawiłbym na odpowiedź c) \nwiedząc że DOWOD_OSOBISTY jest kluczem\n___________________________\nNazwisko, Dowod_Osobisty -> Adres_Prac - Jest to zła zależność częściowa, a jeśli taka występuje to schemat jest w Pierwszej postaci normalnej",
-          "date": "06-07-2018 08:17:01"
-        },
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "a) i c) to poprawne odpowiedzi, nie jest w III postaci normalnej ponieważ Nazwa_działu zależy przechodnio od Dowod_Osobisty (poprzez Nr_działu)",
-          "date": "05-02-2019 11:10:58"
-        },
-        {
-          "author": "~heh@162.158.*.*",
-          "comment": "jak na moje jest w pierwszej postaci tylko, bo w drugiej mamy mowe o przechowywaniu danych TYLKO JEDNEGO OBIEKTU, np. po co Pracownik.nazwa_działu?",
-          "date": "29-06-2019 21:36:54"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Zdjęcie blokady założonej na tabeli następuje:",
@@ -11655,33 +11512,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@178.235.*.*",
-          "comment": "Według wykładów http://edu.pjwstk.edu.pl/wyklady/sbd/scb/w3.htm\n\n\"Zdjęcie blokady następuje przez wykonanie COMMIT lub ROLLBACK.\" \n\nWięc A i D poprawne odpowiedzi .",
-          "date": "31-01-2016 20:22:44"
-        },
-        {
-          "author": "~anon@31.178.*.*",
-          "comment": "To może by tak poprawić;)",
-          "date": "30-06-2017 18:33:46"
-        },
-        {
-          "author": "~eeeeee@91.230.*.*",
-          "comment": "@mykhi poprawisz?",
-          "date": "30-01-2018 10:48:36"
-        },
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "Podbijam A i D",
-          "date": "10-02-2019 23:35:11"
-        },
-        {
-          "author": "mykhi",
-          "comment": "gotowe",
-          "date": "10-02-2019 23:41:06"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Jak dostać się z zewnątrz do procedury Zatrudnij z parametrami IdPracownika, Nazwisko, Pensja, NrDziału będącej w pakiecie ObsługaPracownika:",
@@ -11705,58 +11536,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@94.254.*.*",
-          "comment": "Nie musi być przynajmniej jedna poprawna? ",
-          "date": "29-01-2016 11:08:18"
-        },
-        {
-          "author": "~anon@178.42.*.*",
-          "comment": "Wg. mnie to będzie odpowiedź B\nObsługaPracownika.Zatrudnij ....",
-          "date": "29-01-2016 16:56:10"
-        },
-        {
-          "author": "~anon@148.81.*.*",
-          "comment": "Zgadzam się. B prawidłowe.",
-          "date": "01-07-2017 12:20:50"
-        },
-        {
-          "author": "~anon@91.230.*.*",
-          "comment": "@mykhi poprawisz?",
-          "date": "30-01-2018 11:03:59"
-        },
-        {
-          "author": "~kogut@83.6.*.*",
-          "comment": "potwierdzam b",
-          "date": "04-07-2018 17:04:58"
-        },
-        {
-          "author": "mykhi",
-          "comment": "poprawie! nienawidze sesji :/",
-          "date": "04-07-2018 20:18:49"
-        },
-        {
-          "author": "~Won Tyr@89.64.*.*",
-          "comment": "nadal nie poprawione\n",
-          "date": "29-01-2019 21:09:40"
-        },
-        {
-          "author": "~OCB@5.173.*.*",
-          "comment": "UP",
-          "date": "13-02-2019 17:29:58"
-        },
-        {
-          "author": "~anon@162.158.*.*",
-          "comment": "Nie poprawione \n",
-          "date": "29-06-2019 09:08:06"
-        },
-        {
-          "author": "~anon@89.230.*.*",
-          "comment": "up",
-          "date": "28-01-2020 14:07:21"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Które własności wchodzą w skład aksjomatów wykonywania transakcji:",
@@ -11780,38 +11560,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@95.49.*.*",
-          "comment": "gg",
-          "date": "08-02-2016 04:49:42"
-        },
-        {
-          "author": "~darka@89.66.*.*",
-          "comment": "dla czego spójność nie",
-          "date": "29-01-2017 10:42:18"
-        },
-        {
-          "author": "~anon@87.207.*.*",
-          "comment": "dla tego że nie jest spó jna",
-          "date": "29-01-2017 13:32:03"
-        },
-        {
-          "author": "~anon@148.81.*.*",
-          "comment": "Aksjomaty wykonywanania transakcji to:\n1. Atomowość\n2. Spójność\n3. Izolacja\n4. Trwałość\n\n\nwięc odpowiedz d) prawidłowa",
-          "date": "01-07-2017 12:02:15"
-        },
-        {
-          "author": "~kogut@83.6.*.*",
-          "comment": "potwierdzam d jest prawidłowa",
-          "date": "02-07-2018 15:37:48"
-        },
-        {
-          "author": "mykhi",
-          "comment": "poprawiam",
-          "date": "02-07-2018 17:04:49"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Z ilu tabel powinna się składać prosta znormalizowana baza zawierająca informacje o częściach, urządzeniach i przynależności \"wiele do wielu\" między nimi:",
@@ -11835,18 +11584,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@81.15.*.*",
-          "comment": "jak dla mnie to z trzech czyli\nCzęść{idCzęści,nazwa....}\nPrzynależność{idCzęści,idUrządzenia}\nUrządzenie{idUrządzenia,nazwa...}",
-          "date": "30-01-2016 11:16:33"
-        },
-        {
-          "author": "mykhi",
-          "comment": "tez tak mysle, zaznaczam.",
-          "date": "30-01-2016 11:21:15"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Która z poniższych instrukcij prawidłowo utworzy tabelę tymczasową w T-SQL",
@@ -11870,48 +11608,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@31.178.*.*",
-          "comment": "czy tu nie powinno być a, b i c?",
-          "date": "01-07-2017 10:17:39"
-        },
-        {
-          "author": "~anon@148.81.*.*",
-          "comment": "dokładnie, prawidłowe odpowiedzi to : a,b,c",
-          "date": "01-07-2017 11:59:55"
-        },
-        {
-          "author": "~anon@89.70.*.*",
-          "comment": "https://technet.microsoft.com/pl-pl/library/tabele-tymczasowe-i-zmienne-tablicowe-fakty-i-mity.aspx\nA B?",
-          "date": "02-09-2017 23:25:19"
-        },
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "tu na pewno jest A B i C poprawne",
-          "date": "02-09-2017 23:27:48"
-        },
-        {
-          "author": "~step @94.254.*.*",
-          "comment": "tak pomyłka, A B i C są poprawne",
-          "date": "03-09-2017 19:31:47"
-        },
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "mykhi popraw",
-          "date": "06-02-2018 23:05:31"
-        },
-        {
-          "author": "mykhi",
-          "comment": "doznaczam B i C",
-          "date": "06-02-2018 23:06:23"
-        },
-        {
-          "author": "~anon@87.206.*.*",
-          "comment": "Czemu C?",
-          "date": "01-09-2019 08:19:59"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "W procedurze (PROCEDURE) PL/SQL",
@@ -11959,23 +11656,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~Student@162.158.*.*",
-          "comment": "IF NULL = NULL PRINT 'OK'; nie jest odpowiedzia prawidłową. ",
-          "date": "28-06-2019 09:36:29"
-        },
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "nieprawda",
-          "date": "05-02-2020 00:03:43"
-        },
-        {
-          "author": "~anon@94.172.*.*",
-          "comment": "kompiluje się - jest składniowo poprawna",
-          "date": "05-02-2020 03:56:44"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Zaznacz poprawne stwierdzenia dotyczące przestrzeni tabel (Oracle) oraz grup plików (MS SQL):",
@@ -12047,18 +11728,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anonim@89.72.*.*",
-          "comment": "odpowiedź D jest również poprawna",
-          "date": "02-09-2017 13:37:53"
-        },
-        {
-          "author": "~anon@94.254.*.*",
-          "comment": "D pokazuje departamenty które zatrudniają stanowiska pracy job>3 a nie pracowników ",
-          "date": "03-09-2017 19:29:35"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Które z ponizszych sformułowań jest prawdziwe",
@@ -12106,13 +11776,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@162.158.*.*",
-          "comment": "Niestety wg Matejewskiego to jest też poprawne:\nSELECT DISTINCT Imie, Nazwisko FROM Klienci, Zakupy;",
-          "date": "30-06-2019 12:24:15"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Obiekt bedący generatorem jednoznacznych numerów w Oracle tworzony jest przy pomocy polecenia:",
@@ -12208,28 +11872,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "a alter table mozebyc?",
-          "date": "06-02-2018 18:57:17"
-        },
-        {
-          "author": "~anon@46.112.*.*",
-          "comment": "Constraints can be specified when the table is created with the CREATE TABLE statement, or after the table is created with the ALTER TABLE statement.\n\nhttps://www.w3schools.com/sql/sql_constraints.asp",
-          "date": "07-02-2019 16:06:03"
-        },
-        {
-          "author": "~anon@2a02:a317:2140:b00:81d0:b912:b294:23ec",
-          "comment": "Alter poprawne",
-          "date": "12-02-2021 00:06:53"
-        },
-        {
-          "author": "~anon@95.40.*.*",
-          "comment": "ALTER USER nie ALTER TABLE\n",
-          "date": "12-02-2021 12:24:17"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Polecenia ROLLBACK i COMMIT dotyczą poleceń SQL",
@@ -12253,13 +11896,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~df@91.207.*.*",
-          "comment": "Brak poprawnej odpowiedzi, ponieważ nie można zrollbackować TRUNCATE",
-          "date": "10-07-2020 20:03:20"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Zaznacz poprawne stwierdzenia dotyczące wielowersyjności w bazach danych:",
@@ -12331,43 +11968,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@148.81.*.*",
-          "comment": "prawidłowa odpowiedź to: Tylko w tabeli, z którą jest związany wyzwalacz",
-          "date": "01-07-2017 11:44:24"
-        },
-        {
-          "author": "~mm@89.67.*.*",
-          "comment": "Nope, polecam przetestować. ",
-          "date": "01-07-2017 12:00:19"
-        },
-        {
-          "author": "~anon@89.70.*.*",
-          "comment": "czyli co jest dobre ?",
-          "date": "01-07-2017 12:01:50"
-        },
-        {
-          "author": "~anon@89.67.*.*",
-          "comment": "to, co jest zaznaczone, odpowiedź D. inserted i deleted to tabele tylko do odczytu",
-          "date": "01-07-2017 12:07:38"
-        },
-        {
-          "author": "~anon@148.81.*.*",
-          "comment": "Tabele INSERTED i DELETED są tabelami Read Only (tylko do odczytu), czyli\ningerencja w ich zawartość nie jest możliwa. Natomiast z poziomu wyzwalacza\ndostępna do modyfikacji jest ta tabela, na której wyzwalacz jest zdefiniowany.\n\nz wykładu",
-          "date": "01-07-2017 12:18:14"
-        },
-        {
-          "author": "~anon@89.67.*.*",
-          "comment": "ale nie TYLKO",
-          "date": "01-07-2017 12:28:01"
-        },
-        {
-          "author": "~kogut@83.6.*.*",
-          "comment": "na pewno do wszystkich tabeli ?",
-          "date": "04-07-2018 14:08:34"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Które z poniższych instrukcji może zostać użyta w bloku PL/SQL?",
@@ -12439,18 +12040,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@89.67.*.*",
-          "comment": "a co z odpowiedzią B? \nCzy odpowiednio napisany merge nie jest w stanie zastąpić dowolnego INSERT/UPDATE?",
-          "date": "01-07-2017 12:06:46"
-        },
-        {
-          "author": "~anon@89.230.*.*",
-          "comment": "?",
-          "date": "27-01-2020 14:22:02"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Wyzwalcz INSTEAD OF",
@@ -12474,13 +12064,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@162.158.*.*",
-          "comment": "duplikat 366",
-          "date": "29-06-2019 20:17:51"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Wyzwalcz INSTEAD OF",
@@ -12504,13 +12088,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~pojebane@79.184.*.*",
-          "comment": "pojebane",
-          "date": "12-02-2021 14:16:48"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Problem niepowtarzalnego odczytu polega na tym, że:",
@@ -12678,18 +12256,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@83.6.*.*",
-          "comment": "\"alamakota\" nie jest poprawne?",
-          "date": "19-02-2021 14:41:17"
-        },
-        {
-          "author": "~anon@83.6.*.*",
-          "comment": "Sprawdziłem, powinno. Jest tak w prezentacji Systemy Baz Danych Wykład X Zaawansowane (nieco) konstrukcje PL/SQL - slajd 3.\n\nDopuszcza się tworzenie nazw ujętych w podwójne cudzysłowy i zawierające inne znaki, niż\nwyżej wymienione, np.:\nDECLARE\n\"A B C \" Varchar2(10);\nBEGIN\n\"A B C \" := 'Alamakota';\ndbms_output.put_line(\"A B C \");\nEND;",
-          "date": "19-02-2021 14:46:32"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<strong>Zakładanie indeksów jest zalecane na:</strong>",
@@ -12812,5 +12379,5 @@
       "comments": []
     }
   ],
-  "updatedAt": 1625347561923
+  "updatedAt": 1625387660233
 }

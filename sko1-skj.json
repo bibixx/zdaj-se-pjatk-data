@@ -4055,23 +4055,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@89.67.*.*",
-          "comment": "Pytania 95 i 127 są identyczne, a odpowiedzi różne. Czy dobrze mi się wydaje że właśnie w tym pytaniu odpowiedź jest prawidłowa?",
-          "date": "03-02-2013 00:23:20"
-        },
-        {
-          "author": "~Morawa@83.24.*.*",
-          "comment": "tak ,tylko te dwie odpowiedzi są prawidłowe :)",
-          "date": "03-02-2013 12:13:23"
-        },
-        {
-          "author": "mykhi",
-          "comment": "kasuje 95.",
-          "date": "03-02-2013 12:20:43"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "W sieci pakietowej, przed wysłaniem pakietu, nadawca musi ustalić dokładną trasę połączeń, przez które pakiet zostanie wysłany.-",
@@ -4087,38 +4071,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@78.11.*.*",
-          "comment": "Czy aby napewno",
-          "date": "05-07-2015 09:53:53"
-        },
-        {
-          "author": "~denzel@91.230.*.*",
-          "comment": "no właśnie nie wiem :/",
-          "date": "22-11-2016 12:32:50"
-        },
-        {
-          "author": "~anon@217.12.*.*",
-          "comment": "Dzień dobry",
-          "date": "23-11-2016 00:28:34"
-        },
-        {
-          "author": "~anon@79.191.*.*",
-          "comment": "Na pewno",
-          "date": "01-02-2017 23:33:27"
-        },
-        {
-          "author": "~alex@77.252.*.*",
-          "comment": "Definitywnie ?",
-          "date": "02-02-2017 00:18:04"
-        },
-        {
-          "author": "~AndrzejDuda@87.207.*.*",
-          "comment": "no pewnie że nie. przecież to by znaczyło że musisz na starcie znać każdy ruter przez który przejdziesz. a po to właśnie są rutery żeby dynamicznie generować tą trasę.",
-          "date": "02-02-2017 09:46:11"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Jakie są dwa podstawowe rodzaje protokołów wysyłania grupowego?",
@@ -4190,18 +4143,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~Dodo@178.235.*.*",
-          "comment": "Wykorzystywane protokoły to m.in.: HTTP, Telnet, FTP, TFTP, SNMP, DNS, SMTP, X Window.\nNie powinny byc wszystkie poprawne ??\n",
-          "date": "30-11-2015 23:19:27"
-        },
-        {
-          "author": "~anon@5.172.*.*",
-          "comment": "Do transmisji wiadomości SNMP wykorzystywany jest głównie protokół UDP: standardowo port 161 wykorzystywany jest do wysyłania i odbierania żądań, natomiast port 162 wykorzystywany jest do przechwytywania sygnałów trap od urządzeń. Możliwe jest także wykorzystanie innych protokołów do przekazywania żądań, na przykład TCP - cytat z wiki.",
-          "date": "03-02-2016 14:36:55"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Wybierz protokoły warstwy aplikacji, korzystające przede wszystkim z protokołu TCP",
@@ -4225,18 +4167,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~cool@217.12.*.*",
-          "comment": "czy ma być jeszcze DNS?",
-          "date": "22-11-2016 20:31:38"
-        },
-        {
-          "author": "~Vladik@194.152.*.*",
-          "comment": "nie, bo korzysta z UDP",
-          "date": "23-11-2016 18:06:18"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "System nazewnictwa i adresowanie stosowane w Internecie, umożliwiający konwersję numerycznych adresów internetowych na nazwy to:",
@@ -4300,43 +4231,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~zKolosaNr1Dzienne@91.230.*.*",
-          "comment": "była jeszcze odpowiedz IP i była oznaczona jako prawidłowa (voice over ip), pytanie tez tego typu",
-          "date": "28-11-2017 18:14:57"
-        },
-        {
-          "author": "~xd @79.191.*.*",
-          "comment": "to ja",
-          "date": "28-11-2017 22:16:54"
-        },
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "IP tez powinno byc",
-          "date": "05-02-2018 17:20:36"
-        },
-        {
-          "author": "~Ja@79.185.*.*",
-          "comment": "Potwierdzone info z ipvoice",
-          "date": "05-02-2018 19:38:24"
-        },
-        {
-          "author": "~anon@188.146.*.*",
-          "comment": "Tak, jest taki protokól jak IPvoice? Bo ja znam VoIP ale IPvoice nie znam.",
-          "date": "08-02-2019 08:55:53"
-        },
-        {
-          "author": "~anon@213.216.*.*",
-          "comment": "^ to jest to samo",
-          "date": "08-02-2019 10:50:45"
-        },
-        {
-          "author": "~anon@83.24.*.*",
-          "comment": "VoIP to nie protokół! a tym bardziej twór ipvoice, często w pyt jest jeszcze odp IP poza oczywiście UDP. ",
-          "date": "13-02-2021 19:29:20"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Wybierz poprawne rozwinięcie skrótu HTTP.",
@@ -4384,23 +4279,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~wojt@87.205.*.*",
-          "comment": "Myślę, że TCP nie gwarantuje przepustowości, czyli ostatnia odpowiedź błędna?",
-          "date": "03-02-2013 16:48:25"
-        },
-        {
-          "author": "~anon@212.87.*.*",
-          "comment": "zgadzam się z wojt",
-          "date": "04-02-2013 01:22:44"
-        },
-        {
-          "author": "mykhi",
-          "comment": "poprawiam.",
-          "date": "04-02-2013 10:12:36"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Załóżmy, że estymacja czasu powrotu jest duża. Jakie są tego skutki?",
@@ -4472,43 +4351,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~aoyama@194.15.*.*",
-          "comment": "także nazwa hosta - mówią wyniki mojego eduxa",
-          "date": "28-01-2014 00:39:40"
-        },
-        {
-          "author": "mykhi",
-          "comment": "dodaję",
-          "date": "28-01-2014 08:41:17"
-        },
-        {
-          "author": "~Majster@91.230.*.*",
-          "comment": "Czytajcie RFC. Tylko adres hosta!",
-          "date": "29-01-2014 12:26:41"
-        },
-        {
-          "author": "~anon@89.69.*.*",
-          "comment": "name of host\nip address of the host",
-          "date": "04-02-2015 21:02:21"
-        },
-        {
-          "author": "~anon@89.76.*.*",
-          "comment": "adres ip hosta wedlug eduxa, wiec.. :)",
-          "date": "04-02-2015 22:20:03"
-        },
-        {
-          "author": "~pomoc@89.64.*.*",
-          "comment": "dodam, ze miałam to pytanie na kolokwium w 2018r i zamiast IP hosta były 2 oddzielne odpowiedzi: IPv4 i IPv6, warto wiedzieć, że chodzi o IPv4",
-          "date": "08-02-2019 16:05:47"
-        },
-        {
-          "author": "~anon@91.226.*.*",
-          "comment": "IPv6 to typ AAAAA\n",
-          "date": "30-01-2020 23:03:14"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Wybierz poprawne rozwinięcie skrótu IP",
@@ -4584,48 +4427,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~Tajemniczy@79.185.*.*",
-          "comment": "Czy nie powinno być też \"tą metodą posługuje się TCP?\". W innym pytaniu jest że TCP zawiera kontrole przepływu i kontrole przeciążenia. Tak samo na wykładzie.",
-          "date": "26-01-2014 18:53:56"
-        },
-        {
-          "author": "~jolo@89.78.*.*",
-          "comment": "Tez tak mi się wydaje.",
-          "date": "27-06-2014 19:04:47"
-        },
-        {
-          "author": "~Murek1993@78.11.*.*",
-          "comment": "Nie prawda mialem to na tescie to bledna odp\"tą metodą posługuje się TCP\"",
-          "date": "30-06-2015 19:24:15"
-        },
-        {
-          "author": "~Jaglak @91.230.*.*",
-          "comment": "Pozdro dla ciebie\n",
-          "date": "22-11-2016 12:24:58"
-        },
-        {
-          "author": "~Pedem@89.73.*.*",
-          "comment": "TCP kontroluje przepływ end to end, a nie z wykorzystaniem sieci",
-          "date": "31-01-2017 22:06:24"
-        },
-        {
-          "author": "~PickleRick@79.191.*.*",
-          "comment": "Moim zdaniem jest git.. ",
-          "date": "29-11-2017 03:25:21"
-        },
-        {
-          "author": "~Bubber@178.42.*.*",
-          "comment": "W książce Kurose rozdzial 3.1.2 jest napisane, że \"TCP provides congestion control\" Więc ostatnie powinno być ok.",
-          "date": "05-12-2018 00:08:13"
-        },
-        {
-          "author": "~ja@89.64.*.*",
-          "comment": "aktualnie jest dobrze, TCP jest źle. Z wykładów: \nMetody kontroli przeciążenia:\n• Kontrola przeciążenia typu koniec-koniec — brak bezpośredniej informacji zwrotnej od warstwy sieci, przeciążenie jest obserwowane na podstawie strat i opóźnień w systemach końcowych. Tą metodą posługuje się TCP\n• Kontrola przeciążenia z pomocą sieci — rutery udostępniają informację zwrotną systemom końcowym, pojedynczy bit wskazuje na przeciążenie. Stosowane przez SNA, DECbit, TCP/IP ECN, ATM. Podawana jest dokładna prędkość, z jaką system końcowy powinien wysyłać dane",
-          "date": "08-02-2019 16:10:18"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Adres rozgłoszeniowy dla adresów IP posiada postać:",
@@ -4673,18 +4475,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~AdamW@188.146.*.*",
-          "comment": "Czy przypadkiem odpowiedz \"A i B są w tej samej podsieci IP\" jest błędną odpowiedzią, przecież, żeby wysłąć do niego zapytanie nie muszą być w tej samej podsieci.\n ",
-          "date": "03-02-2020 13:17:12"
-        },
-        {
-          "author": "~aaa@2a02:a312:6042:3100:6d2c:6eec:12c8:3fb",
-          "comment": "no jak nie, skoro musi byc bezposrednie, lokalne polaczenie miedzy nimi, zeby otrzymac odpowiedz?",
-          "date": "03-02-2020 15:16:56"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Przekazywanie żetonu to metoda dostępu w które",
@@ -4732,13 +4523,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~Szuchow@93.105.*.*",
-          "comment": "zadanie jest powtórzone - dodatkowo poprawną odpowiedzią zaznaczone jest tam IP...",
-          "date": "08-02-2019 21:30:42"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Topologa sieci komputerowej określa:",
@@ -4786,23 +4571,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@89.79.*.*",
-          "comment": "a FF to nie jest przypadkiem równe 255???",
-          "date": "01-02-2017 19:06:17"
-        },
-        {
-          "author": "~anon@87.206.*.*",
-          "comment": "zauważ, że masz 4 razy FF, a 5 razy 255",
-          "date": "01-02-2017 19:34:15"
-        },
-        {
-          "author": "~Bubber@178.42.*.*",
-          "comment": "Duplikat 146",
-          "date": "05-02-2019 17:05:45"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<p><span><span>Wybierz poprawne rozwinięcie skrótu POP3.</span></span></p>",
@@ -4922,18 +4691,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@89.77.*.*",
-          "comment": "802.11b jest 2,4-5 GHz ",
-          "date": "02-02-2020 18:36:00"
-        },
-        {
-          "author": "~Simi@95.49.*.*",
-          "comment": "802.11b pracuje na 2.4GHz\nReferencją może być choćby oficjalna strona standaryzacji: https://standards.ieee.org/standard/802_11b-1999.html\nCyt: \"Changes and additions are provided for IEEE Std 802.11b-1999 to support the higher rate Physical Layer for operation in the 2.4 GHz band.\"\nWikipedia mówi o 13 (14 w Japonii) pasmach o szerokości 22MHz, które się pokrywają tak, że górna częstotliwość nigdy nie przekroczy 2,5GHz",
-          "date": "04-02-2020 01:16:00"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Ile ma warst model internetowy?",
@@ -4957,78 +4715,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~AlphonseMacierewicz@31.178.*.*",
-          "comment": "Jeśli chodzi o to:\nhttps://en.wikipedia.org/wiki/Internet_protocol_suite\n\nto wtedy 4 warstwy",
-          "date": "20-11-2016 22:23:32"
-        },
-        {
-          "author": "~anon@194.152.*.*",
-          "comment": "+ 4 warstwy u Internet\n",
-          "date": "22-11-2016 22:32:04"
-        },
-        {
-          "author": "~anon@195.81.*.*",
-          "comment": "http://users.pja.edu.pl/~asmyk/skjzaoczne//SKO1_A01pub.pdf ale tutaj na 9 stronie jest 5 ",
-          "date": "06-12-2016 11:23:26"
-        },
-        {
-          "author": "~anon@89.74.*.*",
-          "comment": "no to co, 4 warstwy w modelu internetowym?",
-          "date": "01-02-2017 21:32:53"
-        },
-        {
-          "author": "~anon@178.42.*.*",
-          "comment": "Model TCP/IP: Aplikacji, Transportowa, Internetu, Dostępu do sieci = 4",
-          "date": "01-02-2017 22:11:32"
-        },
-        {
-          "author": "~sbd@95.49.*.*",
-          "comment": "tu nie chodzi o tcp/ip tylko model internetowy, jak pogrzebiecie w wykladach z eduxa to w ktoryms byl rozpisany i bylo 5 warstw ;)",
-          "date": "01-02-2017 22:44:30"
-        },
-        {
-          "author": "~anon@79.191.*.*",
-          "comment": "aplikacji, transportowa, sieci, łącza danych, fizyczna\n\nW OSI to aplikacji rozpada się na aplikacji, prezentacji i SESJI 0_0",
-          "date": "01-02-2017 23:49:16"
-        },
-        {
-          "author": "~anon@89.70.*.*",
-          "comment": "Nie zdam _-{o.0}-_",
-          "date": "06-02-2019 01:31:48"
-        },
-        {
-          "author": "~lusio @91.230.*.*",
-          "comment": "talerzyk\n\n\n\n",
-          "date": "28-11-2019 11:33:41"
-        },
-        {
-          "author": "~anon@91.230.*.*",
-          "comment": "kartonik",
-          "date": "29-11-2019 14:25:55"
-        },
-        {
-          "author": "~watykanczyk@212.75.*.*",
-          "comment": "widelczyk",
-          "date": "06-12-2019 23:06:02"
-        },
-        {
-          "author": "~anon@89.72.*.*",
-          "comment": "korbka\n",
-          "date": "03-02-2020 19:00:34"
-        },
-        {
-          "author": "~anon@83.31.*.*",
-          "comment": "wiaderko",
-          "date": "04-02-2020 11:43:19"
-        },
-        {
-          "author": "~szefSKJ@91.230.*.*",
-          "comment": "jestem pionierem",
-          "date": "04-02-2020 14:51:55"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Wymien model usług warstwy sieci:",
@@ -5052,13 +4739,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~AlphonseMacierewicz@31.178.*.*",
-          "comment": "Chyba jest ok: http://www2.ic.uff.br/~michael/kr1999/4-network/4_01-service.htm",
-          "date": "19-11-2016 23:37:58"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Kategoria 5. kabla UTD umożliwia stosowanie technologii",
@@ -5082,18 +4763,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~2m@91.230.*.*",
-          "comment": "2 i 5 to koncentryki, F to optyczny, 10baseTX (chyba) nie istnieje - 100baseTX istnieje.\nCzy jest tu poprawna odpowiedź?",
-          "date": "12-02-2017 14:00:11"
-        },
-        {
-          "author": "~anon@79.184.*.*",
-          "comment": "The cable standard provides performance of up to 100 MHz and is suitable for 10BASE-T, 100BASE-TX (Fast Ethernet), and 1000BASE-T (Gigabit Ethernet).\n\nhttps://en.wikipedia.org/wiki/Category_5_cable\n\nWięc tutaj nie ma prawidłowej odpowiedzi. ",
-          "date": "05-02-2018 04:20:11"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Który adres IP jet niepoprawny",
@@ -5117,18 +4787,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~alamakota@46.227.*.*",
-          "comment": "127.0.0.1 to localhost więc jest poprawny. Odpowiedź d nie wygląda na poprawną - szczególnie to 256 w trzecim oktecie",
-          "date": "16-02-2018 21:08:27"
-        },
-        {
-          "author": "~anon@79.185.*.*",
-          "comment": "Ale pytanie jest o NIEpoprawny adres. Czyli odpowiedź d jest poprawna.",
-          "date": "16-02-2018 23:14:15"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "802.11 pracuje z metodą dostępu",
@@ -5196,63 +4855,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~niewiem@159.205.*.*",
-          "comment": "co",
-          "date": "05-02-2018 13:50:54"
-        },
-        {
-          "author": "~anon@217.153.*.*",
-          "comment": "nic\n",
-          "date": "05-02-2018 22:42:56"
-        },
-        {
-          "author": "~ejnospokojnie@83.28.*.*",
-          "comment": "ej no spokojnie",
-          "date": "08-02-2018 03:18:55"
-        },
-        {
-          "author": "~RZAL@79.184.*.*",
-          "comment": "ale jaja nic tu nie ma",
-          "date": "09-02-2018 14:51:36"
-        },
-        {
-          "author": "mykhi",
-          "comment": "jak dla mnie to wydaje sie oczywiste, że a)",
-          "date": "09-02-2018 14:53:33"
-        },
-        {
-          "author": "~tak@79.184.*.*",
-          "comment": "że medium transmisyjne, to się zgadziam, nie wiem tylko o co chodzi z medium ograniczonym",
-          "date": "11-02-2018 22:26:58"
-        },
-        {
-          "author": "~?@89.64.*.*",
-          "comment": "to co? a ?",
-          "date": "12-02-2018 14:39:15"
-        },
-        {
-          "author": "~anon@94.254.*.*",
-          "comment": "Ja bym powiedział że a, ale nie wiem jaka jest różnica między medium ograniczonym, a nieograniczonym, czy to chodzi o maksymalny przesył, czy o to że jest owinięte w izolację, ciężko stwierdzić",
-          "date": "13-02-2018 12:14:52"
-        },
-        {
-          "author": "~A moze kłamie?@79.184.*.*",
-          "comment": "odpowiedź a) jest prawidłowa, miałem to na kolosie ",
-          "date": "04-02-2019 21:57:05"
-        },
-        {
-          "author": "~.@217.124.*.*",
-          "comment": "a), czyli które? medium ograniczone? Bo chyba odpowiedzi są w kolejności losowej",
-          "date": "06-02-2019 18:10:21"
-        },
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "Czasem podają, że nieograniczone (teoretycznie) (https://www.quora.com/What-does-fiber-optic-bandwidth-mean), a czasem że ograniczone (https://physics.stackexchange.com/questions/56240/maximum-theoretical-bandwidth-of-fibre-optics). W wykładach nie znalazłem, więc loteria, najlepiej spytać w trakcie egzaminu/kolosa.",
-          "date": "08-02-2019 23:55:25"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "coax to",
@@ -5367,5 +4970,5 @@
       "comments": []
     }
   ],
-  "updatedAt": 1625347561923
+  "updatedAt": 1625387660233
 }
