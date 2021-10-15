@@ -1,0 +1,65 @@
+{
+  "title": "Systemy Baz Danych (SBD)",
+  "id": "sbd",
+  "data": [
+    {
+      "question": "<strong>Które z wymienionych mechanizmów są metodami zarządzania współbieżnością?</strong>",
+      "id": 3473,
+      "comments": [
+        {
+          "author": "Ola",
+          "comment": "Uzasadnienie\n(z wykładu  https://edu.pjwstk.edu.pl/wyklady/sbd/scb/w12.htm)\nMechanizmy współdzielenia zasobów bazy danych\nSZBD stosuje następujące mechanizmy służące do zapewnienia aksjomatów ACID:\n\nblokady (zamki) (ang. lock) zakładane na obiekty – ograniczające albo wręcz uniemożliwiające działanie innych transakcji na zablokowanym obiekcie,\ndziennik (ang. log) - zapisywanie wszystkich zmian w bazie danych do specjalnego dziennika (logu), aby w razie potrzeby móc:\ndla nie zatwierdzonej transakcji wycofać wprowadzone przez nią zmiany,\nw przypadku awarii odtworzyć spójny stan bazy danych.\nkopia zabezpieczająca bazy danych (backup) - wykonywana w regularnych odstępach czasu, na przykład raz na dzień; w przypadku awarii danych na dysku pozwala przywrócić spójny stan bazy danych.\nwielowersyjność - możliwość odczytywania danych zmienianych równocześnie przez inne transakcje w takiej postaci w jakiej istniały w pewnych chwilach w przeszłości (np. w chwili rozpoczynania się danego zapytania lub danej transakcji).",
+          "date": "29-07-2021 13:06:00"
+        }
+      ],
+      "answers": [
+        {
+          "answer": "blokady",
+          "correct": true
+        },
+        {
+          "answer": "denormalizacja",
+          "correct": false
+        },
+        {
+          "answer": "role",
+          "correct": false
+        },
+        {
+          "answer": "wielowersyjność",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "<strong>Które z wymienionych instrukcji PL/SQL prawidłowo zadeklarują zmienną (zmienne) w PL/SQL ?</strong>",
+      "id": 3475,
+      "comments": [
+        {
+          "author": "Ola",
+          "comment": "Pierwsza i druga odpowiedź niepoprawne, w PL/SQL nie ma typu INT.\nTrzecia odpowiedź niepoprawna, kolumna sal nie ma przydzielonej tabeli.\nPoprawna odpowiedź: DECLARE v_ile emp.sal%TYPE; (załącznik uzasadnienie 1.)\n\nUzasadnienie\nZ prezentacji PL SQL cz.1\nZmienne wierszowe %ROWTYPE\nWzorcem dla deklarowanej zmiennej może być cały wiersz, albo instrukcja\nSELECT definiująca kursor. Na zmienną podstawiana jest wówczas cała zawartość\nrekordu, a odczyt wartości z poszczególnych pól odbywa się poprzez odwołanie:\nnazwa_zmiennej.nazwa_kolumny\nZmiennej wierszowej nie można użyć bezpośrednio po słowie kluczowym VALUES\nw instrukcji INSERT INTO.\nPrzykład :\nDECLARE\nv_test emp%rowtype; v_ename emp.ename%type;\nv_sal emp.sal%type;\nBEGIN\nSELECT * INTO v_test FROM emp WHERE empno = 7788;\nv_ename := v_test.ename;\nv_sal := v_test.sal;\ndbms_output.put_line(v_ename || ‘ zarabia ‘ || v_sal);\nEND;\n",
+          "date": "29-07-2021 13:06:00"
+        }
+      ],
+      "answers": [
+        {
+          "answer": "DECLARE<br>&nbsp; &nbsp; v_ala Varchar2(10);<br>&nbsp; &nbsp; v_ile Int; v_data Date;<br>BEGIN<p></p>\n<p>...</p>",
+          "correct": false
+        },
+        {
+          "answer": "DECLARE v_ile INT:=0;",
+          "correct": false
+        },
+        {
+          "answer": "DECLARE v_ile sal%TYPE;",
+          "correct": false
+        },
+        {
+          "answer": "DECLARE v_ile emp.sal%TYPE;",
+          "correct": true
+        }
+      ]
+    }
+  ],
+  "updatedAt": 1633287873823
+}
