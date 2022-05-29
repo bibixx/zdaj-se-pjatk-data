@@ -1,5 +1,5 @@
 {
-  "title": "Sieci Komputerowe 1 (SKO1/SKJ)",
+  "title": "Sieci Komputerowe 1",
   "id": "sko1-skj",
   "data": [
     {
@@ -4036,7 +4036,7 @@
     {
       "question": "Jakie są główne różnice pomiędzy sieciami datagramowymi a sieciami z wirtualnymi kanałami?",
       "id": 1879,
-      "numberOfComments": 3,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "w sieci datagramowej każdy pakiet może być przesyłany inną ścieżką",
@@ -4060,7 +4060,7 @@
     {
       "question": "W sieci pakietowej, przed wysłaniem pakietu, nadawca musi ustalić dokładną trasę połączeń, przez które pakiet zostanie wysłany.-",
       "id": 1881,
-      "numberOfComments": 6,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "nie",
@@ -4124,7 +4124,7 @@
     {
       "question": "Wybierz protokoły warstwy aplikacji, korzystające przede wszystkim z protokołu TCP",
       "id": 1883,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "FTP",
@@ -4148,7 +4148,7 @@
     {
       "question": "Wybierz protokoły warstwy aplikacji, korzystające przede wszystkim z protokołu TCP",
       "id": 1884,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "FTP",
@@ -4212,7 +4212,7 @@
     {
       "question": "Telefonia internetowa wykorzystuje zazwyczaj protokół",
       "id": 1887,
-      "numberOfComments": 7,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "ipvoice",
@@ -4260,7 +4260,7 @@
     {
       "question": "Które z wymienionych to funkcje TCP",
       "id": 1889,
-      "numberOfComments": 3,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "kontrola przeciążenia",
@@ -4277,6 +4277,10 @@
         {
           "answer": "gwarancja przepustowości",
           "correct": false
+        },
+        {
+          "answer": "sprawiedliwy podział przepustowości łącza",
+          "correct": true
         }
       ],
       "comments": []
@@ -4332,7 +4336,7 @@
     {
       "question": "Rozważamy rekord DNS typu A. Wartością rekordu jest",
       "id": 1892,
-      "numberOfComments": 7,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "nie ma takiego rekordu",
@@ -4412,7 +4416,7 @@
     {
       "question": "Zaznacz ceche kontroli przeciążeń z pomocą sieci",
       "id": 1896,
-      "numberOfComments": 8,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "estymuje przeciążenie na podstawie obciążenia procesora routera",
@@ -4456,7 +4460,7 @@
     {
       "question": "Które warunki muszą być spełnione, aby host A wysłał zapytanie ARP na temat hosta B o danym IP ?",
       "id": 1899,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "A i B są w tej samej podsieci IP",
@@ -4504,7 +4508,7 @@
     {
       "question": "Protokół pozwalający na uzyskanie przez klienta swojego adresu IP to:",
       "id": 1904,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "TCP",
@@ -4552,7 +4556,7 @@
     {
       "question": "Adres rozgłoszeniowy dla adresów IP posiada postać:",
       "id": 1903,
-      "numberOfComments": 3,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "255.255.255.255.255 (dziesiętnie)",
@@ -4672,7 +4676,7 @@
     {
       "question": "<span>802.11b</span><span>&nbsp;pracuje na częstotliwości</span>",
       "id": 2916,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "1 GHz",
@@ -4696,7 +4700,7 @@
     {
       "question": "Ile ma warst model internetowy?",
       "id": 2565,
-      "numberOfComments": 14,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "3",
@@ -4720,7 +4724,7 @@
     {
       "question": "Wymien model usług warstwy sieci:",
       "id": 2566,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "best effort",
@@ -4744,7 +4748,7 @@
     {
       "question": "Kategoria 5. kabla UTD umożliwia stosowanie technologii",
       "id": 2911,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "10Base2",
@@ -4768,7 +4772,7 @@
     {
       "question": "Który adres IP jet niepoprawny",
       "id": 2912,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "127.0.0.1",
@@ -4836,7 +4840,7 @@
     {
       "question": "Światłowód to",
       "id": 2917,
-      "numberOfComments": 11,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "medium ograniczone",
@@ -4968,7 +4972,55 @@
         }
       ],
       "comments": []
+    },
+    {
+      "question": "Jakie usługi oferuje sieć IP dla swoich aplikacji? (niech ktoś mądry wskaże prawidłowe odpowiedzi!!!)",
+      "id": 3624,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "zawodną usługę typu \"best effort\"<p></p>\n<p>&nbsp;</p>",
+          "correct": false
+        },
+        {
+          "answer": "niezawodną usługę TCP",
+          "correct": false
+        },
+        {
+          "answer": "usługę gwarantującą minimalną przepustowość<p></p>\n<p>&nbsp;</p>",
+          "correct": false
+        },
+        {
+          "answer": "usługę gwarantującą górne ograniczenia na opóźnienia",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Jakie są źródła opóźnienia pakietów w warstwie trzeciej?",
+      "id": 3625,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "retransmisje",
+          "correct": false
+        },
+        {
+          "answer": "sprawdzanie sumy kontrolnej",
+          "correct": false
+        },
+        {
+          "answer": "oczekiwanie w kolejce<p></p>\n<p>&nbsp;</p>",
+          "correct": false
+        },
+        {
+          "answer": "opóźnienie transmisji",
+          "correct": false
+        }
+      ],
+      "comments": []
     }
   ],
-  "updatedAt": 1625387660233
+  "updatedAt": 1653854459354
 }

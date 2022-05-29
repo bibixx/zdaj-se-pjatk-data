@@ -1,5 +1,5 @@
 {
-  "title": "Aplikacje Baz Danych (APBD)",
+  "title": "Aplikacje Baz Danych",
   "id": "apbd",
   "data": [
     {
@@ -779,5 +779,5 @@
       "comments": []
     }
   ],
-  "updatedAt": 1625387660233
+  "updatedAt": 1653854459354
 }

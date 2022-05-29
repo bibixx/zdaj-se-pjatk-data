@@ -1,5 +1,5 @@
 {
-  "title": "Systemy Baz Danych zima 2015 (SBD2015)",
+  "title": "Systemy Baz Danych zima 2015",
   "id": "sbd2015",
   "data": [
     {
@@ -5689,7 +5689,7 @@
       ]
     },
     {
-      "question": "(Nie wiem która odp jest prawidłowa).<p></p>\n<p>Problem fantomów dotyczy sytuacji w której:\n          </p>",
+      "question": "Problem fantomów dotyczy sytuacji w której:",
       "id": 3287,
       "numberOfComments": 1,
       "answers": [
@@ -5703,7 +5703,7 @@
         },
         {
           "answer": "W trakcie działania transkacji, inna transkacja wstawiła nowy rekord.",
-          "correct": false
+          "correct": true
         },
         {
           "answer": "W trakcie działania transkacji, inna transkacja usunęła rekord.",
@@ -6079,5 +6079,5 @@
       "comments": []
     }
   ],
-  "updatedAt": 1625387660233
+  "updatedAt": 1653854459354
 }

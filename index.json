@@ -1,124 +1,125 @@
 {
-  "updatedAt": 1625347561923,
+  "updatedAt": 1653854459354,
   "pages": [
     {
-      "title": "Administrowanie bazami danych (ABD)",
+      "title": "Administrowanie bazami danych",
       "id": "abd"
     },
     {
-      "title": "Algorytmy i Struktury Danych - edux (ASD)",
-      "id": "asd"
-    },
-    {
-      "title": "Aplikacje Baz Danych (APBD)",
+      "title": "Aplikacje Baz Danych",
       "id": "apbd"
     },
     {
-      "title": "Automaty i Gramatyki (AUG)",
+      "title": "Algorytmy i Struktury Danych - edux",
+      "id": "asd"
+    },
+    {
+      "title": "Automaty i Gramatyki",
       "id": "aug"
     },
     {
-      "title": "Bezpieczeństwo Systemów Informatycznych (BSI)",
+      "title": "Bezpieczeństwo Systemów Informatycznych",
       "id": "bsi"
     },
     {
-      "title": "Bezpieczeństwo Systemów Informatycznych (ANG) - 2012 (BSI)",
+      "title": "Bezpieczeństwo Systemów Informatycznych (ANG) - 2012",
       "id": "bsi_ang_2012"
     },
     {
-      "title": "Bezpieczeństwo Systemów Informatycznych 2018 (BSI_ANG)",
+      "title": "Bezpieczeństwo Systemów Informatycznych 2018",
       "id": "bsi_ang_2018"
     },
     {
-      "title": "Fizyka k1 (FIZK1)",
-      "id": "fizk1"
-    },
-    {
-      "title": "Fizyka k2 (FIZK2)",
-      "id": "fizk2"
-    },
-    {
-      "title": "Fizyka Kolos1 (angielska) (FIZ)",
+      "title": "Fizyka Kolos1 (angielska)",
       "id": "fiz"
     },
     {
-      "title": "Grafika Komputerowa (GRK)",
+      "title": "Fizyka k1",
+      "id": "fizk1"
+    },
+    {
+      "title": "Fizyka k2",
+      "id": "fizk2"
+    },
+    {
+      "title": "Grafika Komputerowa",
       "id": "grk"
     },
     {
-      "title": "Hurtownie danych i aplikacje OLAP (HUR)",
+      "title": "Hurtownie danych i aplikacje OLAP",
       "id": "hur"
     },
+    {},
     {
-      "title": "Legal foundations of business (PPB)",
-      "id": "ppb_ang"
-    },
-    {
-      "title": "Matematyka Dyskretna - edux - 2012 ZIMA (MAD2012A)",
-      "id": "mad2012a"
-    },
-    {
-      "title": "Matematyka Dyskretna 1 - 2020, Gakko (MAD1)",
-      "id": "matematyka_dyskretna_1_-_2020,_gakko_(mad1)"
-    },
-    {
-      "title": "Matematyka Dyskretna 2020 (MAD)",
+      "title": "Matematyka Dyskretna 2020",
       "id": "mad"
     },
     {
-      "title": "Modelowanie i Analiza Systemów informacyjnych (MAS)",
+      "title": "Matematyka Dyskretna - edux - 2012 ZIMA",
+      "id": "mad2012a"
+    },
+    {
+      "title": "Modelowanie i Analiza Systemów informacyjnych",
       "id": "mas"
     },
     {
-      "title": "Rachunkowość Podmiotow Gospodarczych (RPG)",
-      "id": "rpg"
+      "title": "Matematyka Dyskretna 1 - 2020, Gakko",
+      "id": "matematyka_dyskretna_1_-_2020,_gakko_(mad1)"
     },
     {
-      "title": "RBD egz 2016 zaoczne (RBDz)",
-      "id": "rbdz"
+      "title": "Legal foundations of business",
+      "id": "ppb_ang"
     },
     {
-      "title": "Relacyjne Bazy Danych (RBD)",
+      "title": "Relacyjne Bazy Danych",
       "id": "rbd"
     },
     {
-      "title": "Sieci Komputerowe - ang - egzamin  (SKJ)",
-      "id": "skj"
+      "title": "RBD egz 2016 zaoczne",
+      "id": "rbdz"
     },
     {
-      "title": "Sieci Komputerowe 1 (SKO1/SKJ)",
-      "id": "sko1-skj"
+      "title": "Rachunkowość Podmiotow Gospodarczych",
+      "id": "rpg"
     },
     {
-      "title": "Sieci Komputerowe 2 - edu - 2011 ZIMA (SKO2)",
-      "id": "sko2"
-    },
-    {
-      "title": "Systemy Baz Danych (SBD)",
+      "title": "Systemy Baz Danych",
       "id": "sbd"
     },
     {
-      "title": "Systemy Baz Danych zima 2015 (SBD2015)",
+      "title": "Systemy Baz Danych zima 2015",
       "id": "sbd2015"
     },
     {
-      "title": "Systemy operacyjne (SOP)",
+      "title": "Sieci Komputerowe - ang - egzamin ",
+      "id": "skj"
+    },
+    {
+      "title": "Sieci Komputerowe 1",
+      "id": "sko1-skj"
+    },
+    {
+      "title": "Sieci Komputerowe 2 - edu - 2011 ZIMA",
+      "id": "sko2"
+    },
+    {
+      "title": "Systemy operacyjne",
       "id": "sop"
     },
     {
-      "title": "Technika i Architektura Komputerów (TAK)",
+      "title": "Technika i Architektura Komputerów",
       "id": "tak"
     },
     {
-      "title": "Technika i Architekture Komputerów (TAK) [ENG] (TAKE)",
+      "title": "Technika i Architekture Komputerów (TAK) [ENG]",
       "id": "tak_ang"
     },
     {
-      "title": "Technologie Internetu (TIN)",
+      "title": "Technologie Internetu",
       "id": "tin"
     },
     {
-      "title": "Wstęp do systemów informacyjnych (WSI)",
+      "title": "Wstęp do systemów informacyjnych",
       "id": "wsi"
     },
     {
@@ -126,12 +127,12 @@
       "id": "xddxd_(xd)"
     },
     {
-      "title": "Zarządzanie projektem informatycznym (ZPR) (ZPR)",
-      "id": "zpr"
+      "title": "ZBD - pytania od studentów",
+      "id": "zbd"
     },
     {
-      "title": "ZBD - pytania od studentów (ZBD)",
-      "id": "zbd"
+      "title": "Zarządzanie projektem informatycznym (ZPR)",
+      "id": "zpr"
     }
   ]
 }

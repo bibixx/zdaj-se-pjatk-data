@@ -1,5 +1,5 @@
 {
-  "title": "Administrowanie bazami danych (ABD)",
+  "title": "Administrowanie bazami danych",
   "id": "abd",
   "data": [
     {
@@ -3225,5 +3225,5 @@
       ]
     }
   ],
-  "updatedAt": 1625387660233
+  "updatedAt": 1653854459354
 }

@@ -1,5 +1,5 @@
 {
-  "title": "Technika i Architektura Komputerów (TAK)",
+  "title": "Technika i Architektura Komputerów",
   "id": "tak",
   "data": [
     {
@@ -4770,7 +4770,7 @@
     {
       "question": "Płyta CD RW umożliwia",
       "id": 1927,
-      "numberOfComments": 6,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "skasowanie wszystkich danych i zaczęcie zapisywania od nowa",
@@ -4794,7 +4794,7 @@
     {
       "question": "Kiedy stosujemy szybszy algorytm, wykonując mniej działań zmiennopozycyjnych",
       "id": 1928,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "dostaniemy wynik szybciej, ale stracimy na dokładności wyniku",
@@ -4814,7 +4814,7 @@
     {
       "question": "Liczba ścieżek na dysku jest",
       "id": 1929,
-      "numberOfComments": 13,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "taka sama, jak liczba cylindrow",
@@ -4834,7 +4834,7 @@
     {
       "question": "Uzycie systemu stalopozycyjnego w stosunku do zmiennopozycyjnego",
       "id": 1930,
-      "numberOfComments": 3,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "zwieksza liczbe reprezentowanych wartości",
@@ -4854,7 +4854,7 @@
     {
       "question": "Port równolegly jest",
       "id": 1931,
-      "numberOfComments": 15,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "uzywany do podlączenia klawiatury",
@@ -4878,7 +4878,7 @@
     {
       "question": "Aby określić złożoność pesymistyczną algorytmu musimy odnieść ją do:",
       "id": 1932,
-      "numberOfComments": 4,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "wszystkich mozliwych do wyobrazenia algorytmów",
@@ -4926,7 +4926,7 @@
     {
       "question": "Operacje dominujące w algorytmie to takie operacje",
       "id": 1934,
-      "numberOfComments": 6,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Że dla żadnych danych żadna operacja nie wykonuje się więcej razy że dla żądanych danych żadna operacja nie wykonuje się więcej razy, jeśli rozważymy jedynie rząd wielkości",
@@ -4946,7 +4946,7 @@
     {
       "question": "W systemie zmiennopozycyjnym, w którym ceche reprezentujemy za pomocą jednego bajtu, a mantyse za pomocą 5 bajtów",
       "id": 1935,
-      "numberOfComments": 9,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "kazda z wartości z przedzialu -1000..1000 moze byc reprezentowana, choc niektóre z bledem",
@@ -5050,7 +5050,7 @@
     {
       "question": "Dodawanie stałopozycyjne jest",
       "id": 1940,
-      "numberOfComments": 5,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "rozdzielne wzgledem mnozenia",
@@ -5070,7 +5070,7 @@
     {
       "question": "Płyty CD-RW są wielokrotnie zapisywane:",
       "id": 1941,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Ale tylko po kolei , nie da się wcisnąć danych w środek",
@@ -5090,7 +5090,7 @@
     {
       "question": "Płyty CD-R są jednokrotnie zapisywalne ponieważ",
       "id": 1942,
-      "numberOfComments": 7,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Każda zmiana paramterów powierzchni płyty kompaktowej jest nieodwracalna",
@@ -5110,7 +5110,7 @@
     {
       "question": "John Backus zasłynął jako twórca",
       "id": 1943,
-      "numberOfComments": 3,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Tranzystora",
@@ -5150,7 +5150,7 @@
     {
       "question": "Do problemów NP-zupełnych należy problem",
       "id": 2211,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "spełnialności formuły logicznej",
@@ -5190,7 +5190,7 @@
     {
       "question": "Komputer Eniac zbudowany w roku 1945:",
       "id": 3155,
-      "numberOfComments": 5,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "wymagał potężnego systemu chłodzeniai (rzędu 100 kW)",
@@ -5210,7 +5210,7 @@
     {
       "question": "<p class=\"western\"><span>Aby określić złożoność pesymistyczną algorytmu musimy odnieść ją do:</span></p>",
       "id": 2212,
-      "numberOfComments": 15,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<p class=\"western\"><span>konkretnych danych</span></p>",
@@ -5230,7 +5230,7 @@
     {
       "question": "<p class=\"western\"><span>Relacja \"Problem A jest sprowadzalny do problemu B\" jest relacją</span></p>",
       "id": 2213,
-      "numberOfComments": 4,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<p class=\"western\"><span>przechodnią</span></p>",
@@ -5250,7 +5250,7 @@
     {
       "question": "Kto udostępnia klucz publiczny?",
       "id": 2406,
-      "numberOfComments": 17,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Nadawca",
@@ -5274,7 +5274,7 @@
     {
       "question": "Który obrazek najczęśćiej przewija się w tekście polskiego wydania podręcznika Brooksheara?",
       "id": 2562,
-      "numberOfComments": 9,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "klucz",
@@ -5314,7 +5314,7 @@
     {
       "question": "Kiedy program komputerowy pokonał mistrza świata w Szachy?",
       "id": 3056,
-      "numberOfComments": 7,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Nigdy",
@@ -5334,7 +5334,7 @@
     {
       "question": "Programy komputerowe",
       "id": 2616,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Muszą zawierać krok po kroku kolejno wykonywane instrukcje",
@@ -5354,7 +5354,7 @@
     {
       "question": "(010) jest okresem rozwinięcia liczby",
       "id": 2617,
-      "numberOfComments": 3,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "1/5",
@@ -5374,7 +5374,7 @@
     {
       "question": "Komputer ENIAC powstały w 1945 roku:",
       "id": 2618,
-      "numberOfComments": 5,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "powstał w Princestone",
@@ -5398,7 +5398,7 @@
     {
       "question": "Charles Babbage stowrzył maszynę różnicową aby:",
       "id": 2619,
-      "numberOfComments": 11,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "zaimponować lady Lovelance",
@@ -5438,7 +5438,7 @@
     {
       "question": "W systemie zmiennopozycyjnym, w którym ceche reprezentujemy za pomocą jednego bajtu, a mantyse za pomocą 16 bajtów",
       "id": 2621,
-      "numberOfComments": 4,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Każda z wartości przedziału -8...7 może być reprezentowana, choć niektóre z błędem",
@@ -5458,7 +5458,7 @@
     {
       "question": "Twórcami kalkulatorów mechanicznych byli :",
       "id": 2622,
-      "numberOfComments": 3,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Wilhelm Schickard",
@@ -5478,7 +5478,7 @@
     {
       "question": "Następujące działania w kodzie uzupełnieniowym są poprawnie wykonane dla liczb&nbsp; całkowitych 8-bitowych",
       "id": 2623,
-      "numberOfComments": 5,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "1111 1111 + 0000 0001 = 0000 0000",
@@ -5498,7 +5498,7 @@
     {
       "question": "Aby określić złożoność pesymistyczną algorytmu musimy odnieść ją do:",
       "id": 2624,
-      "numberOfComments": 11,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Wszystkich możliwych danych",
@@ -5518,7 +5518,7 @@
     {
       "question": "(010) jest okresem rozwinięcia liczby",
       "id": 2625,
-      "numberOfComments": 5,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "1/5",
@@ -5538,7 +5538,7 @@
     {
       "question": "(0110) jest okresem podstawowym :",
       "id": 2626,
-      "numberOfComments": 18,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "2/5",
@@ -5558,7 +5558,7 @@
     {
       "question": "Uniknąć przechwycenia numeru karty kredytowej przy transakcjach internetowych możemy za pomocą",
       "id": 2627,
-      "numberOfComments": 9,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Połączeń ppp",
@@ -5598,7 +5598,7 @@
     {
       "question": "<span>Dowolny układ logiczny można zbudować:</span>",
       "id": 3057,
-      "numberOfComments": 7,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span>żywając wyłącznie bramek OR</span>",
@@ -5618,7 +5618,7 @@
     {
       "question": "<span>W warszawskiej książce telefonicznej, wyszukując binarnie:</span>",
       "id": 3058,
-      "numberOfComments": 9,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span>Kluczowe dla potrzebnej liczby przeczytanych nazwisk jest ich uporządkowanie</span>",
@@ -5638,7 +5638,7 @@
     {
       "question": "<span>Liczba wszystkich możliwych funkcji Boolowskich odwzorowujących 3 wartości wejściowe w 2 wartości wyjściowe to:</span>",
       "id": 3059,
-      "numberOfComments": 10,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span>2</span><sup>9&nbsp;</sup><span>= 512</span>",
@@ -5698,7 +5698,7 @@
     {
       "question": "<span>Przejście z architektury 32-bitowej do architektury 64-bitowej:</span>",
       "id": 3062,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<table width=\"100%\">\n<tbody>\n<tr bgcolor=\"#dddddd\">\n<td>Miało na celu głównie przyspieszenie operacji logicznych<br><br></td>\n</tr>\n</tbody>\n</table>",
@@ -5738,7 +5738,7 @@
     {
       "question": "Które z poniższych operacji arytmetycznych spowodują błąd wykonania (przepełnienie lub inny) w procesorze 8-bitowym, zakładając reprezentację liczb całkowitych metodą uzupełnień do 2?",
       "id": 3064,
-      "numberOfComments": 3,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<table width=\"100%\">\n<tbody>\n<tr bgcolor=\"#dddddd\">\n<td>10 - 100<br><br></td>\n</tr>\n</tbody>\n</table>",
@@ -5778,7 +5778,7 @@
     {
       "question": "Kiedy maszyna wygrała z człowiekiem w szachy?",
       "id": 3068,
-      "numberOfComments": 3,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "W ostatnich 10 latach",
@@ -5802,7 +5802,7 @@
     {
       "question": "Arytmometr kontaktuje się z pamięcią procesora przez:",
       "id": 3069,
-      "numberOfComments": 5,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "bufor",
@@ -5826,7 +5826,7 @@
     {
       "question": "Szybkość poboru danych z twardego dysku może zależeć od",
       "id": 3158,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span>miejsca wpięcia dysku w płytę główną</span>",
@@ -5890,7 +5890,7 @@
     {
       "question": "Relacja \"Problem A jest sprowadzany do problemu B\" jest relacją",
       "id": 3161,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "częściowego porządku",
@@ -5910,7 +5910,7 @@
     {
       "question": "Algorytm potęgowania binarnego",
       "id": 3162,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "ma złożoność proporcjonalną do długości podstawy",
@@ -5950,7 +5950,7 @@
     {
       "question": "Aby użyć klucza publicznego przy szyfrowaniu danych, musi być on ogłoszony",
       "id": 3164,
-      "numberOfComments": 4,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "tylko przez odbiorcę",
@@ -5970,7 +5970,7 @@
     {
       "question": "Przerwania",
       "id": 3165,
-      "numberOfComments": 8,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "są przydatne przy komunikacji procesora z rejestrami",
@@ -5990,7 +5990,7 @@
     {
       "question": "w kodowaniu liczb rzeczywistych w kodzie uzupelnieniowym do 2",
       "id": 3166,
-      "numberOfComments": 4,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "instrukcja y=x+y-y moze spowodowac blad",
@@ -6030,7 +6030,7 @@
     {
       "question": "<p>W arytmetyce zmiennoprzecinkowej przy każdym ustalonym kodowaniu:</p>",
       "id": 3168,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Wszystkie kodowane liczby są wymierne",
@@ -6050,7 +6050,7 @@
     {
       "question": "Następujące działania w kodzie uzupełnieniowym są poprawnie wykonane dla liczb całkowitych 8-bitowych",
       "id": 2905,
-      "numberOfComments": 15,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "01111111 + 01111111 = 11111110",
@@ -6070,7 +6070,7 @@
     {
       "question": "Dodawanie stałopozycyjne jest",
       "id": 2906,
-      "numberOfComments": 13,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "przemienne",
@@ -6090,7 +6090,7 @@
     {
       "question": "Gdy dodajemy dwie liczby w systemie stałopozycyjnym, może się zdarzyć, że :",
       "id": 3243,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Wynik będzie równy jednej z nich, mimo że żadnaz nich nie jest 0",
@@ -6154,7 +6154,7 @@
     {
       "question": "W kodzie znak-moduł odwrotny",
       "id": 3246,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "każda liczba ma jednoznaczne przedstawienie",
@@ -6194,7 +6194,7 @@
     {
       "question": "Największe zniszczenia w systemach komputerowych powodują",
       "id": 3248,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Błędy w programach",
@@ -6214,7 +6214,7 @@
     {
       "question": "Koniami trojańskimi są:",
       "id": 3249,
-      "numberOfComments": 9,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Chernobyl",
@@ -6234,7 +6234,7 @@
     {
       "question": "<div class=\"module__title js-about-item-title\"><span class=\"module__title__link\">Jak program AlphaZero pokonał mistrza szachowego G.Kasparova?<br></span></div>",
       "id": 3284,
-      "numberOfComments": 3,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Za pomocą korzystania z ogromnej bazy danych możliwych ruchów.",
@@ -6274,7 +6274,7 @@
     {
       "question": "<p class=\"MsoNormal\">W systemie zmiennopozycyjnym, w którym cechę reprezentujemy za pomocą</p>\n<p><span>jednego bajtu, a mantysę za pomocą 20 bajtów</span></p>",
       "id": 3303,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<p class=\"MsoNormal\"><span>wszystkie liczby całkowite z przedziału reprezentowalności są</span></p>\n<p class=\"MsoNormal\"><span>reprezentowane bez błędu</span></p>",
@@ -6454,7 +6454,7 @@
     {
       "question": "<p class=\"MsoNormal\">Przerwania lub żądania przerwania</p>\n<p>&nbsp;</p>",
       "id": 3312,
-      "numberOfComments": 3,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span>mają priorytety</span>",
@@ -6494,7 +6494,7 @@
     {
       "question": "<p class=\"MsoNormal\"><span>Algorytm Euklides 3 z wykorzystaniem testu parzystości ma złożoność</span></p>",
       "id": 3314,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<p class=\"MsoNormal\">sześcienną ze względu na rozmiar argumentów</p>",
@@ -6574,7 +6574,7 @@
     {
       "question": "<p class=\"MsoNormal\"><span>Czy poprawne są poniższe działania w systemie zmiennopozycyjnym z wykładu?</span></p>",
       "id": 3318,
-      "numberOfComments": 4,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<p class=\"MsoNormal\">010 0111 + 011 0100 = 011 0111</p>",
@@ -6614,7 +6614,7 @@
     {
       "question": "<p class=\"MsoNormal\"><span>kwadratury, czyli algorytmy przyblizania calek oznaczonych metodami</span></p>\n<p class=\"MsoNormal\"><span>przyblizonymi charakteryzuja sie tym, ze</span></p>",
       "id": 3320,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<p class=\"MsoNormal\">obliczaja przyblizona postac funkcji pierwotnej i odejmuja jej wartosc w</p>\n<p><span>poczatku przedzialu od wartosci z konca przedzialu</span></p>",
@@ -6634,7 +6634,7 @@
     {
       "question": "<p class=\"MsoNormal\"><span>Następujące działania w kodzie uzupełnieniowym są poprawnie wykonane dla</span></p>\n<p class=\"MsoNormal\"><span>liczb całkowitych 8-bitowych</span></p>",
       "id": 3321,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span>01111111 + 01111111 = 11111110</span>",
@@ -6674,7 +6674,7 @@
     {
       "question": "<span>1 MB, to jest dokładnie</span>",
       "id": 3201,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "10^6&nbsp;<span>bajtów</span>",
@@ -6694,7 +6694,7 @@
     {
       "question": "Sieci neuronowe potrafią",
       "id": 2907,
-      "numberOfComments": 8,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "nauczyć się rozpoznawania wzorców",
@@ -6714,7 +6714,7 @@
     {
       "question": "Dowód Turinga nierozstrzygalności problemu stopu",
       "id": 2908,
-      "numberOfComments": 4,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "wymaga możliwości skopiowania fragmentu dancyh pamięci",
@@ -6734,7 +6734,7 @@
     {
       "question": "Przerzutnik służy do",
       "id": 2909,
-      "numberOfComments": 5,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "konwersji danych",
@@ -6754,7 +6754,7 @@
     {
       "question": "<span>Maszyna Turinga o poniższej specyfikacji:</span><p></p>\n<div><span>(START,#)-&gt;(STOP,#,right)<br>(START,0)-&gt;(A,0,right)<br>(START,1)-&gt;(B,1,right)<br><br>(A,#)-&gt;(A,0,right)<br>(A,0)-&gt;(A,0,right)<br>(A,1)-&gt;(A,0,right)<br><br>(B,#)-&gt;(B,1,right)<br>(B,0)-&gt;(B,1,right)<br>(B,1)-&gt;(B,1,right)</span><br><br></div>\n<p><span>realizuje zadanie:</span>\n          </p>",
       "id": 3030,
-      "numberOfComments": 3,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span>którego działanie może nie kończyć się.</span>",
@@ -6774,7 +6774,7 @@
     {
       "question": "W maszynach grających w (?) arcymistrzowskim poziomie (?)",
       "id": 3051,
-      "numberOfComments": 7,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "bibliotek otwarć szachowych i końcówek",
@@ -6814,7 +6814,7 @@
     {
       "question": "W jakiej dziedzinie komputer wygral z mistrzami swiata:",
       "id": 3054,
-      "numberOfComments": 11,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "W warcaby&nbsp;",
@@ -6834,7 +6834,7 @@
     {
       "question": "Fragmentacja nie dotyczy:&nbsp;",
       "id": 3172,
-      "numberOfComments": 4,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "dysku SSD",
@@ -6914,7 +6914,7 @@
     {
       "question": "Uniwersalna maszyna Turinga:",
       "id": 3456,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "potrafi wykonać swój własny kod",
@@ -6954,7 +6954,7 @@
     {
       "question": "Aby zaimplementować mechanizm rekursji używa się:",
       "id": 3458,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "stosu systemowego",
@@ -6994,7 +6994,7 @@
     {
       "question": "Maszynę turinga programujemy&nbsp;",
       "id": 3460,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "za pomocą kart perforowanych Holleitha",
@@ -7094,7 +7094,7 @@
     {
       "question": "Stosująć strategię alfa-beta",
       "id": 3465,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "rozważamy arianty złożone z następujących po sobie ruchów",
@@ -7748,5 +7748,5 @@
       "comments": []
     }
   ],
-  "updatedAt": 1625387660233
+  "updatedAt": 1653854459354
 }

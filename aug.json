@@ -1,5 +1,5 @@
 {
-  "title": "Automaty i Gramatyki (AUG)",
+  "title": "Automaty i Gramatyki",
   "id": "aug",
   "data": [
     {
@@ -105,5 +105,5 @@
       "comments": []
     }
   ],
-  "updatedAt": 1625387660233
+  "updatedAt": 1653854459354
 }

@@ -1,5 +1,5 @@
 {
-  "title": "Relacyjne Bazy Danych (RBD)",
+  "title": "Relacyjne Bazy Danych",
   "id": "rbd",
   "data": [
     {
@@ -648,7 +648,7 @@
     {
       "question": "Relacja R ma atrybut a. Jaka liczba może być wynikiem wykonania instrukcji SELECT Count(*) FROM R WHERE a<a <img=\"\" src=\"question.png\" height=\"16\" width=\"16\" onclick=\"window.open('?comment=337','komentarze','width=560,height=360')\">      </a>",
       "id": null,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "zawsze 0",
@@ -6072,7 +6072,55 @@
         }
       ],
       "comments": []
+    },
+    {
+      "question": "Dany jest schemat relacyjny R={Miasto, Ulica, Kod, Poczta}, F = {Miasto,Ulica-&gt;Kod; Kod-&gt;Miasto; Kod-&gt;Poczta}. Schemat ten:",
+      "id": 3626,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Jest w I postaci normalnej",
+          "correct": false
+        },
+        {
+          "answer": "Jest w II postaci normalnej",
+          "correct": false
+        },
+        {
+          "answer": "Jest w III postaci normalnej",
+          "correct": true
+        },
+        {
+          "answer": "<span>jest w postaci normalnej Boyce'a-Codda</span>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span><span>Dany jest schemat relacyjny R={Ulica, Kod, Sklep},&nbsp;</span></span><span>F = {Ulica-&gt;Kod; Sklep-&gt;Ulica}. Schemat ten:</span>",
+      "id": 3627,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "jest w I postaci normalnej<br><br>",
+          "correct": true
+        },
+        {
+          "answer": "jest w II postaci normalnej",
+          "correct": false
+        },
+        {
+          "answer": "jest w III postaci normalnej",
+          "correct": false
+        },
+        {
+          "answer": "jest w postaci normalnej Boyce'a-Codda<br><br>",
+          "correct": false
+        }
+      ],
+      "comments": []
     }
   ],
-  "updatedAt": 1625387660233
+  "updatedAt": 1653854459354
 }

@@ -1,5 +1,5 @@
 {
-  "title": "Modelowanie i Analiza Systemów informacyjnych (MAS)",
+  "title": "Modelowanie i Analiza Systemów informacyjnych",
   "id": "mas",
   "data": [
     {
@@ -744,6 +744,22 @@
       "comments": []
     },
     {
+      "question": "Trwałość ekstensji można symulować m. in przez zapis/odczyt do/z pliku",
+      "id": 3623,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "TAK",
+          "correct": false
+        },
+        {
+          "answer": "NIE",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
       "question": "<span>Adnotacje </span><span>wyko</span><span>r</span><span>zys</span><span>tywan</span><span>e</span><span> w technologii Hibernate </span><span>mogą dotyczyć </span><span>m. in. </span><span>asocjacji </span><span>mapowanej klasy.</span>",
       "id": 3347,
       "numberOfComments": 0,
@@ -950,7 +966,103 @@
         }
       ],
       "comments": []
+    },
+    {
+      "question": "Implementacja, w modelu relacyjnym, atrybutu opcjonalnego polega na dołożeniu dodatkowej kolumny do tabeli.",
+      "id": 3616,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "TAK",
+          "correct": true
+        },
+        {
+          "answer": "NIE",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Implementacja interfejsu przez klasę oznacza umieszczenie kodu tych metod w klasie.",
+      "id": 3617,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "TAK",
+          "correct": true
+        },
+        {
+          "answer": "NIE",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Ograniczenie {bag} dla asocjacji oznacza, że może istnieć wiele powiązań pomiędzy tymi samymi obiektami.",
+      "id": 3618,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "TAK",
+          "correct": true
+        },
+        {
+          "answer": "NIE",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Użytkownicy biznesowi bardzo lubią różne nietypowe rozwiązania dotyczące GUI.",
+      "id": 3619,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "TAK",
+          "correct": true
+        },
+        {
+          "answer": "NIE",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "W przypadku liczności \"1 - *\", użycie klasy asocjacji jako zródła dodatkowych informacji jest opcjonalne.",
+      "id": 3620,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "TAK",
+          "correct": false
+        },
+        {
+          "answer": "NIE",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Technologia Hibernate umożliwia mapowanie asocjacji \"* - *\".",
+      "id": 3621,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "TAK",
+          "correct": true
+        },
+        {
+          "answer": "NIE",
+          "correct": false
+        }
+      ],
+      "comments": []
     }
   ],
-  "updatedAt": 1625387660233
+  "updatedAt": 1653854459354
 }

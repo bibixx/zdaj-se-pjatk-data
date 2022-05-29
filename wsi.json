@@ -1,5 +1,5 @@
 {
-  "title": "Wstęp do systemów informacyjnych (WSI)",
+  "title": "Wstęp do systemów informacyjnych",
   "id": "wsi",
   "data": [
     {
@@ -3506,7 +3506,7 @@
     {
       "question": "Które z poniższych modeli tworzenia oprogramowania są odpowiednie przy tworzeniu oprogramowania..",
       "id": 3266,
-      "numberOfComments": 3,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "model wodospadowy",
@@ -3694,7 +3694,7 @@
     {
       "question": "Które z poniższych stwierdzeń są prawdziwe w modelu relacyjnym danych (nie znam poprawnej odpowiedzi)",
       "id": 3298,
-      "numberOfComments": 5,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "klucz główny to jednoznaczny identyfikator wiersza w tabeli",
@@ -3742,7 +3742,7 @@
     {
       "question": "Wskaż cechy, charakteryzujące metodyki klasyczne (odpowiedzi do ustalenia)",
       "id": 3301,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Nacisk na ciągły kontakt z klientem",
@@ -3766,7 +3766,7 @@
     {
       "question": "&nbsp;<p></p>\n<p class=\"MsoListParagraph\"><strong><span><span><span>&nbsp; &nbsp;&nbsp;</span></span></span></strong><strong><span>Jakie są zalety tworzenia klientów WWW w architekturze klient-serwer?</span></strong>\n          </p>",
       "id": 2739,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "&nbsp;<p></p>\n<p class=\"MsoListParagraph\"><span><span><span>&nbsp; &nbsp;&nbsp;</span></span></span><span>łatwiejsza konserwacja systemu</span></p>",
@@ -3810,7 +3810,7 @@
     {
       "question": "<span>Które z poniższych stwierdzeń są prawdziwe w modelu relacyjnym danych:</span>",
       "id": 3204,
-      "numberOfComments": 7,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span>Perspektywa to logiczna struktura przechowywania danych</span>",
@@ -3834,7 +3834,7 @@
     {
       "question": "Z poniższej listy wybierz własności, jakie charakteryzują Aktora przypadku Użycia",
       "id": 3173,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "może być specjalnym przypadkiem innego aktora",
@@ -3882,7 +3882,7 @@
     {
       "question": "Do ekosystemu rozwiązań bezpieczeństwa urządzeń mobilnych należą:",
       "id": 3387,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "MAM<br>Mobile Application Management",
@@ -3950,7 +3950,7 @@
     {
       "question": "Które z poniższych elementów powinno zawierać minimalne user story w Scrum",
       "id": 3444,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<p>wskazanie uzytkownika,opis funkcjonalnosci</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
@@ -3972,5 +3972,5 @@
       "comments": []
     }
   ],
-  "updatedAt": 1625387660233
+  "updatedAt": 1653854459354
 }

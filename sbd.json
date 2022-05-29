@@ -1,5 +1,5 @@
 {
-  "title": "Systemy Baz Danych (SBD)",
+  "title": "Systemy Baz Danych",
   "id": "sbd",
   "data": [
     {
@@ -594,7 +594,7 @@
     {
       "question": "Relacja R ma atrybut a. Jaka liczba może być wynikiem wykonania instrukcji SELECT Count(*) FROM R WHERE a<a <img=\"\" src=\"question.png\" height=\"16\" width=\"16\" onclick=\"window.open('?comment=660','komentarze','width=560,height=360')\">      </a>",
       "id": null,
-      "numberOfComments": 4,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "zawsze 0",
@@ -5136,7 +5136,7 @@
         },
         {
           "answer": "procedurę PL/SQL.",
-          "correct": true
+          "correct": false
         }
       ],
       "comments": [
@@ -8466,7 +8466,7 @@
       "answers": [
         {
           "answer": "<span>SELECT region.region_name, employee.salary FROM region, employee WHERE region.id = employee.region_no;</span>",
-          "correct": false
+          "correct": true
         },
         {
           "answer": "<span>SELECT region.region_name, employee.salary FROM region, employee WHERE region.id = employee.region_no;</span>",
@@ -8863,6 +8863,10 @@
         },
         {
           "answer": "Zawiera zmiany w bazie danych wykonane od ostatniej kopii różnicowej",
+          "correct": false
+        },
+        {
+          "answer": "Pozwala na przywrócenie stanu bazy danych do określonego punktu w czasie",
           "correct": false
         }
       ],
@@ -9595,7 +9599,7 @@
         },
         {
           "answer": "SELECT ename INTO v_ename FROM dummy;",
-          "correct": true
+          "correct": false
         }
       ],
       "comments": [
@@ -11061,7 +11065,7 @@
     {
       "question": "<p><span>&nbsp; &nbsp;Która z poniższych instrukcji jest poprawna w T-SQL , jeżeli zostały prawidłowo zadeklarowane zmienne @empno i @deptno ?</span></p>",
       "id": 2463,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"EN-US\">SELECT @empno = 100;</span>",
@@ -11109,7 +11113,7 @@
     {
       "question": "Które z poniższych stwierdzeń jest prawidłowe w PL/SQL ?",
       "id": 2467,
-      "numberOfComments": 7,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Prawidłową konstrukcję pętli jest WHILE warunek BEGIN ciąg instrukcji END",
@@ -11157,7 +11161,7 @@
     {
       "question": "<p align=\"LEFT\"><span><span><span>Co należy do zalet synonimów?</span></span></span></p>",
       "id": 2551,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Są środkiem do realizacji niezależności fizycznej danych.",
@@ -11245,7 +11249,7 @@
     {
       "question": "Jakie są role zdefiniowane przez system:",
       "id": 2555,
-      "numberOfComments": 4,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "CONNECT",
@@ -11265,7 +11269,7 @@
     {
       "question": "<p><span><strong>Wśród uprawnień przyznawanych w instrukcji GRANT występują:</strong></span></p>",
       "id": 2556,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<p><span><span><span>ALTER</span></span></span></p>",
@@ -11305,7 +11309,7 @@
     {
       "question": "<p><span><strong>Tabele PAŃSTWO i RZEKA ( i relacja przepływa przez) połączone są relacją&nbsp;</strong></span></p>",
       "id": 2558,
-      "numberOfComments": 4,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<p><span>jeden - wiele</span></p>",
@@ -11329,7 +11333,7 @@
     {
       "question": "Klauzula \"DECLARE Dane_Osoby Osoba%ROWTYPE\" jest w PL/SQL:",
       "id": 2559,
-      "numberOfComments": 4,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "deklatracją nowego rekordu",
@@ -11469,7 +11473,7 @@
     {
       "question": "Tabela (relacja) {Klucze - dużymi literami}. Dany schemat relacyjny Pracownik (DOWOD_OSOBISTY, Nazwisko, Adres_Prac, Nr_Działu, Nazwa_Działu), z zależnościami funkcyjnymi F = { Dowod_Osobisty -&gt; Nazwisko, Dowod_Osobisty -&gt; Adres_Prac, Dowod_Osobisty -&gt; Nr_Działu, Nr_Działu -&gt; Nazwa_Działu} jest w:",
       "id": 2610,
-      "numberOfComments": 3,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "drugiej postaci normalnej",
@@ -11493,7 +11497,7 @@
     {
       "question": "Zdjęcie blokady założonej na tabeli następuje:",
       "id": 2611,
-      "numberOfComments": 5,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "po wykonaniu ROLLBACK",
@@ -11517,7 +11521,7 @@
     {
       "question": "Jak dostać się z zewnątrz do procedury Zatrudnij z parametrami IdPracownika, Nazwisko, Pensja, NrDziału będącej w pakiecie ObsługaPracownika:",
       "id": 2612,
-      "numberOfComments": 10,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "nie da się do niej dostać z zewnątrz",
@@ -11541,7 +11545,7 @@
     {
       "question": "Które własności wchodzą w skład aksjomatów wykonywania transakcji:",
       "id": 2613,
-      "numberOfComments": 6,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "skalowalność",
@@ -11565,7 +11569,7 @@
     {
       "question": "Z ilu tabel powinna się składać prosta znormalizowana baza zawierająca informacje o częściach, urządzeniach i przynależności \"wiele do wielu\" między nimi:",
       "id": 2614,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "2",
@@ -11589,7 +11593,7 @@
     {
       "question": "Która z poniższych instrukcij prawidłowo utworzy tabelę tymczasową w T-SQL",
       "id": 2938,
-      "numberOfComments": 8,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "CREATE TABLE #Ala (Ala Int);",
@@ -11637,7 +11641,7 @@
     {
       "question": "Która z poniższych instrukcij jest składniowo poprawna w T-SQL",
       "id": 2940,
-      "numberOfComments": 3,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "IF 1 = 1 PRINT 'OK.';",
@@ -11709,7 +11713,7 @@
     {
       "question": "Wskazać poprawne zapytanie SQL (dialekt ORACLE) znajdujące departamenty zatrudniające powyżej trzech pracowników",
       "id": 2943,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "SELECT deptno, COUNT(*) FROM emp WHERE COUNT (*) &gt; 3 GROUP BY deptno;",
@@ -11757,7 +11761,7 @@
     {
       "question": "Dane są trzy tabele Klienci(Id_Klienta, Imie, Nazwisko), Produkty(Id_Produktu, Nazwa, Cena) oraz Zakupy(Id_Klienta, Id_Produktu, Ilosc). Wskaż poprawne zapytania SQL znajdujące imiona i nazwiska klientów, którzy zakupili co najmniej jeden produkt.",
       "id": 2945,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "SELECT DISTINCT Imie, Nazwisko FROM Klienci, Zakupy;",
@@ -11853,7 +11857,7 @@
     {
       "question": "Więzy spójności mogą być definiowane w nastepujących instrukcjach:",
       "id": 2949,
-      "numberOfComments": 4,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "ALTER USER",
@@ -11877,7 +11881,7 @@
     {
       "question": "Polecenia ROLLBACK i COMMIT dotyczą poleceń SQL",
       "id": 2950,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "wszystkich poleceń SQL zmieniających zawartość tabel",
@@ -11949,7 +11953,7 @@
     {
       "question": "W wyzwalaczu T-SQL można aktualizować dane:",
       "id": 2953,
-      "numberOfComments": 7,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Z poziomu wyzwalacza nie wolno zmieniać danych w żadnych tabelach",
@@ -12021,7 +12025,7 @@
     {
       "question": "Instrukacja MERGE",
       "id": 2956,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Jest zaimplementowana tylko w PL/SQL",
@@ -12045,7 +12049,7 @@
     {
       "question": "Wyzwalcz INSTEAD OF",
       "id": 2957,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "działa identycznie jak wyzwalacz tybu BEFORE",
@@ -12069,7 +12073,7 @@
     {
       "question": "Wyzwalcz INSTEAD OF",
       "id": 2958,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "działa identycznie jak wyzwalacz tybu BEFORE",
@@ -12197,7 +12201,7 @@
         },
         {
           "answer": "DECLARE v_ala Varchar2(10), v_ile Int, v_data Date;<p></p>\n<p>BEGIN</p>\n<p>...</p>",
-          "correct": true
+          "correct": false
         },
         {
           "answer": "DECLARE<p></p>\n<p>v_ala; v_ola; ,</p>\n<p>v_ula Varchar2(10);</p>\n<p>BEGIN</p>\n<p>...</p>",
@@ -12237,7 +12241,7 @@
     {
       "question": "Które z poniższych ciągów znaków mogą być prawidłowymi nazwami zmiennych w PL/SQL?",
       "id": 3470,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "\"alamakota\"",
@@ -12379,5 +12383,5 @@
       "comments": []
     }
   ],
-  "updatedAt": 1625387660233
+  "updatedAt": 1653854459354
 }

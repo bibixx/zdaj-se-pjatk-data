@@ -1,5 +1,5 @@
 {
-  "title": "Bezpieczeństwo Systemów Informatycznych (BSI)",
+  "title": "Bezpieczeństwo Systemów Informatycznych",
   "id": "bsi",
   "data": [
     {
@@ -2662,7 +2662,7 @@
     {
       "question": "Z komputera A (IP-192.168.1.1, maska podsieci=255.255.0.0) wydano polecenie ping 192.168.2.2. Z komputera B (IP-192.168.2.2, maska podsieci=255.255.2.2), umieszczonego w tym samym segmencie fizycznym wydano polcenie ping 192.168.1.1",
       "id": 286,
-      "numberOfComments": 4,
+      "numberOfComments": 5,
       "answers": [
         {
           "answer": "Komputer B odpowiedz pozytywna, A - negatywna",
@@ -3308,7 +3308,7 @@
     {
       "question": "Czym jest Kryptoanaliza?",
       "id": 303,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "nauka o zabezpieczaniu informacji i analizowaniu szyfrów",
@@ -3388,7 +3388,7 @@
     {
       "question": "W ktorej warstwie znajduje sie protokol SSL",
       "id": 306,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "warstwie 1",
@@ -3436,7 +3436,7 @@
     {
       "question": "Co zapewnie bezpieczenstwo na poziomie C2?",
       "id": 308,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Kontrole dostepu",
@@ -3460,7 +3460,7 @@
     {
       "question": "Co zapewnie bezpieczenstwo na poziomie B3?",
       "id": 309,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Kontrole dostepu",
@@ -3488,7 +3488,7 @@
     {
       "question": "Co zapewnie bezpieczenstwo na poziomie A1?",
       "id": 310,
-      "numberOfComments": 7,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Kontrole dostepu",
@@ -3640,7 +3640,7 @@
     {
       "question": "Wytyczne dotyczace Systemow Zarzadzania Bezpieczenstwem Informacji opisuje norma:",
       "id": 316,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "ISO/IEC 15408",
@@ -3700,7 +3700,7 @@
     {
       "question": "Przy dowolnie długim czasie łamanie hasła metodą słownikową:",
       "id": 982,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Daje 25% szans na złamanie hasła.",
@@ -3770,5 +3770,5 @@
       "comments": []
     }
   ],
-  "updatedAt": 1625387660233
+  "updatedAt": 1653854459354
 }

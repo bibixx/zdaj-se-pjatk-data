@@ -1,5 +1,5 @@
 {
-  "title": "Matematyka Dyskretna - edux - 2012 ZIMA (MAD2012A)",
+  "title": "Matematyka Dyskretna - edux - 2012 ZIMA",
   "id": "mad2012a",
   "data": [
     {
@@ -6592,7 +6592,7 @@
     {
       "question": "Nieprawda że ani Michał ani Paweł nie zdali egzaminu. Wynika z tego że:",
       "id": 3217,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Jeśli Michał zdał egzamin to Paweł zdał egzamin",
@@ -6612,7 +6612,7 @@
     {
       "question": "W zbiorze liczb całkowitych (m,n) zachodzi zależność (m-n)(m+n) | 7. Ile jest klas abstrakcji?",
       "id": 3218,
-      "numberOfComments": 5,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "0",
@@ -6632,7 +6632,7 @@
     {
       "question": "Dane są dwie tabele Osoby(Imie, Nazwisko, Zarobki, Id_działu) oraz Działy(Id_działu, Nazwa). Które z następujących instrukcji są poprawnymi instrukcjami SQL w Oracle",
       "id": 3211,
-      "numberOfComments": 3,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "DELETE FROM Osoby WHERE Osoby.Nazwisko='KOWALSKI' AND Działy.Id_działu=22;",
@@ -6656,7 +6656,7 @@
     {
       "question": "<p><span>Niech <strong><img src=\"blob:https://pja.mykhi.org/be7ec8b5-8dc4-474a-a7d3-2d9c7d6c8626\" alt=\"pastedGraphic.png\"></strong>. Relację <strong><img src=\"blob:https://pja.mykhi.org/71cbe83c-e9f2-4fc0-9ccc-e5087b078521\" alt=\"pastedGraphic_1.png\"></strong> określamy wzorem: <strong><img src=\"blob:https://pja.mykhi.org/f8b2b16d-6ea3-4c87-8dfc-946c95c6ec2c\" alt=\"pastedGraphic_2.png\"></strong> wtedy i tylko wtedy gdy <strong><img src=\"blob:https://pja.mykhi.org/416a8ec2-fd33-4644-8d85-f4dc3c4effdb\" alt=\"pastedGraphic_3.png\"></strong>. Czy następujące stwierdzenia są prawdziwe?</span></p>",
       "id": 3212,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<p><span>Relacja r jest liniowym porządkiem</span></p>",
@@ -6680,7 +6680,7 @@
     {
       "question": "Rzucono 2 kościami symetrycznymi, zdarzenie <strong>A to suma oczek na obu kostkach</strong>, zdarzenie <strong>B to iloczyn oczek na obu kostkach</strong>.",
       "id": 3213,
-      "numberOfComments": 4,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "P(A/B) &gt; 1",
@@ -6700,7 +6700,7 @@
     {
       "question": "Mamy wierzchołki {1,2,3,4,5} a krawędzi 8. Ile może powstać grafów?",
       "id": 3214,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "120",
@@ -6720,7 +6720,7 @@
     {
       "question": "Ile może powstać grafów o elementach {1, 2, 3, 4, 5}, które mają dokładnie 8 krawędzi?",
       "id": 3215,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "45",
@@ -6740,7 +6740,7 @@
     {
       "question": "Nieprawdą jest że Jan i Ola zdali egzamin. Zaznacz poprawne zdania.",
       "id": 3216,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Jeśli Jan nie zdał to Ola zdała.",
@@ -6760,7 +6760,7 @@
     {
       "question": "W zbiorze liczb zespolonych C okeślono relację równoważności $R$: dla dowolnych x<sub>1</sub>,x<sub>2</sub>&nbsp;€&nbsp;<span><em>(należy)</em></span> C z<sub>1</sub> R z<sub>2</sub> wtedy i tylko wtedy gdy |z<sub>1</sub>-z<sub>2</sub>|≥ 0",
       "id": 3219,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "tyle, ile wynosi moc zbioru liczb naturalnych",
@@ -6784,7 +6784,7 @@
     {
       "question": "Jeżeli a,b są ze sobą w relacji Brat .Brat<sup>-1</sup>, to wynika z tego, że",
       "id": 3220,
-      "numberOfComments": 5,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "b nie jest płci męskiej",
@@ -6808,7 +6808,7 @@
     {
       "question": "Zbiór częściowo uporządkowany może mieć",
       "id": 3221,
-      "numberOfComments": 4,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Trzy elementy maksymalne, w tym jeden największy.",
@@ -6832,7 +6832,7 @@
     {
       "question": "Jeśli a,b są ze sobą w relacji BRAT .BRAT, to wynika z tego że",
       "id": 3222,
-      "numberOfComments": 3,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "a = b",
@@ -6856,7 +6856,7 @@
     {
       "question": "Rzucono 5 razy symetryczną monetą",
       "id": 3223,
-      "numberOfComments": 5,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Prawdopodobieństwo tego, że orzeł wypada dokładnie raz, jest mniejsze niż 1/6",
@@ -6880,7 +6880,7 @@
     {
       "question": "Ile elementów ma zbiór {ø,{X},P(X)} jeśli X jest zbiorem n elementowym",
       "id": 3224,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "3",
@@ -6928,7 +6928,7 @@
     {
       "question": "<span>Czy dla dowolnych dwóch skończonych zbiorów A i B</span>",
       "id": 3226,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span>|A x B| =|A|.|B|</span>",
@@ -6952,7 +6952,7 @@
     {
       "question": "Niech f:R→R będzie funkcją określoną wzorem f(x)=|x<sup>2</sup>+4x-21|. Wówczas",
       "id": 3227,
-      "numberOfComments": 3,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Istnieje takie y∈R, że |f<sup>-1</sup>({y})=4",
@@ -6972,7 +6972,7 @@
     {
       "question": "Jeżeli szansa na wygranie w każdym pojedynczym losowaniu wynosi 25% to prawdopodobieństwo wygranej w czwartym losowaniu jeżeli wiemy że przegraliśmy juz trzy losowania z rzędu jest:",
       "id": 3228,
-      "numberOfComments": 6,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "mniejsze, niż prawdopodobieństwo przegranej w tym losowaniu",
@@ -6992,7 +6992,7 @@
     {
       "question": "Liczba rozmieszczeń 5 nieodróżnialnych kul w 4 urnach jest",
       "id": 3229,
-      "numberOfComments": 5,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "równa 4, gdy urny nie są puste",
@@ -7012,7 +7012,7 @@
     {
       "question": "Które z następujących wyrażeń są tautologiami?",
       "id": 3230,
-      "numberOfComments": 4,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "p→(q→p)",
@@ -7032,7 +7032,7 @@
     {
       "question": "Czy dla dowolnych skończonych zbiorów A, B zachodzi:",
       "id": 3231,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "|A|+|B|&gt;=|A∪B|",
@@ -7072,7 +7072,7 @@
     {
       "question": "Ile jest ciągów 0,1 długości n&gt;2, jeżeli wiemy, że na pierwszej i ostatniej pozycji jest 0?",
       "id": 3233,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "2<sup>n-1</sup>-2<sup>n-2</sup>",
@@ -7092,7 +7092,7 @@
     {
       "question": "Domknięcie symetryczne i przechodnie relacji zwrotnej jest",
       "id": 3234,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "relacją pełą",
@@ -7112,7 +7112,7 @@
     {
       "question": "Czy suma&nbsp;Σ<sup>n</sup><sub>i=1<sup>2n</sup></sub> jest równa",
       "id": 3235,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "2",
@@ -7132,7 +7132,7 @@
     {
       "question": "Czy następujące wyrażenia są tautologiami rachunku zdań?",
       "id": 3236,
-      "numberOfComments": 3,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "(p^q)→p",
@@ -7172,7 +7172,7 @@
     {
       "question": "Niech $R$ będzie relacją druargumentową taką, że: R⊆N x N i (x,y)R(a,b)↔(x≤a)^(y≥b) . Relacja R jest",
       "id": 3238,
-      "numberOfComments": 4,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "symetryczna",
@@ -7192,7 +7192,7 @@
     {
       "question": "Jeśli zmienna losowa ma wartość nieskończoną, to",
       "id": 3240,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Pojęcie wariancji traci sens",
@@ -7250,5 +7250,5 @@
       "comments": []
     }
   ],
-  "updatedAt": 1625387660233
+  "updatedAt": 1653854459354
 }

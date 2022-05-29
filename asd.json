@@ -1,5 +1,5 @@
 {
-  "title": "Algorytmy i Struktury Danych - edux (ASD)",
+  "title": "Algorytmy i Struktury Danych - edux",
   "id": "asd",
   "data": [
     {
@@ -7525,7 +7525,27 @@
         }
       ],
       "comments": []
+    },
+    {
+      "question": "<span>Sortowanie przez zliczanie (count sort) n danych o zakresie 0..m-1</span>",
+      "id": 3622,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span>wymaga dodatkowej pamięci rozmiaru Ω(n)</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>działa w czasie O(n)</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>działa w czasie O(m)</span>",
+          "correct": false
+        }
+      ],
+      "comments": []
     }
   ],
-  "updatedAt": 1625387660233
+  "updatedAt": 1653854459354
 }

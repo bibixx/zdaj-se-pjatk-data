@@ -1,5 +1,5 @@
 {
-  "title": "Technologie Internetu (TIN)",
+  "title": "Technologie Internetu",
   "id": "tin",
   "data": [
     {
@@ -751,7 +751,7 @@
       "comments": []
     },
     {
-      "question": "<p class=\"MsoListParagraphCxSpFirst\"><strong>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></strong><strong>Projekt Seti@Home to:</strong></p>\n<p class=\"MsoListParagraphCxSpMiddle\">&nbsp;</p>",
+      "question": "<p class=\"MsoListParagraphCxSpFirst\"><strong>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></strong><strong>Projekt <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"7e2d1b0a173e3611131b\">[email&nbsp;protected]</a> to:</strong></p>\n<p class=\"MsoListParagraphCxSpMiddle\">&nbsp;</p>",
       "id": 2142,
       "numberOfComments": 0,
       "answers": [
@@ -3625,7 +3625,7 @@
         },
         {
           "answer": "<p><span>Niepoprawny</span></p>\n<div id=\"gtx-trans\">&nbsp;</div>",
-          "correct": false
+          "correct": true
         },
         {
           "answer": "<p><span>Poprawny, ale tylko strukturalnie (valid)</span></p>\n<div id=\"gtx-trans\">&nbsp;</div>",
@@ -3633,7 +3633,7 @@
         },
         {
           "answer": "<p><span>Poprawny składniowo a być może też strukturalnie</span></p>\n<div id=\"gtx-trans\">&nbsp;</div>",
-          "correct": true
+          "correct": false
         }
       ],
       "comments": []
@@ -3711,5 +3711,5 @@
       "comments": []
     }
   ],
-  "updatedAt": 1625387660233
+  "updatedAt": 1653854459354
 }
