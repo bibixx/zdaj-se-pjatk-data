@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1653854459354,
+  "updatedAt": 1653866508929,
   "pages": [
     {
       "title": "Administrowanie bazami danych",
@@ -54,16 +54,16 @@
       "id": "mad"
     },
     {
+      "title": "Matematyka Dyskretna 1 - 2020, Gakko",
+      "id": "mad1"
+    },
+    {
       "title": "Matematyka Dyskretna - edux - 2012 ZIMA",
       "id": "mad2012a"
     },
     {
       "title": "Modelowanie i Analiza Systemów informacyjnych",
       "id": "mas"
-    },
-    {
-      "title": "Matematyka Dyskretna 1 - 2020, Gakko",
-      "id": "mad1"
     },
     {
       "title": "Legal foundations of business",
