@@ -5,7 +5,7 @@
     {
       "question": "<span>TEMPEST protects against:</span>",
       "id": 2628,
-      "numberOfComments": 3,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span>sniffing at link layer&nbsp;</span>",
@@ -24,23 +24,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@185.15.*.*",
-          "comment": "sniffing at physical layer",
-          "date": "02-12-2018 22:57:51"
-        },
-        {
-          "author": "~xui@91.230.*.*",
-          "comment": "xui",
-          "date": "04-02-2019 14:45:39"
-        },
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "sniffing at physical layer ziomeczki https://en.wikipedia.org/wiki/Tempest_(codename)",
-          "date": "09-02-2019 00:46:39"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span>Processing a recursive DNS query, a contacted DNS server is responsible for providing the answer for the client. It may be necessary that the server communicates with other servers to get the asnwer.</span>",
@@ -61,7 +45,7 @@
     {
       "question": "<span>&nbsp;A protocol used to automatically configure IP networking for a host is called:</span>",
       "id": 2630,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span>DNS&nbsp;</span>",
@@ -80,18 +64,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~Elan@95.160.*.*",
-          "comment": "\"A DHCP server enables computers to request IP addresses and networking parameters automatically\" - https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol",
-          "date": "01-02-2017 16:10:52"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span>If on one link, at the same time, in the same place and on the same frequency, multiple devices communicate, than what is the type of multiplexing used? Choose the acronym.</span>",
       "id": 2631,
-      "numberOfComments": 5,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span>FDM</span>",
@@ -110,38 +88,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@91.230.*.*",
-          "comment": "to nie będzie FDM?",
-          "date": "23-11-2016 11:44:50"
-        },
-        {
-          "author": "~anon@95.160.*.*",
-          "comment": "+ chyba winien być Frequency-division multiplexing",
-          "date": "01-02-2017 16:14:01"
-        },
-        {
-          "author": "~anon@91.230.*.*",
-          "comment": "CDMA - Code Division Multiple Access - ponieważ każdy nadawca ma własny kod, nawet jeżeli nadają jednocześnie, można rozkodować złączoną informację.",
-          "date": "05-02-2017 14:45:24"
-        },
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "FDM to dosłownie podzial spektrum miedzy klientow czyli kazdy ma inna częstotliwość. CDM określa którą częstotliwość używasz w danym momencie. IMHO \"at the same time\" nie oznacza tu punktu w czasie tylko okres czasu, więc dałbym TDM. Poza tym SKJ internetowe and rozróżnia głównie TDM i FDM w wykładzie circuit switching, więc wydaje mi się że pod to jest to pytanie.",
-          "date": "08-02-2019 22:48:19"
-        },
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "w jednym z wykladow SKJ internetowe jest napisane dokładnie że to CDMA",
-          "date": "09-02-2019 00:33:46"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "IPSec provides security in layer",
       "id": 2632,
-      "numberOfComments": 3,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "transport",
@@ -160,23 +112,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~PW@91.230.*.*",
-          "comment": "IPSec zabezpiecza protokół IP, więdz działa na warstwie sieci (network)",
-          "date": "05-02-2017 13:58:17"
-        },
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "podbijam co PW napisał",
-          "date": "08-02-2019 22:50:01"
-        },
-        {
-          "author": "mykhi",
-          "comment": "zaznaczam b)",
-          "date": "08-02-2019 22:58:16"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span>&nbsp;How many bits are used in an IPv6 address</span>",
@@ -253,7 +189,7 @@
     {
       "question": "<span>What services does an IP network offer for applications?&nbsp;</span>",
       "id": 2636,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span>an unreliable \"best-effort\" service</span>",
@@ -272,18 +208,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@37.47.*.*",
-          "comment": "Co tu będzie?",
-          "date": "14-02-2018 08:03:25"
-        },
-        {
-          "author": "~Simi@95.49.*.*",
-          "comment": "Ja bym zaznaczył tutaj też TCP, pierwsza odpowiedź to UDP.",
-          "date": "04-02-2020 00:48:53"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span>In the physical layer we are talking about (…)</span>",
@@ -312,7 +237,7 @@
     {
       "question": "PGP używa kluczy:",
       "id": 2642,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "kluczy Geanta",
@@ -331,18 +256,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~twoja_mama@91.230.*.*",
-          "comment": "PGP encryption uses a serial combination of hashing, data compression, symmetric-key cryptography - Wiki: https://en.wikipedia.org/wiki/Pretty_Good_Privacy",
-          "date": "04-02-2019 14:52:03"
-        },
-        {
-          "author": "~s@83.28.*.*",
-          "comment": "symetrycznych",
-          "date": "08-02-2021 04:07:30"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Co opisuje uzycie gniazd przez serwer w niezawodnej, połączeniowej komunikacji z klientem?",
@@ -371,7 +285,7 @@
     {
       "question": "Uwierzytelnianie ma na celu:",
       "id": 2644,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "potwierdzenie wiarygodności uzytkownika",
@@ -390,14 +304,8 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~Anus@37.47.*.*",
-          "comment": "Nie bedzie jeszcze uprawnien?\n",
-          "date": "14-02-2018 08:08:07"
-        }
-      ]
+      "comments": []
     }
   ],
-  "updatedAt": 1655413492390
+  "updatedAt": 1655413568101
 }

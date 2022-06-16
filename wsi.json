@@ -5,7 +5,7 @@
     {
       "question": "<p>Które z poniższych to modele baz danych?</p>",
       "id": 3185,
-      "numberOfComments": 14,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Model Bohra",
@@ -24,83 +24,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~?@89.76.*.*",
-          "comment": "kartotekowy to to samo co katalogowy?",
-          "date": "09-02-2019 21:37:12"
-        },
-        {
-          "author": "~anon@2a02:a317:2244:2b00:3d08:a8f0:59a3:dcee",
-          "comment": "no chyba właśnie nie xddd",
-          "date": "04-02-2020 21:12:20"
-        },
-        {
-          "author": "~anon@5.173.*.*",
-          "comment": "katalogowy =/= kartotekowy, pamietajcie",
-          "date": "04-02-2020 23:55:32"
-        },
-        {
-          "author": "~anon@31.182.*.*",
-          "comment": "Istnieje w ogóle coś takiego jak model katalogowy?",
-          "date": "04-02-2020 23:58:38"
-        },
-        {
-          "author": "~Product Owner @37.30.*.*",
-          "comment": "nie, nie istnieje \n",
-          "date": "05-02-2020 00:13:24"
-        },
-        {
-          "author": "~Scrum Master@78.11.*.*",
-          "comment": "potwierdzam Product Owner mówi prawdę",
-          "date": "05-02-2020 01:23:36"
-        },
-        {
-          "author": "~anon@2a02:a311:4345:4880:805c:8328:134e:14cb",
-          "comment": "Katalogowy do odznaczenia, nie istnieje taki",
-          "date": "05-02-2020 10:24:49"
-        },
-        {
-          "author": "~anon@2a02:a311:4345:4880:805c:8328:134e:14cb",
-          "comment": "Poprawne 2) 3)",
-          "date": "05-02-2020 12:09:47"
-        },
-        {
-          "author": "~anon@2a02:a311:4345:4880:805c:8328:134e:14cb",
-          "comment": "ten kto oblał dzisiaj, popytajcie znajomych o pytania, posprawdzajcie odp tutaj i będzie dla następnych roczników :)",
-          "date": "05-02-2020 18:57:27"
-        },
-        {
-          "author": "~anon@194.145.*.*",
-          "comment": "da radę odznaczyć katalogowy? nie istnieje taki",
-          "date": "07-02-2020 13:54:03"
-        },
-        {
-          "author": "~OjciecDyrektor@31.0.*.*",
-          "comment": "katalogowy do wyjebania",
-          "date": "11-02-2020 19:19:36"
-        },
-        {
-          "author": "~anon@2a02:a311:4345:4880:58c1:29cc:a596:6b41",
-          "comment": "up",
-          "date": "11-02-2020 20:41:40"
-        },
-        {
-          "author": "mykhi",
-          "comment": "wyjebane'd",
-          "date": "11-02-2020 22:19:11"
-        },
-        {
-          "author": "~anon@2a02:a311:4345:4880:d08c:1868:c99a:9a03",
-          "comment": "poszlo",
-          "date": "11-02-2020 22:41:47"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Inżynieria oprogramowania to nauka:",
       "id": 3186,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Empiryczna",
@@ -111,18 +40,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~Najman@195.191.*.*",
-          "comment": "Stanowski!!!",
-          "date": "12-02-2021 14:29:02"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Do obowiązku Scrum Mastera należy między innymi:",
       "id": 3178,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Zapewnienie zysku z przedsięwzięcia",
@@ -141,18 +64,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~kluska@79.191.*.*",
-          "comment": "Niezbyt istotna uwaga, ale gryzie w oczy: Jest literówka w \"pilnowanie\"",
-          "date": "08-02-2021 21:09:39"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Które z poniższych atrybutów można umieścić w encji Student w modelu relacyjnym:",
       "id": 3179,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "PESEL",
@@ -171,23 +88,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~13312geasdwqaf@83.31.*.*",
-          "comment": "data urodzenia? To nie błąd czasem?",
-          "date": "09-02-2019 17:10:38"
-        },
-        {
-          "author": "~anon@2a02:a312:603e:7600:71dd:1bbb:489f:b28b",
-          "comment": "Date urodzenia da się ustalić przez PESEL co wskazuje na błąd, ale co jeśli ktoś nie ma numeru PESEL. 1 i 3 jest dobrze",
-          "date": "31-01-2020 20:52:32"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Spiralny model cyklu życia oprogramowania:",
       "id": 3203,
-      "numberOfComments": 15,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Utrudnia klientowi walidacje produktu na etapie wytwarzania",
@@ -206,83 +112,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@37.47.*.*",
-          "comment": "a 4 nie powinno być poprawne?",
-          "date": "01-02-2020 13:41:42"
-        },
-        {
-          "author": "~waper@5.173.*.*",
-          "comment": "powinno\nkaskadowy to prawie to samo co waterfall model",
-          "date": "01-02-2020 15:04:24"
-        },
-        {
-          "author": "~pistacja@5.173.*.*",
-          "comment": "a 2 tu nie bedzie tez poprawne?",
-          "date": "02-02-2020 03:45:38"
-        },
-        {
-          "author": "~anon@2a02:a310:c265:e200:cdf2:bcce:bf2a:fcf1",
-          "comment": "mykhi, popraw to\n",
-          "date": "04-02-2020 16:57:20"
-        },
-        {
-          "author": "~anon@2a02:a311:4345:4880:45d5:e5eb:bef7:220",
-          "comment": "up",
-          "date": "04-02-2020 17:09:14"
-        },
-        {
-          "author": "~anon@83.24.*.*",
-          "comment": "Czyli 2 i 4 poprawne ? Ktoś popiera?\n",
-          "date": "04-02-2020 17:28:28"
-        },
-        {
-          "author": "~lol@89.64.*.*",
-          "comment": "od nyggetsów z 3202: ,,model kaskadowy jest tylko jednym z specjalnych przypadków modelu spiralnego.''\n\nco do pytania to nie utrudnia walidacji, nie utrudnia sporządzenia harmonogramu, więc odpowiedzi są git",
-          "date": "04-02-2020 17:47:05"
-        },
-        {
-          "author": "~anon@2a02:a311:a23c:d180:2cc7:8932:4526:3ef7",
-          "comment": "to ktore poprawne?",
-          "date": "04-02-2020 18:40:32"
-        },
-        {
-          "author": "~nic@89.76.*.*",
-          "comment": "żadne chyba\n",
-          "date": "04-02-2020 20:17:40"
-        },
-        {
-          "author": "~anon@5.172.*.*",
-          "comment": "na prezentacji o scrumie (slajd 7 o modelu spiralnym) jest napisane: \"Kazdy kolejjny cykl przebiega zgodnie z modelem kaskadowym\"",
-          "date": "04-02-2020 20:50:09"
-        },
-        {
-          "author": "~anon@2a02:a311:4345:4880:805c:8328:134e:14cb",
-          "comment": "Poprawna odpowiedź to 4) ",
-          "date": "05-02-2020 10:23:59"
-        },
-        {
-          "author": "~anon@2a02:a311:4345:4880:805c:8328:134e:14cb",
-          "comment": "4) da radę zaznaczyć?",
-          "date": "05-02-2020 12:10:17"
-        },
-        {
-          "author": "mykhi",
-          "comment": "da",
-          "date": "05-02-2020 15:47:04"
-        },
-        {
-          "author": "~KM@2a02:a310:400:80:d69:9dda:33f4:73a6",
-          "comment": "Za slajdem (zaoczne) Model spiralny Barry Bohem’a: proces iteracyjny i przyrostowy jako alternatywa dla modelu kaskadowego.",
-          "date": "05-02-2020 21:33:17"
-        },
-        {
-          "author": "~anon@2a02:a310:400:80:d69:9dda:33f4:73a6",
-          "comment": "Ale: Każdy kolejny cykl przebiega zgodnie z modelem kaskadowym",
-          "date": "05-02-2020 21:35:59"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Wskaż atrybuty bezpieczeństwa informacji:",
@@ -311,7 +141,7 @@
     {
       "question": "Testy jednostkowe to:",
       "id": 3181,
-      "numberOfComments": 4,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Zazwyczaj zautomatyzowane",
@@ -330,33 +160,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@93.105.*.*",
-          "comment": "na pewno 4 tez poprawne?",
-          "date": "18-02-2019 00:17:10"
-        },
-        {
-          "author": "~anon@83.24.*.*",
-          "comment": "4 nie poprawne\n",
-          "date": "30-01-2020 13:21:43"
-        },
-        {
-          "author": "~anon@194.145.*.*",
-          "comment": "4 nie poprawne",
-          "date": "01-02-2020 22:14:50"
-        },
-        {
-          "author": "mykhi",
-          "comment": "odznaczam 4",
-          "date": "01-02-2020 22:18:30"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Które z poniższych modeli sa modelami danych:",
       "id": 3182,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Model sieciowy",
@@ -375,13 +184,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~s73@178.235.*.*",
-          "comment": "To 'model danych' czy model 'bazy danych'?..",
-          "date": "04-02-2020 23:06:51"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Etapy analizy otwartych źródeł informacji i jej wynik to:",
@@ -406,7 +209,7 @@
     {
       "question": "<span>Spiralny model cyklu życia oprogramowania:</span>",
       "id": 3202,
-      "numberOfComments": 9,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span>W praktyce każda jego faza jest realizowana zgodnie z podejściem iteracyjnym</span>",
@@ -425,58 +228,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~ja@89.64.*.*",
-          "comment": "3",
-          "date": "17-02-2019 01:08:46"
-        },
-        {
-          "author": "~nyggetsy@83.24.*.*",
-          "comment": "Nie, bo model kaskadowy jest tylko jednym z specjalnych przypadków modelu spiralnego.",
-          "date": "04-02-2020 17:09:38"
-        },
-        {
-          "author": "~anon@46.215.*.*",
-          "comment": "to które są dobre?",
-          "date": "04-02-2020 17:26:48"
-        },
-        {
-          "author": "~anon@79.184.*.*",
-          "comment": "PIERFRZE TO TRÓ!!!111",
-          "date": "04-02-2020 19:02:27"
-        },
-        {
-          "author": "~anon@77.252.*.*",
-          "comment": "ZARAZ BĘDZIE CIEMNO!",
-          "date": "04-02-2020 22:48:59"
-        },
-        {
-          "author": "~Twój Stary@31.182.*.*",
-          "comment": "ZAMKNIJ SIĘ ",
-          "date": "04-02-2020 22:53:39"
-        },
-        {
-          "author": "~stuleja123@37.47.*.*",
-          "comment": "o nie jeszcze ludzi z pyrkonu tu brakowało ",
-          "date": "04-02-2020 22:59:38"
-        },
-        {
-          "author": "~anon@5.173.*.*",
-          "comment": ">zrównywanie woodstocku z pyrkonem\n",
-          "date": "04-02-2020 23:26:31"
-        },
-        {
-          "author": "~anon@2a02:a311:4345:4880:805c:8328:134e:14cb",
-          "comment": "Poprawna odpowiedź to 3)",
-          "date": "05-02-2020 10:24:18"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Które z poniższych stwierdzeń jest prawdziwe",
       "id": 2615,
-      "numberOfComments": 3,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "NULL = NULL ma wartość logiczną NULL",
@@ -495,23 +252,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~dafuq@194.153.*.*",
-          "comment": "chyba == bo = to przypisanie?",
-          "date": "08-02-2018 11:47:54"
-        },
-        {
-          "author": "~rob@77.254.*.*",
-          "comment": "nie",
-          "date": "08-02-2018 13:26:45"
-        },
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "nie bo to nie konkretny przykład z konkretnego języka (mówisz o javie) tylko meta",
-          "date": "09-02-2018 08:16:42"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Testy BlackBox to testy:",
@@ -564,7 +305,7 @@
     {
       "question": "w architekturze klient-serwer do głównych ról klienta należy:",
       "id": 2639,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "przetwarzanie zapytań SQL",
@@ -583,23 +324,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~Myk@37.47.*.*",
-          "comment": "Pozdrawaim pana komendanta 29c <3",
-          "date": "08-02-2018 21:15:17"
-        },
-        {
-          "author": "~anon@83.142.*.*",
-          "comment": "klient nie zapewnia interfejsu, bo on z niego korzysta ",
-          "date": "05-02-2021 12:41:38"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Kto jest odpowiedzialny za projektowanie User Stories:",
       "id": 2640,
-      "numberOfComments": 25,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Scrum Master",
@@ -618,133 +348,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@83.31.*.*",
-          "comment": "Która poprawna?",
-          "date": "03-02-2017 11:04:57"
-        },
-        {
-          "author": "~anon@89.74.*.*",
-          "comment": "a nie product owner?",
-          "date": "09-02-2017 21:58:42"
-        },
-        {
-          "author": "~anon@94.254.*.*",
-          "comment": "Wydaje mi się, że jest OK. Product Owner zatwierdza ten Product Backlog i jego priorytety, ale TWORZYĆ Pr. Backlog (więc też jego elementy tj. User Stories) mogą wszyscy zgodnie z prezentacją.",
-          "date": "08-02-2018 14:54:08"
-        },
-        {
-          "author": "~PLE@79.184.*.*",
-          "comment": "Dlaczego są tak mało pytań? ",
-          "date": "08-02-2018 17:59:28"
-        },
-        {
-          "author": "~anon@88.156.*.*",
-          "comment": "Product Owner to poprawna odpowiedź.",
-          "date": "08-02-2018 21:51:25"
-        },
-        {
-          "author": "~pcv@83.28.*.*",
-          "comment": "Zgadza się.",
-          "date": "08-02-2018 22:11:45"
-        },
-        {
-          "author": "~hehe@79.184.*.*",
-          "comment": "poprawna odpowiedz to caly zespol: \"Wszyscy mogą dodawać elementy\", z prezentacji",
-          "date": "08-02-2018 22:54:15"
-        },
-        {
-          "author": "~hmm@89.64.*.*",
-          "comment": "Skoro wszyscy to czemu pozostałe jako błędne xD Bo przecież można zaznaczyć wszystkie",
-          "date": "13-02-2018 23:19:26"
-        },
-        {
-          "author": "~hem@83.31.*.*",
-          "comment": "Mykhi, zaznaczysz poprawna odpowiedz? ",
-          "date": "09-02-2019 19:23:29"
-        },
-        {
-          "author": "~anon@83.31.*.*",
-          "comment": "Poprawna odpowiedz to Product Owner\n\nhttps://mfiles.pl/pl/index.php/User_stories",
-          "date": "17-02-2019 01:42:30"
-        },
-        {
-          "author": "~anon@83.24.*.*",
-          "comment": "User Stories przedstawia zespołowi ZAMAWIAJĄCY",
-          "date": "30-01-2020 12:45:59"
-        },
-        {
-          "author": "~anon@194.145.*.*",
-          "comment": "Product Owner!",
-          "date": "01-02-2020 22:19:18"
-        },
-        {
-          "author": "~anon@194.145.*.*",
-          "comment": "Product Owner\n",
-          "date": "01-02-2020 23:07:03"
-        },
-        {
-          "author": "~cwelu@83.24.*.*",
-          "comment": "Product Srowner",
-          "date": "04-02-2020 20:45:31"
-        },
-        {
-          "author": "~skrrt@2a02:a311:a340:4180:5055:6013:7fd2:e089",
-          "comment": "produkt owconer\n",
-          "date": "04-02-2020 20:52:34"
-        },
-        {
-          "author": "~anon@5.172.*.*",
-          "comment": "product owner elo\n",
-          "date": "04-02-2020 21:08:07"
-        },
-        {
-          "author": "~eloooo@85.222.*.*",
-          "comment": "ej napisz ktoś jeszcze raz, że product owner!!!11!!!!1!1!",
-          "date": "04-02-2020 21:08:36"
-        },
-        {
-          "author": "~JanPawełII@2a02:a310:c123:e000:a43b:c4b3:81ca:765e",
-          "comment": "produkt owner",
-          "date": "04-02-2020 21:13:00"
-        },
-        {
-          "author": "~PR0_D13KAN_1337@31.11.*.*",
-          "comment": "produkt owner?\n",
-          "date": "04-02-2020 21:50:39"
-        },
-        {
-          "author": "~PR0_DZ13KAN_1337@31.11.*.*",
-          "comment": "jak loguje sie to po vpn z brazylii to jestem bezpieczny?",
-          "date": "04-02-2020 21:51:17"
-        },
-        {
-          "author": "~brazylijczyk@37.47.*.*",
-          "comment": "tak",
-          "date": "04-02-2020 21:54:00"
-        },
-        {
-          "author": "~anon@31.182.*.*",
-          "comment": "Tylko zielona jest skórka ogórka\n",
-          "date": "04-02-2020 23:03:44"
-        },
-        {
-          "author": "~anon@2a02:a311:4345:4880:805c:8328:134e:14cb",
-          "comment": "da radę zmienić na Product Owner?\n",
-          "date": "05-02-2020 09:52:14"
-        },
-        {
-          "author": "mykhi",
-          "comment": "zmieniam",
-          "date": "05-02-2020 10:47:19"
-        },
-        {
-          "author": "~dzban@79.184.*.*",
-          "comment": "A jakie było pytanie?",
-          "date": "05-02-2020 16:36:48"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Instrukcja <strong>SELECT</strong> służy do:",
@@ -773,7 +377,7 @@
     {
       "question": "Które z poniższych atrybutów mozna umieścić w encji Uczeń w modelu relacyjnym? Pamiętaj, ze każda encja w modelu relacyjnym musi być w pierwszej postaci normalnej :<p></p>\n<p>&nbsp;\n          </p>",
       "id": 2648,
-      "numberOfComments": 5,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "PESEL",
@@ -792,33 +396,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~mamatomka@79.189.*.*",
-          "comment": "data urodzenia chyba źle - dwie osoby mogły urodzić się tego samego dnia, wiec nie spełnia to założeń postaci normalnej",
-          "date": "07-02-2019 13:24:00"
-        },
-        {
-          "author": "~anon@213.238.*.*",
-          "comment": "nie masz racji, wymogiem jest atomowość i Data Urodzenia jest atomowa czyli w skrócie jest tylko jedna dla danej osoby.",
-          "date": "07-02-2019 20:03:55"
-        },
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "213.238 ma racje, popatrz na 14 stronę PDF (lub prezentacji) wykładu IV (WSIczIII w materiałach na edux). Masz tam przedstawioną dokładnie taką sytuację.",
-          "date": "07-02-2019 20:34:18"
-        },
-        {
-          "author": "~mamatomka@79.189.*.*",
-          "comment": "super, dzieki\n",
-          "date": "07-02-2019 20:45:38"
-        },
-        {
-          "author": "~yesverymuch@79.184.*.*",
-          "comment": "Czy to nie jest takie samo jak 4?",
-          "date": "04-02-2020 14:29:31"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<p class=\"MsoListParagraph\"><strong><span lang=\"PL\">Kto jest twórcą relacyjnego modelu danych:</span></strong></p>\n<p>&nbsp;</p>",
@@ -847,7 +425,7 @@
     {
       "question": "<p class=\"MsoListParagraph\"><strong><span lang=\"PL\">Zaznacz poprawne stwierdzenia dotyczęce kopii zapasowych w serwerach baz danych:</span></strong></p>\n<p class=\"MsoListParagraph\"><strong><span lang=\"PL\"><br></span></strong></p>",
       "id": 2664,
-      "numberOfComments": 8,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"PL\">kopia pełna zawiera wszystkie dane bazy danych</span>",
@@ -866,53 +444,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@193.0.*.*",
-          "comment": "Wydaję mi się, że trzecie jest niepoprawne. Kopia zawiera wszystkie zmiany dokonane po ostatniej dowolnej kopii. Jeżeli ostatnią kopią nie była kopia pełna to nie będzie zawierała wszystkich zmian dokonanych po ostatniej kopii pełnej.",
-          "date": "02-02-2017 14:18:51"
-        },
-        {
-          "author": "~dd@109.241.*.*",
-          "comment": "Zgadza się 3 fałsz",
-          "date": "02-02-2017 18:04:02"
-        },
-        {
-          "author": "~anon@89.74.*.*",
-          "comment": "zgadza się, trafiło mi się to pytanie na egzaminie i -1 punkt przez tą odpowiedz!",
-          "date": "04-02-2017 12:22:16"
-        },
-        {
-          "author": "mykhi",
-          "comment": "odznaczam c)",
-          "date": "04-02-2017 13:08:20"
-        },
-        {
-          "author": "~anon@89.74.*.*",
-          "comment": "nadal jest zaznaczone\n",
-          "date": "09-02-2017 10:10:23"
-        },
-        {
-          "author": "~anon2137@5.173.*.*",
-          "comment": "czyli jesli by bylo \"kopia przyrostowa zawsze zawiera zmiany dokonane po ostatniej kopii pełnej\" to by bylo poprawnie?",
-          "date": "02-02-2020 04:03:54"
-        },
-        {
-          "author": "~s73@178.235.*.*",
-          "comment": "A nie \"Kopia przyrostowa zawsze zawiera wszystkie zmiany dokonane po ostatniej kopii *przyrostowej*\"?",
-          "date": "03-02-2020 02:33:28"
-        },
-        {
-          "author": "~yesverymuch@79.184.*.*",
-          "comment": "*dotyczące",
-          "date": "04-02-2020 14:30:18"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<p class=\"MsoListParagraph\"><strong><span lang=\"PL\">Stereotyp &lt;&lt;include&gt;&gt; oznacza ze</span></strong></p>",
       "id": 2665,
-      "numberOfComments": 9,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"PL\">jeden przypadek użycia jest obowiązkową częścią innego</span>",
@@ -931,58 +468,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@94.254.*.*",
-          "comment": "Stereotyp <<extend>> odpowiada na powiązania \"obowiązkowe\". <<include>> jest powiązaniem \"opcjonalnym\". Poprawna odpowiedź to B).",
-          "date": "08-02-2018 13:32:16"
-        },
-        {
-          "author": "~rob@77.254.*.*",
-          "comment": "dokładnie na odwrót wariacie ;)",
-          "date": "08-02-2018 14:28:38"
-        },
-        {
-          "author": "~anon@94.254.*.*",
-          "comment": "Ale zajebałem... Cofam xD Dopiero do mnie dotarło co napisałem. Jest OK of course xD",
-          "date": "08-02-2018 14:50:26"
-        },
-        {
-          "author": "~anon@79.185.*.*",
-          "comment": "poprawi ktoś ?",
-          "date": "07-02-2019 21:01:11"
-        },
-        {
-          "author": "~pawwwa@83.31.*.*",
-          "comment": "jest dobrze\n",
-          "date": "07-02-2019 21:07:44"
-        },
-        {
-          "author": "~anon@79.185.*.*",
-          "comment": "a przypadkiem nie extend odpowiada za obowiazkowe a include za opcjonalne ?\n",
-          "date": "07-02-2019 21:14:26"
-        },
-        {
-          "author": "~anon@79.185.*.*",
-          "comment": "a sorki XD \ngory nie przeczytalem",
-          "date": "07-02-2019 21:16:07"
-        },
-        {
-          "author": "~drcyckarz@5.184.*.*",
-          "comment": "jest dobrze",
-          "date": "07-02-2019 21:43:41"
-        },
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "Anonki czytajcie historie, to nie takie trudne XD",
-          "date": "07-02-2019 23:17:03"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<p class=\"MsoListParagraph\"><strong><span lang=\"PL\">Zaznacz poprawne stwierdzenia dotyczące architektury klient-serwer:</span></strong></p>\n<p>&nbsp;</p>",
       "id": 2666,
-      "numberOfComments": 5,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<p class=\"MsoListParagraph\"><span lang=\"PL\">Klientem może bać przeglądarka internetowa</span></p>",
@@ -1001,38 +492,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~aidon@5.172.*.*",
-          "comment": "Zaznaczyłem dwie poprawne odp. i mam 0 p z tego zdania",
-          "date": "02-02-2017 15:39:14"
-        },
-        {
-          "author": "~anon@37.47.*.*",
-          "comment": "Ale na egzaminie miales 0 pkt. czy na generatorze?\n",
-          "date": "02-02-2017 19:08:14"
-        },
-        {
-          "author": "~aidon@5.172.*.*",
-          "comment": "Na generatorze",
-          "date": "02-02-2017 21:41:51"
-        },
-        {
-          "author": "~anon@94.254.*.*",
-          "comment": "Które są poprawne?",
-          "date": "08-02-2017 16:56:12"
-        },
-        {
-          "author": "~ja@37.47.*.*",
-          "comment": "to które są poprawne?",
-          "date": "07-02-2020 12:58:13"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Zaznacz poprawne stwierdzenia dotyczęce indeksów w serwerach baz danych:",
       "id": 2667,
-      "numberOfComments": 7,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Programista musi zaznaczyć w zapytaniu SQL, że indeks ma zostać użyty",
@@ -1051,43 +516,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~s16245@89.74.*.*",
-          "comment": "Poprawna odpowiedz to - \" Gdy na tabeli założony jest indeks, zapytanie może wykonać się szybciej\"",
-          "date": "01-02-2017 16:34:30"
-        },
-        {
-          "author": "~.*.*@178.42.*.*",
-          "comment": "Ciekawe czy takie pytania trafią się na egzaminie ;P",
-          "date": "01-02-2017 16:42:57"
-        },
-        {
-          "author": "~anon@89.74.*.*",
-          "comment": "powinno być coś takiego, bo to pewnie są pytania z egzaminu na studiach dziennych",
-          "date": "01-02-2017 16:48:26"
-        },
-        {
-          "author": "~anon@89.74.*.*",
-          "comment": "tyle tylko że pula pytań jest dużo większa)",
-          "date": "01-02-2017 16:49:38"
-        },
-        {
-          "author": "mykhi",
-          "comment": "zaznaczam",
-          "date": "01-02-2017 16:52:05"
-        },
-        {
-          "author": "~anon@89.72.*.*",
-          "comment": "Nie ma tutaj prawidlowych odpowiedzi, gdyz indeksy sa zakladane na kolumny nie na tabeli.",
-          "date": "03-02-2017 08:33:42"
-        },
-        {
-          "author": "~anon@94.254.*.*",
-          "comment": "Kolumna to część tabeli, może o to chodzi ;)",
-          "date": "09-02-2018 07:32:21"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Cykl życia oprogramowania Code-and-Fix nadaje się do stosowania",
@@ -1116,7 +545,7 @@
     {
       "question": "Które z poniższych stwierdzeń są prawdziwe",
       "id": 2929,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Instrukcja INSERT języka SQL służy do usunięcia danych z bazy danych",
@@ -1135,18 +564,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~jp2@91.239.*.*",
-          "comment": "czy insert nie służy do wstawiania nowych informacji ?\n",
-          "date": "13-02-2019 01:01:24"
-        },
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "Właśnie dla tego służy ",
-          "date": "13-02-2019 18:25:05"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Które z poniższych stwierdzeń są prawdziwe",
@@ -1175,7 +593,7 @@
     {
       "question": "Zaznacz poprawne stwierdzenia dotyczące kopii zapasowej dziennika transkacji",
       "id": 2931,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Jest bezużyteczna, jeśli nie dysponujemy kopią pełną",
@@ -1194,13 +612,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~yesverymuch@79.184.*.*",
-          "comment": "*transakcji",
-          "date": "04-02-2020 14:39:23"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Celem spotkania Daily Scrum(Stand up meeting) jest",
@@ -1249,7 +661,7 @@
     {
       "question": "Czy może istnieć system informacyjny bez komputerów&nbsp;",
       "id": 2934,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Tak",
@@ -1260,23 +672,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~Lala@46.227.*.*",
-          "comment": "Czyli co np?\n",
-          "date": "06-02-2019 15:23:24"
-        },
-        {
-          "author": "~tomaszew@79.189.*.*",
-          "comment": "archiwum z lat '50 - same aktówki i pani która sprawdza co na którym regale leży",
-          "date": "07-02-2019 12:34:39"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Z poniższej listy wybierz własności charakteryzujące przypadki Użycia",
       "id": 2935,
-      "numberOfComments": 16,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Może być wykorzystywany przez dokładnie jednego Aktora",
@@ -1295,93 +696,12 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~xyz@194.153.*.*",
-          "comment": "Użycia czego?",
-          "date": "08-02-2018 17:37:24"
-        },
-        {
-          "author": "~abc@89.77.*.*",
-          "comment": "O co chodzi z tymi Aktorami",
-          "date": "08-02-2018 20:33:11"
-        },
-        {
-          "author": "~abc@89.77.*.*",
-          "comment": "O co chodzi z tymi Aktorami",
-          "date": "08-02-2018 20:35:52"
-        },
-        {
-          "author": "~anon@109.125.*.*",
-          "comment": "Może być wykorzystany przez dowolną ilość aktorów ale przez jednego już nie?",
-          "date": "24-02-2018 10:44:11"
-        },
-        {
-          "author": "~lukrzś@83.31.*.*",
-          "comment": "O jakie użycie chodzi wtf? \n",
-          "date": "07-02-2019 14:16:44"
-        },
-        {
-          "author": "~kryszkub@37.47.*.*",
-          "comment": "lol ocb\n",
-          "date": "07-02-2019 14:17:47"
-        },
-        {
-          "author": "~lukrzś@83.31.*.*",
-          "comment": "O jakie użycie chodzi wtf? \n",
-          "date": "07-02-2019 14:17:52"
-        },
-        {
-          "author": "~lukrzś@83.31.*.*",
-          "comment": "O jakie użycie chodzi wtf? \n",
-          "date": "07-02-2019 14:18:02"
-        },
-        {
-          "author": "~anon@77.252.*.*",
-          "comment": "o kurcze\ncoś tu nie gra",
-          "date": "07-02-2019 20:19:01"
-        },
-        {
-          "author": "~anon@77.252.*.*",
-          "comment": "kurwy i wieśniaki",
-          "date": "07-02-2019 20:19:21"
-        },
-        {
-          "author": "~anon@83.28.*.*",
-          "comment": "wszystko gra",
-          "date": "07-02-2019 20:20:57"
-        },
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "o jakie użycie chodzi?",
-          "date": "07-02-2019 22:33:52"
-        },
-        {
-          "author": "~sid@79.184.*.*",
-          "comment": "cholera wie",
-          "date": "07-02-2019 22:43:19"
-        },
-        {
-          "author": "~JDay@91.230.*.*",
-          "comment": "Aktor: osoba pełniąca jakąś funckcje / posiadajaca uprawnienia np. dyrektor, nauczyciel\n-----------\nPrzypadek uzycia: jakas funkcja przypisana do aktorow np. wstaw ocene, przypisz dydaktyka",
-          "date": "01-03-2019 11:03:03"
-        },
-        {
-          "author": "~edward.ącki@83.5.*.*",
-          "comment": "no kurwa jak moze byc przez dowolna liczbe to moze byc kurwa przez jenego no halo???",
-          "date": "07-02-2021 01:58:49"
-        },
-        {
-          "author": "~kolo@5.173.*.*",
-          "comment": "No właśnie nie może. Przecież w pkt 1 jest wyraźnie napisane, że przez DOKŁADNIE jednego Aktora, co wyklucza użycie przez dowolną liczbę Aktorów.",
-          "date": "20-02-2021 21:20:58"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Reprezentowana w relacyjnej bazie danych jako tabela jest&nbsp;",
       "id": 2936,
-      "numberOfComments": 12,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Podzbiorem iloczynu kartezjańskiego",
@@ -1396,73 +716,12 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@89.70.*.*",
-          "comment": "Czy te odpowiedzi są dobrze zaznaczone?",
-          "date": "08-02-2018 17:49:46"
-        },
-        {
-          "author": "~anon@185.78.*.*",
-          "comment": "podbijam ^",
-          "date": "08-02-2018 20:13:45"
-        },
-        {
-          "author": "~anon@88.156.*.*",
-          "comment": "wszystkie 3 prawidłowe",
-          "date": "08-02-2018 22:04:26"
-        },
-        {
-          "author": "~anon@79.184.*.*",
-          "comment": "nie",
-          "date": "08-02-2018 22:43:30"
-        },
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "Związek - uporządkowana lista encji",
-          "date": "09-02-2018 01:28:34"
-        },
-        {
-          "author": "~anon@79.189.*.*",
-          "comment": "trzecia na pewno dobrze\nhttp://edu.pjwstk.edu.pl/wyklady/rbd/scb/wyklad3/ERD.htm",
-          "date": "07-02-2019 14:06:27"
-        },
-        {
-          "author": "~anon@83.31.*.*",
-          "comment": "Jak \"tabela\" może być \"związkiem między tabelami\"??? Czy to nie jest bez sensu? \n",
-          "date": "07-02-2019 14:21:40"
-        },
-        {
-          "author": "~anon@37.47.*.*",
-          "comment": "nie, masz tabelę A, tabelę B, a tabela C to wypisanie związków między A i B. np. w tabeli A masz imię i nazwisko, w tabeli B stanowiska pracownicze, a w tabeli C jedno i drugie - Jan Kowalski Sprzątacz",
-          "date": "07-02-2019 17:08:07"
-        },
-        {
-          "author": "~anon@5.173.*.*",
-          "comment": "wszystkie 3 sa prawidlowe......",
-          "date": "04-02-2020 23:40:18"
-        },
-        {
-          "author": "~anon@88.156.*.*",
-          "comment": "Mykhi zaznacz 3\n",
-          "date": "05-02-2020 18:51:27"
-        },
-        {
-          "author": "~anon@2a02:a311:4345:4880:805c:8328:134e:14cb",
-          "comment": "na 100% jeszcze 3) odpowiedź?",
-          "date": "05-02-2020 18:55:44"
-        },
-        {
-          "author": "mykhi",
-          "comment": "zaznaczam",
-          "date": "05-02-2020 20:40:15"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Zbieranie i analiza wymagań( requirements capture and analysis) jest fazą procesu wytwarzania oprogramowania:",
       "id": 2668,
-      "numberOfComments": 6,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "której produkty mogą stanowić podstawę do przygotowania testów modułów na zasadzie „szklanej skrzynki”",
@@ -1477,43 +736,12 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@37.47.*.*",
-          "comment": "Tutaj odpowiedz nr 3 jest poprawna, a nie 1 :) (Tak mi sie wydaje)",
-          "date": "02-02-2017 18:34:39"
-        },
-        {
-          "author": "~anon@95.160.*.*",
-          "comment": "jak to z tym wkońcu?",
-          "date": "02-02-2017 21:35:13"
-        },
-        {
-          "author": "~anon@89.74.*.*",
-          "comment": "podbijam że prawidłowa odpowiedz to 3",
-          "date": "03-02-2017 21:50:33"
-        },
-        {
-          "author": "mykhi",
-          "comment": "zmieniam z 1 na 3",
-          "date": "03-02-2017 23:24:57"
-        },
-        {
-          "author": "~anon@83.31.*.*",
-          "comment": "znalazłem stary test z identycznym pytaniem i odpowiedź 1 jest prawidłowa, czyli \"szklana skrzynka\"\nhttps://pja.mykhi.org/5sem/BYT/BYT%20-%20Egzamin%20%5B31-01-2007%5D%20-%20Pytania%20testowe.pdf",
-          "date": "16-02-2019 12:51:39"
-        },
-        {
-          "author": "~anon@5.173.*.*",
-          "comment": "\"szklana skrzynka\" to to samo co \"WhiteBox Testing\" czyli testowanie mając dostęp do kodu źródłowego, a więc to raczej nie to",
-          "date": "02-02-2020 16:19:17"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Do obowiązków Product Ownera należy między innymi:",
       "id": 2669,
-      "numberOfComments": 3,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Pilnowanie przestrzegania procesów Scrum",
@@ -1532,28 +760,12 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@193.0.*.*",
-          "comment": "Product Owner zadządza priorytetami zadań i odpowiada za zyski. Jest to na slajdach w prezentacji",
-          "date": "02-02-2017 14:21:14"
-        },
-        {
-          "author": "~anon@89.77.*.*",
-          "comment": "Dokładnie odpowiedź 3 i 4 są prawidłowe\n",
-          "date": "02-02-2017 16:42:17"
-        },
-        {
-          "author": "mykhi",
-          "comment": "zaznaczam 3 i 4",
-          "date": "02-02-2017 16:46:17"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Zaznacz poprawne stwierdzenia",
       "id": 2901,
-      "numberOfComments": 13,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Serwer baz danych używa bufora w pamięci RAM",
@@ -1568,78 +780,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@89.70.*.*",
-          "comment": "Co to za quiz jeżeli odpowiedź jest od razu zaznaczona",
-          "date": "08-02-2018 17:35:38"
-        },
-        {
-          "author": "~iksde@89.64.*.*",
-          "comment": "XDDDDDDDDDDDD",
-          "date": "09-02-2018 03:41:36"
-        },
-        {
-          "author": "~krych@37.47.*.*",
-          "comment": "xdddddddddddddddd",
-          "date": "07-02-2019 14:23:38"
-        },
-        {
-          "author": "~anon@83.31.*.*",
-          "comment": "XDDDDDDDDDDDDDDDDDDDDDDDDDDD",
-          "date": "07-02-2019 14:29:13"
-        },
-        {
-          "author": "~anon@89.72.*.*",
-          "comment": "xD",
-          "date": "07-02-2019 19:50:42"
-        },
-        {
-          "author": "~anon@37.128.*.*",
-          "comment": "XD",
-          "date": "07-02-2019 19:52:56"
-        },
-        {
-          "author": "~anon@83.28.*.*",
-          "comment": "xd",
-          "date": "07-02-2019 19:54:41"
-        },
-        {
-          "author": "~xd@79.189.*.*",
-          "comment": "xDDD",
-          "date": "07-02-2019 20:45:10"
-        },
-        {
-          "author": "~420@83.6.*.*",
-          "comment": "xD",
-          "date": "08-02-2019 03:03:56"
-        },
-        {
-          "author": "~s19666@89.64.*.*",
-          "comment": "XD HUJ KUEWA",
-          "date": "08-02-2019 09:07:33"
-        },
-        {
-          "author": "~xDDDDDDDDDDDDDDDDDD@5.173.*.*",
-          "comment": "XDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD",
-          "date": "03-02-2020 22:42:38"
-        },
-        {
-          "author": "~co jest do@195.164.*.*",
-          "comment": "wtf xd",
-          "date": "08-02-2021 21:13:28"
-        },
-        {
-          "author": "~MarcinNajman@79.184.*.*",
-          "comment": "Widzieliście Krzysia Stanowskiego?",
-          "date": "09-02-2021 02:55:12"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Które z poniższych atrybutów można umieścić w encji AlbumMuzyczny w modelu relacyjnym? Pamiętaj, ze każda encja w modelu relacyjnym musi być w pierwszej postaci normalnej:",
       "id": 2670,
-      "numberOfComments": 5,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "KodAlbumu",
@@ -1658,33 +804,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@89.77.*.*",
-          "comment": "kod nie byłby poprawny?",
-          "date": "01-02-2017 12:44:03"
-        },
-        {
-          "author": "~anon@89.74.*.*",
-          "comment": "Własnie tak +1",
-          "date": "01-02-2017 16:37:01"
-        },
-        {
-          "author": "mykhi",
-          "comment": "zaznaczam kod",
-          "date": "01-02-2017 16:42:29"
-        },
-        {
-          "author": "~anon@91.226.*.*",
-          "comment": "Może mi ktoś wyjaśnić dlaczego tylko kod?",
-          "date": "06-02-2019 20:16:36"
-        },
-        {
-          "author": "~anon@5.173.*.*",
-          "comment": "Tylko kod, bo jako jedyny będzie miał tylko jedną wartość dla danego wiersza. Cechy postaci normalnej masz na slajdach na eduxie.",
-          "date": "06-02-2019 23:22:13"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<p><strong>Testy jednoskowe, to testy:</strong></p>",
@@ -1713,7 +833,7 @@
     {
       "question": "Logiczna strukturą danych w relacyjnym modelu danych jest:",
       "id": 2672,
-      "numberOfComments": 9,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Struktura tabel",
@@ -1732,58 +852,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~petenshi@37.47.*.*",
-          "comment": "Które prawidłowe? Na WSI zawsze jest przynajmniej jedna prawidłowa, ponoć",
-          "date": "02-02-2017 15:01:45"
-        },
-        {
-          "author": "~anon@89.77.*.*",
-          "comment": "Egzamin ma formę testu wielokrotnego wyboru, 10 pytań, 4 odpowiedzi możliwe do zaznaczenia, nie ma pytań bez poprawnej odpowiedzi.",
-          "date": "02-02-2017 16:04:24"
-        },
-        {
-          "author": "~anon@37.47.*.*",
-          "comment": "Struktura tabel :)",
-          "date": "02-02-2017 18:31:10"
-        },
-        {
-          "author": "~anon@109.241.*.*",
-          "comment": "Dalej nie ma zaznaczonej żadnej dobrej odpowiedzi\n",
-          "date": "01-02-2018 21:57:49"
-        },
-        {
-          "author": "~anon@178.235.*.*",
-          "comment": "Wg mnie też struktura tabel",
-          "date": "09-02-2018 00:33:28"
-        },
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "struktura tabel jest ok",
-          "date": "16-02-2018 22:55:55"
-        },
-        {
-          "author": "~anon@178.235.*.*",
-          "comment": "struktura tabel\n\n",
-          "date": "07-02-2019 13:38:51"
-        },
-        {
-          "author": "~Lala@46.227.*.*",
-          "comment": "Miki zaznacz strukture tabel",
-          "date": "07-02-2019 14:43:33"
-        },
-        {
-          "author": "mykhi",
-          "comment": "zaznaczam",
-          "date": "07-02-2019 15:54:37"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Relacja jest:",
       "id": 2673,
-      "numberOfComments": 15,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "reprezentowana w relacyjnej bazie danych jako tabela",
@@ -1802,88 +876,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~twojKolega@37.47.*.*",
-          "comment": "Odpowiedź \"związkiem pomiędzy tabelami bazy danych\" jest błedna, instancja zwiazku jest relacją, nie sam zwiazek :)",
-          "date": "02-02-2017 22:03:47"
-        },
-        {
-          "author": "~kolego@78.11.*.*",
-          "comment": "Skąd Ty to wziąłeś? Związek jest relacją jak najbardziej. ",
-          "date": "02-02-2017 23:18:07"
-        },
-        {
-          "author": "~OTWETY@188.146.*.*",
-          "comment": "http://meatspin.fr/auto.html",
-          "date": "02-02-2017 23:18:36"
-        },
-        {
-          "author": "~anon@89.70.*.*",
-          "comment": "Relacja - odzwierciedlenie oddzialywania miedzy dwoma badz wieksza liczba podmiotow, itp. w informatyce: Model relacyjny i relacyjna baza danych. W modelu relacyjnym baz danych \"relacja\" to formalne okreslenie tabeli. wiec wydaje mi sie ze \"zwiazkiem pomiedzy tabelami bazy danych\" jest błędem\n",
-          "date": "08-02-2018 20:36:08"
-        },
-        {
-          "author": "~hui@185.15.*.*",
-          "comment": "+1\n",
-          "date": "08-02-2018 21:12:24"
-        },
-        {
-          "author": "~polidruk@89.64.*.*",
-          "comment": "związek kilku tabeli przedstawia się jako tabelę, czy nie?",
-          "date": "09-02-2018 08:24:51"
-        },
-        {
-          "author": "~Jade KM, zaraz bede@94.254.*.*",
-          "comment": "Tabela (relacja) – wydzielony logicznie zbiór danych, zorganizowanych w formie tabeli składającej się z wierszy dzielonych na kolumny. Jest to obiekt teoretyczny i nie należy go mylić z jej graficzną reprezentacją, czy miejscem zajmowanym w pamięci komputera. W zależności od typu bazy danych wewnętrzna organizacja podziału danych na kolumny i wiersze jest różna i często umowna.\n\nPozdrawiam",
-          "date": "09-02-2018 09:32:29"
-        },
-        {
-          "author": "~Faze@79.184.*.*",
-          "comment": "Ktos bedzie dopisywac nowe pytania?",
-          "date": "13-02-2018 21:44:33"
-        },
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "jaka sa prawidłowe odpowiedzi na to pytanie?\n",
-          "date": "14-02-2018 12:26:02"
-        },
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "skąd ten podzbiór..? :)",
-          "date": "16-02-2018 23:17:44"
-        },
-        {
-          "author": "~anon@212.75.*.*",
-          "comment": "tylko 1 i 2 są poprawne",
-          "date": "14-02-2019 20:47:35"
-        },
-        {
-          "author": "~anon@83.24.*.*",
-          "comment": "3 niepoprawne\n",
-          "date": "04-02-2020 19:40:47"
-        },
-        {
-          "author": "~anon@37.30.*.*",
-          "comment": "4 poprawne?",
-          "date": "05-02-2020 00:20:04"
-        },
-        {
-          "author": "~anon@31.182.*.*",
-          "comment": "Ech ci rabini . . .",
-          "date": "05-02-2020 00:31:25"
-        },
-        {
-          "author": "~AAAAAAAAAAAAAAAAAAAAAA@83.5.*.*",
-          "comment": "jeden powie tak, drugi powie nie",
-          "date": "08-02-2021 18:15:26"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<strong><span lang=\"PL\">Stereotyp &lt;&lt;extend&gt;&gt; oznacza ze:</span></strong>",
       "id": 2674,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"PL\">Aktor może używać przypadków użycia innego aktora</span>",
@@ -1902,18 +900,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~pistacja@5.173.*.*",
-          "comment": "Dlaczego aktor nie moze uzyc konkretnego przypadku uzycia?",
-          "date": "02-02-2020 03:40:44"
-        },
-        {
-          "author": "~nyggetsy@83.24.*.*",
-          "comment": "Bo to nie jest wybór, tylko robiąc jedno możesz opcjonalnie wybrać dodatkowo drugie. A przynajmniej tak to rozumiem.",
-          "date": "04-02-2020 16:52:29"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<p class=\"MsoListParagraphCxSpFirst\">&nbsp;<strong><span lang=\"PL\">Dziedziczenie to:</span></strong></p>",
@@ -1942,7 +929,7 @@
     {
       "question": "Asocjacja to:",
       "id": 2738,
-      "numberOfComments": 11,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "uogólnienie zbioru połączeń pomiędzy obiektami",
@@ -1961,68 +948,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@85.222.*.*",
-          "comment": "na pewno drugie poprawne? asocjacja to nie to samo co dziedziczenie",
-          "date": "02-02-2017 13:58:16"
-        },
-        {
-          "author": "~dd@109.241.*.*",
-          "comment": "\"uogólnienie zbioru połączeń pomiędzy obiektam\" jedyna poprawna odpowiedz 2 to dziedziczenie ",
-          "date": "02-02-2017 18:05:31"
-        },
-        {
-          "author": "~anon@78.11.*.*",
-          "comment": "Jedyna poprawna odpowiedź to: \"Relacja pomiędzy klasami, łącząca klasę bardziej ogólną z bardziej wyspecjalizowaną\"",
-          "date": "08-02-2017 17:43:39"
-        },
-        {
-          "author": "~anon@79.191.*.*",
-          "comment": "1 dobrze tylko, drugie to dziedziczenie  ",
-          "date": "10-02-2017 02:37:54"
-        },
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "To ktore dobre?",
-          "date": "08-02-2018 16:22:23"
-        },
-        {
-          "author": "~anon@94.254.*.*",
-          "comment": "Według mnie odpowiedź A jest poprawnie. Wydaje mi się, że tworząc związek wiele-di-wiele relacja pomiędzy instancjami encji tworzy bardzo skomplikowany układ, który upraszczamy za pomocą encji asocjacyjnej. Więc ta odpowiedź brzmi sensownie ",
-          "date": "08-02-2018 18:00:44"
-        },
-        {
-          "author": "~anon@88.156.*.*",
-          "comment": "tylko 1 poprawne",
-          "date": "08-02-2018 22:10:00"
-        },
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "tylko 1 poprawne, 2 to dziedziczenie",
-          "date": "09-02-2018 01:31:15"
-        },
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "tylko 1",
-          "date": "16-02-2018 22:56:11"
-        },
-        {
-          "author": "~anon@213.238.*.*",
-          "comment": "Dałoby rade zmienić odpowiedź tylko na pierwszą?",
-          "date": "07-02-2019 16:33:12"
-        },
-        {
-          "author": "mykhi",
-          "comment": "tak",
-          "date": "07-02-2019 17:21:58"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Zaznacz poprawną odpowiedź",
       "id": 3176,
-      "numberOfComments": 3,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "TRUE AND NULL = NULL",
@@ -2041,28 +972,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~wektor@79.184.*.*",
-          "comment": "cokolwiek i null nie daje przypadkiem null?",
-          "date": "07-02-2019 21:12:54"
-        },
-        {
-          "author": "~anon@37.47.*.*",
-          "comment": "w dwóch przypadkach jest inaczej: true or null = true, false and null = false. z prezki WSIczII",
-          "date": "07-02-2019 22:48:46"
-        },
-        {
-          "author": "~anon@212.75.*.*",
-          "comment": "False and null = false\ntaka odpowiedz na egzamine i pytałem pana Lenkiewicza, on to podtwierdza",
-          "date": "13-02-2019 15:57:12"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Zaznacz poprawne zdania dotyczącze dziennika transakcji w serwarach baz danych",
       "id": 3177,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "dziennik transakcji pozwala zachować spójność danych",
@@ -2081,18 +996,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@83.28.*.*",
-          "comment": "powinno być wycofać zamiast wywołać",
-          "date": "07-02-2019 22:15:38"
-        },
-        {
-          "author": "mykhi",
-          "comment": "zmieniam",
-          "date": "07-02-2019 22:16:23"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Do obowiązków Scrum Mastera należą między innymi",
@@ -2121,7 +1025,7 @@
     {
       "question": "Które z tych zespołów są ofensywne?",
       "id": 3187,
-      "numberOfComments": 5,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Red Team",
@@ -2140,38 +1044,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~pistacja@5.173.*.*",
-          "comment": "o co tu chodzi, nie widzialam tego na zadnej z prezentacji",
-          "date": "02-02-2020 03:42:35"
-        },
-        {
-          "author": "~s73@178.235.*.*",
-          "comment": "O 'grupy'/'drużyny' hackerskie. \"Blue\" i \"Red\" wzieły się z ćwiczeń wojskowych. Blue miała za zadanie obronić coś (tu system) przed atakiem Red Team złożonej z zawodowców. White *Hats* (OP źle wpisał) to hackerzy którzy \"za pozwoleniem\" znajdują luki w zabezpieczeniach i powiadamiają o tym firmy. (\"Black hats\" włamują się gdzie chcą i wykorzystują znalezione info na czarno).\nZ kolei \"State Sponsored Hackers\" są z braku przyjętej definicji swego rodzaju 'żołnierzami' frontu cyfrowego na usłudze Rządu. Popraw ktoś jeśli się mylę",
-          "date": "03-02-2020 02:56:11"
-        },
-        {
-          "author": "~anon@5.173.*.*",
-          "comment": "W prezentacji pisze, że white hats to Red Team members, więc 3 chyba też poprawne (?)",
-          "date": "03-02-2020 18:37:37"
-        },
-        {
-          "author": "~bezrysoa@89.74.*.*",
-          "comment": "Read Team members należą do white hats ale tutaj trzeba wskazać OFENSYWNE a Red Team zajmuje się defensywą. ",
-          "date": "04-02-2020 17:05:20"
-        },
-        {
-          "author": "~bezrysoa@89.74.*.*",
-          "comment": "* Red Team zajmują się ofensywą a Blue Team defensywą. Napisałam odwrotnie niż miałam na myśli. Więc tak, Red Team members też powinno być dobre ",
-          "date": "04-02-2020 19:46:31"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span>White hats:</span>",
       "id": 3188,
-      "numberOfComments": 3,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Blue Team members<p></p>\n<p>Pentesters</p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\">Red Team members</span></p>\n<p>&nbsp;</p>",
@@ -2190,23 +1068,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~maciejzklanu@89.64.*.*",
-          "comment": "Co? to nawet nie jest pytanie. ",
-          "date": "09-02-2019 23:13:17"
-        },
-        {
-          "author": "~s18997@37.47.*.*",
-          "comment": "Ninja Team i P4 należą whit hatów...",
-          "date": "10-02-2019 07:32:27"
-        },
-        {
-          "author": "~anon@89.71.*.*",
-          "comment": "było 11 odpowiedzi brakuje bug bounty hunter",
-          "date": "13-02-2019 18:49:39"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span>Red Teaming to:</span>",
@@ -2235,7 +1097,7 @@
     {
       "question": "<span>Etapy analizy otwartych źródeł informacji i jej wyniki to:</span>",
       "id": 3190,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<p class=\"MsoNormal\"><span lang=\"EN-US\">Open Soruce Secure Data</span></p>",
@@ -2250,18 +1112,12 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@83.24.*.*",
-          "comment": "Duplikat pytania 9",
-          "date": "04-02-2020 20:17:23"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span>Które z poniższych stwierdzeń są prawdziwe:</span>",
       "id": 3191,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<p class=\"MsoNormal\">Instrukcja DELET języka SQL, służy do modyfikacji danych w bazie danych</p>",
@@ -2280,23 +1136,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anoncio@212.75.*.*",
-          "comment": "DELETE a nie DELET",
-          "date": "09-02-2019 09:45:47"
-        },
-        {
-          "author": "~yesverymuch@79.184.*.*",
-          "comment": "DILIT xd",
-          "date": "04-02-2020 15:02:37"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "W zagadnieniach związanych z bezpieczeństwem informacji - role defensywne to:",
       "id": 3195,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Architekt",
@@ -2311,23 +1156,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "Przypadkiem to nie Black Team?",
-          "date": "13-02-2019 18:40:21"
-        },
-        {
-          "author": "~JanPawełII@2a02:a310:c123:e000:a43b:c4b3:81ca:765e",
-          "comment": "nie",
-          "date": "04-02-2020 20:29:54"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Role pentestera:&nbsp;",
       "id": 3196,
-      "numberOfComments": 12,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Eksploitacja",
@@ -2346,73 +1180,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@37.47.*.*",
-          "comment": "2 odp tez jest prawidlowa.",
-          "date": "13-02-2019 17:20:05"
-        },
-        {
-          "author": "~anon@188.146.*.*",
-          "comment": "post eksplotacja tez, to jest w tej prezce o cyberbezpieczenstwie",
-          "date": "04-02-2020 13:15:47"
-        },
-        {
-          "author": "~yespoorplease@79.184.*.*",
-          "comment": "Eksploatacja nie Eksploitacja",
-          "date": "04-02-2020 15:03:38"
-        },
-        {
-          "author": "~nieZnaszSie@84.10.*.*",
-          "comment": "nie xd",
-          "date": "04-02-2020 16:13:13"
-        },
-        {
-          "author": "~anon@83.24.*.*",
-          "comment": "2 tez prawidlowa\n",
-          "date": "04-02-2020 19:42:39"
-        },
-        {
-          "author": "~anonek12@2a02:a319:c33f:3680:a9ba:43ac:5244:4099",
-          "comment": "Post-eksploatacja prawidłowe",
-          "date": "04-02-2020 20:06:59"
-        },
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "lekki offtop ale wie ktos czy na egzaminie są te pytania z generatora czy jednak lepiej sie z prezentacji uczyc?\n",
-          "date": "04-02-2020 20:12:16"
-        },
-        {
-          "author": "~JanPawełII@2a02:a310:c123:e000:a43b:c4b3:81ca:765e",
-          "comment": "sa z generatora",
-          "date": "04-02-2020 20:31:32"
-        },
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "dziekuje jp2gmd <3",
-          "date": "04-02-2020 20:37:59"
-        },
-        {
-          "author": "~anon@37.30.*.*",
-          "comment": "1,2,3?",
-          "date": "04-02-2020 22:03:17"
-        },
-        {
-          "author": "~anon@2a02:a311:4345:4880:805c:8328:134e:14cb",
-          "comment": "Poprawne to 1,2,3, można poprawić?",
-          "date": "05-02-2020 10:23:03"
-        },
-        {
-          "author": "mykhi",
-          "comment": "zaznaczam 1,2,3",
-          "date": "05-02-2020 10:48:45"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Kto ustala priorytety User Stories?",
       "id": 3197,
-      "numberOfComments": 4,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Scrum Master",
@@ -2431,33 +1204,12 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~Scrum Master\t@37.47.*.*",
-          "comment": "Chuj a nie Product Owner",
-          "date": "04-02-2020 22:23:51"
-        },
-        {
-          "author": "~Product Owner @37.30.*.*",
-          "comment": "no jak to mordeczko ",
-          "date": "04-02-2020 22:24:43"
-        },
-        {
-          "author": "~Klient@31.182.*.*",
-          "comment": "Oddaj mi moje Stories człowieku ",
-          "date": "04-02-2020 22:57:03"
-        },
-        {
-          "author": "~Zespół@5.173.*.*",
-          "comment": "E to nasze stories i one nam się po prostu należały ",
-          "date": "04-02-2020 23:18:30"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Arsenał broni do walki z fałszowaniem wiadomości",
       "id": 3198,
-      "numberOfComments": 7,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "SPF",
@@ -2476,43 +1228,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@89.72.*.*",
-          "comment": "Prawidłowe odpowiedzi to SPF, DKIM, DMARC",
-          "date": "10-02-2019 11:06:45"
-        },
-        {
-          "author": "~anon@88.156.*.*",
-          "comment": "może zaktualizowałby ktoś odpowiedzi? Skoro sa 3 poprawne?",
-          "date": "31-01-2020 21:33:02"
-        },
-        {
-          "author": "~anon@2a00:f41:70e4:e707:fde2:f059:d844:cd01",
-          "comment": "Raczej tylko DMARC",
-          "date": "01-02-2020 21:00:05"
-        },
-        {
-          "author": "~anon@5.173.*.*",
-          "comment": "^up\nSygnatura DKIM zabezpiecza przed podszywaniem się pod nadawcę (e-mail spoofing) z innych domen.\nDMARC (Domain-based Message Authentication, Reporting and Conformance) is an email authentication protocol. It is designed to give email domain owners the ability to protect their domain from unauthorized use, commonly known as email spoofing.\n\nSerwer B zabezpieczony przez SPF sprawdza w systemie DNS, czy wysyłana do niego poczta pochodzi z serwera uprawnionego do wysyłania poczty z danej domeny[...] Dzięki temu wiadomości wysyłane przez spamerów podszywających się pod cudze adresy e-mail lub przez wirusy typu Mydoom zostaną odrzucone.\n\n\n\n\n",
-          "date": "01-02-2020 22:03:30"
-        },
-        {
-          "author": "~anon@2a02:a310:c265:e200:cdf2:bcce:bf2a:fcf1",
-          "comment": "no i jakie są poprawne?",
-          "date": "04-02-2020 17:11:07"
-        },
-        {
-          "author": "~anon@2a02:a311:4345:4880:805c:8328:134e:14cb",
-          "comment": "Arsenał broni to SPF, DKIM, DMARC, więc poprawne 1,2,3",
-          "date": "05-02-2020 10:22:42"
-        },
-        {
-          "author": "mykhi",
-          "comment": "zaznaczam 1,2,3",
-          "date": "05-02-2020 10:49:30"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Jak zabezpieczysz się przed atakiem hakerskim na poczte",
@@ -2541,7 +1257,7 @@
     {
       "question": "Wymagania: uczeń należy do jednej klasy, jedna klasa ma wielu uczniów. Jak zdefiniować tabele w modelu relacyjnym? (to jest pytania z rysunkami)",
       "id": 3200,
-      "numberOfComments": 6,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Tabela Uczen: idUcznia, imię, nazwisko<p></p>\n<p>Tabela Klasa: idKlasy, PoziomKlasy</p>\n<p>Tabela [coś tam]: idKlasy, idUcznia</p>",
@@ -2560,43 +1276,12 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@89.72.*.*",
-          "comment": "Prawidłowa odpowiedź to ta ostatnia. Pomyliło mi się przy dodawaniu.",
-          "date": "10-02-2019 11:09:12"
-        },
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "Zgadza się.",
-          "date": "12-02-2019 20:11:23"
-        },
-        {
-          "author": "~anon@93.105.*.*",
-          "comment": "też wydaje mi się, że 4",
-          "date": "18-02-2019 00:21:30"
-        },
-        {
-          "author": "~anon@5.173.*.*",
-          "comment": "zdecydowanie 4.",
-          "date": "02-02-2020 03:43:47"
-        },
-        {
-          "author": "~anon@2a02:a311:4345:4880:805c:8328:134e:14cb",
-          "comment": "4 jest dobrze, można poprawić?",
-          "date": "05-02-2020 10:22:10"
-        },
-        {
-          "author": "mykhi",
-          "comment": "zmieniam",
-          "date": "05-02-2020 10:46:03"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Zaznacz poprawne odpowiedzi:",
       "id": 3205,
-      "numberOfComments": 12,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "NOT NULL= TRUE",
@@ -2615,73 +1300,12 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@79.191.*.*",
-          "comment": "Jedynie FALSE AND NULL= FALSE jest poprawna odpowiednią",
-          "date": "16-02-2019 18:53:35"
-        },
-        {
-          "author": "~anon@83.24.*.*",
-          "comment": "FALSE AND NULL= FALSE jest poprawna \n",
-          "date": "30-01-2020 12:50:28"
-        },
-        {
-          "author": "~anon@194.145.*.*",
-          "comment": "up",
-          "date": "01-02-2020 22:55:52"
-        },
-        {
-          "author": "mykhi",
-          "comment": "zaznazcam",
-          "date": "01-02-2020 23:00:37"
-        },
-        {
-          "author": "~anon@194.145.*.*",
-          "comment": "Chyba, coś się zepsuło, bo nie jest zaznaczone jako poprawne :)",
-          "date": "02-02-2020 02:06:01"
-        },
-        {
-          "author": "~anon@83.24.*.*",
-          "comment": "3 poprawna\n",
-          "date": "04-02-2020 19:43:29"
-        },
-        {
-          "author": "~anon@2a02:a310:45b:5280:c534:174f:5c3e:adf5",
-          "comment": "3 jest fałszywa, 4 jest poprawna",
-          "date": "04-02-2020 19:51:13"
-        },
-        {
-          "author": "~pch@87.206.*.*",
-          "comment": "Tutaj też są błędy i nie zamierzam ich poprawiać. Pozdrawiam",
-          "date": "04-02-2020 19:58:38"
-        },
-        {
-          "author": "~anon@2a02:a311:4345:4880:805c:8328:134e:14cb",
-          "comment": "tylko 4 poprawna",
-          "date": "05-02-2020 10:21:44"
-        },
-        {
-          "author": "~JanPawełII@2a02:a310:c123:e000:bcce:3d6:ec15:5e7f",
-          "comment": "4 poprawna",
-          "date": "10-02-2020 18:56:41"
-        },
-        {
-          "author": "~anon@2a02:a311:4345:4880:d08c:1868:c99a:9a03",
-          "comment": "i tu jeszcze 4 poprawne",
-          "date": "11-02-2020 22:43:59"
-        },
-        {
-          "author": "mykhi",
-          "comment": "zaznaczam 4",
-          "date": "11-02-2020 22:44:38"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Testy Black Box to testy, w których:",
       "id": 3206,
-      "numberOfComments": 7,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Szukamy błędów w kodzie bez uruchamiania go",
@@ -2700,48 +1324,12 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@93.105.*.*",
-          "comment": "poprawna d",
-          "date": "18-02-2019 00:07:24"
-        },
-        {
-          "author": "~anon@83.24.*.*",
-          "comment": "4 odp poprawna",
-          "date": "30-01-2020 13:35:17"
-        },
-        {
-          "author": "~anon@194.145.*.*",
-          "comment": "Potwierdzam, 4 poprawna",
-          "date": "01-02-2020 22:40:15"
-        },
-        {
-          "author": "mykhi",
-          "comment": "zaznaczam 4",
-          "date": "01-02-2020 22:58:35"
-        },
-        {
-          "author": "~anon@148.81.*.*",
-          "comment": "12 pytanie jest takie same a ma inna odpowiedz zaznaczoną",
-          "date": "04-02-2020 12:31:05"
-        },
-        {
-          "author": "~anon@148.81.*.*",
-          "comment": "a niexd, jest ok",
-          "date": "04-02-2020 12:31:45"
-        },
-        {
-          "author": "~yespoorplease@79.184.*.*",
-          "comment": "12 ma taką samą treść",
-          "date": "04-02-2020 15:07:26"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span>Które z poniższych stwierdzeń są prawdziwe:</span>",
       "id": 3207,
-      "numberOfComments": 3,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Klauzula WHERE instrukcji SELECT w języku SQL określa warunki, jakie muszą spełniać odczytywane wiersze",
@@ -2760,28 +1348,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@77.111.*.*",
-          "comment": "Wydaje mi się że odpowiedź pierwsza jest poprawna",
-          "date": "16-02-2019 19:06:50"
-        },
-        {
-          "author": "~anon@2a02:a311:360:bc00:a947:624f:1fa3:d7e",
-          "comment": "mi też\n",
-          "date": "30-01-2020 23:45:03"
-        },
-        {
-          "author": "mykhi",
-          "comment": "zaznaczam",
-          "date": "31-01-2020 09:02:47"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span>Które z poniższych problemów mogą być rezultatem długu technicznego?</span>",
       "id": 3208,
-      "numberOfComments": 6,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span>Żadne z powyższych, dług techniczny to sposób naciągania zleceniodawcy</span>",
@@ -2800,38 +1372,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~XD@2a02:a318:8263:3600:c599:ef03:a633:4ece",
-          "comment": "co XD",
-          "date": "30-11-2019 19:43:24"
-        },
-        {
-          "author": "~waper@5.173.*.*",
-          "comment": "kurwa co za pojebana korpomowa XD",
-          "date": "30-01-2020 02:40:59"
-        },
-        {
-          "author": "~anon@83.24.*.*",
-          "comment": "2,3,4 poprawne",
-          "date": "04-02-2020 19:43:49"
-        },
-        {
-          "author": "~lol@37.47.*.*",
-          "comment": "2, 3, 4 poprawne - potwierdzam prosto z egzaminu xd",
-          "date": "05-02-2020 08:25:15"
-        },
-        {
-          "author": "~anon@2a02:a311:4345:4880:805c:8328:134e:14cb",
-          "comment": "up",
-          "date": "05-02-2020 10:20:17"
-        },
-        {
-          "author": "mykhi",
-          "comment": "zaznaczam",
-          "date": "05-02-2020 10:47:47"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Zadania Blue Team to:",
@@ -2860,7 +1401,7 @@
     {
       "question": "Zaznacz poprawne odpowiedzi:",
       "id": 3251,
-      "numberOfComments": 9,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "TRUE and NULL = NULL",
@@ -2879,58 +1420,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@5.172.*.*",
-          "comment": "True or null daje true elo",
-          "date": "04-02-2020 20:54:24"
-        },
-        {
-          "author": "~jebaka@89.64.*.*",
-          "comment": "@up zgadzam się",
-          "date": "04-02-2020 21:54:10"
-        },
-        {
-          "author": "~mm@37.30.*.*",
-          "comment": "@upup zgadza się",
-          "date": "04-02-2020 22:30:52"
-        },
-        {
-          "author": "~Twój Stary @31.182.*.*",
-          "comment": "@upupup zgadza się ",
-          "date": "04-02-2020 22:52:33"
-        },
-        {
-          "author": "~ko@212.180.*.*",
-          "comment": "@upupupup zgadzam się",
-          "date": "04-02-2020 23:41:57"
-        },
-        {
-          "author": "~wakacyjnepierdolenietwojejstarejnabasenie@2a02:a310:c25e:7580:6896:6956:ead0:400f",
-          "comment": "@upupupupup zgadzam się",
-          "date": "05-02-2020 05:33:08"
-        },
-        {
-          "author": "~anon@2a00:f41:1c13:9bb1:0:57:4b1d:d301",
-          "comment": "@upupupupupup zgadzam się",
-          "date": "08-02-2020 09:58:18"
-        },
-        {
-          "author": "~anon@2a02:a311:4345:4880:c025:794e:671e:ea67",
-          "comment": "mykhi poprawisz?",
-          "date": "08-02-2020 12:16:22"
-        },
-        {
-          "author": "mykhi",
-          "comment": "odznaczam 4",
-          "date": "08-02-2020 14:45:13"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Które z poniższych stwierdzeń są prawdziwe w modelu relacyjnym bazy danych?",
       "id": 3252,
-      "numberOfComments": 8,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "klucz obcy to jednoznaczy intentyfikator wiersza w tabeli",
@@ -2949,53 +1444,12 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~s73@178.235.*.*",
-          "comment": "Noo i nieprawda bo kluczy głównych również może być kilka kolumn",
-          "date": "05-02-2020 01:28:55"
-        },
-        {
-          "author": "~anon@31.182.*.*",
-          "comment": "Nie. Główny tylko 1.",
-          "date": "05-02-2020 02:02:01"
-        },
-        {
-          "author": "~anon@194.145.*.*",
-          "comment": "w tabeli rel. bazy danych wiersze mogą się powtarzać raczej",
-          "date": "07-02-2020 15:32:30"
-        },
-        {
-          "author": "~anon@2a02:a311:4345:4880:58c1:29cc:a596:6b41",
-          "comment": "a tu są dobre odp?",
-          "date": "11-02-2020 21:05:08"
-        },
-        {
-          "author": "~optimusKEK@83.5.*.*",
-          "comment": "tak mi sie wydaje, że odp nr 1 jest błędna, no chyba, że się mylę ",
-          "date": "07-02-2021 15:41:46"
-        },
-        {
-          "author": "~anonek@91.207.*.*",
-          "comment": "@optimusKEK też miałem taką rozkminę, bardziej by mi pasowało jakby była mowa o kluczu głównym, ale może jednak jest poprawna, bo klucz obcy tabeli jest kluczem głównym w swojej tabeli czyli według definicji jest jednoznaczym identyfikatorem wiersza w tej swojej tabeli. Jakby ktoś jeszcze mógł potwierdzić czy odp 1 poprawna byłoby super xdd",
-          "date": "07-02-2021 15:49:24"
-        },
-        {
-          "author": "~anon@5.173.*.*",
-          "comment": "\"Klucz obcy jest to jedna lub więcej kolumn, których wartości występują jako wartości ustalonego klucza głównego lub jednoznacznego w tej lub innej tabeli i są interpretowane jako wskaźniki do wierszy w tej drugiej tabeli.\" więc 1 powinno być git",
-          "date": "08-02-2021 16:42:06"
-        },
-        {
-          "author": "~bruh@79.191.*.*",
-          "comment": "IMO obcy jednoznaczny identyfikator wiersza w tabeli nie pasuje bo mowa tu o wierszu, w którym ten klucz obcy występuje. Mając podany klucz obcy i konfrontując go z tabelą nie jesteśmy w stanie jednoznacznie zidentyfikować tego konkretnego wiersza, ponieważ pare wierszy może mieć ten sam klucz obcy. Mocno dyskusyjne sformułowanie, ponieważ ten klucz obcy będąc kluczem głównym w swojej tabeli dopiero wtedy jednoznacznie identyfikuje wiersz.",
-          "date": "08-02-2021 16:44:58"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Z poniższej listy wybierz własności, jakie charakteryzują Aktora przypadków użycia:",
       "id": 3253,
-      "numberOfComments": 4,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "takie pojęcie nie istnieje",
@@ -3014,28 +1468,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@37.47.*.*",
-          "comment": "2 też poprawne ",
-          "date": "04-02-2020 22:03:56"
-        },
-        {
-          "author": "~klapek@178.235.*.*",
-          "comment": "ale o czym Ty mowisz?",
-          "date": "08-02-2021 22:21:55"
-        },
-        {
-          "author": "~sandał@89.70.*.*",
-          "comment": "klapek ma racje 2 niepoprawne ",
-          "date": "08-02-2021 22:23:01"
-        },
-        {
-          "author": "~kolo@5.173.*.*",
-          "comment": "a czemu 2 niepoprawne?",
-          "date": "20-02-2021 20:09:19"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Niebezpieczne oprogramowanie - zabezpieczenia organizacyjne - wskaż prawidłowe odpowiedzi:",
@@ -3064,7 +1497,7 @@
     {
       "question": "Zaznacz elementy Bezpieczeństwa IT (z wersji szescioelementowej)",
       "id": 3255,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "poufność<p></p>\n<p>dostępność</p>",
@@ -3083,13 +1516,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@88.156.*.*",
-          "comment": "Poufność, dostępność i integralnosc to prawidłowe odpowiedzi",
-          "date": "05-02-2020 06:52:07"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span>Które z poniższych atrybutów można umieścić w encji Uczeń w modelu relacyjnym?</span><span> Pamiętaj, ze każda encja w modelu relacyjnym musi być w pierwszej postaci normalnej :</span>",
@@ -3142,7 +1569,7 @@
     {
       "question": "<span>Które z poniższych twierdzeń są prawdziwe?</span>",
       "id": 3258,
-      "numberOfComments": 10,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<p><span>Klauzura ORDER BY instrukcji SELECT w języku SQL określa sposób sortowania odczytywanych z bazy wierszy</span></p>",
@@ -3161,63 +1588,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~tibijczyk@37.47.*.*",
-          "comment": "3 git",
-          "date": "04-02-2020 23:19:53"
-        },
-        {
-          "author": "~yespoorplease@79.184.*.*",
-          "comment": "3 właśnie dobrze i 1 chyba też?",
-          "date": "05-02-2020 00:51:19"
-        },
-        {
-          "author": "~nibba@37.47.*.*",
-          "comment": "co do huja, jak to 3 jest nieprawdziwe xdddd",
-          "date": "05-02-2020 00:55:20"
-        },
-        {
-          "author": "~Katyusha@31.182.*.*",
-          "comment": "1 i 3 są dobrze",
-          "date": "05-02-2020 00:57:42"
-        },
-        {
-          "author": "~Katyusha@31.182.*.*",
-          "comment": "1 i 3 są dobrze",
-          "date": "05-02-2020 00:57:57"
-        },
-        {
-          "author": "~anon@2a02:a311:4345:4880:91d0:1743:695:526e",
-          "comment": "mykhi zaznaczysz 3) też?",
-          "date": "09-02-2020 13:09:45"
-        },
-        {
-          "author": "mykhi",
-          "comment": "ok",
-          "date": "09-02-2020 15:53:26"
-        },
-        {
-          "author": "~szumi@37.30.*.*",
-          "comment": "mykhi, nie zaznaczyles",
-          "date": "11-02-2020 13:03:39"
-        },
-        {
-          "author": "mykhi",
-          "comment": "chyba ty",
-          "date": "11-02-2020 14:07:31"
-        },
-        {
-          "author": "~anon@2a02:a310:c123:e000:61ff:d7d1:c707:866",
-          "comment": "xd",
-          "date": "11-02-2020 16:06:21"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Zaznacz Elementy Bezpieczenśtwa IT ( z wersji sześcioelementowej):",
       "id": 3259,
-      "numberOfComments": 8,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Elastyczność",
@@ -3236,48 +1612,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@2a01:110f:1506:ca00:90e8:77cc:259d:2eb6",
-          "comment": "nie powinno byc autentycznosc zamiast elastycznosc?",
-          "date": "04-02-2020 23:25:23"
-        },
-        {
-          "author": "~jebaka@89.64.*.*",
-          "comment": "cos tu nie gra",
-          "date": "04-02-2020 23:40:58"
-        },
-        {
-          "author": "~anon@31.182.*.*",
-          "comment": "No coś się popsuło\n",
-          "date": "04-02-2020 23:50:30"
-        },
-        {
-          "author": "~anon@37.248.*.*",
-          "comment": "a nie powinno być i to i to?",
-          "date": "05-02-2020 00:05:50"
-        },
-        {
-          "author": "~JanPawełII@2a02:a310:c123:e000:61ff:d7d1:c707:866",
-          "comment": "autentycznosc",
-          "date": "11-02-2020 10:31:25"
-        },
-        {
-          "author": "~anon@2a02:a311:4345:4880:e96b:ac3b:387e:b189",
-          "comment": "da radę odznaczyć elastycznośc i zaznaczyć autentyczność?",
-          "date": "11-02-2020 18:09:40"
-        },
-        {
-          "author": "mykhi",
-          "comment": "da",
-          "date": "11-02-2020 22:14:47"
-        },
-        {
-          "author": "~lubieschabowe2137@83.5.*.*",
-          "comment": "ja bym wolal niezniszczalnosc jednak",
-          "date": "07-02-2021 02:01:25"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Do stworzenia oprogramowania wysokiej jakości można użyć&nbsp;",
@@ -3306,7 +1641,7 @@
     {
       "question": "Czym różni się podejście Kanban od Scrum?",
       "id": 3261,
-      "numberOfComments": 6,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Inny sposób oceny wagi zadan",
@@ -3325,43 +1660,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~dzban@79.184.*.*",
-          "comment": "3) chyba",
-          "date": "05-02-2020 17:00:47"
-        },
-        {
-          "author": "~anon@188.146.*.*",
-          "comment": "nie 3 tylko 2\nw kanbanie nie ma sztywnych ram czasowych",
-          "date": "07-02-2020 22:22:59"
-        },
-        {
-          "author": "~anon@83.5.*.*",
-          "comment": "chyba 5, moim zdaniem ma sens",
-          "date": "07-02-2021 01:40:44"
-        },
-        {
-          "author": "~lizeogury69@83.5.*.*",
-          "comment": "chyba 5, moim zdaniem ma sens",
-          "date": "07-02-2021 01:40:48"
-        },
-        {
-          "author": "~lizeogury69@83.5.*.*",
-          "comment": "chyba 5, moim zdaniem ma sens",
-          "date": "07-02-2021 01:40:54"
-        },
-        {
-          "author": "~haker@83.31.*.*",
-          "comment": "\"Wieksza elastycznosc procesu w Kanban niz w Scrum\" - poprawna odp",
-          "date": "08-02-2021 20:25:56"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Dziedziczenie to:",
       "id": 3262,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "opis grupy obiektów, które współdziela ten sam zbiór wartości",
@@ -3380,23 +1684,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~MBiel@178.42.*.*",
-          "comment": "3",
-          "date": "15-02-2020 08:52:18"
-        },
-        {
-          "author": "~anon@83.24.*.*",
-          "comment": "Trzecia poprawna",
-          "date": "08-02-2021 20:05:04"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Red Team - narzędzia to:",
       "id": 3263,
-      "numberOfComments": 7,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "USBSpear",
@@ -3415,48 +1708,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@2a01:110f:618:df00:ac3c:a41d:9d46:ffca",
-          "comment": "powinno być chyba Proxmark",
-          "date": "06-02-2020 17:04:56"
-        },
-        {
-          "author": "~anon@2a00:f41:1c13:9bb1:0:57:4b1d:d301",
-          "comment": "USB ninja tak, ale ctf już nie",
-          "date": "08-02-2020 10:05:31"
-        },
-        {
-          "author": "~anon@2a02:a311:4345:4880:c025:794e:671e:ea67",
-          "comment": "up",
-          "date": "08-02-2020 12:16:36"
-        },
-        {
-          "author": "~anon@2a02:a311:4345:4880:91d0:1743:695:526e",
-          "comment": "a proxmarku używają?",
-          "date": "09-02-2020 13:10:18"
-        },
-        {
-          "author": "~anon@2a02:a311:4345:4880:d08c:1868:c99a:9a03",
-          "comment": "proxmark git?",
-          "date": "11-02-2020 23:05:10"
-        },
-        {
-          "author": "~OjciecDyrektor@31.0.*.*",
-          "comment": "nie ma go w prezentacji",
-          "date": "11-02-2020 23:19:52"
-        },
-        {
-          "author": "~JanPawełII@2a02:a310:c123:e000:7440:ac6:cb2d:7e4c",
-          "comment": "jest proxmark w prezce",
-          "date": "12-02-2020 07:45:18"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Składowane Pentestu to:",
       "id": 3264,
-      "numberOfComments": 5,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Ustalenie zakresu testu",
@@ -3475,33 +1732,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~KM@2a02:a310:400:80:d69:9dda:33f4:73a6",
-          "comment": "Prawidłowe: Enumeracja, post-eksploatacja, ustalenie zakresu",
-          "date": "05-02-2020 21:24:14"
-        },
-        {
-          "author": "~anon@79.184.*.*",
-          "comment": "post-eksploatacja jest źle, powinno być post-eksploitacja",
-          "date": "07-02-2020 21:29:56"
-        },
-        {
-          "author": "~JanPawełII@2a02:a310:c123:e000:7440:ac6:cb2d:7e4c",
-          "comment": "1 i 2",
-          "date": "12-02-2020 07:21:37"
-        },
-        {
-          "author": "~mordaKrzywa@91.230.*.*",
-          "comment": "Ustalenie zakresu testu\n● Zbieranie informacji\n● Skanowanie\n● Enumeracja\n● Eksploitacja\n● Post-eksploitacja\n● Eskalacja uprawnień\n● Zbieranie\n● Przygotowanie raportu informacji",
-          "date": "15-02-2020 11:01:18"
-        },
-        {
-          "author": "~anon@91.230.*.*",
-          "comment": "Mykhi zmień proszę wedle listy powyżej.",
-          "date": "15-02-2020 11:01:49"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Które z poniższych modeli tworzenia oprogramowania są odpowiednie przy tworzeniu oprogramowania..",
@@ -3972,5 +2203,5 @@
       "comments": []
     }
   ],
-  "updatedAt": 1655413492390
+  "updatedAt": 1655413568101
 }

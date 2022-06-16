@@ -221,7 +221,7 @@
     {
       "question": "<span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;Instrukcja ALTER TABLE su0142uu017cy do:&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:16899,&quot;3&quot;:{&quot;1&quot;:0},&quot;4&quot;:{&quot;1&quot;:2,&quot;2&quot;:13228792},&quot;12&quot;:0,&quot;17&quot;:1}\">Instrukcja ALTER TABLE służy do:</span>",
       "id": 2817,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;tworzenia tabeli&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}\">tworzenia tabeli</span>",
@@ -240,13 +240,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@5.184.*.*",
-          "comment": "ALTER TABLE RENAME INDEX `IDX_NAME` `IDX_NEW_NAME` \nNie wchodzi do \"aktualizacji\"? Myślę ze d) też poprawna odpowiedź",
-          "date": "01-09-2019 17:27:26"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;Jaka jest wartou015bu0107 wyrau017cenia Null=Null:&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:16899,&quot;3&quot;:{&quot;1&quot;:0},&quot;4&quot;:{&quot;1&quot;:2,&quot;2&quot;:13228792},&quot;12&quot;:0,&quot;17&quot;:1}\">Jaka jest wartość wyrażenia Null=Null:</span>",
@@ -275,7 +269,7 @@
     {
       "question": "<span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;Jaka jest wartou015bu0107 wyrau017cenia True OR Null:&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:16899,&quot;3&quot;:{&quot;1&quot;:0},&quot;4&quot;:{&quot;1&quot;:2,&quot;2&quot;:13228792},&quot;12&quot;:0,&quot;17&quot;:1}\">Jaka jest wartość wyrażenia True OR Null:</span>",
       "id": 2819,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;jest nieokreu015blone&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}\">jest nieokreślone</span>",
@@ -294,18 +288,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~samph@31.179.*.*",
-          "comment": "Moim zdaniem NULL to odpowiedź prawidłowa",
-          "date": "11-02-2017 21:56:12"
-        },
-        {
-          "author": "~samph@31.179.*.*",
-          "comment": "Dobra cofam to.",
-          "date": "11-02-2017 21:57:38"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;Jaka jest wartou015bu0107 wyrau017cenia False OR Null:&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:16899,&quot;3&quot;:{&quot;1&quot;:0},&quot;4&quot;:{&quot;1&quot;:2,&quot;2&quot;:13228792},&quot;12&quot;:0,&quot;17&quot;:1}\">Jaka jest wartość wyrażenia False OR Null:</span>",
@@ -358,7 +341,7 @@
     {
       "question": "<span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;Jaka jest wartou015bu0107 wyrau017cenia True AND Null:&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:16899,&quot;3&quot;:{&quot;1&quot;:0},&quot;4&quot;:{&quot;1&quot;:2,&quot;2&quot;:13228792},&quot;12&quot;:0,&quot;17&quot;:1}\">Jaka jest wartość wyrażenia True AND Null:</span>",
       "id": 2822,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;jest nieokreu015blone&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}\">jest nieokreślone</span>",
@@ -377,18 +360,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~Rolf@162.158.*.*",
-          "comment": "to juz jutro :)",
-          "date": "23-06-2019 13:13:12"
-        },
-        {
-          "author": "~danon@162.158.*.*",
-          "comment": ":(",
-          "date": "23-06-2019 18:50:34"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;Jaka jest wartou015bu0107 wyrau017cenia NOT Null:&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:16899,&quot;3&quot;:{&quot;1&quot;:0},&quot;4&quot;:{&quot;1&quot;:2,&quot;2&quot;:13228792},&quot;12&quot;:0,&quot;17&quot;:1}\">Jaka jest wartość wyrażenia NOT Null:</span>",
@@ -417,7 +389,7 @@
     {
       "question": "<span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;Co bu0119dzie wynikiem realizacji instrukcji nSELECT * FROM EmployeesnWHERE EmployeeID=EmployeeID OR EmployeeID=NULL&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:16899,&quot;3&quot;:{&quot;1&quot;:0},&quot;4&quot;:{&quot;1&quot;:2,&quot;2&quot;:13228792},&quot;12&quot;:0,&quot;17&quot;:1}\">Co będzie wynikiem realizacji instrukcji <br>SELECT * FROM Employees<br>WHERE EmployeeID=EmployeeID OR EmployeeID=NULL</span>",
       "id": 2824,
-      "numberOfComments": 5,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;relacja Emp&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}\">relacja Emp</span>",
@@ -436,33 +408,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~s13810@178.235.*.*",
-          "comment": "wynik porównania NULL=NULL jest NULL",
-          "date": "02-09-2017 21:00:05"
-        },
-        {
-          "author": "~anon@89.66.*.*",
-          "comment": "a czy to przypadkiem nie jest po prostu porównanie TRUE OR NULL co w wyniku daje TRUE :)?",
-          "date": "05-02-2019 23:26:12"
-        },
-        {
-          "author": "~anon@89.66.*.*",
-          "comment": "a więc właśnie relacje Emp? ale oczywiście to tylko moje gdybanie ",
-          "date": "05-02-2019 23:26:48"
-        },
-        {
-          "author": "~.@89.64.*.*",
-          "comment": "jesli wszystkie wartosci EmployeeID byłyby nullami, to zwróciłoby relację pustą, bo EmployeeID=null nie zwraca nullowych wierszy, \"EmployeeID is null\" to robi. Więc odp relacja pusta też jej poprawna. Sprawdziłam na bazie",
-          "date": "17-02-2019 10:08:41"
-        },
-        {
-          "author": "~anon@162.158.*.*",
-          "comment": "jeśli założymy, że EmployeeID jest kluczem głównym to rzeczywiście zwróci nam całą relację, ale jeśli może być null to zwróci nam tylko te w których ID nie jest null (ID=NULL zawsze zwróci NULL)",
-          "date": "24-06-2019 08:08:44"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;Co bu0119dzie wynikiem realizacji instrukcji nSELECT * FROM Emp nWHERE EmployeeID=EmployeeID AND NULL=EmployeeID&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:16899,&quot;3&quot;:{&quot;1&quot;:0},&quot;4&quot;:{&quot;1&quot;:2,&quot;2&quot;:13228792},&quot;12&quot;:0,&quot;17&quot;:1}\">Co będzie wynikiem realizacji instrukcji <br>SELECT * FROM Emp <br>WHERE EmployeeID=EmployeeID AND NULL=EmployeeID</span>",
@@ -491,7 +437,7 @@
     {
       "question": "Relacja R ma atrybut a. <br>\nJaka liczba może być wynikiem wykonania instrukcji <br>\nSELECT Count(*) FROM R WHERE a=a;",
       "id": 2826,
-      "numberOfComments": 11,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "0",
@@ -510,63 +456,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@148.81.*.*",
-          "comment": "a jesli a bedzie NULL to nie bedzie 0?",
-          "date": "04-02-2017 15:16:07"
-        },
-        {
-          "author": "~anon@87.206.*.*",
-          "comment": "Nie, sprawdzałem na bazie.",
-          "date": "04-02-2017 17:45:10"
-        },
-        {
-          "author": "~blk@78.11.*.*",
-          "comment": "w generatorach RBD jest odpowiedź 0 i 1  i była sprawdzana na bazie.",
-          "date": "12-02-2017 09:23:38"
-        },
-        {
-          "author": "~anon@89.74.*.*",
-          "comment": "Dostałem takie pytanie na egz. 2017 roku, odpowiedź jest 0 i 1, ponieważ ilość wierszy jest niewiadoma(może być jeden), a w przypadku NULL'a polecenie zwróci 0",
-          "date": "06-09-2017 07:59:11"
-        },
-        {
-          "author": "~anon@188.147.*.*",
-          "comment": "Proszę o zmianę poprawnych odpowiedzi.",
-          "date": "10-02-2019 11:24:45"
-        },
-        {
-          "author": "mykhi",
-          "comment": "odznaczam d) zaznaczam a) i b)",
-          "date": "10-02-2019 11:59:22"
-        },
-        {
-          "author": "~anon@195.167.*.*",
-          "comment": "przypuszczam, że poprawne odpowiedzi to b) i c). b - 1 otrzymamy jeśli w kolumnie a będą tylko wartości null(sprawdzone w postgreSQL). jesli w kolumnie a są wszystkie wartości różne od null, to zwróci taką liczbę, ile jest rekordów w tabeli, czyli odpowiedź c) - tez sprawdzono w postgreSQL. skoro już udało się uzyskać wynik 1 i n, to odpowiedzi ze słowem 'zawsze' odpadają",
-          "date": "11-02-2019 16:50:08"
-        },
-        {
-          "author": "~anon@195.167.*.*",
-          "comment": "poprawka - jeśli wszystkie wartości w danej kolumnie mają wartość null, to takie zapytanie zwróci wartość 0. Czyli podsumowując - takie zapytanie, nie może nam ZAWSZE zwracać 0, 1 może zwrócić, dowolną liczbę całkowitą mogłoby zwrócić, jeśli by tutaj było doprecyzowane, że są to liczby nieujemne, i nie może ZAWSZE być równa liczebności relacji R. zgodnie z tą logiką, jedyna poprawna odpowiedź(według mnie) to b) - 1.",
-          "date": "11-02-2019 17:05:00"
-        },
-        {
-          "author": "~anon@195.167.*.*",
-          "comment": "dobra, przy a) nie ma słowa 'zawsze', patrzyłem na inne pytanie... czyli rzeczywiście i a) i b)",
-          "date": "11-02-2019 17:06:10"
-        },
-        {
-          "author": "~anon@2a02:a317:2244:2b00:30e6:f1fc:a1e8:44b",
-          "comment": "Honzik dzisiaj powiedziała, że a) b) d)",
-          "date": "24-06-2020 18:40:26"
-        },
-        {
-          "author": "~anon@79.184.*.*",
-          "comment": "przy okazji powiedziala, zeby uwazac na slowa kluczowe typu \"zawsze\" i to w tym przypadku definiuje ze d) nie jest poprawna odpowiedzia ;)\n",
-          "date": "28-06-2020 23:40:06"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Encje LEK i RECEPTA (z zależnością \"wypisany na\") połączone są związkiem:",
@@ -595,7 +485,7 @@
     {
       "question": "<span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;Relacja R ma atrybut a. nJaka liczba mou017ce byu0107 wynikiem wykonania instrukcjinSELECT Count(*) FROM R WHERE a;&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:16899,&quot;3&quot;:{&quot;1&quot;:0},&quot;4&quot;:{&quot;1&quot;:2,&quot;2&quot;:13228792},&quot;12&quot;:0,&quot;17&quot;:1}\">Relacja R ma atrybut a. <br>Jaka liczba może być wynikiem wykonania instrukcji<br>SELECT Count(*) FROM R WHERE a;</span>",
       "id": 2827,
-      "numberOfComments": 7,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;zawsze 0&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}\">zawsze 0</span>",
@@ -614,48 +504,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~2m@82.214.*.*",
-          "comment": "Czy nie odpowiedź D?",
-          "date": "01-02-2017 14:25:14"
-        },
-        {
-          "author": "~maziar@87.206.*.*",
-          "comment": "To zapytanie na TSQl się nie wykona więc raczej odpowiedź C",
-          "date": "01-02-2017 22:11:13"
-        },
-        {
-          "author": "~osama@83.9.*.*",
-          "comment": "a raczej żadna z nich, nie jest to tsql tylko powinno być błędne polecenie",
-          "date": "04-02-2017 23:47:05"
-        },
-        {
-          "author": "~anon@91.230.*.*",
-          "comment": "na postgresqlu gdyby a było booleanem to zwróciłoby te rokordy w których a == true :P",
-          "date": "05-02-2017 11:39:56"
-        },
-        {
-          "author": "~blk@78.11.*.*",
-          "comment": "w generatorach RBD jest odpowiedź zawsze 0 i była sprawdzana na bazie.",
-          "date": "12-02-2017 09:24:30"
-        },
-        {
-          "author": "~anon@185.225.*.*",
-          "comment": "SELECT Count(*) FROM emp WHERE empno;\nORA-00920: invalid relational operator\n00920. 00000 -  \"invalid relational operator\"\njakie 0?",
-          "date": "18-02-2018 13:29:33"
-        },
-        {
-          "author": "~anon@195.167.*.*",
-          "comment": "[42804] BŁĄD: argument WHERE musi być typu logicznego, nie typu character varying",
-          "date": "11-02-2019 16:40:40"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;Encji odpowiada w relacyjnej bazie danych:&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:16899,&quot;3&quot;:{&quot;1&quot;:0},&quot;4&quot;:{&quot;1&quot;:2,&quot;2&quot;:13228792},&quot;12&quot;:0,&quot;17&quot;:1}\">Encji odpowiada w relacyjnej bazie danych:</span>",
       "id": 2828,
-      "numberOfComments": 3,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;wiersz w tabeli&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}\">wiersz w tabeli</span>",
@@ -674,23 +528,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~PCHfanklubPL@193.0.*.*",
-          "comment": "W przypadku relacyjnych baz danych, encja jest zazwyczaj utożsamiana z wierszem w bazie danych.",
-          "date": "26-06-2017 15:11:17"
-        },
-        {
-          "author": "~-.-@37.47.*.*",
-          "comment": "nie klam, tabela jest poprawnie\n",
-          "date": "27-06-2017 15:15:53"
-        },
-        {
-          "author": "~PCHfanklubPL@193.0.*.*",
-          "comment": "sorki juz wiem ze to był błąd(z wikipedii)",
-          "date": "27-06-2017 17:52:23"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;Zwiu0105zkowi jednoznacznemu odpowiada nw relacyjnej bazie danych:&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:16899,&quot;3&quot;:{&quot;1&quot;:0},&quot;4&quot;:{&quot;1&quot;:2,&quot;2&quot;:13228792},&quot;12&quot;:0,&quot;17&quot;:1}\">Związkowi jednoznacznemu odpowiada &nbsp;w relacyjnej bazie danych:</span>",
@@ -983,7 +821,7 @@
     {
       "question": "Które z poniższych stwierdzeń są prawdziwe:",
       "id": 2841,
-      "numberOfComments": 3,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "jedyną poprawną,&nbsp;nietrywialną zależnością funkcyjną jest zależność do klucza",
@@ -1002,23 +840,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@83.31.*.*",
-          "comment": "powinno się używać możliwie jak najmniejszej ilości tabel ",
-          "date": "25-06-2018 19:18:26"
-        },
-        {
-          "author": "~anon@77.253.*.*",
-          "comment": "według mnie również to powinno być prawdą",
-          "date": "25-06-2018 19:52:29"
-        },
-        {
-          "author": "mykhi",
-          "comment": "no, a według mnie nie :)",
-          "date": "25-06-2018 20:11:00"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;Ktu00f3re z poniu017cszych stwierdzeu0144 su0105 prawdziwe:&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:16899,&quot;3&quot;:{&quot;1&quot;:0},&quot;4&quot;:{&quot;1&quot;:2,&quot;2&quot;:13228792},&quot;12&quot;:0,&quot;17&quot;:1}\">Które z poniższych stwierdzeń są prawdziwe:</span>",
@@ -1191,7 +1013,7 @@
     {
       "question": "<span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;Jakiego typu mou017ce byu0107 wartou015bu0107 atrybutu w modelu obiektowo-relacyjnym:&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:16899,&quot;3&quot;:{&quot;1&quot;:0},&quot;4&quot;:{&quot;1&quot;:2,&quot;2&quot;:13228792},&quot;12&quot;:0,&quot;17&quot;:1}\">Jakiego typu może być wartość atrybutu w modelu obiektowo-relacyjnym:</span>",
       "id": 2849,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;listu0105 wartou015bci&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}\">listą wartości</span>",
@@ -1210,18 +1032,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@148.81.*.*",
-          "comment": "http://edu.pjwstk.edu.pl/wyklady/rbd/scb/wyklad4/obrelb.htm\n\nwedług tego odpowiedź D jest złą odpowiedzią",
-          "date": "04-02-2017 19:28:17"
-        },
-        {
-          "author": "~anon@176.221.*.*",
-          "comment": "\"Wartością atrybutu może być wartość nie-atomowa (złożona) jak np. lista wartości, zbiór wartości, rekord, referencja do innego obiektu\"  Wg tego nie musi byc wartoscią atomową, ale może, więc ABCD poprawne",
-          "date": "05-02-2017 00:37:55"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;Ktu00f3re ze sformuu0142owau0144 su0105 prawdziwe dla zwiu0105zku nieidentyfikuju0105cego w Visio:&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:16899,&quot;3&quot;:{&quot;1&quot;:0},&quot;4&quot;:{&quot;1&quot;:2,&quot;2&quot;:13228792},&quot;12&quot;:0,&quot;17&quot;:1}\">Które ze sformułowań są prawdziwe dla związku nieidentyfikującego w Visio:</span>",
@@ -1322,7 +1133,7 @@
     {
       "question": "<span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;W Visio wu0142au015bciwou015bu0107 opcjonalnou015bci (Optional) okreu015bla:&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:16899,&quot;3&quot;:{&quot;1&quot;:0},&quot;4&quot;:{&quot;1&quot;:2,&quot;2&quot;:13228792},&quot;12&quot;:0,&quot;17&quot;:1}\">W Visio właściwość opcjonalności (Optional) określa:</span>",
       "id": 2854,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;czy zwiu0105zek jest identyfikuju0105cy&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}\">czy związek jest identyfikujący</span>",
@@ -1341,18 +1152,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@88.156.*.*",
-          "comment": "Czy tutaj 3 nie powinno też być poprawne? Przecież jeśli związek jest opcjonalny, to wtedy każdy egzemplarz encji po stronie wiele może być powiązany z 0 albo 1 egzemplarzem encji po stronie jeden, jeśli związek jest wymagany, to wtedy musi być powiązany z 1 egzemplarzem encji po stronie jeden, więc pośrednio uważam że określa.",
-          "date": "03-07-2018 18:09:39"
-        },
-        {
-          "author": "~anon@91.207.*.*",
-          "comment": "Z prezentacji: opcję Optional – czy wartość klucza obcego jest opcjonalna tzn. czy dopuszcza wartość NULL. Związek jest opcjonalny gdy wartość klucza obcego dopuszcza wartość NULL. Związek jest wymagany gdy wartość klucza obcego musi być określona tzn. nie może być NULL (inaczej mówiąc, dla każdego egzemplarza encji po stronie wiele istnieje odpowiadający mu egzemplarz encji po stronie jeden).\n\nAle nie wiem czy to kwestia określenia \"ile\"",
-          "date": "02-02-2020 14:21:31"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;W Visio wu0142au015bciwou015bu0107 typu zwiu0105zku (Relationship Type) okreu015bla:&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:16899,&quot;3&quot;:{&quot;1&quot;:0},&quot;4&quot;:{&quot;1&quot;:2,&quot;2&quot;:13228792},&quot;12&quot;:0,&quot;17&quot;:1}\">W Visio właściwość typu związku (Relationship Type) określa:</span>",
@@ -1381,7 +1181,7 @@
     {
       "question": "<span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;W wyniku transformacji binarnego zwiu0105zku wieloznacznego nliczba tworzonych encji wynosi:&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:16899,&quot;3&quot;:{&quot;1&quot;:0},&quot;4&quot;:{&quot;1&quot;:2,&quot;2&quot;:13228792},&quot;12&quot;:0,&quot;17&quot;:1}\">W wyniku transformacji binarnego związku wieloznacznego &nbsp;liczba tworzonych encji wynosi:</span>",
       "id": 2856,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span data-sheets-value=\"{&quot;1&quot;:3,&quot;3&quot;:0}\" data-sheets-userformat=\"{&quot;2&quot;:577,&quot;3&quot;:{&quot;1&quot;:0},&quot;9&quot;:0,&quot;12&quot;:0}\">0</span>",
@@ -1400,23 +1200,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~maziar@160.83.*.*",
-          "comment": "dla każdego wieloznacznego związku binarnego Z(E1,E2) wprowadzamy nową encję E0 \n  czyli wynik to 3\nCzyli poprawne odp to C i D",
-          "date": "02-02-2017 14:24:11"
-        },
-        {
-          "author": "~anon@91.239.*.*",
-          "comment": "w wyniku transformacji binarnego związku wieloznacznego.\nPytanie jest o to ile encji trzeba dodać,a nie ile ich będzie w sumie ",
-          "date": "05-09-2017 21:15:58"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;W wyniku transformacji binarnego zwiu0105zku wieloznacznego nliczba tworzonych zwiu0105zku00f3w wynosi:&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:16899,&quot;3&quot;:{&quot;1&quot;:0},&quot;4&quot;:{&quot;1&quot;:2,&quot;2&quot;:13228792},&quot;12&quot;:0,&quot;17&quot;:1}\">W wyniku transformacji binarnego związku wieloznacznego &nbsp;liczba tworzonych związków wynosi:</span>",
       "id": 2857,
-      "numberOfComments": 3,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span data-sheets-value=\"{&quot;1&quot;:3,&quot;3&quot;:0}\" data-sheets-userformat=\"{&quot;2&quot;:577,&quot;3&quot;:{&quot;1&quot;:0},&quot;9&quot;:0,&quot;12&quot;:0}\">0</span>",
@@ -1435,23 +1224,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~maziar@160.83.*.*",
-          "comment": "Tutaj poprawna odpowiedź powinna być B",
-          "date": "02-02-2017 10:42:00"
-        },
-        {
-          "author": "~maziar@160.83.*.*",
-          "comment": "dla każdego wieloznacznego związku binarnego Z(E1,E2) wprowadzamy nową encję E0 \n  czyli wynik to 3\nCzyli poprawne odp to C i D",
-          "date": "02-02-2017 14:24:20"
-        },
-        {
-          "author": "~maziar@87.206.*.*",
-          "comment": "Sorry odpowiedź C jest poprawna",
-          "date": "02-02-2017 22:35:40"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;W wyniku transformacji tru00f3jargumentowego zwiu0105zku wieloznacznego nliczba tworzonych zwiu0105zku00f3w wynosi:&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:16899,&quot;3&quot;:{&quot;1&quot;:0},&quot;4&quot;:{&quot;1&quot;:2,&quot;2&quot;:13228792},&quot;12&quot;:0,&quot;17&quot;:1}\">W wyniku transformacji trójargumentowego związku wieloznacznego liczba tworzonych związków wynosi:</span>",
@@ -1528,7 +1301,7 @@
     {
       "question": "W notacji modelowania Chena związek jest reprezentowany przez:",
       "id": 2861,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "linię",
@@ -1547,18 +1320,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@81.219.*.*",
-          "comment": "romb",
-          "date": "30-01-2017 11:50:08"
-        },
-        {
-          "author": "mykhi",
-          "comment": "zaznaczam (nie było nic)",
-          "date": "30-01-2017 12:51:43"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;Instancju0105 zwiu0105zku jednojednoznacznego jest zawsze funkcja:&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:16899,&quot;3&quot;:{&quot;1&quot;:0},&quot;4&quot;:{&quot;1&quot;:2,&quot;2&quot;:13228792},&quot;12&quot;:0,&quot;17&quot;:1}\">Instancją związku jednojednoznacznego jest zawsze funkcja:</span>",
@@ -1587,7 +1349,7 @@
     {
       "question": "<span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;W notacji modelowania Chena zwiu0105zek jest reprezentowany przez:&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:16899,&quot;3&quot;:{&quot;1&quot;:0},&quot;4&quot;:{&quot;1&quot;:2,&quot;2&quot;:13228792},&quot;12&quot;:0,&quot;17&quot;:1}\">W notacji modelowania Chena związek jest reprezentowany przez:</span>",
       "id": 2863,
-      "numberOfComments": 5,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;liniu0119&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}\">linię</span>",
@@ -1606,33 +1368,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~rogalddl@159.205.*.*",
-          "comment": "prostakat*",
-          "date": "18-06-2017 17:47:14"
-        },
-        {
-          "author": "~rogalddl@159.205.*.*",
-          "comment": "koło* sry\n",
-          "date": "18-06-2017 17:48:14"
-        },
-        {
-          "author": "~anon@91.230.*.*",
-          "comment": "56 pytanie i 54 sa jednakowe",
-          "date": "04-07-2018 09:33:39"
-        },
-        {
-          "author": "~ktoś@195.238.*.*",
-          "comment": "tutaj powinna być linia\nhttps://edux.pjwstk.edu.pl/mat/119/lec/w6.html",
-          "date": "05-02-2020 13:55:31"
-        },
-        {
-          "author": "~sakurako@2a02:a311:64:bc00:831:a7fb:10a9:e150",
-          "comment": "nie, romb.\nw notacji IDEF1X to byłaby linia",
-          "date": "05-02-2020 19:13:11"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span>W notacji modelowania Chena encja jest reprezentowana przez:&nbsp;</span>",
@@ -1709,7 +1445,7 @@
     {
       "question": "<span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;Studenci lubiu0105 siu0119, su0105 sobie oboju0119tni lub nie znoszu0105 siu0119 (nie ma innej mou017cliwou015bci).nKtu00f3ry ze schematu00f3w jest najodpowiedniejszy z punktu widzenia zasad projektowania baz danych :&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:16899,&quot;3&quot;:{&quot;1&quot;:0},&quot;4&quot;:{&quot;1&quot;:2,&quot;2&quot;:13228792},&quot;12&quot;:0,&quot;17&quot;:1}\">Studenci lubią się, są sobie obojętni lub nie znoszą się (nie ma innej możliwości).<br>Który ze schematów jest najodpowiedniejszy z punktu widzenia zasad projektowania baz danych :</span>",
       "id": 2867,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;Studenci(id_studenta, imiu0119, nazwisko)nKoledzy(id_kolegi, imiu0119, nazwisko, id_studenta, id_stosunku_do)nStosunek(id_stosunku_do, stosunek_do)&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}\">Studenci(id_studenta, imię, nazwisko)<br>Koledzy(id_kolegi, imię, nazwisko, id_studenta, id_stosunku_do)<br>Stosunek(id_stosunku_do, stosunek_do)</span>",
@@ -1728,18 +1464,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~pepe@162.158.*.*",
-          "comment": "Jest tu błąd ponieważ, nie wiemy kto jest dla kogo obojętny",
-          "date": "23-06-2019 16:08:59"
-        },
-        {
-          "author": "~anon@162.158.*.*",
-          "comment": "Chyba nie, ponieważ na logikę jeśli dana para nie występuje ani w lubi ani w nie_znosi, wtedy są dla siebie obojętni ",
-          "date": "24-06-2019 10:18:28"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;W domach mieszkaju0105 zwierzu0119ta domowe. Niektu00f3re zwierzu0119ta zjadaju0105 siu0119 wzajemnie. nDomy mogu0105 byu0107 pou0142ou017cone obok siebie. nJaki schemat zgodny z zasadami projektowania schematu00f3w baz danych jest nnajodpowiedniejszy dla organizacji zajmuju0105cej siu0119 ochronu0105 zwierzu0105t:&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:16899,&quot;3&quot;:{&quot;1&quot;:0},&quot;4&quot;:{&quot;1&quot;:2,&quot;2&quot;:13228792},&quot;12&quot;:0,&quot;17&quot;:1}\">W domach mieszkają zwierzęta domowe. Niektóre zwierzęta zjadają się wzajemnie. <br>Domy mogą być położone obok siebie. <br>Jaki schemat zgodny z zasadami projektowania schematów baz danych jest <br>najodpowiedniejszy dla organizacji zajmującej się ochroną zwierząt:</span>",
@@ -1768,7 +1493,7 @@
     {
       "question": "<span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;W filmach graju0105 aktorzy. Kau017cdy film ma doku0142adnie jednego reu017cysera i jednego lub wiu0119cej scenarzystu0119. nKtu00f3ry z poniu017cszych schematu00f3w jest najodpowiedniejszy z punktu widzenia zasad projektowania baz danych:&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:16899,&quot;3&quot;:{&quot;1&quot;:0},&quot;4&quot;:{&quot;1&quot;:2,&quot;2&quot;:13228792},&quot;12&quot;:0,&quot;17&quot;:1}\">W filmach grają aktorzy. Każdy film ma dokładnie jednego reżysera i jednego lub więcej scenarzystę. <br>Który z poniższych schematów jest najodpowiedniejszy z punktu widzenia zasad projektowania baz danych:</span>",
       "id": 2869,
-      "numberOfComments": 7,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;Filmy(id_filmu, tytuu0142, reu017cyser, gau017ca_reu017cysera)nAktorzy(id_aktora, nazwisko,rola, id_filmu, gau017ca)nScenarzyu015bci(id_scenarzysty, nazwisko, id_filmu, gau017ca)&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}\">Filmy(id_filmu, tytuł, reżyser, gaża_reżysera)<br>Aktorzy(id_aktora, nazwisko,rola, id_filmu, gaża)<br>Scenarzyści(id_scenarzysty, nazwisko, id_filmu, gaża)</span>",
@@ -1787,43 +1512,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~T@94.254.*.*",
-          "comment": "Hmmm, troche bez sensu. Skad nam sie wzielo id_rezysera? ",
-          "date": "13-02-2018 07:48:04"
-        },
-        {
-          "author": "~sITN@193.0.*.*",
-          "comment": "Po co tabela Osoby? Nie powinno być Filmy, Aktorzy i Scenarzyści?",
-          "date": "14-02-2018 16:59:50"
-        },
-        {
-          "author": "~T@94.254.*.*",
-          "comment": "Zastanawiam sie czy przypadkiem tutaj nie chodzi o dziedziczenie...",
-          "date": "15-02-2018 07:15:03"
-        },
-        {
-          "author": "~anon@162.158.*.*",
-          "comment": "id_reżysera wskazuje na id_osoby powiązane z rekordem w zespole z rolą reżyser, wydaje mi się że ta odpowiedź nie jest prawidłowa",
-          "date": "24-06-2019 08:11:04"
-        },
-        {
-          "author": "~1234@46.186.*.*",
-          "comment": "Aktorzy i Scenarzyści nawet nie są połączeni z Osoby. To na pewno nie jest dobra odpowiedź",
-          "date": "06-02-2020 18:37:02"
-        },
-        {
-          "author": "~ta@89.72.*.*",
-          "comment": "id_aktora i id_scenarzysty są zarówno kluczem głównym jak i kluczem obcym w relacji z tabelą Osoby",
-          "date": "06-02-2020 23:08:24"
-        },
-        {
-          "author": "~m@80.238.*.*",
-          "comment": "Nie rozumiem dlaczego \"a\" nie jest poprawne..",
-          "date": "11-02-2021 20:09:54"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;Politycy naleu017cu0105 do partii politycznych (czasami je zmieniaju0105, czasami dokonuju0105 ich podziau0142u).nPartie polityczne, przed wyborami, tworzu0105 koalicje wyborcze. nKtu00f3ry z poniu017cszych schematu00f3w jest najodpowiedniejszy z punktu widzenia zasad projektowania baz danych:&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:16899,&quot;3&quot;:{&quot;1&quot;:0},&quot;4&quot;:{&quot;1&quot;:2,&quot;2&quot;:13228792},&quot;12&quot;:0,&quot;17&quot;:1}\">Politycy należą do partii politycznych (czasami je zmieniają, czasami dokonują ich podziału).<br>Partie polityczne, przed wyborami, tworzą koalicje wyborcze. <br>Który z poniższych schematów jest najodpowiedniejszy z punktu widzenia zasad projektowania baz danych:</span>",
@@ -1924,7 +1613,7 @@
     {
       "question": "Który ze schematów bazy danych dla biblioteki jest najodpowiedniejszy z punktu widzenia zasad projektowania baz danych. <br>\nBaza powinna przechowywać informacje o klientach, książkach i wypożyczeniach (wielkie litery oznaczają klucz główny):",
       "id": 2874,
-      "numberOfComments": 9,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span data-sheets-value=\"{\" 1\":2,\"2\":\"klient(id_klienta,=\"\" imiu0119,=\"\" nazwisko,=\"\" adres)nksiu0105u017cka(id_ksiu0104u017bki,=\"\" tytuu0142,=\"\" autor)nwypou017cyczenie(id_klienta,=\"\" id_ksiu0105u017cki,=\"\" data_wypou017cyczenia,=\"\" data_zwrotu)\"}\"=\"\" data-sheets-userformat=\"{\" 2\":513,\"3\":{\"1\":0},\"12\":0}\"=\"\">Klient(ID_KLIENTA, imię, nazwisko, adres)<br>Książka(ID_KSIĄŻKI, tytuł, autor)<br>Wypożyczenie(ID_KLIENTA, id_książki, data_wypożyczenia, data_zwrotu)</span>",
@@ -1943,53 +1632,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@81.219.*.*",
-          "comment": "Klient(ID_KLIENTA, imię, nazwisko, adres)\nKsiążka(ID_KSIĄŻKI, tytuł, autor)\nWypożyczenie(ID_KLIENTA, ID_c, DATA_WYPOŻYCZENIA, data_zwrotu)\njest dobre",
-          "date": "30-01-2017 11:50:49"
-        },
-        {
-          "author": "~anon@160.83.*.*",
-          "comment": "Dokladnie odpowiedz C poprawna",
-          "date": "03-02-2017 12:17:17"
-        },
-        {
-          "author": "mykhi",
-          "comment": "zmieniam z A na C",
-          "date": "03-02-2017 12:19:08"
-        },
-        {
-          "author": "~anon@213.111.*.*",
-          "comment": "id_c to co w ogole? skad baza moze dostac info jaku ksiazku wziala ta ocoba w tym przypadku?",
-          "date": "24-08-2017 14:32:56"
-        },
-        {
-          "author": "~anon@178.36.*.*",
-          "comment": "jak ta odpowiedź może być poprawna, skoro w tabeli Wypożyczenie mamy więcej niż jeden klucz główny? W dodatku jeden z nich na datę wypożyczenia...",
-          "date": "09-02-2019 19:36:04"
-        },
-        {
-          "author": "~kotia@162.158.*.*",
-          "comment": "Tutaj poprawna odpowiedź powinna być B",
-          "date": "23-06-2019 15:25:24"
-        },
-        {
-          "author": "~pepe@162.158.*.*",
-          "comment": "Zgadzam się z przedmówcą powinna być zaznaczona odpowiedź B",
-          "date": "23-06-2019 15:53:26"
-        },
-        {
-          "author": "~anon@162.158.*.*",
-          "comment": "powinna być A, bo to jedyna gdzie nie występują 2 klucze główne w tabeli",
-          "date": "23-06-2019 18:37:52"
-        },
-        {
-          "author": "~kotia@162.158.*.*",
-          "comment": "jedna osoba może wypożyczyć tę samą książkę wielokrotnie, stąd potrzeba dodatkowego klucza głównego, stąd odpowiedź C(lub D) poprawna",
-          "date": "23-06-2019 19:48:35"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;Potrzebna jest baza danych do ewidencji studentu00f3w i ich ocen. nKtu00f3ry ze schematu00f3w bazy danych jest najodpowiedniejszy z punktu widzenia zasad projektowania baz danych:&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:16899,&quot;3&quot;:{&quot;1&quot;:0},&quot;4&quot;:{&quot;1&quot;:2,&quot;2&quot;:13228792},&quot;12&quot;:0,&quot;17&quot;:1}\">Potrzebna jest baza danych do ewidencji studentów i ich ocen. <br>Który ze schematów bazy danych jest najodpowiedniejszy z punktu widzenia zasad projektowania baz danych:</span>",
@@ -2114,7 +1757,7 @@
     {
       "question": "<span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;Ktu00f3re z poniu017cszych sformuu0142owau0144 su0105 prawdziwe:&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:16899,&quot;3&quot;:{&quot;1&quot;:0},&quot;4&quot;:{&quot;1&quot;:2,&quot;2&quot;:13228792},&quot;12&quot;:0,&quot;17&quot;:1}\">Które z poniższych sformułowań są prawdziwe:</span>",
       "id": 2880,
-      "numberOfComments": 6,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span data-sheets-value=\"{\" 1\":2,\"2\":\"program=\"\" peu0142niu0105cy=\"\" rolu0119=\"\" serwera=\"\" mou017ce=\"\" stau0107=\"\" siu0119=\"\" klientem=\"\" innego=\"\" serwera\"}\"=\"\" data-sheets-userformat=\"{\" 2\":513,\"3\":{\"1\":0},\"12\":0}\"=\"\">program pełniący rolę serwera może stać się klientem innego serwera</span>",
@@ -2133,38 +1776,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~Err0r@89.77.*.*",
-          "comment": "są 2 takie same pytania z roznymi odp.",
-          "date": "02-02-2017 01:43:55"
-        },
-        {
-          "author": "~maziar@87.206.*.*",
-          "comment": "w tym pytaniu wydaje mi się, że odp A też jest prawdziwa. Drugie pytanie ma trochę inaczej sformułowane odpowiedzi.",
-          "date": "02-02-2017 20:42:01"
-        },
-        {
-          "author": "~xenon2@109.241.*.*",
-          "comment": "Chyba A,B i D są poprawne",
-          "date": "04-02-2017 02:26:05"
-        },
-        {
-          "author": "~maziar@87.206.*.*",
-          "comment": "A jest poprawne. Ale odp B było by poprawne gdyby dodane było słowo \"może\".",
-          "date": "04-02-2017 14:08:18"
-        },
-        {
-          "author": "~anon@91.230.*.*",
-          "comment": "A jest poprawne na 100% :P",
-          "date": "05-02-2017 11:51:19"
-        },
-        {
-          "author": "mykhi",
-          "comment": "zaznaczam A",
-          "date": "05-02-2017 17:00:10"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;Ktu00f3re z poniu017cszych sformuu0142owau0144 su0105 prawdziwe:&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:16899,&quot;3&quot;:{&quot;1&quot;:0},&quot;4&quot;:{&quot;1&quot;:2,&quot;2&quot;:13228792},&quot;12&quot;:0,&quot;17&quot;:1}\">Które z poniższych sformułowań są prawdziwe:</span>",
@@ -2385,7 +1997,7 @@
     {
       "question": "<span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;Diagram zwiu0105zku00f3w encji:&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:16899,&quot;3&quot;:{&quot;1&quot;:0},&quot;4&quot;:{&quot;1&quot;:2,&quot;2&quot;:13228792},&quot;12&quot;:0,&quot;17&quot;:1}\">Diagram związków encji:</span>",
       "id": 2890,
-      "numberOfComments": 5,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;jest uu017cywany przez programistu00f3w aplikacji&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}\">jest używany przez programistów aplikacji</span>",
@@ -2404,33 +2016,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~maziar@160.83.*.*",
-          "comment": "Czy odpowiedź D nie jest również poprawna ?",
-          "date": "01-02-2017 12:39:38"
-        },
-        {
-          "author": "~anon@148.81.*.*",
-          "comment": "uwazam, ze jest\n",
-          "date": "04-02-2017 18:15:06"
-        },
-        {
-          "author": "~T@94.254.*.*",
-          "comment": "W mojej opinii wszystkie sa poprawne. Programisci tez korzystaja z diagramow...",
-          "date": "15-02-2018 07:22:46"
-        },
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "Tutaj D powinno być również poprawne",
-          "date": "17-02-2019 11:00:04"
-        },
-        {
-          "author": "~csgo@162.158.*.*",
-          "comment": "wydaje mi się, że D nie - diagram związków tworzy się NA PODSTAWIE wymagań określonych przez użytkownika w języku naturalnym",
-          "date": "23-06-2019 18:50:10"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;Dla jakich obiektu00f3w mou017cna zdefiniowau0107 zestaw rekordu00f3w:&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:16899,&quot;3&quot;:{&quot;1&quot;:0},&quot;4&quot;:{&quot;1&quot;:2,&quot;2&quot;:13228792},&quot;12&quot;:0,&quot;17&quot;:1}\">Dla jakich obiektów można zdefiniować zestaw rekordów:</span>",
@@ -2555,7 +2141,7 @@
     {
       "question": "<span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;Encje PREZYDENT i PAu0143STWO (z zaleu017cnou015bciu0105 u201ckierujeu201d) pou0142u0105czone su0105 zwiu0105zkiem:&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:16899,&quot;3&quot;:{&quot;1&quot;:0},&quot;4&quot;:{&quot;1&quot;:2,&quot;2&quot;:13228792},&quot;12&quot;:0,&quot;17&quot;:1}\">Encje PREZYDENT i PAŃSTWO (z zależnością “kieruje”) połączone są związkiem:</span>",
       "id": 2896,
-      "numberOfComments": 13,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span data-sheets-value=\"{&quot;1&quot;:2,&quot;2&quot;:&quot;wymagaju0105cym dodatkowej encji asocjacyjnej&quot;}\" data-sheets-userformat=\"{&quot;2&quot;:513,&quot;3&quot;:{&quot;1&quot;:0},&quot;12&quot;:0}\">wymagającym dodatkowej encji asocjacyjnej</span>",
@@ -2574,74 +2160,8 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~maziar@160.83.*.*",
-          "comment": "Jeśli jest wiele do wiele do powinna być jeszcze poprawna odpowiedź A",
-          "date": "01-02-2017 12:20:25"
-        },
-        {
-          "author": "~maziar@160.83.*.*",
-          "comment": "jednak uważam, że powinno być wiele - jeden. Co myślicie ?",
-          "date": "01-02-2017 12:22:28"
-        },
-        {
-          "author": "~FX95@94.254.*.*",
-          "comment": "Zalezy czy chodzi o prezydentow, ktorzy obecnie kieruja danym panstwem czy tez o wszytskich prezydentow, ktorzy danym panstwem kierowali w przeszlosci. W pierwszym przypadku powinno byc chyba jeden - jeden, a w drugim tez mi sie zdaje wiele - jeden. ",
-          "date": "02-02-2017 21:19:24"
-        },
-        {
-          "author": "~maziar@87.206.*.*",
-          "comment": "Żeby to było zgodne jak najbardziej z rzeczywistością wybrał bym 1:w",
-          "date": "02-02-2017 22:44:26"
-        },
-        {
-          "author": "~adrian@88.156.*.*",
-          "comment": "A nie chodzi o to, że wiele-wiele pozwala na wprowadzenie dodatkowych kolumn od-do i trzymanie historii prezydentów?",
-          "date": "04-02-2017 21:51:36"
-        },
-        {
-          "author": "~maziar@87.206.*.*",
-          "comment": "To prawda dzięki temu była by przechowywana historia. Natomiast w zadaniu nie jest powiedziane, że ma być przechowywana. ",
-          "date": "04-02-2017 22:11:37"
-        },
-        {
-          "author": "~anon@88.156.*.*",
-          "comment": "yep, dużo tu takich zadań niejednoznacznych.. w tej wersji powinna być jeszcze odpowiedz A jak ktoś wyzej zauważył",
-          "date": "04-02-2017 22:24:49"
-        },
-        {
-          "author": "~anon@91.230.*.*",
-          "comment": "Semantycznie rzecz biorac \"kieruje\" jest w poleceniu w czasie terazniejszym. Jak dla mnie 1-w.",
-          "date": "18-02-2018 10:28:17"
-        },
-        {
-          "author": "mykhi",
-          "comment": "pamiętam jak 10 lat temu omawialiśmy ten przykład na zajęciach. wiele-wiele jest poprawną odpowiedzią. tłumaczone to było tym, że prezydent może być teoretycznie prezydentem raz jednego kraju a za jakiś czas drugiego. ",
-          "date": "18-02-2018 11:10:48"
-        },
-        {
-          "author": "~anon@89.66.*.*",
-          "comment": "to czy w takim razie nie powinna być zaznaczona również odpowiedź A (wymaga dodatkowej encji asocjacyjnej)?",
-          "date": "05-02-2019 00:52:01"
-        },
-        {
-          "author": "~anon@188.147.*.*",
-          "comment": "A powinno być również prawdziwe.",
-          "date": "10-02-2019 11:28:39"
-        },
-        {
-          "author": "~anon@2a02:a31a:4044:af80:14b:a6ad:3b37:cc0d",
-          "comment": "Dodatkowa encja jest konieczna do zrobienia wiele-wiele",
-          "date": "07-02-2020 22:28:18"
-        },
-        {
-          "author": "~anon@2a02:a31a:4044:af80:14b:a6ad:3b37:cc0d",
-          "comment": "Dodatkowa encja jest konieczna do zrobienia wiele-wiele",
-          "date": "07-02-2020 22:28:31"
-        }
-      ]
+      "comments": []
     }
   ],
-  "updatedAt": 1655413492390
+  "updatedAt": 1655413568101
 }

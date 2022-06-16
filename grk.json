@@ -153,7 +153,7 @@
     {
       "question": "<strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></strong><strong><span lang=\"PL\">Transformacje geometryczne na płaszczyźnie</span></strong>",
       "id": 2577,
-      "numberOfComments": 3,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<p class=\"MsoNoSpacing\"><span lang=\"PL\">przy składaniu transformacji kolejność mnożenia macierzy nie moze byc dowolna</span></p>",
@@ -172,23 +172,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~s8780@89.74.*.*",
-          "comment": "Trzecia składowa we współrzędnych jednorodnych powinna być równa 1. To byla pomylka 1/2 przy wpisywaniu. Prosze to poprawic",
-          "date": "26-08-2015 22:53:39"
-        },
-        {
-          "author": "mykhi",
-          "comment": "poprawiam",
-          "date": "26-08-2015 22:54:32"
-        },
-        {
-          "author": "~maciek@89.66.*.*",
-          "comment": "nadal niepoprawione\n",
-          "date": "14-02-2019 14:36:28"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></strong><strong><span lang=\"PL\">Transformacje geometryczne na płaszczyźnie</span></strong>",
@@ -429,7 +413,7 @@
     {
       "question": "<p class=\"MsoNoSpacing\"><strong><span lang=\"PL\"><span>&nbsp; &nbsp; &nbsp; &nbsp;</span></span></strong><strong><span lang=\"PL\">Algorytm</span></strong><span lang=\"PL\"> <strong>Bresenhama</strong></span></p>",
       "id": 2588,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"PL\">nachylenie odcinka ma znaczenie&nbsp;</span>",
@@ -444,13 +428,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@79.143.*.*",
-          "comment": "chyba 3 jest poprawne?\nhttps://www.ahirlabs.com/programing/computer-graphics/bresenham-line-drawing-calulator/",
-          "date": "07-02-2021 15:48:45"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<p class=\"MsoNoSpacing\"><strong><span lang=\"PL\"><span>&nbsp; &nbsp; &nbsp;</span></span></strong><strong><span lang=\"PL\">Karty graficzne:</span></strong></p>",
@@ -611,7 +589,7 @@
     {
       "question": "<p class=\"MsoListParagraph\"><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><strong><span lang=\"PL\">Rzutowanie</span></strong></p>",
       "id": 2596,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"PL\">w rzucie równoległym ortogonalnym odcinki równoległe do siebie pozostają równoległe po wykonaniu rzutowania na płaszczyznę ekranu</span>",
@@ -630,18 +608,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~s16395@212.180.*.*",
-          "comment": "z punktu widzenia grk internetowe: ogólnie lepiej będzie napisać ostrosłup ścięty, wygląda że odpowiedzi są na odwrót bo to rzut perspektywiczny będzie dawać ostrosłup a równoległy prostopadłościan, w ostatnim nie jest napisane czy jest równoległy, czy perspektywiczny, więc przyjąłbym wtedy fałsz?",
-          "date": "03-09-2018 22:53:43"
-        },
-        {
-          "author": "~KGracki@185.186.*.*",
-          "comment": "Nie",
-          "date": "16-12-2020 15:18:56"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<p class=\"MsoListParagraph\"><strong><span lang=\"PL\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></strong><strong><span lang=\"PL\">Barwa w grafice komputerowej</span></strong></p>",
@@ -1086,7 +1053,7 @@
     {
       "question": "<p><span><span><span>Przejście ze sceny 3D na 2D&nbsp;</span></span></span></p>",
       "id": 3001,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<p><span><span><span>w rzucie ukośnym promienie rzutujące przecinają się w jednym punkcie</span></span></span></p>",
@@ -1105,18 +1072,12 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~ja@31.178.*.*",
-          "comment": "czy pierwsze nie jest przypadkiem błędne?",
-          "date": "10-02-2021 18:47:27"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span>Przejście ze sceny 3D na 2D&nbsp;</span>",
       "id": 3002,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<p><span>w rzucie perspektywicznym istotna jest odległość obserwatora od ekranu&nbsp;</span></p>",
@@ -1131,13 +1092,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@89.71.*.*",
-          "comment": "w rzucie ukośnym promienie sie nie przecinają",
-          "date": "15-12-2020 20:40:06"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<p><span><span>Kompresja i przetwarzanie obrazów&nbsp;</span></span></p>",
@@ -1186,7 +1141,7 @@
     {
       "question": "<p><span><span><span>Dany jest obraz o rozdzielczości 640x480x24 (w innym zestawie: 1024x768x24)</span></span></span></p>",
       "id": 3005,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<p><span><span><span>do zapamiętania obrazu (bez kompresji) potrzebna jest pamięć min. </span><span>0.5 MB</span></span></span></p>",
@@ -1201,13 +1156,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~s16395@212.180.*.*",
-          "comment": "640x480x24=4,37e6~900kB~0,86MB, a co do czasu na piksel, to może warto dodać do pytania jakieś parametry, czy to jest LCD / CRT",
-          "date": "03-09-2018 22:56:43"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<p><span><span><span>Ile klatek należy wygenerować dla filmu animowanego wyświetlanego z częstotliwością 24 klatek/s i trwającego 3 min?</span></span></span></p>",
@@ -1276,7 +1225,7 @@
     {
       "question": "<p><span><span>Teksturowanie</span></span></p>",
       "id": 3009,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<p><span><span>przy odwzorowywaniu tekstury na złożony obiekt czasami stosuje się odwzorowanie na </span></span></p>\n<p>&nbsp;</p>\n<p><span><span><span>pośrednią powierzchnię</span></span></span></p>",
@@ -1295,13 +1244,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~s16395@212.180.*.*",
-          "comment": "\"Rys. XI.7. Teksturowanie metodą odwzorowania wprost. Barwa piksela jest określona przez kilka tekseli.\" Poza tym nie jestem pewien co do stwierdzenia teksel to odpowiednik piksela na płaszczyźnie...",
-          "date": "03-09-2018 23:00:20"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<p><span><span>Animacja&nbsp;</span></span></p>",
@@ -1660,5 +1603,5 @@
       "comments": []
     }
   ],
-  "updatedAt": 1655413492390
+  "updatedAt": 1655413568101
 }

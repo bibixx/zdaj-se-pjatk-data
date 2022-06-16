@@ -125,7 +125,7 @@
     {
       "question": "&nbsp;<p></p>\n<p><span>Na skraju niewielkiego krążka obracającego się swobodnie, siedzi żuczek. W pewnej chwili żuczek zaczyna iść ku środkowi krążka. Czy prędkość kątowa żuczka i krążka:</span>\n          </p>",
       "id": 2319,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "&nbsp;<p></p>\n<p><span>zmaleje</span></p>",
@@ -140,18 +140,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@91.230.*.*",
-          "comment": "Prędkość kątowa jest odwrotnie proporcjonalna do promienia, więc w tym przypadku wzrośnie",
-          "date": "12-04-2015 14:43:04"
-        },
-        {
-          "author": "~Saint@91.230.*.*",
-          "comment": "Mylisz się, prędkość kątowa pozostanie bez zmian. To prędkość liniowa ciała poruszającego się po okręgu zależna jest od promienia.",
-          "date": "12-04-2015 15:57:52"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "&nbsp;<p></p>\n<p><span>Podczas mroĽnego dnia gorąca woda (~80C</span><span>)</span>\n          </p>",
@@ -396,7 +385,7 @@
     {
       "question": "W teorii względności Einsteina odstępy czasu delta t w układzie odniesienia nieruchomym, są dla obserwatora ruchomego",
       "id": 2332,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "wydłużone",
@@ -411,18 +400,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@77.253.*.*",
-          "comment": "powinno być wydłużone walnołem się przy wstawianiu pytania",
-          "date": "10-01-2015 10:52:21"
-        },
-        {
-          "author": "mykhi",
-          "comment": "fixed.",
-          "date": "10-01-2015 11:26:07"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "&nbsp;<p></p>\n<p><span>Na wysokości 1000 km nad Ziemią wystrzelono pocisk z prędkością V = 1000 m/s prostopadłą do natężenia pola grawitacyjnego. Proszę przyjąć brak tarcia oraz potraktować Ziemię i pocisk jako punkty materialne. Torem pocisku będzie:</span>\n          </p>",
@@ -791,7 +769,7 @@
     {
       "question": "Wartość stałęj Plancka h wynosi",
       "id": 2351,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "h = h/2 pi = 1,054887 * 10 ^ -43 J s",
@@ -806,13 +784,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@77.253.*.*",
-          "comment": "h = h/2 pi = 1,054887 * 10 ^ -27 erg s tu tylko to powinno być poprawne",
-          "date": "10-01-2015 13:15:02"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "prawdopodobieństwo, że cząstka przekroczy barierę potęcjału, zależy",
@@ -877,7 +849,7 @@
     {
       "question": "Zmiana pędu ciała może być wywołana",
       "id": 2355,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "tylko działając na to ciało siłą",
@@ -892,13 +864,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~Kasia@95.89.*.*",
-          "comment": "Cytat z wykładu : Zasada zachowania pędu, to w istocie nic innego, jak drugie prawo dynamiki Newtona, które mówi, że zmiana pędu ciała może być wywołana tylko działającymi na to ciało siłami.\n\nczyli pierwsze tez jest dobrze???",
-          "date": "31-12-2015 03:38:34"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Jednostką ładunku elektrycznego w systemie SI jest:",
@@ -1125,5 +1091,5 @@
       "comments": []
     }
   ],
-  "updatedAt": 1655413492390
+  "updatedAt": 1655413568101
 }

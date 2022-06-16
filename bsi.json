@@ -5,7 +5,7 @@
     {
       "question": "Aby zaszyfrować przesyłkę przy pomocy PGP/GPG, używamy:",
       "id": 192,
-      "numberOfComments": 6,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "klucza prywatnego nadawcy",
@@ -24,38 +24,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~qwe@89.76.*.*",
-          "comment": "pomocne było w poprzedniej wersji testów ukrywanie odpowiedzi...",
-          "date": "16-02-2012 17:57:22"
-        },
-        {
-          "author": "~qwe@89.76.*.*",
-          "comment": "oczywiście ukrywanie kolumny z poprawnymi odpowiedziami :)",
-          "date": "16-02-2012 17:58:37"
-        },
-        {
-          "author": "mykhi",
-          "comment": "huh?",
-          "date": "17-02-2012 05:18:39"
-        },
-        {
-          "author": "~qwe@89.76.*.*",
-          "comment": "w poprzedniej wersji testów na stronie ze wszystkimi testami po kliknięciu na treść pytania można było ukryć kolumnę z odpowiedziami tzn. tam gdzie pokazują się plusiki \\\"+\\\", a po kliknięciu na czerwone pole z napisem \\\"Opcja\\\" ukrywane zostawały wszystkie \\\"plusiki\\\"",
-          "date": "17-02-2012 09:20:27"
-        },
-        {
-          "author": "~kelu@89.74.*.*",
-          "comment": "napisałem prościutki skrypt do greasemonkey/tampermonkey z guziczkiem do ukrywania/pojawiania pytań. Nic wybitnego, ale może się komuś przyda :P\nhttp://pastebin.com/f0kMdAFe",
-          "date": "06-02-2015 21:41:45"
-        },
-        {
-          "author": "~kelu@89.74.*.*",
-          "comment": "<a href=\"http://pastebin.com/f0kMdAFe\">link</a>",
-          "date": "06-02-2015 21:45:57"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Atak polegajacy na wysyłaniu fałszywych wiadomości mający najczęsciej na celu wyłudzenie danych osobowych i/lub pieniędzy, to:",
@@ -112,7 +81,7 @@
     {
       "question": "Atak typu Ping of Death polega na:",
       "id": 195,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "wysyłaniu wielu małych pakietów",
@@ -131,18 +100,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@83.6.*.*",
-          "comment": "coś w tych generatorach 2.0 więcej błędów jest, ale chociaż pytań więcej ;P\ndla formalności - tutaj tylko b - może ktoś poprawi :P",
-          "date": "03-02-2012 09:57:42"
-        },
-        {
-          "author": "mykhi",
-          "comment": "@~anon@83.6.*.*\npytania i odpowiedzi są dokładnie te same co w tamtych generatoarch. natomiast faktycznie w komentarzach wyświetlały się inne prawidłowe odpowiedzi. fixed.",
-          "date": "03-02-2012 12:11:27"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Co jest głównym celem uwierzytelniania?",
@@ -199,7 +157,7 @@
     {
       "question": "Co oznacza skrót DNS?",
       "id": 198,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Domain Name System",
@@ -218,13 +176,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~bruh@91.230.*.*",
-          "comment": "bruh",
-          "date": "10-02-2020 17:14:49"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Co oznacza skrót ICMP?",
@@ -305,7 +257,7 @@
     {
       "question": "Do podpisania przesyłki wysłaniej przy pomocy PGP/GPG, używamy:",
       "id": 202,
-      "numberOfComments": 3,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "klucza prywatnego nadawcy",
@@ -324,23 +276,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~sylwia@89.76.*.*",
-          "comment": "a nie klucza publicznego nadawcy?",
-          "date": "08-02-2013 23:31:54"
-        },
-        {
-          "author": "~anon@89.76.*.*",
-          "comment": "jednak nie",
-          "date": "09-02-2013 01:19:37"
-        },
-        {
-          "author": "~pawlacz21x37@2a02:a310:c122:f680:19e1:423f:d67c:5a9b",
-          "comment": "czyli jak bedzie poprawnie?",
-          "date": "09-02-2020 19:27:09"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Do scentralizowanego zarzadzania adresami IP w sieci TCP/IP jest wykorzystany",
@@ -369,7 +305,7 @@
     {
       "question": "Do zarzadzania Urzedem Certyfikacyjnym (CA) wykorzystuje sie:",
       "id": 204,
-      "numberOfComments": 3,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Standardowa konsola CERTIFICATION AUTHORITY",
@@ -388,23 +324,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~Sylwia@89.76.*.*",
-          "comment": "Poprawna odpowiedz: Konsole MMC z zainstalowana przystawka CERTIFICATES",
-          "date": "08-02-2013 23:16:51"
-        },
-        {
-          "author": "~anon@87.206.*.*",
-          "comment": "Poprawna odpowiedź: MMC z zainstalowana przystawka CERTIFICATES ",
-          "date": "15-02-2013 03:13:57"
-        },
-        {
-          "author": "~GoodGuy@89.67.*.*",
-          "comment": "Urzędem Certyfikacyjnym zarządza się w \"Standardowej konsoli CERTIFICATION AUTHORITY\".\nAktualna odpowiedź jest poprawna.",
-          "date": "31-01-2014 15:36:14"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Enumeracja sieci w systemie Windows 2000 (za pomoca NET VIEW) wykorzystuje:",
@@ -481,7 +401,7 @@
     {
       "question": "Główna funkcja Firewall-a jest:",
       "id": 208,
-      "numberOfComments": 3,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Ochrona sieci przed nieodpowiedzialnymi użytkownikami",
@@ -504,23 +424,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~radek@89.78.*.*",
-          "comment": "Dlaczego \"Kontrola przepływu ruchu sieciowego\" nie jest zaznaczona jako prawidłowa ?",
-          "date": "05-02-2015 19:45:39"
-        },
-        {
-          "author": "~kelu@89.74.*.*",
-          "comment": "przypuszczam, że chodzi o fakt, że pytanie jest o \"główną\" funkcję",
-          "date": "06-02-2015 23:09:22"
-        },
-        {
-          "author": "~anon@83.6.*.*",
-          "comment": "z wykładów Z.Suski:\n\n1. Co to jest firewall?\n\nZapora sieciowa jest umieszczana między siecią wewnętrzną organizacji i siecią zewnętrzną. Dostarcza ona prostego mechanizmu kontroli ilości i rodzaju ruchu sieciowego między obydwoma sieciami. Podstawowym jej zadaniem jest ograniczenie przepływu danych między tymi sieciami.",
-          "date": "13-02-2017 11:14:08"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Hasło podawane przez użytkownika programu PGP/GPG podczas generowania kluczy jest:",
@@ -713,7 +617,7 @@
     {
       "question": "Jakie polecenie nslookup wyswietla plik strefowy?",
       "id": 216,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "server",
@@ -736,18 +640,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~tomarmo@85.222.*.*",
-          "comment": "jak na moje to ls -t. -a wyświetla aliasy CNAME, -t to transfer strefy",
-          "date": "03-02-2015 18:57:34"
-        },
-        {
-          "author": "~kogut@109.206.*.*",
-          "comment": "wiec jak ? ",
-          "date": "05-02-2019 19:58:11"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Jakie polecenie wyswietla wszystkie domeny i grupy robocze?",
@@ -840,7 +733,7 @@
     {
       "question": "Komputer o adresie 192.168.1.1 pracuje jako serwer VPN (adres wirtualny 10.1.1.1). Aby obejrzeć zabezpieczony ruch pomiędzy tym serwerem a jego klientem (192.168.1.2, adres wirualny 10.1.1.2) należy:",
       "id": 220,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "w programie ETHEREAL ustawić filtr „host 197.168.1.1 and host 192.168.1.2” i nakomputerze klienta wydać polecenie ping 10.1.1.1",
@@ -859,18 +752,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~Exorigo@89.73.*.*",
-          "comment": "czy w tym pytaniu nie ma bledu?\nhost 197.168.1.1?czy nie powinien być 192.168.1.1 ?\n",
-          "date": "03-02-2013 20:57:14"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Komputer o adresie 192.168.1.1 pracuje jako serwer VPN (adres wirtualny 10.1.1.1).Na komputerze klienta o adresie 192.168.1.2(adres wirtualny 10.1.1.2), wydano poleceniePING 192.168.1.1. Analizując przy pomocy snifera ruch sieciowy, wykryto:",
       "id": 221,
-      "numberOfComments": 3,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "sekwencje niezabezpieczonych pakietów ICMP",
@@ -889,23 +776,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~marun@148.81.*.*",
-          "comment": "Pytanie analogiczne do 28. Poprawna odpowiedź to pakiety ICMP",
-          "date": "03-02-2012 09:08:14"
-        },
-        {
-          "author": "~s@83.6.*.*",
-          "comment": "exactly ;p",
-          "date": "03-02-2012 09:52:07"
-        },
-        {
-          "author": "mykhi",
-          "comment": "poprawione",
-          "date": "03-02-2012 12:23:07"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Konfigurowanie serwera VPN realizuje się poprzez:",
@@ -958,7 +829,7 @@
     {
       "question": "Które protokoły zostały stworzone  do tunelowania?",
       "id": 224,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "SSL",
@@ -1009,18 +880,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@82.139.*.*",
-          "comment": "SSH to chyba nie...",
-          "date": "29-06-2014 22:19:34"
-        },
-        {
-          "author": "~kelu@89.74.*.*",
-          "comment": "chyba jednak tak ;)",
-          "date": "06-02-2015 23:17:35"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Które z poniższych metod skanowania wykorzystuja protokół TCP (wybierz 3)?",
@@ -1069,7 +929,7 @@
     {
       "question": "Które z poniższych NIE jest sposobem uwierzytelniania?",
       "id": 226,
-      "numberOfComments": 3,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Biometryka",
@@ -1092,28 +952,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~qwe@89.76.*.*",
-          "comment": "Kerberos jest sposobem uwierzytelniania wg mnie i wykładów z BSI rozdział VIII pkt.5...tyle że w takim wypadku nie za bardzo wiem co mogło by tu nie być takim sposobem...",
-          "date": "17-02-2012 09:29:08"
-        },
-        {
-          "author": "~~skatman@89.73.*.*",
-          "comment": "Sobieraj powiedział że i tak zda",
-          "date": "16-01-2013 18:41:35"
-        },
-        {
-          "author": "~sng@82.139.*.*",
-          "comment": "Kerberos to SYSTEM a nie sposób - odp jest OK. Ja się zastanawiam nad \"Klucze RSA\".",
-          "date": "05-02-2013 20:34:30"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Które z wymienionych niżej działań nie jest realizowane w ramach procedury zatwierdzania certfikatu?",
       "id": 227,
-      "numberOfComments": 5,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "sprawdzenie, czy podpis cyfrowy w certyfikacie jest poprawny",
@@ -1132,33 +976,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~yahretzkee@178.36.*.*",
-          "comment": "sprawdzenie, czy certyfikat został podpisany przez urząd certyfikacyjny, którego nazwa znajduje się na liście zaufanych urzędów, którym ufa odbiorca certyfikatu",
-          "date": "08-02-2014 17:10:07"
-        },
-        {
-          "author": "~olejnik@87.206.*.*",
-          "comment": "po sprawdzeniu wykładu Pana ZS stwierdzam, że \"sprawdzenie, czy certyfikat został podpisany przez urząd certyfikacyjny, którego nazwa znajduje się na liście zaufanych urzędów, którym ufa odbiorca certyfikatu\" jest odpowiedzią poprawną. ",
-          "date": "07-06-2014 19:57:57"
-        },
-        {
-          "author": "mykhi",
-          "comment": "zmieniam z ostatniej na drugą.",
-          "date": "08-06-2014 07:46:11"
-        },
-        {
-          "author": "~olejnik@87.206.*.*",
-          "comment": "Nie druga, a TRZECIA odpowiedź jest poprawna :) zgodnie z tym co napisaliśmy w komentarzach...",
-          "date": "08-06-2014 12:35:58"
-        },
-        {
-          "author": "mykhi",
-          "comment": "przecież wiem. sprawdzałem czy uważacie :D",
-          "date": "08-06-2014 16:18:45"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Który z algorytmów NIE służy do sprawdzenia czy dane nie zostały zmienione/zmodyfikowane?",
@@ -1255,7 +1073,7 @@
     {
       "question": "Ktory z programow nie moze byc wykozystany do skanowania portow",
       "id": 231,
-      "numberOfComments": 3,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Netscan",
@@ -1274,23 +1092,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~m_r_k@83.6.*.*",
-          "comment": "http://www.softpedia.com/get/\nNetwork-Tools/Network-IP-Scanner/Net-Scan.shtml z tego linku wynika, że poprawną odpowiedzią jest netscan",
-          "date": "11-01-2014 18:57:05"
-        },
-        {
-          "author": "~anon@78.133.*.*",
-          "comment": "No na pewno nie tracert, bo Tracert to polecenie, które zwraca listę routerów na ścieżce do adresu Adres IP.",
-          "date": "31-01-2014 14:06:13"
-        },
-        {
-          "author": "~g@91.207.*.*",
-          "comment": "Netscan skanuje porty TCP, więc Tracert jest jedyną poprawną odpowiedzią",
-          "date": "01-02-2021 08:59:08"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Którym kluczem odszyfrowuje sie poczta elektroniczna (wybierz dwa)?",
@@ -2199,7 +2001,7 @@
     {
       "question": "Uruchomienie uslugi MESSENGER , ISS traktuje jako",
       "id": 268,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Sytuacje dozwolona",
@@ -2218,13 +2020,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~Marcin@77.255.*.*",
-          "comment": "A to nie jest IIS?",
-          "date": "16-02-2013 00:09:13"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Usługa WHOIS umożliwia:",
@@ -2353,7 +2149,7 @@
     {
       "question": "W systemie Windows 2000 polecenie -NET USE  \\\\10.1.1.1\\IPC$ \"\" /u:\"\"  - pozwala na:",
       "id": 274,
-      "numberOfComments": 4,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "nawiązanie nie uwierzytelnionego połączenia z komputerem o IP=10.1.1.1",
@@ -2372,28 +2168,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~miszcz@89.68.*.*",
-          "comment": "warto by poprawić polskie znaki :)",
-          "date": "03-02-2012 13:01:19"
-        },
-        {
-          "author": "mykhi",
-          "comment": "tylko tu, czy gdzieś jeszcze?",
-          "date": "03-02-2012 13:04:47"
-        },
-        {
-          "author": "~masło@87.207.*.*",
-          "comment": "W prawie każdym punkcie ;P",
-          "date": "03-02-2015 09:59:12"
-        },
-        {
-          "author": "~MT@91.207.*.*",
-          "comment": "nieuwierzytelniony* xd",
-          "date": "01-02-2021 10:19:15"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "W Windows 2000 do wyswietlania aktualnej konfiguracji TCP/IP sluzy polecenie:",
@@ -2662,7 +2437,7 @@
     {
       "question": "Z komputera A (IP-192.168.1.1, maska podsieci=255.255.0.0) wydano polecenie ping 192.168.2.2. Z komputera B (IP-192.168.2.2, maska podsieci=255.255.2.2), umieszczonego w tym samym segmencie fizycznym wydano polcenie ping 192.168.1.1",
       "id": 286,
-      "numberOfComments": 5,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Komputer B odpowiedz pozytywna, A - negatywna",
@@ -2681,33 +2456,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~ŁukaszC@89.68.*.*",
-          "comment": "MUSI BYĆ BŁĄD!\nco to za maska podsieci=255.255.2.2?\nnie znam..",
-          "date": "02-02-2012 18:12:26"
-        },
-        {
-          "author": "~Siemo@178.36.*.*",
-          "comment": "wiaderko nie pierdol tylko wkuwaj na pamięć ",
-          "date": "02-02-2012 18:48:15"
-        },
-        {
-          "author": "~anon@83.6.*.*",
-          "comment": "em... maska jest zwykłym 32bitowym czymś - \\\"słowem\\\" to zowią w informatyce chyba xP ? możesz tam wpisać co chcesz wiec i końcówka .2.2 będzie ok ;) a, że w praktyce się nie używa to inna sprawa :P",
-          "date": "03-02-2012 02:20:08"
-        },
-        {
-          "author": "~Łukasz@89.68.*.*",
-          "comment": "Ten co napisał.. weź sobie ustaw taką maskę na swojej karcie..",
-          "date": "03-02-2012 10:32:22"
-        },
-        {
-          "author": "~anon@95.49.*.*",
-          "comment": "Dlaczego w poprzednim pytaniu pingując komputer B (255.255.0.0) dostaliśmy odpowiedź pozytywną, a w tym pytaniu pingując A (255.255.0.0) dostaliśmy odpowiedź negatywną, maska drugiego komputera wpływa na powodzenie ping'a?",
-          "date": "14-02-2013 08:52:04"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Za pomoca którego protokołu NIE można przesyłać pakietów L2TP?",
@@ -2740,7 +2489,7 @@
     {
       "question": "Zamknięty port UDP na skanowanym komputerze sygnalizowany jest przez skanery po:",
       "id": 288,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "odebraniu pakietu FIN",
@@ -2759,13 +2508,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~g@91.207.*.*",
-          "comment": "odebraniu pakietu ICMP, a nie IMCP.",
-          "date": "01-02-2021 10:37:37"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Zapobieganie dostępowi do zasobów sieciowych (udostępnianych folderów) realizuje się poprzez definiowanie reguły programu typu firewall:",
@@ -2794,7 +2537,7 @@
     {
       "question": "Zaznacz 3 prawidłowe flagi TCP:",
       "id": 290,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "SYN",
@@ -2833,18 +2576,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@82.139.*.*",
-          "comment": "PUSH=PSH",
-          "date": "29-06-2014 23:34:41"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Które z wymienionych odpowiedzi zawieraja tylko algorytmy z kluczem tajnym:",
       "id": 291,
-      "numberOfComments": 4,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "DES,RC4,MD5,Haval",
@@ -2879,28 +2616,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~Hmm@159.205.*.*",
-          "comment": "DES,RC4,MD5,Haval - MD5 z kluczem tajnym?",
-          "date": "04-02-2014 21:45:29"
-        },
-        {
-          "author": "~Nick@79.185.*.*",
-          "comment": "MD5 jest algorytmem haszujacym wiec uzywa jest to rowniez alggorytm z kluczem tajnym",
-          "date": "04-02-2014 23:28:10"
-        },
-        {
-          "author": "~Nick@79.185.*.*",
-          "comment": "MD5 jest algorytmem haszujacym wiec jest to rowniez algorytm z kluczem tajnym *",
-          "date": "04-02-2014 23:28:51"
-        },
-        {
-          "author": "~t@91.207.*.*",
-          "comment": "Ja bym nie zaznaczał MD5, wg. wykładu:\nhttps://edu.pjwstk.edu.pl/wyklady/bsi/scb/index46.html\n•\tTajne: skipjack, IDEA, RC2, RC4, RC5, DES, 3DES\n•\tPubliczne: RSA, DSA, El Gamal\n•\tAlgorytmy skrótu (nieodwracalne): MD5, SHA\n\n\n",
-          "date": "01-02-2021 11:03:17"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Które z wymienionych odpowiedzi zawieraja tylko algorytmy z kluczem publicznym:",
@@ -2981,7 +2697,7 @@
     {
       "question": "Które z wymienionych odpowiedzi zawieraja tylko algorytmy asymetryczne:",
       "id": 294,
-      "numberOfComments": 6,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "ElGamal, DES, DSA",
@@ -3024,38 +2740,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~Snap@178.42.*.*",
-          "comment": "MD5 jest funkcja hashujaca",
-          "date": "03-02-2012 13:45:21"
-        },
-        {
-          "author": "~sng@83.4.*.*",
-          "comment": "Podobnie jak MD5, SHA i Haval są funkcjami haszującymi. Czyli nie ma takiego \"drugiego\" klucza który pozwoli odczytać zahashowaną wiadomość - więc nie są to algorytmy asymetryczne. Czy ja się mylę ?",
-          "date": "05-02-2013 15:37:46"
-        },
-        {
-          "author": "~jacek@84.10.*.*",
-          "comment": "Panowie. Czy. To jest woekszosc pytan egzaminacyjnych czy sa gdzies jeszcze?\n",
-          "date": "13-02-2013 21:00:36"
-        },
-        {
-          "author": "~anon@217.67.*.*",
-          "comment": "Wg. wykładów, metody hashujące są zaliczanie do grupy algorytmów asymetrycznych ",
-          "date": "30-01-2014 13:08:46"
-        },
-        {
-          "author": "~anon@159.205.*.*",
-          "comment": "Wydaje mi się, że 'asymetryczne' znaczy, że dane są inaczej odszyfrowywane, niż szyfrowane (np. w RSA). Funkcje hashujące szyfrują dane, ale nie da się ich już odszyfrować i dlatego jest asymetryczny. Chyba..",
-          "date": "04-02-2014 23:40:22"
-        },
-        {
-          "author": "~anon@91.207.*.*",
-          "comment": "md5 isn't really symmetric or asymmetric encryption because it isn't reversible either symmetrically or asymmetrically. It's a Message Digest (secure hash) algorithm. It's not encryption, it's a digest. If you didn't salt it, it's not particularly secure, but they're asking you the wrong question.\n\n\nTylko Haval,DSA,RSA,ElGamal poprawne, nie rozważamy MD5 jako sy / asy",
-          "date": "01-02-2021 11:16:52"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Która z odpowiedzi jest poprawna klasyfikacja ochrony w kolejnosci malejącej z Pomarańczowej Księgi(Orange Book):",
@@ -3180,7 +2865,7 @@
     {
       "question": "Czym jest Kryptologia?",
       "id": 299,
-      "numberOfComments": 3,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "nauka o zabezpieczaniu informacji i analizowaniu szyfrów",
@@ -3203,23 +2888,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~hm@94.172.*.*",
-          "comment": "to chyba d też powinna byc poprawna w takim razie",
-          "date": "09-02-2020 11:42:40"
-        },
-        {
-          "author": "~anon@91.207.*.*",
-          "comment": "Popieram",
-          "date": "01-02-2021 11:27:50"
-        },
-        {
-          "author": "~anon@91.207.*.*",
-          "comment": "Chociaż jeśli Kryptografia to nauka o zabezpieczaniu informacji, a Kryptoanaliza to nauka łamania szyfrów oraz Kryptologia składa się z dwóch powyższych to powinniśmy mieć te 2 odpowiedzi włączone tutaj. Trochę konsekwencji, bo to jest rozjazd logiczny.",
-          "date": "01-02-2021 11:31:55"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Czym jest Szyfrowanie?",
@@ -3770,5 +3439,5 @@
       "comments": []
     }
   ],
-  "updatedAt": 1655413492390
+  "updatedAt": 1655413568101
 }

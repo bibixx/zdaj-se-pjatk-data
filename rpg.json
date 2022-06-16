@@ -389,7 +389,7 @@
     {
       "question": "Jakie wyniki cząstkowe uwzględniamy przy obliczaniu zysku brutto przedsiębiorstwa?",
       "id": 520,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Przy obliczeniu zysku brutto przedsiębiorstwa konieczne jest obliczenie marży brutto.",
@@ -408,13 +408,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~Bartek@87.205.*.*",
-          "comment": "Prawidłowa odpowiedź to wynik na działalnosci gospodarczej +/ wyniak na działalności losowej",
-          "date": "16-06-2013 12:33:20"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Co rozumiemy pod pojęciem leasing operacyjny?",
@@ -1041,5 +1035,5 @@
       "comments": []
     }
   ],
-  "updatedAt": 1655413492390
+  "updatedAt": 1655413568101
 }

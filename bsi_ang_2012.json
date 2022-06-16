@@ -5,7 +5,7 @@
     {
       "question": "The purpose of message signing is to:",
       "id": 1732,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "assure the name of the recipient.",
@@ -24,13 +24,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~Jayer@83.24.*.*",
-          "comment": "W jednym z testów mam różne kombinacje jako prawidłowe tego samego pytania. Tu jest assure message integrity i verify the sender by recipient.\nW drugim mam assure the name of the recipient i veify the sender by the recipient.\nTa druga opcja jest prawidłowa.",
-          "date": "09-09-2013 00:02:36"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Is the following sentence true or false?\n\nThe ESP (Encapsulation Security Payload) protocol is a member of IPSec suite. Its purpose is to guarantee payload",
@@ -315,7 +309,7 @@
     {
       "question": "During this attack the victim is bombarded with SYN requests which consume enough resources to make the system unresponsive to legitimate users and services. This attack is called:",
       "id": 1772,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "UDP flood.",
@@ -334,18 +328,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~mk@83.6.*.*",
-          "comment": "Syn Flood a nie Mood ;)",
-          "date": "06-02-2013 11:14:33"
-        },
-        {
-          "author": "mykhi",
-          "comment": "poprawiam.",
-          "date": "06-02-2013 21:58:09"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "To use remote resources in a safety way, you would suggest using:",
@@ -1470,7 +1453,7 @@
     {
       "question": "Your personal firewall has the following active rule defined:<br>\n<br>\ndirection:&nbsp;<em>incomming</em>,<br>\nprotocol:&nbsp;<em>tcp</em>,<br>\nport:&nbsp;<em>80.<br>\naction:&nbsp;<em>block</em>.\n          </em>",
       "id": 1831,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "false",
@@ -1481,13 +1464,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@95.49.*.*",
-          "comment": "isn't the question missing?",
-          "date": "07-02-2013 08:13:06"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Is the following sentence true or false? Symmetric cryptographic algorithms use one key for coding and decoding, while asymmetric algorithms use a pair of keys - one for coding and second for decoding.",
@@ -1634,5 +1611,5 @@
       "comments": []
     }
   ],
-  "updatedAt": 1655413492390
+  "updatedAt": 1655413568101
 }

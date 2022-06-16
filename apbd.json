@@ -5,7 +5,7 @@
     {
       "question": "CLR:",
       "id": 2981,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Potrafi uruchomić kod napisany w MSIL",
@@ -24,13 +24,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@89.70.*.*",
-          "comment": "\"Środowisko CLR kompiluje i wykonuje zapisany w standardowym języku pośrednim Microsoft (MSIL) kod aplikacji zwany kodem zarządzanym (...)\"\nPowinno być A i C.",
-          "date": "08-09-2017 10:43:26"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "W poniższym fragmencie kodu:<p></p>\n<p>&nbsp;</p>\n<p>public void DatabaseOperation() {</p>\n<p>var sqlConnection = new SqlConnection(ConfigurationManager.ConnectionStrings[\"Default\"])//reszta kodu&nbsp;</p>\n<p>var sqlCommand = new sqlCommand(\"SELECT * FROM EMP\");</p>\n<p>sqlConnection.open();</p>\n<p>&nbsp;</p>\n<p>//...operacje bazodanowe</p>\n<p>&nbsp;</p>\n<p>sqlCommand.Dispose();</p>\n<p>sqlConnection.Dispose();</p>\n<p>}\n          </p>",
@@ -79,7 +73,7 @@
     {
       "question": "TRADYCYJNE technologie webowe/klienckie to:",
       "id": 2985,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Visual Basic",
@@ -98,18 +92,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~Anon@2a01:110f:4803:2d00:7d34:713d:4de5:7a56",
-          "comment": "What about HTML5, JavaScript?",
-          "date": "11-07-2020 17:44:36"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "LINQ",
       "id": 2986,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "pozwala pominąć język SQL w operacjach bazodanowych",
@@ -124,18 +112,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~sidletsky@162.158.*.*",
-          "comment": "wrong. ",
-          "date": "25-06-2019 20:05:50"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Które z poniższych zdań na temat LINQ jest prawdziwe?",
       "id": 2987,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Jest to część framework'u .NET. Technologia ta umożliwia realizowanie zapytań na kolekcjach obiektów. Składnia LINQ przypomina nieco SQL.&nbsp; LINQ może działać na dowolnej kolekcji, która implementuje interfejs IEnumerable.",
@@ -154,18 +136,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~Petenshi@5.184.*.*",
-          "comment": "Czemu 1 odpowiedź nie jest zaznaczona jako prawdziwa? Zgadza się, że wymaga IEnumerable oraz podobny jest do sql.",
-          "date": "03-07-2018 14:34:04"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Zaznacz zalety EF",
       "id": 2988,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "EF pozwala nam na częściowe poradzenie sobie z problemem opisywanym poprzez termin \"rożnica impedancji\"",
@@ -184,23 +160,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~Petenshi@5.184.*.*",
-          "comment": "Napewno 3 i 4 odp. Poprawna, nie jestem pewny co do 2, ale też raczej dobra.",
-          "date": "03-07-2018 14:35:06"
-        },
-        {
-          "author": "~anon@91.226.*.*",
-          "comment": "wszystkie poprawne",
-          "date": "28-06-2020 14:41:34"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "W których językach możemy stworzyć podstawowy kod Code Behind w aplikacji ASP.NET?",
       "id": 2989,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Visual Basic",
@@ -219,23 +184,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~PDmochowski@89.77.*.*",
-          "comment": "ASP.NET wspiera języki C#, J# oraz Visual Basic",
-          "date": "01-09-2018 20:39:33"
-        },
-        {
-          "author": "~sidletsky@162.158.*.*",
-          "comment": "What about F#? It is a .NET language ",
-          "date": "25-06-2019 20:14:34"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Kiedy warto korzystać z podejścia Database First w EF?",
       "id": 2990,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Zmiany w strukturze bazy danych wykonywane są z poziomu języka SQL (np. poprzez Sql Managment Studio) przez administratora bazy danych",
@@ -254,18 +208,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@91.226.*.*",
-          "comment": "wszystko poza \"Chcemy wersjonować zmiany w strukturze bazy danych\" poprawne",
-          "date": "28-06-2020 14:43:38"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "ASP.NET MVC oparty jest na wzorcu projektowym MVC. Wzorzec ten składa się z trzech części . Litera \"M\" oznacza model. Które z poniższych twierdzeń poprawnie opisują model?",
       "id": 2991,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Klasy modelowe mogą być opisane przez dodatkowe metadane, któe służą określeniu np. reguł walidacyjnych związanych z danym modelem. Np. dane pole jest wymagane lub jego długość nie może przekroczyć 30 znaków.",
@@ -284,13 +232,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@91.226.*.*",
-          "comment": "a i b poprawne",
-          "date": "28-06-2020 14:42:59"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "ASP.NET MVC oparty jest na wzorcu projektowym MVC. Wzorzec ten składa się z trzech części. \"V\" oznacza widok. Które z poniższych twierdzeń poprawnie opisują widok?",
@@ -459,7 +401,7 @@
     {
       "question": "Frameworki ORM",
       "id": 3370,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "ułatwiają parcę z bazami danych",
@@ -478,23 +420,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~qrwwqrqw@185.93.*.*",
-          "comment": "Czemu wymagają SQL? Przecież po to są żeby go  nie używać???",
-          "date": "30-08-2020 19:51:13"
-        },
-        {
-          "author": "mykhi",
-          "comment": "tutaj dodający nie zaznaczył żadnych poprawnych odpowiedzi, ale IMO powinny być a) i d)",
-          "date": "31-08-2020 09:47:48"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Co oznacza termin \"problem N+1\" związany z ORM'ami?",
       "id": 3371,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Termin związany jest z błędem w ORM'ach, który uniemożliwia budowanie pewnych rodzajów relacji między tabelami z poziomu kodu (podejście Code-First)",
@@ -513,23 +444,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~darkvyl@88.156.*.*",
-          "comment": "b",
-          "date": "03-09-2020 12:19:59"
-        },
-        {
-          "author": "~anon@2a02:a310:c127:4000:d4f1:6cd7:4461:d020",
-          "comment": "Dodaj poprawna odpowiedz",
-          "date": "14-02-2021 11:37:10"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Zaznacz <strong>zalety</strong> EF",
       "id": 3372,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "EF pozwala nam na częściowe poradzenie sobie z problemem opisywanym poprzez termin \"różnica impedancji\".",
@@ -548,18 +468,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~darkvyl@88.156.*.*",
-          "comment": "wszystko poza najszybszym i najbardziej ",
-          "date": "03-09-2020 12:24:37"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Zaznacz poprawne zdanie/a na temat podejść w EntityFramework",
       "id": 3373,
-      "numberOfComments": 3,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "korzystając z podejścia DatabaseFirst istnieje możliwość późniejszej zmiany metody pracy z bazą danych na CodeFirst",
@@ -574,23 +488,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@88.156.*.*",
-          "comment": "b, może też c",
-          "date": "03-09-2020 12:26:37"
-        },
-        {
-          "author": "~dan@2a02:a311:a342:b180:bdde:f340:39fc:7331",
-          "comment": "Moim zdaniem wszystkie poprawne. Możliwość przejścia istnieje ale czy jest optymalna?",
-          "date": "05-09-2020 13:18:15"
-        },
-        {
-          "author": "~Łuki@2a02:a311:803f:2380:876:342a:91b4:44cc",
-          "comment": "Wszystkie poprawne",
-          "date": "05-09-2020 18:08:46"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Wskazanie w C#, że zmienna typu prostego jego nullowalna odbywa się poprzez",
@@ -731,7 +629,7 @@
     {
       "question": "Klasa startup projektu web api:",
       "id": 3380,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "zawiera metody służące do budowania zależności w projekcie",
@@ -746,13 +644,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~Łuki@2a02:a311:803f:2380:876:342a:91b4:44cc",
-          "comment": "A i C poprawne",
-          "date": "05-09-2020 18:05:22"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "EntityFramework:",
@@ -779,5 +671,5 @@
       "comments": []
     }
   ],
-  "updatedAt": 1655413492390
+  "updatedAt": 1655413568101
 }

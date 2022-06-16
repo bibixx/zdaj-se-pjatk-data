@@ -125,7 +125,7 @@
     {
       "question": "In block cipher, what creates the element of diffusion?",
       "id": 3100,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Permutation using a lookup table",
@@ -144,13 +144,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~Kamil@95.49.*.*",
-          "comment": "https://crypto.stackexchange.com/questions/57617/does-the-des-s-box-only-provide-confusion-or-does-it-also-provide-an-avalanche",
-          "date": "09-02-2019 07:54:29"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "What is the effective key length for Data Encryption Standard (DES)?",
@@ -441,5 +435,5 @@
       "comments": []
     }
   ],
-  "updatedAt": 1655413492390
+  "updatedAt": 1655413568101
 }

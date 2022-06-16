@@ -5,7 +5,7 @@
     {
       "question": "Przesyłanie strumieniowe wykorzystuje protokoły:",
       "id": 986,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "RTP",
@@ -24,18 +24,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~mateusz@89.78.*.*",
-          "comment": "Odpowiedzi: RTP i RTSP też są poprawne. Wikipedia: RTP is used extensively in communication and entertainment systems that involve streaming media, such as telephony, video teleconference applications, television services and web-based push-to-talk features.",
-          "date": "16-06-2014 08:44:55"
-        },
-        {
-          "author": "~Ja@79.185.*.*",
-          "comment": "Potwierdzam ze rtp i rtsp tez",
-          "date": "06-02-2018 00:44:37"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Buforowanie w odtwarzaczu audio/wideo po stronie klienta:",
@@ -136,7 +125,7 @@
     {
       "question": "Przy przesyłaniu strumieniowym:",
       "id": 991,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "odtwarzanie jest interaktywne",
@@ -155,18 +144,12 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@193.0.*.*",
-          "comment": "To pytanie i pyt. 21 są identyczne, a odpowiedzi różne. Wydaje mi się, że wszystkie odpowiedzi powinny być poprawne - wg. angielskiej wiki o przesyłaniu strumieniowym (https://en.wikipedia.org/wiki/Streaming_media): \"The streaming client (the end user) may interact with the streaming server using a control protocol, such as MMS or RTSP.\". Rozumiem, że chodzi o interaktywność w postaci play, pause itd; wtedy ma to jakiś sens.",
-          "date": "06-02-2019 12:31:17"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Które protokoły multipleksacji wymagają synchronizacji zegarów węzłów sieci?",
       "id": 992,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Protokół 802.11 z rezerwacjami (DFWMAC-DCF z RTS/CTS)",
@@ -185,13 +168,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~mmm@195.235.*.*",
-          "comment": "Czemu slotted aloha też nie jest poprawny? Muszą być zsynchronizowane zegary, żeby dobrze trafiały w ramki..",
-          "date": "05-02-2019 19:14:54"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Cyfrowa komunikacja poprzez medium radiowe wymaga:",
@@ -460,7 +437,7 @@
     {
       "question": "Technologie MPLS i ATM różnią się tym, że:",
       "id": 1004,
-      "numberOfComments": 3,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "technologia ATM nie może być wykorzystywana przez warstwę IP",
@@ -479,23 +456,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~ld@89.64.*.*",
-          "comment": "ATM jest technologia warstwy sieci?",
-          "date": "06-02-2019 06:34:59"
-        },
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "raczej łącza danych",
-          "date": "06-02-2019 21:39:57"
-        },
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "To MPLS tworzy polaczenia korzystajac z etykiet... moim zdaniem dobra odpowiedz to technologia MPLS nie posiada mechnizmów QoS",
-          "date": "07-02-2019 06:42:06"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Kategoria usług ABR:",
@@ -644,7 +605,7 @@
     {
       "question": "<span lang=\"PL\">Komunikacja głosu i obrazu jest:</span>",
       "id": 3039,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<p class=\"MsoNormal\"><span lang=\"PL\">interaktywna</span></p>",
@@ -663,14 +624,8 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~tomek@89.64.*.*",
-          "comment": "podatna na opóźnienia maksymalne też jest poprawna.\n\nKomunikacja głosu i obrazu jest podatna na maksymalne opóźnienie oraz zmienność opóźnień, ale odporna na straty pakietów",
-          "date": "21-01-2019 20:28:17"
-        }
-      ]
+      "comments": []
     }
   ],
-  "updatedAt": 1655413492390
+  "updatedAt": 1655413568101
 }

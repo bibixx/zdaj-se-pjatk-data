@@ -413,7 +413,7 @@
     {
       "question": "Podejście REST (Representational State Transfer) nie zaleca:",
       "id": 2130,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Udostępnienia zasobów wyodrębnionych jako encje",
@@ -432,18 +432,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~GoodGirl@89.67.*.*",
-          "comment": "Poprawna: \"Podtrzymania stanu sesji na serwerze\"\nNa podstawie wykładu 12, slajd 4",
-          "date": "27-01-2014 19:23:58"
-        },
-        {
-          "author": "mykhi",
-          "comment": "poprawiam.",
-          "date": "27-01-2014 19:29:28"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "&nbsp;<p></p>\n<p class=\"MsoListParagraph\"><strong><span><span>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></strong><strong>Który z komunikatów występuje w protokole http?</strong>\n          </p>",
@@ -472,7 +461,7 @@
     {
       "question": "Centralizacja niektórych aspektów w technologii P2P nie jest podyktowana problemem:",
       "id": 2132,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "sprawności wyszukiwania innych węzłów",
@@ -491,23 +480,12 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~GoodGirl@89.67.*.*",
-          "comment": "Poprawna: \"Zapewnienia prywatności uczestników\"",
-          "date": "27-01-2014 23:13:36"
-        },
-        {
-          "author": "mykhi",
-          "comment": "poprawiam.",
-          "date": "27-01-2014 23:14:42"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Wskaż zalecenie niewłaściwe dla bezpiecznego identyfikatora sesji w aplikacji:",
       "id": 2133,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Powinien być w pełni losowy",
@@ -526,13 +504,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~GoodGuy@31.11.*.*",
-          "comment": "Poprawna: \"Jego wartość powinna zależeć od parametrów użytkownika\".\n\nTakie samo pytanie jak 11.",
-          "date": "27-01-2014 23:19:16"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "&nbsp;<p></p>\n<p class=\"MsoListParagraph\"><strong><span><span>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></strong><strong>Protokół TCP jest protokołem :</strong>\n          </p>",
@@ -751,7 +723,7 @@
       "comments": []
     },
     {
-      "question": "<p class=\"MsoListParagraphCxSpFirst\"><strong>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></strong><strong>Projekt <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"441721302d040c2b2921\">[email&nbsp;protected]</a> to:</strong></p>\n<p class=\"MsoListParagraphCxSpMiddle\">&nbsp;</p>",
+      "question": "<p class=\"MsoListParagraphCxSpFirst\"><strong>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></strong><strong>Projekt <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"db88beafb29b93b4b6be\">[email&nbsp;protected]</a> to:</strong></p>\n<p class=\"MsoListParagraphCxSpMiddle\">&nbsp;</p>",
       "id": 2142,
       "numberOfComments": 0,
       "answers": [
@@ -777,7 +749,7 @@
     {
       "question": "Definicja w Języku WSDL nie obejmuje",
       "id": 2143,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Specyfikacji typów XML użytych w komunikatach",
@@ -796,18 +768,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~GoodGuy@31.11.*.*",
-          "comment": "Tutaj \"Wskazania usług, które trzeba wywołać przed użyciem specyfikowanej usługi\"\n\nŹródło: Prezentacja 11, slajdy: od 14-18",
-          "date": "27-01-2014 19:01:54"
-        },
-        {
-          "author": "mykhi",
-          "comment": "fixed.",
-          "date": "27-01-2014 19:04:39"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "&nbsp;<p></p>\n<p class=\"MsoListParagraph\"><strong><span lang=\"EN-US\"><span>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></strong><strong><span lang=\"EN-US\">SAX ( Simple Api for XML) jest:</span></strong>\n          </p>",
@@ -836,7 +797,7 @@
     {
       "question": "<p class=\"MsoListParagraphCxSpFirst\"><strong><em><span lang=\"EN-US\">1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></em></strong>&nbsp;<strong><span lang=\"EN-US\">Poniższy dokument XML:<em></em></span></strong></p>\n<p class=\"MsoListParagraphCxSpMiddle\"><strong><span lang=\"EN-US\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>&lt;?xml &nbsp;version=”1.0” encoding=”UTF-8” ?&gt;</em></span></strong></p>\n<p class=\"MsoListParagraphCxSpMiddle\"><strong><em><span lang=\"EN-US\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;!DOCTYPE dok [ &lt;!ELEMENT dok EMPTY &gt; ] &gt;</span></em></strong></p>\n<p>&nbsp;</p>\n<p class=\"MsoListParagraphCxSpLast\"><strong><em><span lang=\"EN-US\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &lt;dok id=”a1” /&gt;</span></em></strong></p>",
       "id": 2145,
-      "numberOfComments": 3,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<p class=\"\\&quot;\\\\&quot;\\\\\\\\&quot;MsoListParagraphCxSpFirst\\\\\\\\&quot;\\\\&quot;\\&quot;\">Poprawny ale tylko składniowo (well formed)</p>",
@@ -855,23 +816,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~morda@89.64.*.*",
-          "comment": "Poprawny ale tylko składniowo (well formed)",
-          "date": "04-02-2018 00:29:24"
-        },
-        {
-          "author": "~anon@2a01:110f:150c:8e00:7d39:d29:ed8c:ef69",
-          "comment": "jeśli niepoprawny to niech ktoś wskaże błąd, wg mnie:\n\tPoprawny składniowo i strukturalnie",
-          "date": "04-02-2020 19:56:14"
-        },
-        {
-          "author": "~albatros@5.173.*.*",
-          "comment": "Czy atrybuty mogą być zapisane w tagu zamykającym? Wydaje mi się, że to przez to niepoprawny. ",
-          "date": "05-02-2020 11:44:16"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "&nbsp;<p></p>\n<p class=\"MsoListParagraph\"><strong><span><span>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></strong><strong>Język XSLT:</strong>\n          </p>",
@@ -900,7 +845,7 @@
     {
       "question": "<p class=\"MsoListParagraph\"><strong>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></strong><strong>Wyrażenie XPath w postaci //student/imie[2] zwróci:</strong></p>",
       "id": 2147,
-      "numberOfComments": 3,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<p class=\"\\&quot;MsoListParagraphCxSpFirst\\&quot;\"><span>elementy student, które posiadają dokładnie po 2 pod elementy imię</span></p>",
@@ -919,23 +864,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~domino@89.67.*.*",
-          "comment": "Tu jest chyba błąd powinno być: drugie imie pierwszego studenta...",
-          "date": "28-06-2016 08:54:48"
-        },
-        {
-          "author": "~JanPawełTrzeci@91.230.*.*",
-          "comment": "wyżej jest zadanie z /lista/student/imie[2], i tam jest napisane \"drugie imie pierwszego studenta\"",
-          "date": "28-06-2016 09:33:34"
-        },
-        {
-          "author": "~domino@188.146.*.*",
-          "comment": "Aaa faktycznie na pierwszy rzut oka nie zauwazylem roznicy ;)",
-          "date": "28-06-2016 09:43:46"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<p class=\"MsoListParagraphCxSpFirst\"><strong>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></strong><strong>Z punktu widzenia zaleceń bezpieczeństwa, komentarze dot. kodu PHP:</strong></p>",
@@ -1012,7 +941,7 @@
     {
       "question": "Pokazany niżej element XML \"zamowienie\" posiada<br><br>\n&lt;zamowienie&gt;<br>\n&lt;klient&gt;Janko Chanowski&lt;/klient&gt;<br>\n&lt;towar&gt;MS Word PL&lt;/towar&gt;<br>\n&lt;/zamówienie&gt;<br>",
       "id": 2151,
-      "numberOfComments": 3,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Zawartość tekstową",
@@ -1031,23 +960,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~Baza@95.160.*.*",
-          "comment": "To pytanie nie ma sensu. Pytanie jest o czymś innym a wiadomość o czym innym.Chodzi raczej o coś w stylu:\n<lista>\n<imie1></imie1>\n<imie2></imie2>\n</lista>",
-          "date": "27-01-2014 09:48:50"
-        },
-        {
-          "author": "~anon@95.160.*.*",
-          "comment": "powinno byc pytanie Pokazany niżej element XML \"zamowienie\" posiada\n<zamowienie>\n\n<klient>Janko Chanowski</klient>\n\n<towar>MS Word PL</towar>\n\n</zamówienie>\n\nale sie walnolem przy wpisywaniu xd\n",
-          "date": "27-01-2014 10:58:26"
-        },
-        {
-          "author": "mykhi",
-          "comment": "poprawiłem.",
-          "date": "27-01-2014 13:08:58"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<p class=\"MsoListParagraphCxSpFirst\"><strong>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></strong><strong>Adres 127.1.1.1&nbsp; należy do puli adresów pętli:</strong></p>\n<p class=\"MsoListParagraphCxSpMiddle\">&nbsp;</p>",
@@ -1076,7 +989,7 @@
     {
       "question": "<p class=\"MsoListParagraphCxSpFirst\"><strong>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></strong><strong>Termin „Aplikacja XML” oznacza:</strong></p>\n<p class=\"MsoListParagraphCxSpMiddle\">&nbsp;</p>",
       "id": 2153,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span>&nbsp;</span><span>Oprogramowanie wczytujące i modyfikujące dokument XML</span>",
@@ -1095,13 +1008,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@89.71.*.*",
-          "comment": "XML applications are software programs that process and manipulate data using XML. 1 poprawne",
-          "date": "29-01-2021 15:20:57"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "&nbsp;<p></p>\n<p class=\"MsoListParagraphCxSpFirst\"><strong><span><span>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></strong><strong>Poniższy dokument XML jest:</strong></p>\n<p class=\"MsoListParagraphCxSpMiddle\">&lt;?xml version=”1.0” encoding=”utf-8” ?&gt;</p>\n<p class=\"MsoListParagraphCxSpMiddle\">&lt;dokument autor=”Nowak” autor=”Kowalski”&gt;</p>\n<p class=\"MsoListParagraphCxSpMiddle\">To jest treść dokumentu</p>\n<p class=\"MsoListParagraphCxSpLast\">&lt;/dokument&gt;\n          </p>",
@@ -1130,7 +1037,7 @@
     {
       "question": "Wyrażenie &lt;!-- &nbsp;--&gt; w dokumencie XML sklasyfikujemy jako:",
       "id": 2155,
-      "numberOfComments": 5,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Deklarację XML",
@@ -1149,38 +1056,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~GoodGuy@31.11.*.*",
-          "comment": "Poprawna: Deklarację XML\nŹródło: np. Prezentacja 02, slajd 21",
-          "date": "27-01-2014 18:14:41"
-        },
-        {
-          "author": "mykhi",
-          "comment": "poprawiam",
-          "date": "27-01-2014 18:15:33"
-        },
-        {
-          "author": "~anon@94.254.*.*",
-          "comment": "Komentarz",
-          "date": "07-02-2018 12:51:55"
-        },
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "A masz tu kurwa komentarz w odpowiedzi?",
-          "date": "06-02-2019 23:16:43"
-        },
-        {
-          "author": "~stary anona@159.205.*.*",
-          "comment": "maciek juz po 11, marsz do łóżka wyłączaj ten kompiuter",
-          "date": "06-02-2019 23:30:13"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Zawartość tzw. Koperty (envelope) w protokole SOAP tworzą:",
       "id": 2156,
-      "numberOfComments": 4,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Nagłówki http i dokument XML?",
@@ -1199,28 +1080,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~GoodGuy@31.11.*.*",
-          "comment": "Tutaj odpowiedź prawidłowa to: Elementy Header i Body.\nŹródło: Prezentacja 10, slajd 19 i 20",
-          "date": "27-01-2014 17:45:38"
-        },
-        {
-          "author": "mykhi",
-          "comment": "poprawiam.",
-          "date": "27-01-2014 17:46:50"
-        },
-        {
-          "author": "~GoodGuy@31.11.*.*",
-          "comment": "Źle poprawiłeś.\nElementy Header i Body",
-          "date": "27-01-2014 18:02:48"
-        },
-        {
-          "author": "mykhi",
-          "comment": "ano!",
-          "date": "27-01-2014 18:03:53"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "&nbsp;<p></p>\n<p class=\"MsoListParagraph\"><strong><span><span>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></strong><strong>Z punktu widzenia bezpieczeństwa, komentarze dotyczące kodu strony PHP:</strong>\n          </p>",
@@ -1249,7 +1109,7 @@
     {
       "question": "<p class=\"MsoListParagraphCxSpFirst\"><strong>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></strong><strong>Zaznacz prawdziwe stwierdzenie na temat specyfikacji HTML 5:</strong></p>\n<p class=\"MsoListParagraphCxSpMiddle\">&nbsp;</p>",
       "id": 2158,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span>Ma zakres identyczny z XHTML 2, ale nie stosuje składni XML</span>",
@@ -1268,18 +1128,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "Wprowadza własne elementy reprezentujące obiekty grafiki wektorowej  ????",
-          "date": "06-02-2018 17:03:02"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Wyrażenie XPath w postaci /lista/student/imie[2] zwróci:",
       "id": 2159,
-      "numberOfComments": 6,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "drugie imię pierwszego studenta zapisanego w dokumencie",
@@ -1298,38 +1152,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~hacker@89.64.*.*",
-          "comment": "wszystkie drugie imiona studentów w dokumencie - poprawna",
-          "date": "03-02-2018 23:36:19"
-        },
-        {
-          "author": "~pch@79.191.*.*",
-          "comment": "potwierdzam, pokazywal wykladowca przykladowe",
-          "date": "04-02-2018 20:00:33"
-        },
-        {
-          "author": "~maciejka@89.64.*.*",
-          "comment": "Prosimy o zaznaczenie odpowiedzi \"wszystkie drugie imiona studentów w dokumencie\" :)",
-          "date": "06-02-2021 17:42:24"
-        },
-        {
-          "author": "mykhi",
-          "comment": "zaznaczam dodatkowo b)",
-          "date": "06-02-2021 18:33:32"
-        },
-        {
-          "author": "~maciejka@89.64.*.*",
-          "comment": "Te odpowiedzi się wykluczają a wykładowca mówił, że tylko jedna jest poprawna, więc odznacz a) \"drugie imię pierwszego studenta zapisanego w dokumencie\"",
-          "date": "06-02-2021 19:22:27"
-        },
-        {
-          "author": "mykhi",
-          "comment": "odznaczam a)",
-          "date": "06-02-2021 20:52:24"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Ataki typu cross-site scripting (XSS) opierają się na:",
@@ -1382,7 +1205,7 @@
     {
       "question": "Stosowane w RoR nazwenictwo, które np. każe nazwać kontroler tak jak obsługiwaną przezeń encję, tylko z użyciem liczby mnogiej, jest przejawem zasady:",
       "id": 3395,
-      "numberOfComments": 3,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Don't Repeat Yourself",
@@ -1401,23 +1224,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~Frugo@2a02:a319:4044:6500:ed1d:352b:7eb0:ca15",
-          "comment": "Poprawna: MVC",
-          "date": "09-02-2021 04:32:18"
-        },
-        {
-          "author": "~ty@2a02:a311:403b:5100:2850:a244:9ab6:a5d9",
-          "comment": "podbijam",
-          "date": "09-02-2021 10:48:36"
-        },
-        {
-          "author": "mykhi",
-          "comment": "zaznaczam",
-          "date": "09-02-2021 20:26:01"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "&nbsp;<p></p>\n<p class=\"MsoListParagraph\"><strong><span><span>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></strong><strong>Ataki typu „SQL injection” polegają na:</strong>\n          </p>",
@@ -1446,7 +1253,7 @@
     {
       "question": "<p class=\"MsoListParagraphCxSpFirst\"><strong>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></strong><strong>Poniższy element XML jest:</strong></p>\n<p class=\"MsoListParagraphCxSpMiddle\"><strong>&lt;?xml version=”1.0” encoding=”utf-8” ?&gt;</strong></p>\n<p class=\"MsoListParagraphCxSpMiddle\"><strong>&lt;!DOCTYPE dok [ &lt;!ELEMENT dok (x) &gt;&nbsp; &lt; !ELEMENT x (#PCDATA) &gt; ] &gt;</strong></p>\n<p class=\"MsoListParagraphCxSpMiddle\"><strong>&lt;dok&gt; &lt;x&gt; nagłówek &lt;/x&gt;</strong></p>\n<p class=\"MsoListParagraphCxSpMiddle\"><strong>&lt;/dok&gt;</strong></p>\n<p class=\"MsoListParagraphCxSpMiddle\">&nbsp;</p>",
       "id": 2161,
-      "numberOfComments": 3,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span>Poprawny, ale tylko składniowo</span>",
@@ -1465,23 +1272,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@89.67.*.*",
-          "comment": "Dlaczego waszym zdaniem ten kod jest niepoprawny? ",
-          "date": "27-01-2014 12:45:20"
-        },
-        {
-          "author": "~GoodGuy@31.11.*.*",
-          "comment": "Wydaje mi się, że jest \"Poprawny składniowo i strukturalnie\".\n\nNie mogę się dopatrzeć błędów.",
-          "date": "27-01-2014 23:45:20"
-        },
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "Niepoprawny - spacja przed drugim !ELEMENT",
-          "date": "06-02-2019 18:28:29"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<p class=\"MsoListParagraphCxSpFirst\"><strong>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></strong><strong>Ciasteczka Cookies mogą być odczytywane i zapisywane:</strong></p>\n<p class=\"MsoListParagraphCxSpMiddle\">&nbsp;</p>",
@@ -1606,7 +1397,7 @@
     {
       "question": "<p class=\"MsoListParagraphCxSpFirst\"><strong>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></strong><strong>Finalne postacie specyfikacji World Wide Web Consortium noszą nazwę:</strong></p>\n<p class=\"MsoListParagraphCxSpMiddle\">&nbsp;</p>",
       "id": 2167,
-      "numberOfComments": 5,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span>Rekomendacji</span>",
@@ -1625,33 +1416,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~bre@83.6.*.*",
-          "comment": "Wykład 7, \"Specyfikacje W3C noszą nazwę rekomendacji (recommendations) i są publicznie dostępne.\"",
-          "date": "02-02-2014 19:02:44"
-        },
-        {
-          "author": "~anon@213.186.*.*",
-          "comment": "rekomendacje - wykład 2",
-          "date": "29-06-2014 18:31:26"
-        },
-        {
-          "author": "~rand@178.183.*.*",
-          "comment": "Z wiki: https://en.wikipedia.org/wiki/World_Wide_Web_Consortium\nW3C recommendation (REC)\nThis is the most mature stage of development.",
-          "date": "01-02-2016 10:54:32"
-        },
-        {
-          "author": "~whatislove@194.152.*.*",
-          "comment": "FINALNE, więc standardów ",
-          "date": "05-02-2018 00:18:36"
-        },
-        {
-          "author": "~whoamitojudge@89.64.*.*",
-          "comment": "habela/wykład 10 - slajd 39\nW3C Recommendation: Postać finalna.\nwięc raczej rekomendacje. ",
-          "date": "07-02-2019 00:48:24"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<p class=\"MsoListParagraphCxSpFirst\"><strong>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></strong><strong>Która z metod żądania nie występuje w protokole http?</strong></p>\n<p class=\"MsoListParagraphCxSpMiddle\"><span><strong>&nbsp;</strong></span></p>",
@@ -1848,7 +1613,7 @@
     {
       "question": "Wyrażenie XPath w postaci //student/imie[2]/parent::* zwróci",
       "id": 2179,
-      "numberOfComments": 9,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "drugie imię pierwszego studenta zapisanego w dokumencie",
@@ -1867,53 +1632,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~kozak@89.64.*.*",
-          "comment": "wszystkie drugie imiona studentów zapisane w dokumencie",
-          "date": "04-02-2018 22:30:36"
-        },
-        {
-          "author": "~anon@79.184.*.*",
-          "comment": "czyli \"//student/imie[2]/parent::*\" == \"//student/imie[2]/\" ??",
-          "date": "06-02-2018 19:15:41"
-        },
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "nie, \"//student/imie[2]/\" wszystkie elemnty potomne imie[2] jak coś to tak : \"//student/imie[2]\"",
-          "date": "06-02-2018 19:54:10"
-        },
-        {
-          "author": "~wiktor siurdyk@159.205.*.*",
-          "comment": "*zaciaga sie elektrykiem* mmm tu bedzie odpowiedz 4 na pewno",
-          "date": "06-02-2019 15:10:11"
-        },
-        {
-          "author": "~Rafał balama@89.64.*.*",
-          "comment": "*opierdalając kilo suchego ryżu*\nłohoho zgadzam sie z przedmufca",
-          "date": "06-02-2019 15:34:57"
-        },
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "Ta baza pytań w jakimkolwiek stopniu jest aktualna z egzaminem ?",
-          "date": "06-02-2019 19:03:37"
-        },
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "Potwierdzone info - nie jest aktualna od 2-3 lat",
-          "date": "06-02-2019 19:44:12"
-        },
-        {
-          "author": "~anon@213.216.*.*",
-          "comment": "troll nie słuchać\n",
-          "date": "06-02-2019 20:07:18"
-        },
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "Się zdziwisz, jak jutro pójdziesz i Ci się trafi 1 czy 2 pytania. Akurat w tym przypadku baza była 2-3 lata temu aktualizowana, więc sięga kilkaset pytań. Więc to tak naprawdę zależy od szczęścia.",
-          "date": "06-02-2019 20:57:38"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<strong>Pokazany niżej element XML \"zamowienie\" posiada:</strong><p></p>\n<p>&lt;zamowienie&gt;</p>\n<p>&lt;klient&gt; Jan Nowak&lt;/klient&gt;</p>\n<p>&lt;towar&gt; MS word Pl&lt;/towar&gt;</p>\n<p>&lt;/zamowienie&gt;\n          </p>",
@@ -1942,7 +1661,7 @@
     {
       "question": "<strong>Tzw. URL-encoding jest stosowany dla:</strong>",
       "id": 2181,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Przesyłania załącznikow binarnych w email protokołem SMTP",
@@ -1961,18 +1680,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~wiktor siurdyk@159.205.*.*",
-          "comment": "*zakłada prochowiec* zgadzam sie z odpowiedza",
-          "date": "06-02-2019 15:26:34"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<strong>Sprawdzenie zgodnosci loginu i hasła to rodzaj:</strong><p></p>\n<p>&nbsp;</p>\n<p>&nbsp;\n          </p>",
       "id": 2563,
-      "numberOfComments": 6,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Enkapsulacji",
@@ -1991,38 +1704,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "To samo pytanie co 53, różne odpowiedzi",
-          "date": "06-02-2019 22:16:53"
-        },
-        {
-          "author": "~twoj stary@159.205.*.*",
-          "comment": "uwierzytelnienie to to samo co autentykacja baranie",
-          "date": "06-02-2019 22:29:17"
-        },
-        {
-          "author": "~maciejka@89.64.*.*",
-          "comment": "Mykhi, jak możesz to odznacz odpowiedź d) \"uwierzytelnienie\" i zaznacz odp. b) \"Autoryzacja\"",
-          "date": "07-02-2021 16:19:57"
-        },
-        {
-          "author": "~kek@79.191.*.*",
-          "comment": "ale uwierzytelnienie jest git\nhttps://pl.wikipedia.org/wiki/Uwierzytelnianie",
-          "date": "08-02-2021 10:34:12"
-        },
-        {
-          "author": "~anon@83.6.*.*",
-          "comment": "gicior jest autoryzacja to sprawdzanie czy osoba ma dostęp do jakiś zasobów a uwierzytelnianie/autentykacja to sprawdzenie czy osoba jest tym za kogo się podaje (np. poprzez login i hasło) ",
-          "date": "08-02-2021 10:51:13"
-        },
-        {
-          "author": "mykhi",
-          "comment": "jest tak jak ~anon@83.6.*.* mówi, authentication != authorization",
-          "date": "08-02-2021 11:01:11"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "W&nbsp;<em>Ruby on rails&nbsp;</em>pliki .erb (Embedded Ruby) spotkamy w roli:",
@@ -2075,7 +1757,7 @@
     {
       "question": "Która metoda http ma ciało",
       "id": 3175,
-      "numberOfComments": 4,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Head",
@@ -2094,28 +1776,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~albatros@93.105.*.*",
-          "comment": "Czy Post nie jest poprawną odpowiedzią?",
-          "date": "01-02-2020 17:54:41"
-        },
-        {
-          "author": "~xd@37.47.*.*",
-          "comment": "Jest",
-          "date": "02-02-2020 14:06:14"
-        },
-        {
-          "author": "~maciejka@89.64.*.*",
-          "comment": "Mykhi, jak możesz to zaznacz odp. d) \"Post\" jako prawidłową",
-          "date": "07-02-2021 16:36:20"
-        },
-        {
-          "author": "mykhi",
-          "comment": "done",
-          "date": "07-02-2021 18:29:20"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Aby wpisane przez użytkownika na stronie hasło nie pojawiło się w adresie URL żądania, powinniśmy przsłać je komunikatem HTTP metodą:",
@@ -2192,7 +1853,7 @@
     {
       "question": "W DTD typ atrybutu możemy m.in. określić jako:",
       "id": 3046,
-      "numberOfComments": 8,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "DATE",
@@ -2211,48 +1872,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@79.184.*.*",
-          "comment": "IMO powinno być ID.",
-          "date": "04-02-2018 19:29:18"
-        },
-        {
-          "author": "~79@185.15.*.*",
-          "comment": "IMO też - na w3schools są podane atrybuty i tam znajduje się miedzy innymi ID, ale nie ma DATE, INT i String",
-          "date": "06-02-2018 10:29:47"
-        },
-        {
-          "author": "~anon@79.184.*.*",
-          "comment": "Ja patrzyłem tutaj http://cyberpunk.e-spin.pl/86,40,5/KOD/KURSY-PROGRAMOWANIA/Kurs-XML/DTD---atrybuty,67.html i tylko ID jest właśnie tam podane, także zaznaczona odpowiedź jest raczej błędna.\n",
-          "date": "06-02-2018 17:26:14"
-        },
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "poprawna odpowiedz to ID",
-          "date": "06-02-2018 19:57:34"
-        },
-        {
-          "author": "~anon@83.28.*.*",
-          "comment": "tak",
-          "date": "06-02-2018 20:22:13"
-        },
-        {
-          "author": "~anon@79.143.*.*",
-          "comment": "@mykhi, zmień odpowiedź na ID, please",
-          "date": "05-02-2021 18:31:57"
-        },
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "Mykhi, jak możesz to odznacz odpowiedź a) \"DATE\" i zaznacz d) \"ID\"",
-          "date": "07-02-2021 15:36:43"
-        },
-        {
-          "author": "mykhi",
-          "comment": "zrobione jak wyżej ^",
-          "date": "07-02-2021 18:28:56"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "UDP jest protokołem:",
@@ -2329,7 +1949,7 @@
     {
       "question": "Kaskadowe arkusze stylów (CSS):",
       "id": 3396,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Są interpretowane po stronie serwera",
@@ -2348,18 +1968,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@2a02:a319:803e:5900:692b:6692:da88:2956",
-          "comment": "prawidłowa odpowiedź to \"Pozwalają usprawnić ładowanie korzystających z nich stron\"",
-          "date": "15-02-2021 19:22:13"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Do technologii dynamicznych stron WWW nie zaliczamy:",
       "id": 3397,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "PHP",
@@ -2378,23 +1992,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~Frugo@2a02:a319:4044:6500:ed1d:352b:7eb0:ca15",
-          "comment": "Odp: Apletów Javy",
-          "date": "09-02-2021 04:09:14"
-        },
-        {
-          "author": "mykhi",
-          "comment": "zaznaczam",
-          "date": "09-02-2021 09:42:26"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Kod JavaScript możemy umieszczać (podaj kompletną odpowiedź):",
       "id": 3398,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "W plikach zewnętrznych oraz wewnątrz elementu head lub body dokumentu HTML",
@@ -2413,13 +2016,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~Frugo@2a02:a319:4044:6500:ed1d:352b:7eb0:ca15",
-          "comment": "Poprawna odp: W plikach zewnętrznych oraz wewnątrz elementu head lub body dokumentu HTML",
-          "date": "09-02-2021 03:50:11"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Wyrażenie w języku Ruby&nbsp;<strong>:xyz.class</strong> zwróci:",
@@ -2448,7 +2045,7 @@
     {
       "question": "Selektor CSS sformułowany jako&nbsp;<strong>h1 + p</strong> selekcjonuje element[y]",
       "id": 3400,
-      "numberOfComments": 4,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Elementy p występujące wewnątrz elementu h1",
@@ -2467,28 +2064,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anonim@2a02:a319:803e:5900:bc57:6609:49b:87c6",
-          "comment": "można zaznaczyć 3",
-          "date": "08-02-2021 20:41:50"
-        },
-        {
-          "author": "~ja@31.178.*.*",
-          "comment": "Poprawna odpowiedź: [Elementy p występujące bezpośrednio po elementach h1]",
-          "date": "09-02-2021 00:41:21"
-        },
-        {
-          "author": "mykhi",
-          "comment": "zaznaczam",
-          "date": "09-02-2021 09:43:48"
-        },
-        {
-          "author": "~ty@2a02:a311:403b:5100:2850:a244:9ab6:a5d9",
-          "comment": "nie zaznaczone jeszcze",
-          "date": "09-02-2021 10:44:04"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span>XML oraz SGML nazywamy meta-językami, gdyż:</span>",
@@ -3711,5 +3287,5 @@
       "comments": []
     }
   ],
-  "updatedAt": 1655413492390
+  "updatedAt": 1655413568101
 }

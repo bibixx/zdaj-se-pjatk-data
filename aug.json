@@ -29,7 +29,7 @@
     {
       "question": "Czy dane stwierdzenie jest prawdziwe?",
       "id": 3476,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Determinizacja automatu skończonego może spowodować wykładniczą eksplozję liczby stanów.",
@@ -48,13 +48,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~qbix@89.69.*.*",
-          "comment": "wstawiłem z błędem. Poprawne jest również \"Eliminacja ε-przejść w automacie skończonym nie powoduje wzrostu liczby jego stanów.\" Dodajemy co prawda nowe stany początkowe, ale na zasadzie zmiany stanów niepoczątkowych w początkowe. Ogólna liczba stanów pozostaje taka sama.",
-          "date": "14-02-2021 07:01:34"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Czy dane stwierdzenie jest prawdziwe?",
@@ -105,5 +99,5 @@
       "comments": []
     }
   ],
-  "updatedAt": 1655413492390
+  "updatedAt": 1655413568101
 }

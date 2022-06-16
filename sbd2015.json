@@ -5,7 +5,7 @@
     {
       "question": "Które z poniższych stwierdzeń jest prawdziwe w Pl/SQL:",
       "id": 2414,
-      "numberOfComments": 3,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "prawidłową konstrukcją pętli jest WHILE warunek BEGIN ciąg instrukcji END;",
@@ -24,28 +24,12 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~melon usk@81.219.*.*",
-          "comment": "spacex leci w gure a wy sie uczycie piwniczaki ;p",
-          "date": "06-02-2018 22:11:27"
-        },
-        {
-          "author": "mykhi",
-          "comment": "ja oglądałem live",
-          "date": "06-02-2018 22:45:28"
-        },
-        {
-          "author": "~wapiesz@91.230.*.*",
-          "comment": "XD",
-          "date": "07-02-2018 08:49:19"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Która z poniższych instrukcji Pl/SQL jest prawidłową deklaracją zmiennych w Pl/SQL?:",
       "id": 2415,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "DECLARE v_ala Varchar2(10); v_ile INT; v_data DATE;",
@@ -64,23 +48,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@89.79.*.*",
-          "comment": "mi się zdarzyło mieć jeszcze odpowiedź jak DECLARE v_ala Varchar2(10); v_ile INT; v_data DATE; tylko zamiast \";\" miałem \",\" co jest złą odpowiedzią",
-          "date": "08-02-2015 21:19:10"
-        },
-        {
-          "author": "~anon@162.158.*.*",
-          "comment": "w Pl/SQL deklaracje zmiennych oddziela się średnikami - opcja z przecinkami jest nieprawidłowa",
-          "date": "21-06-2019 19:27:13"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Hurtownia danych jest:",
       "id": 2416,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "zorientowania na działanie",
@@ -99,18 +72,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~jendrek pyta@159.205.*.*",
-          "comment": "lol",
-          "date": "03-02-2018 20:58:40"
-        },
-        {
-          "author": "~NoIPanPawel@185.186.*.*",
-          "comment": "ez\n",
-          "date": "30-01-2020 21:49:00"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Zaznacz poprawne stwierdzenia dotyczące wielowersyjności w bazach danych:",
@@ -163,7 +125,7 @@
     {
       "question": "Zaznacz poprawne stwierdzenia dotyczące wielowersyjności w bazach danych:",
       "id": 2419,
-      "numberOfComments": 6,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "MS SQL Server oferuje mechanizm, dzięki któremu możemy tworzyć statyczne obrazy (migawki) bazy danych, oparte na wielowersyjności.",
@@ -174,43 +136,12 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@89.76.*.*",
-          "comment": "Jak myślicie co z drugą odpowiedzią? \nhttps://technet.microsoft.com/en-us/library/aa213031(v=sql.80).aspx",
-          "date": "08-02-2015 21:59:46"
-        },
-        {
-          "author": "~anon@5.172.*.*",
-          "comment": "druga odpowiedź też jest poprawna",
-          "date": "26-01-2016 23:50:08"
-        },
-        {
-          "author": "~anon@217.99.*.*",
-          "comment": "Kapitan wykład: \"Przykładem zastosowania tego typu rozwiązań jest poziom izolacji SNAPSHOT z MS SQL Server. [...] Poziom izolacji SNAPSHOT realizuje więc koncepcję blokowania optymistycznego.\" ~~ druga tez jest poprawna",
-          "date": "29-06-2016 16:22:54"
-        },
-        {
-          "author": "~piotrek@83.6.*.*",
-          "comment": "Odpowiedz druga też jest poprawna: http://www.bd.pjwstk.edu.pl/BazaWiedzy/wyklad11/BlokadySQLServer.htm",
-          "date": "04-09-2016 16:50:14"
-        },
-        {
-          "author": "~anon@81.219.*.*",
-          "comment": "Warto byłoby zaznaczyć odpowiedź B jako poprawną :)",
-          "date": "29-06-2017 11:09:50"
-        },
-        {
-          "author": "mykhi",
-          "comment": "zaznaczam",
-          "date": "29-06-2017 11:22:03"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<p class=\"MsoNormal\"><strong><span>Dane są trzy tabele Klienci(Id_Klienta, Imie, Nazwisko),Produkty(Id_Produktu, Nazwa, Cena) oraz Zakupy(Id_Klienta, Id_Produktu, Ilość). Wskazać poprawne zapytanie SQL</span></strong></p>",
       "id": 2420,
-      "numberOfComments": 6,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span>SELECT Imie, Nazwisko FROM Produkty WHERE Nazwa = Produkt;</span>",
@@ -229,43 +160,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~radek@89.78.*.*",
-          "comment": "Wydaje mi się że 3 odpowiedź też będzie poprawnym zapytaniem SQL chociaż zwróci bzdury.",
-          "date": "08-02-2015 21:01:32"
-        },
-        {
-          "author": "~Budzyn@85.222.*.*",
-          "comment": "No jesli akurat będą takie same klucze to bedzie działać C jednak nie uważałbym tego za poprawne ",
-          "date": "09-02-2015 10:17:19"
-        },
-        {
-          "author": "~madri@188.47.*.*",
-          "comment": "Odpowiedz trzecia jest poprawna, ale nie logiczna.",
-          "date": "03-07-2015 19:11:38"
-        },
-        {
-          "author": "~anon@5.134.*.*",
-          "comment": "Nie mając informacji o kluczach odp 3 jest jak najbardziej poprawna. Zapytanie jest poprawne i się wykonuje",
-          "date": "01-02-2017 21:18:33"
-        },
-        {
-          "author": "~anon@160.83.*.*",
-          "comment": "Dokladnie odp C jest w tym wypadku poprawne",
-          "date": "28-06-2017 14:56:31"
-        },
-        {
-          "author": "~OCB@89.69.*.*",
-          "comment": "Up!",
-          "date": "14-02-2019 13:00:05"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Procedura T­SQL zwraca przez RESULT SET:",
       "id": 2421,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Ostatni wiersz ostatniej uruchomionej wewnątrz procedury instrukcji SELECT",
@@ -284,23 +184,12 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~Pixel@89.75.*.*",
-          "comment": "powina jeszcze być odpowiedz  Wszystkie wiersze ostatniej uruchomionej wewnątrz procedury instrukcji SELECT\ni jest ona prawidłowa",
-          "date": "08-02-2015 17:42:29"
-        },
-        {
-          "author": "mykhi",
-          "comment": "dodane",
-          "date": "08-02-2015 18:14:42"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Procedura T­SQL zwraca przez RESULT SET:",
       "id": 2422,
-      "numberOfComments": 9,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Wszystkie wiersze ostatniej uruchomionej wewnątrz procedury instrukcji SELECT",
@@ -315,58 +204,12 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@85.222.*.*",
-          "comment": "51 pytanie jest takie same i z tamtego wynika że tutaj poprawna jest pierwsza odpowiedź .",
-          "date": "08-02-2015 16:42:39"
-        },
-        {
-          "author": "~iHeadKoRn@89.75.*.*",
-          "comment": "Odp A jest poprawna ",
-          "date": "08-02-2015 17:33:36"
-        },
-        {
-          "author": "~master@89.73.*.*",
-          "comment": "Dokladnie tak jak koledzy wyzej, odpowiedz A jest poprawna.",
-          "date": "08-02-2015 17:37:56"
-        },
-        {
-          "author": "~kuba@31.174.*.*",
-          "comment": "czym różni sie odpiedz pierwsza od trzeciej?",
-          "date": "06-09-2015 23:27:37"
-        },
-        {
-          "author": "~anon@178.42.*.*",
-          "comment": "niczym",
-          "date": "27-06-2016 16:41:41"
-        },
-        {
-          "author": "~anon@178.42.*.*",
-          "comment": "\"Jest nim tzw. resultset, czyli zestaw rekordów będących wynikiem działania instrukcji SELECT. Należy pamiętać, że przekazywany jest wynik ostatniej instrukcji SELECT w procedurze.\"",
-          "date": "24-01-2017 09:28:04"
-        },
-        {
-          "author": "~me@185.15.*.*",
-          "comment": "A i C poprawne, bo A==C",
-          "date": "28-01-2017 19:11:08"
-        },
-        {
-          "author": "~anon@160.83.*.*",
-          "comment": "dokladnie A i C poprawne",
-          "date": "27-06-2017 13:43:53"
-        },
-        {
-          "author": "mykhi",
-          "comment": "zaznaczam C",
-          "date": "27-06-2017 18:48:22"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<strong><span>Wyniki Pocedury T-SQL mogą być zwrócone przez</span></strong>",
       "id": 2423,
-      "numberOfComments": 8,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span>Result Set</span>",
@@ -385,53 +228,12 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~Mtk@89.68.*.*",
-          "comment": "Czy tutaj nie powinno być tylko D??\nReturn uzywa sie tylko w Funkcjach\na result Set chyba używa sie z intefejsem?? do zwracania wierszy na interfejs?? czy sie mylę??",
-          "date": "08-02-2015 21:05:24"
-        },
-        {
-          "author": "~anon@89.68.*.*",
-          "comment": "A co powiecie na to??",
-          "date": "08-02-2015 23:30:06"
-        },
-        {
-          "author": "~anon@89.76.*.*",
-          "comment": "Procedura T-SQL zwraca poprzez Result Set wszystkie wiersze ostatniej uruchomionej wewnątrz procedury instrukcji SELECT\n\nwiec nie wynik procedury, a wynik selecta z procedury",
-          "date": "08-02-2015 23:34:24"
-        },
-        {
-          "author": "~Mtk@89.68.*.*",
-          "comment": "A Return nie jest uzywany w procedurze, czyli tylko D jest poprawna.",
-          "date": "08-02-2015 23:35:35"
-        },
-        {
-          "author": "~viora@93.154.*.*",
-          "comment": "Jest dobrze. https://edux.pjwstk.edu.pl/mat/118/lec/w12.html",
-          "date": "09-02-2015 04:13:34"
-        },
-        {
-          "author": "~anon@217.99.*.*",
-          "comment": "Kapitan Wykład: \"Procedury T-SQL mogą zwracać wyliczone w nich wartości na trzy sposoby:\nprzez Result set\nPrzez parametry OUTPUT\nPrzez dyrektywę RETURN\"",
-          "date": "29-06-2016 16:27:41"
-        },
-        {
-          "author": "~alalala@95.49.*.*",
-          "comment": "ale przez return tylko inty btw.",
-          "date": "23-01-2017 23:23:23"
-        },
-        {
-          "author": "~anon@5.172.*.*",
-          "comment": "` mwq",
-          "date": "27-08-2018 19:38:03"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span lang=\"EN-US\">Typy danych LOB mogą służyć do</span>",
       "id": 2424,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"EN-US\">Przechowywania grafiki w bazie danych</span>",
@@ -450,13 +252,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@162.158.*.*",
-          "comment": "nie powinno być \"blob\"?",
-          "date": "30-06-2019 08:36:31"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<strong><span>Rola w bazie danych:</span></strong>",
@@ -485,7 +281,7 @@
     {
       "question": "Błąd w Pl/SQL:",
       "id": 2426,
-      "numberOfComments": 19,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "który wystąpił w bloku pomiędzy BEGIN i END jest obsługiwany w sekcji EXCEPTION tego samego bloku",
@@ -504,103 +300,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@89.76.*.*",
-          "comment": "D jest zle (zdjecia z rozwiazanymi)",
-          "date": "08-02-2015 22:52:01"
-        },
-        {
-          "author": "~anon@89.71.*.*",
-          "comment": "Na ktorej grupie są te zdjęcia?",
-          "date": "08-02-2015 22:59:16"
-        },
-        {
-          "author": "~anon@89.76.*.*",
-          "comment": "w ktoryms pytaniu poprosilem o przeslanie na maila, tak to nie wiem gdzie sa",
-          "date": "08-02-2015 23:01:42"
-        },
-        {
-          "author": "~anon@89.71.*.*",
-          "comment": "Wyslalbys na s11623?",
-          "date": "08-02-2015 23:02:18"
-        },
-        {
-          "author": "~anon@89.76.*.*",
-          "comment": "poszuo",
-          "date": "08-02-2015 23:07:30"
-        },
-        {
-          "author": "~master@89.73.*.*",
-          "comment": "jeszcze ja poprosze :) e819495@trbvm.com",
-          "date": "08-02-2015 23:09:44"
-        },
-        {
-          "author": "~anon@89.76.*.*",
-          "comment": "juz :)",
-          "date": "08-02-2015 23:13:04"
-        },
-        {
-          "author": "~anon@89.68.*.*",
-          "comment": "Przesyłasz te 3?? czy jeszcze coś??",
-          "date": "08-02-2015 23:14:14"
-        },
-        {
-          "author": "~anon@89.76.*.*",
-          "comment": "te 3, wiecej nie mam",
-          "date": "08-02-2015 23:14:33"
-        },
-        {
-          "author": "~janusz@198.199.*.*",
-          "comment": "Jeszcze ja porosze ;) januszmikals@gmail.com",
-          "date": "08-02-2015 23:16:56"
-        },
-        {
-          "author": "~master@89.73.*.*",
-          "comment": "+ poprawna bedzie jeszcze odpowiedz z wyjatkiem w odpowiedzi",
-          "date": "08-02-2015 23:45:34"
-        },
-        {
-          "author": "~master@89.73.*.*",
-          "comment": "+ poprawna bedzie jeszcze odpowiedz z wyjatkiem w odpowiedzi",
-          "date": "08-02-2015 23:45:34"
-        },
-        {
-          "author": "~anon@194.93.*.*",
-          "comment": "AC są poprawne ostatnie nie",
-          "date": "10-02-2015 08:07:06"
-        },
-        {
-          "author": "~k@31.174.*.*",
-          "comment": "wedlug wykladu odpowiedz A oraz D sa poprwawne. C nie jest bo taki blad jest przekazywany do sekcji nadrzednej",
-          "date": "06-09-2015 23:33:32"
-        },
-        {
-          "author": "~anon@37.152.*.*",
-          "comment": "według wykładu, poprawną odpowiedzią jest tylko odpowiedź A - blok EXCEPTION nie jest blokiem nadrzędnym w sekcji BEGIN END :)",
-          "date": "25-01-2016 22:51:01"
-        },
-        {
-          "author": "~piotrek@83.6.*.*",
-          "comment": "Odpowiedz d nie jest poprawna \"Jeśli blok, w którym wystąpił błąd, zawiera obsługę tego błędu, to po dokonaniu obsługi, sterowanie jest w zwykły sposób przekazywane do bloku go zawierającego (nadrzędnego). Jeśli nie zawiera, następuje propagacja  błędu do zawierających go bloków i albo tam nastąpi jego obsługa, albo błąd przechodzi do środowiska zewnętrznego.\"\nhttps://edux.pjwstk.edu.pl/mat/216/lec/rW5.htm",
-          "date": "04-09-2016 17:07:47"
-        },
-        {
-          "author": "~alalala@95.49.*.*",
-          "comment": "popieram, blad z sekcji declare idzie do góry a blad z bloku begin end leci do exception",
-          "date": "23-01-2017 23:26:21"
-        },
-        {
-          "author": "~anon@87.206.*.*",
-          "comment": "tylko A",
-          "date": "30-01-2017 09:07:40"
-        },
-        {
-          "author": "mykhi",
-          "comment": "odznaczam D",
-          "date": "30-01-2017 09:41:17"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span id=\"docs-internal-guid-92f4b4b1-6912-1b5f-c339-82e361853fa5\"><span>Jakie znaczenie ma dziennik transakcji w serwerach baz danych ?</span></span>",
@@ -629,7 +329,7 @@
     {
       "question": "W wyzwalaczu T­SQL można odczytywać dane z:",
       "id": 2428,
-      "numberOfComments": 8,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Tylko tabel INSERTED i DELETED",
@@ -648,48 +348,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~master@89.73.*.*",
-          "comment": "Tutaj jest jeszcze poprawna B.",
-          "date": "08-02-2015 23:41:47"
-        },
-        {
-          "author": "~anon@89.71.*.*",
-          "comment": "ja mialem pytanie W wyzwalaczu T­SQL można AKTUALIZOWAĆ dane i odpowiedzi byly inne",
-          "date": "09-02-2015 20:27:10"
-        },
-        {
-          "author": "~mama@141.0.*.*",
-          "comment": "moim zdaniem C i D",
-          "date": "02-09-2016 14:40:19"
-        },
-        {
-          "author": "~piotrek@83.6.*.*",
-          "comment": "odpowiedzi c i d same sobie przeczą",
-          "date": "04-09-2016 17:10:44"
-        },
-        {
-          "author": "~anon@83.9.*.*",
-          "comment": "c na pewno, a B na 90%\nZ wykladu: \"Natomiast z poziomu wyzwalacza dostępna do modyfikacji jest tabela, na której wyzwalacz jest zdefiniowany.\"\nskoro mozna normalnie odczytywac z innych zrodel i z niej samej tez, to znaczy ze chyba ze wszystkich",
-          "date": "21-01-2017 20:42:49"
-        },
-        {
-          "author": "~sbd@83.9.*.*",
-          "comment": "c na pewno, a B na 90% \nZ wykladu: \"Natomiast z poziomu wyzwalacza dostępna do modyfikacji jest tabela, na której wyzwalacz jest zdefiniowany.\" \nskoro mozna normalnie odczytywac z innych zrodel i z niej samej tez, to znaczy ze chyba ze wszystkich",
-          "date": "21-01-2017 20:43:48"
-        },
-        {
-          "author": "~Michał L@78.11.*.*",
-          "comment": "na egzaminie odpowiedź B jest poprawna",
-          "date": "03-02-2017 16:37:00"
-        },
-        {
-          "author": "mykhi",
-          "comment": "zaznaczam B",
-          "date": "03-02-2017 18:07:40"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Wskazać poprawne zapytanie SQL (dialekt ORACLE) znajdujące średnie zarobki tylko tych departamentów, które zatrudniają wiecej, niż trzech pracowników:",
@@ -714,7 +373,7 @@
     {
       "question": "<span id=\"docs-internal-guid-92f4b4b1-6912-fee9-9f14-f7400ce943ea\"><span>Dane są dwie tabele Osoby (Imie, Nazwisko , Zarobki , Id_dzialu) oraz Dzialy (Id_dzialu , Nazwa). Które z następujących instrukcji są poprawnymi instrukcjami SQL w Oracle</span></span>",
       "id": 2430,
-      "numberOfComments": 3,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<p><span lang=\"EN-US\">INSERT INTO Osoby VALUES (‘Jan’,’Kowalski’,2000) WHERE Osoby.Id_dzialu = 23;</span></p>",
@@ -733,28 +392,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~piotrek@83.6.*.*",
-          "comment": "Odpowiedz C jest niepoprawna przykład: \n\nselect emp.ENAME, count(emp.deptno) from emp, dept where emp.deptno=dept.DEPTNO\ngroup by emp.ENAME having count(deptno)>0;\n\nORA-00918: column ambiguously defined - chodzi o kolumnę deptno w having. ",
-          "date": "04-09-2016 17:27:27"
-        },
-        {
-          "author": "~anon@160.83.*.*",
-          "comment": "C jest niepoprawne",
-          "date": "27-06-2017 13:44:18"
-        },
-        {
-          "author": "mykhi",
-          "comment": "odznaczyłem C",
-          "date": "27-06-2017 18:49:49"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Wskazać poprawne zapytanie SQL (dialekt ORACLE) znajdujące średnie zarobki tylko tych departamentów, które zatrudniają wiecej, niż trzech pracowników:",
       "id": 2431,
-      "numberOfComments": 11,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "SELECT deptno, AVG(sal) FROM emp GROUP BY deptno WHERE COUNT(*) &gt; 3;",
@@ -765,68 +408,12 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~Murek1993`@78.11.*.*",
-          "comment": "na odwrót bo having",
-          "date": "30-06-2015 12:06:27"
-        },
-        {
-          "author": "~Domka@5.172.*.*",
-          "comment": "jak to ?",
-          "date": "30-06-2015 19:08:33"
-        },
-        {
-          "author": "~Murek1993@78.11.*.*",
-          "comment": "Obie odpowiedzi są ZŁE ,jedynie taka by byla dobra \"SELECT deptno, AVG(sal) FROM emp GROUP BY deptno  HAVING COUNT (*) > 3;\" wyswietli srednia z działow dla dzialow wiekszych od 3.odp pierwsza nie zadziala bo W klauzuli WHERE nie wolno używać funkcji sumarycznych.\nW klauzuli HAVING nie wolno używać nazw kolumn nie występujących po GROUP BY.\nCzyli w where nie moze byc count sum avg tylko w having , odnisnie 2 odpowiedzi having dziala na grupach ale grup jeszcze nie ma , zawsze jest najpierw group by potem having\n\n",
-          "date": "01-07-2015 11:32:35"
-        },
-        {
-          "author": "~anon@78.11.*.*",
-          "comment": "Poprawiam 2 dobrze bo to oracle-->Kolejność klauzul w języku SQL jest ściśle ustalona. W ORACLE jest jednak jeden wyjątek: kolejność klauzul HAVING i GROUP BY jest dowolna. \n",
-          "date": "01-07-2015 20:09:40"
-        },
-        {
-          "author": "~anon@46.169.*.*",
-          "comment": "a co ze średnikiem po having?",
-          "date": "01-07-2016 14:09:22"
-        },
-        {
-          "author": "~anon@37.47.*.*",
-          "comment": "W funkcji function pl sql nazwa funkcji moze zostac przeciążona?? W jednym pytaniu jest ze tak w drugim ze nie",
-          "date": "01-07-2016 16:42:59"
-        },
-        {
-          "author": "~maziar@89.67.*.*",
-          "comment": "Gdyby nie ten średnik to drugie było by poprawne. Natomiast pierwsze jest ok.",
-          "date": "26-06-2017 20:51:22"
-        },
-        {
-          "author": "~maziar@89.67.*.*",
-          "comment": "A nie sorry where nie moze byc count",
-          "date": "26-06-2017 20:51:59"
-        },
-        {
-          "author": "~anon@160.83.*.*",
-          "comment": "B jest zle, poprawne jest A",
-          "date": "30-06-2017 11:03:16"
-        },
-        {
-          "author": "~t@93.105.*.*",
-          "comment": "A na 100% nie jest poprawne, where nie moze zawierac funkcji liczacych",
-          "date": "31-08-2018 14:57:49"
-        },
-        {
-          "author": "~JM@89.64.*.*",
-          "comment": "Obie złe. Proponuje dodać podstępną poprawną \"SELECT deptno, AVG(sal) FROM emp HAVING COUNT(*) > 3 GROUP BY deptno;\" Sprawdzone na uczelnianym Oracle, jak mówi anon wyżej Oracle pozwala na having przed group.",
-          "date": "10-02-2019 22:59:21"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<p class=\"MsoNormal\"><strong><span>Wyzwalacz w PL/SQL:</span></strong></p>",
       "id": 2432,
-      "numberOfComments": 4,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span>W wyzwalaczu wierszowym (FOR EACH ROW) można zmieniać wartości aktualizowanego wiersza używająć:NEW</span>",
@@ -845,33 +432,12 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~lol@79.184.*.*",
-          "comment": "4 źle. Cytat z wykładu\" Wewnątrz wyzwalacza może zostać umieszczona instrukcja ROLLBACK,\"",
-          "date": "17-02-2018 21:56:58"
-        },
-        {
-          "author": "~anon@89.70.*.*",
-          "comment": "Nie mozna w PLSQL uzywac Rollback w wyzwalaczu",
-          "date": "19-08-2018 13:15:36"
-        },
-        {
-          "author": "~anon@83.28.*.*",
-          "comment": "Unlike regular triggers, autonomous triggers can contain transaction control statements such as COMMIT and ROLLBACK , and can issue DDL statements (such as CREATE and DROP ) through the EXECUTE IMMEDIATE statement. \nDokumentacja Oracle, więc zaleźy o jaki wyzwalacz chodzi",
-          "date": "30-01-2019 20:43:42"
-        },
-        {
-          "author": "~mc@88.156.*.*",
-          "comment": "Z wykładu : \"W wyzwalaczu wierszowym (FOR EACH ROW) nie wolno odczytywać ani zmieniać\nwartości w tabeli zmienianej, z wyjątkiem wstawiania pojedynczego wiersza\ninstrukcją INSERT INTO VALUES\" Czy pierwsze na pewno jest poprawne?",
-          "date": "08-02-2020 21:46:51"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span lang=\"EN-US\">Wyzwalacze w PL/SQL&nbsp;</span>",
       "id": 2433,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"EN-US\">W wyzwalaczu nie wolno użyć instrukcji COMMIT and ROLLBACK</span>",
@@ -890,13 +456,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~damdev@89.77.*.*",
-          "comment": "W wykładzie jest napisane, że można użyć pojedyńczej intrukcji INSERT. Jak to interpretować?",
-          "date": "01-07-2017 21:56:15"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<p class=\"MsoNormal\"><span>Obiekt będacy generatorem jednoznaczych numerów w Oraclu tworzony jest przy pomocy polecenia:</span></p>",
@@ -925,7 +485,7 @@
     {
       "question": ".Dane są dwie tabele Osoby(Imie, Nazwisko, Zarobki, Id_działu) oraz Działy(Id_działu, Nazwa). Które z następujących instrukcji są poprawnymi instrukcjami SQL w Oracle:",
       "id": 2435,
-      "numberOfComments": 3,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "DELETE FROM Osoby, Działy WHERE Osoby.Nazwisko='KOWALSKI' AND Działy.Nazwa='KASA' AND Osoby.Id_działu=Działy.Id_działu;",
@@ -940,23 +500,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~madri@188.47.*.*",
-          "comment": "Czemu A jest nie poprawne ? \nWydaje mi się, że jest dobre",
-          "date": "03-07-2015 19:30:29"
-        },
-        {
-          "author": "~Murek1993@78.11.*.*",
-          "comment": "usuwa sie tylko z 1 tabeli",
-          "date": "03-07-2015 23:04:22"
-        },
-        {
-          "author": "~sbd@83.9.*.*",
-          "comment": "A w ogole nie kompiluje sie u mnie w sqldeveloper",
-          "date": "21-01-2017 21:21:13"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Dane są dwie tabele Osoby(Imie, Nazwisko, Zarobki, Id_działu) oraz Działy(Id_działu, Nazwa). Które z następujących instrukcji są poprawnymi instrukcjami SQL w Oracle:",
@@ -985,7 +529,7 @@
     {
       "question": "<span>Która z poniższych instrukcji PL/SQL jest prawidłową deklaracją zmiennych w PL/SQL</span>",
       "id": 2437,
-      "numberOfComments": 4,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"EN-US\">DECLARE v_dane emp%ROWTYPE;</span>",
@@ -1004,33 +548,12 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~soers@89.72.*.*",
-          "comment": "DECLARE v_ile sal%TYPE; też jest chyba poprawne? Źródło: wykład SBD_W09, slajd 16.",
-          "date": "01-09-2017 17:25:13"
-        },
-        {
-          "author": "~anon@95.160.*.*",
-          "comment": "Ale nie jest określone, z której tabeli, więc nie.",
-          "date": "31-01-2018 20:33:35"
-        },
-        {
-          "author": "~Won Tyr@89.64.*.*",
-          "comment": "1 odpowiedź też jest zła, bo jaki tym ma przyjąć v_dane?",
-          "date": "31-01-2019 10:28:15"
-        },
-        {
-          "author": "~Pablo@79.185.*.*",
-          "comment": "v_ile sal%TYPE; jest poprawne pod warunkiem, że sal jest nazwą kolekcji, kursora, zmiennej lub obiektu. Źródło: https://docs.oracle.com/cd/B28359_01/appdev.111/b28370/type_attribute.htm#LNPLS01352",
-          "date": "02-02-2019 19:44:08"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Dane są dwie tabele Osoby(Imie, Nazwisko, Zarobki, Id_działu) oraz Działy(Id_działu, Nazwa). Które z następujących instrukcji są poprawnymi instrukcjami SQL w Oracle:",
       "id": 2438,
-      "numberOfComments": 3,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "UPDATE Osoby DELETE Nazwisko=USER;",
@@ -1049,28 +572,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~szmer@80.238.*.*",
-          "comment": "Czy przypadkiem ostatnia odpowiedź nie jest prawidłowa?",
-          "date": "08-02-2015 22:03:09"
-        },
-        {
-          "author": "~Mtk@89.68.*.*",
-          "comment": "Tez tak myśle",
-          "date": "08-02-2015 22:34:00"
-        },
-        {
-          "author": "~viora@93.154.*.*",
-          "comment": "Ostatnia nie jest poprawna, bo nie ma grupowania po Działy.Nazwa.",
-          "date": "09-02-2015 01:22:16"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Dane są dwie tabele Osoby(Imie, Nazwisko, Zarobki, Id_działu) oraz Działy(Id_działu, Nazwa). Które z następujących instrukcji są poprawnymi instrukcjami SQL w Oracle:",
       "id": 2439,
-      "numberOfComments": 4,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "UPDATE Osoby SET Id_działu=NULL WHERE COUNT(*)&lt;5;",
@@ -1085,28 +592,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@31.132.*.*",
-          "comment": "dlaczego odp A jest nieprawidłowa?",
-          "date": "20-08-2015 10:46:01"
-        },
-        {
-          "author": "~anon@89.69.*.*",
-          "comment": "mimo że zapytanie nie ma sensu to wykona się poprawnie",
-          "date": "04-09-2015 23:40:08"
-        },
-        {
-          "author": "~anon@31.63.*.*",
-          "comment": "count musi byc z having",
-          "date": "31-01-2016 22:08:40"
-        },
-        {
-          "author": "~piotrek@83.6.*.*",
-          "comment": "Odpowiedz a jest niepoprawna ponieważ w WHERE nie można używać funkcji sumarycznych np count",
-          "date": "04-09-2016 17:46:42"
-        }
-      ]
+      "comments": []
     },
     {
       "question": ".Które z poniższych instrukcji w SQL Server jest składniowo poprawna (zostanie wykonana):",
@@ -1155,7 +641,7 @@
     {
       "question": "<p class=\"MsoNormal\"><span>Która z poniższych instrukcji prawidłowo utworzy tabelę tymczasową :</span></p>",
       "id": 2442,
-      "numberOfComments": 12,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"EN-US\">SELECT ename , sal INTO #Ala FROM emp;&nbsp;</span>",
@@ -1174,68 +660,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~Mtk@89.68.*.*",
-          "comment": "A co powiecie tutaj na B?? Można tak??",
-          "date": "08-02-2015 23:16:31"
-        },
-        {
-          "author": "~janusz@198.199.*.*",
-          "comment": "Można",
-          "date": "08-02-2015 23:19:10"
-        },
-        {
-          "author": "~anon@80.238.*.*",
-          "comment": "Można wtedy jest globalna",
-          "date": "08-02-2015 23:19:27"
-        },
-        {
-          "author": "~Zdzisio@79.185.*.*",
-          "comment": "CREATE TABLE Ala (Ala Int); - zrobiłem to w ms sql, stworzył tabelę bez błędów. Napisałem do prof. Krasowskiej i odpowiedziała, że skoro działa to ta odpowiedź jest prawidłowa.",
-          "date": "07-02-2016 20:11:41"
-        },
-        {
-          "author": "~anon@217.99.*.*",
-          "comment": "ale to Ci sie stworzyla tabela, ale nie tymczasowa...",
-          "date": "29-06-2016 18:04:18"
-        },
-        {
-          "author": "~Lesio@88.156.*.*",
-          "comment": "SQL Server pozwala na utworzenie dwóch rodzajów tabel tymczasowych:\nglobalnych, których nazwa jest poprzedzona prefiksem ##, oraz\nlokalnych, których nazwa jest poprzedzona prefiksem #.\n",
-          "date": "03-09-2016 09:54:31"
-        },
-        {
-          "author": "~Lesio@88.156.*.*",
-          "comment": "SQL Server pozwala na utworzenie dwóch rodzajów tabel tymczasowych:\nglobalnych, których nazwa jest poprzedzona prefiksem ##, oraz\nlokalnych, których nazwa jest poprzedzona prefiksem #.\n",
-          "date": "03-09-2016 09:54:32"
-        },
-        {
-          "author": "~piotrek@83.6.*.*",
-          "comment": "Odpowiedz A jest błędna. ",
-          "date": "04-09-2016 18:02:16"
-        },
-        {
-          "author": "~piotrek@83.9.*.*",
-          "comment": "Sprawdziłem w SQL SELECT ename , sal INTO #Ala FROM emp; i działa. Odpowiedz A jest poprawna. ",
-          "date": "05-09-2016 08:36:04"
-        },
-        {
-          "author": "~anon@78.11.*.*",
-          "comment": "Odpowiedź A jest błędna, fakt może działać, ale nie odnosi się do tworzenia tabel",
-          "date": "30-01-2017 00:58:43"
-        },
-        {
-          "author": "~anon@83.28.*.*",
-          "comment": "@UP: Jeśli to działa bez utworzenia wcześniej tabeli tymczasowej to znaczy, że tabela tymczasowa tworzy się w momencie wykonania tego polecenia. ",
-          "date": "30-01-2017 08:35:19"
-        },
-        {
-          "author": "~RR@82.177.*.*",
-          "comment": "Z wykładu (SBD lekcja 13 na edux):\nMożna także utworzyć tabelę tymczasową poleceniem:\nSELECT lista_kolumn INTO #tabela;\nWięc odp. a jest poprawna.\n",
-          "date": "24-06-2018 22:30:06"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span>Typy danych LOB mogą służyć do:</span>",
@@ -1332,7 +757,7 @@
     {
       "question": "<span id=\"docs-internal-guid-92f4b4b1-6920-319c-d0d0-931ebfa4568b\"><span>Nieulotność w definicji hurtowni danych oznacza , że</span></span>",
       "id": 2447,
-      "numberOfComments": 8,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"EN-US\">Dane są jednolite</span>",
@@ -1351,48 +776,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~Dodo@178.235.*.*",
-          "comment": "Dane sa Jednolite. Potwierdzone info z Egzaminu",
-          "date": "08-02-2016 20:19:29"
-        },
-        {
-          "author": "~Dodo@178.235.*.*",
-          "comment": "nieeee jednak nie zmiana planu.",
-          "date": "08-02-2016 20:20:48"
-        },
-        {
-          "author": "~piotrek@83.6.*.*",
-          "comment": "Dane jednolite dotyczą cechy zintegrowanie\nhttps://edux.pjwstk.edu.pl/Lessond.aspx?id=13984&sid=1004",
-          "date": "04-09-2016 18:28:34"
-        },
-        {
-          "author": "~anon@95.49.*.*",
-          "comment": "zorientowana na temat (subject orinted)\nnieulotna (nonvolatile)\nzintegrowana (integrated)\nzróżnicowana czasowo (time variant)",
-          "date": "28-01-2017 23:47:38"
-        },
-        {
-          "author": "~anon@95.49.*.*",
-          "comment": "Nieulotność oznacza, że dane, raz umieszczone w hurtowni, zazwyczaj nie podlegają zmianom innym, niż dodawanie nowych porcji danych.",
-          "date": "28-01-2017 23:48:07"
-        },
-        {
-          "author": "~anon@95.49.*.*",
-          "comment": "Zorientowanie na temat oznacza, że zbierane dane dotyczą tematu (np. sprzedaży), a nie działań (np. zbierania zamówień).",
-          "date": "28-01-2017 23:48:57"
-        },
-        {
-          "author": "~anon@95.49.*.*",
-          "comment": "Jeśli w danych przychodzących do hurtowni danych nie ma wymiaru czasowego, trzeba go dodać. Przy każdym zdarzeniu (fakcie) musi być informacja o czasie zajścia zdarzenia.",
-          "date": "28-01-2017 23:49:29"
-        },
-        {
-          "author": "~anon@95.49.*.*",
-          "comment": "...wniosek: tutaj poprawna odpowiedź to B. :)",
-          "date": "28-01-2017 23:50:28"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span>Które z poniższych instrukcji w SQL Server jest poprawna:</span>",
@@ -1421,7 +805,7 @@
     {
       "question": "<span lang=\"EN-US\">Problem niepowtarzalnego odczytu danych polega na tym , że</span>",
       "id": 2449,
-      "numberOfComments": 3,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"EN-US\">W dwóch równoległych działających transakcjach odczyt samego pole daje różne wyniki</span>",
@@ -1440,28 +824,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@213.108.*.*",
-          "comment": "„Niepowtarzalny odczyt” to sytuacja, w której transakcja wielokrotnie wykonuje tą samą operację odczytu rekordu z relacji bazy danych i otrzymuje różne wartości atrybutów\nrekordu, gdyż równolegle inna transakcja modyfikuje wartości atrybutów tego samego\nrekordu\nCzy wobec tej definicji, jedyną poprawną odpowiedzią nie powinno być A?",
-          "date": "25-01-2016 23:55:12"
-        },
-        {
-          "author": "~anon@85.222.*.*",
-          "comment": "Moim zdaniem nie. \"sytuacja, w której transakcja wielokrotnie wykonuje\". Jedna transakcja. W A mowa jest o równolegle działających transakcjach i każda z nich daje inny odczyt.",
-          "date": "07-02-2016 22:41:28"
-        },
-        {
-          "author": "~anon@217.99.*.*",
-          "comment": "Kapitan Wykład: \"Transakcja odczytuje dwukrotnie ten sam obiekt i za każdym razem widzi inne dane - bo w międzyczasie zmieniła je i zatwierdziła inna transakcja.\"",
-          "date": "29-06-2016 18:11:37"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span>Które z poniższych instrukcji w PL/SQL nie zakończy się błędem, przy założeniu, że w tabeli DEPTNO są dwa rekordy z wartościami Deptno IN(10,20) oraz prawidłowej deklaracji zmiennej v_deptno?</span>",
       "id": 2450,
-      "numberOfComments": 5,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"EN-US\">SELECT deptno INTO v_deptno FROM dept WHERE deptno = 0;</span>",
@@ -1480,38 +848,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~Hioku@79.187.*.*",
-          "comment": "Można połączączyć to pytanie z 38 bo ta sama treśc tylko jedna inna odpowiedź",
-          "date": "08-02-2015 19:13:30"
-        },
-        {
-          "author": "~cotupaczysz@80.238.*.*",
-          "comment": "a odp \"A\" nie jest poprawna? chyba nic nie wyswietli ale bledu chyba nie ma",
-          "date": "04-02-2017 23:17:41"
-        },
-        {
-          "author": "~anon@95.41.*.*",
-          "comment": "czemu A i D sa niepoprawne?",
-          "date": "27-08-2017 16:19:12"
-        },
-        {
-          "author": "~anon@89.76.*.*",
-          "comment": "jeżeli zapytanie nic nie zwraca, a wykorzystane jest do podstawienia wartości, to musi coś zwrócić. Inaczej występuje błąd",
-          "date": "06-02-2018 19:42:55"
-        },
-        {
-          "author": "~anon@83.28.*.*",
-          "comment": "potwierdzone info",
-          "date": "30-01-2019 17:09:11"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<p class=\"MsoNormal\"><span>Które z poniższych instrukcji w PL/SQL nie zakończy się błędem, przy założeniu, że w tabeli DEPTNO są dwa rekordy z wartościami Deptno IN(10,20) oraz prawidłowej deklaracji zmiennej v_deptno?</span></p>",
       "id": 2451,
-      "numberOfComments": 5,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"EN-US\">SELECT deptno INTO v_deptno FROM dept WHERE deptno = 10;</span>",
@@ -1530,33 +872,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~KK@89.67.*.*",
-          "comment": "Nie dam sobie ręki uciąć ale odp 3 chyba też jest poprawna.",
-          "date": "08-02-2015 20:43:51"
-        },
-        {
-          "author": "~master@89.73.*.*",
-          "comment": "Nie, bo ma byc tylko jedna wartosc. Na przyklad =10 to tylko 10, <20 to tylko 10, bo jest mniejsze od 20. ",
-          "date": "08-02-2015 20:47:30"
-        },
-        {
-          "author": "~anon@194.152.*.*",
-          "comment": "Odp. B jest dobrze, nic nie zwróci. Ale błędu nie ma.",
-          "date": "29-01-2017 21:45:33"
-        },
-        {
-          "author": "~damdev@89.77.*.*",
-          "comment": "B błędu nie wyrzuci, ale nie jest to PRAWIDŁOWA DEKLARACJA tam jak jest to opisane w treści zadania.",
-          "date": "01-07-2017 12:03:51"
-        },
-        {
-          "author": "~anon@162.158.*.*",
-          "comment": "jeżeli zapytanie nic nie zwraca, a wykorzystane jest do podstawienia wartości, to występuje błąd -- musi coś zwrócić.",
-          "date": "30-06-2019 06:41:30"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span lang=\"EN-US\">Znormalizawany schemat bazy&nbsp;</span>",
@@ -1609,7 +925,7 @@
     {
       "question": "<span>W funkcji (FUNCTION) PL/SQL:</span>",
       "id": 2454,
-      "numberOfComments": 7,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span>Można użyć instrukcji DQL</span>",
@@ -1628,48 +944,12 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@83.28.*.*",
-          "comment": "czy aby na pewno odpowiedz z DQL jest prawidłowa?",
-          "date": "08-02-2015 21:30:06"
-        },
-        {
-          "author": "~anon@89.74.*.*",
-          "comment": "raczej dobrze bo DQL zawiera SELECT",
-          "date": "08-02-2015 21:35:03"
-        },
-        {
-          "author": "~Mtk@89.68.*.*",
-          "comment": "Tak, tutaj na 100% wszystkie są dobre. To widać na zdjęciu z egzaminu, które ma rozwiązania.",
-          "date": "08-02-2015 21:35:55"
-        },
-        {
-          "author": "~daniello@89.74.*.*",
-          "comment": "gdzie te zdjecia :D",
-          "date": "08-02-2015 21:39:40"
-        },
-        {
-          "author": "~Mtk@89.68.*.*",
-          "comment": "mam takie ze 3\n",
-          "date": "08-02-2015 21:43:51"
-        },
-        {
-          "author": "~daniello@89.74.*.*",
-          "comment": "s9776@pjwstk.edu.pl podeslij jak mozesz",
-          "date": "08-02-2015 21:52:51"
-        },
-        {
-          "author": "~anon@89.76.*.*",
-          "comment": "11581 tez poprosi",
-          "date": "08-02-2015 21:59:47"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Więzy spójności mogą być definiowane w następujących instrukcjach:",
       "id": 2455,
-      "numberOfComments": 7,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "CREATE TABLE",
@@ -1688,43 +968,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~Murek1993@78.11.*.*",
-          "comment": "Mam info od prowadzacego ze create domain tez. popraw",
-          "date": "04-07-2015 18:48:14"
-        },
-        {
-          "author": "~Zdzisio@83.31.*.*",
-          "comment": "\"CREATE DOMAIN creates a new domain. A domain is essentially a data type with optional constraints \" źródło: http://www.postgresql.org/docs/9.1/static/sql-createdomain.html",
-          "date": "01-02-2016 13:14:06"
-        },
-        {
-          "author": "~maziar@89.67.*.*",
-          "comment": "Create domain tez jest poprawne",
-          "date": "26-06-2017 19:38:52"
-        },
-        {
-          "author": "~anon@160.83.*.*",
-          "comment": "Create domain tez jest poprawne",
-          "date": "28-06-2017 12:26:35"
-        },
-        {
-          "author": "~t@93.105.*.*",
-          "comment": "@admin popraw :)",
-          "date": "28-08-2018 17:23:42"
-        },
-        {
-          "author": "~wow@93.105.*.*",
-          "comment": "@mykhi",
-          "date": "08-02-2019 10:47:38"
-        },
-        {
-          "author": "mykhi",
-          "comment": "no już już, nie floodujcie tak xD",
-          "date": "08-02-2019 10:49:45"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<p class=\"MsoNormal\"><span>Ile rekordów zostanie zwróconych przez sekwencję instrukcji T-SQL</span></p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\">DECLARE @ename TABLE (ename VARCHAR(20));</span></p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\">INSERT INTO @ename SELECT ename FROM emp WHERE deptno = 10;</span></p>\n<p>&nbsp;</p>\n<p class=\"MsoNormal\"><span>SELECT * FROM @ename;</span></p>",
@@ -1777,7 +1021,7 @@
     {
       "question": "Które z poniższych instrukcji w SQL Server jest składniowo poprawna (zostanie wykonana):",
       "id": 2464,
-      "numberOfComments": 7,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "SELECT empno FROM emp WHERE empno=empno;",
@@ -1796,43 +1040,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@83.28.*.*",
-          "comment": "i co jest niby złego w \nSELECT empno FROM emp WHERE sal = job; ?\njeśli istnieją kolumny sal i job to zadziala",
-          "date": "30-01-2019 17:28:24"
-        },
-        {
-          "author": "~fsh@89.64.*.*",
-          "comment": "Popieram kolegę wyżej, składnia jest jak najbardziej poprawna.",
-          "date": "01-02-2019 19:45:51"
-        },
-        {
-          "author": "~OCB@89.69.*.*",
-          "comment": "Up!",
-          "date": "14-02-2019 12:51:35"
-        },
-        {
-          "author": "mykhi",
-          "comment": "zaznaczam c)",
-          "date": "14-02-2019 12:52:14"
-        },
-        {
-          "author": "~anon@162.158.*.*",
-          "comment": "Jeśli brać pod uwagę znane i lubiane tabele z zajęć, to takie zapytanie jest błędne bo sal i job mają inne typy danych, ale że nie ma takiej informacji, to składniowo (warunkowo) powinno być ok, niemniej jednak wydaje mi się, że PJATK uzna to za błąd.",
-          "date": "24-06-2019 19:52:58"
-        },
-        {
-          "author": "~anon@162.158.*.*",
-          "comment": "testowane na bazie nie działa, bo błąd typów, rzeczywiście nie ma info, co to za typy, ale sam fakt, że jeden to pensja a drugi nazwa działu moim zdaniem wystarczy, żeby oczekiwali, że powiemy, że nie działa",
-          "date": "30-06-2019 07:19:27"
-        },
-        {
-          "author": "~anon@83.24.*.*",
-          "comment": "W SQLDeveloper \nSELECT empno FROM emp WHERE sal = job;\t\ndaje błąd. odpowiedź D błędna\nORA-01722: niepoprawna liczba\n01722. 00000 -  \"invalid number\"\n*Cause:    The specified number was invalid.\n*Action:   Specify a valid number.",
-          "date": "05-02-2020 13:07:58"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span>Które z poniższych instrukcji w SQL Server jest składniowo poprawna (zostanie wykonana):&nbsp;</span>",
@@ -1861,7 +1069,7 @@
     {
       "question": "Która z instrukcji PL/SQL nie zakończy się błędem , przy założeniu że w tabelki DEPTNO są dwa rekordy z wartościami Deptno IN (10,20) oraz prawidłowej deklaracji zmiennej v_deptno :",
       "id": 2469,
-      "numberOfComments": 13,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "SELECT deptno INTO v_deptno FROM dept WHERE deptno = 10;",
@@ -1880,78 +1088,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~Budzyn@85.222.*.*",
-          "comment": "B powinna też być poprawna",
-          "date": "08-02-2015 17:58:16"
-        },
-        {
-          "author": "~daniello@89.74.*.*",
-          "comment": "tez mi sie tak wydaje",
-          "date": "08-02-2015 18:00:24"
-        },
-        {
-          "author": "~Hinduzzzz@89.71.*.*",
-          "comment": "A nie przypadkiem A i C poprawne??",
-          "date": "08-02-2015 19:23:50"
-        },
-        {
-          "author": "~master@89.73.*.*",
-          "comment": "UP, ktore dobre?",
-          "date": "08-02-2015 19:24:54"
-        },
-        {
-          "author": "~daniello@89.74.*.*",
-          "comment": "po mojemu ABC",
-          "date": "08-02-2015 19:30:28"
-        },
-        {
-          "author": "~master@89.73.*.*",
-          "comment": "Wydaje mi sie, ze AC.",
-          "date": "08-02-2015 19:31:51"
-        },
-        {
-          "author": "~daniello@89.74.*.*",
-          "comment": "Jesli jest poprawne C to czemu nie B?",
-          "date": "08-02-2015 19:37:13"
-        },
-        {
-          "author": "~anon@89.76.*.*",
-          "comment": "ma byc jedna wartosc, czyli A, bo 10, B, bo  tylko 20, C, bo tylko 10",
-          "date": "08-02-2015 20:14:10"
-        },
-        {
-          "author": "~master@89.73.*.*",
-          "comment": "dzieki anon!",
-          "date": "08-02-2015 20:28:28"
-        },
-        {
-          "author": "~radek@89.78.*.*",
-          "comment": "ABC",
-          "date": "09-02-2015 09:51:39"
-        },
-        {
-          "author": "mykhi",
-          "comment": "poprawiam",
-          "date": "09-02-2015 09:52:42"
-        },
-        {
-          "author": "~ciepły_janusz@95.160.*.*",
-          "comment": "Czemu D jest źle? Wykona się, ale nic nie pokaże? Dobrze myślę?",
-          "date": "06-02-2017 00:05:08"
-        },
-        {
-          "author": "~V@89.73.*.*",
-          "comment": "Byłoby dobrze pod warunkiem że obsłużysz wyjątek NO_DATA_FOUND. Więc ABC są poprawne.",
-          "date": "01-07-2017 16:11:52"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<p><span>&nbsp; &nbsp;Która z poniższych instrukcji PL/SQL prawidłowo podstawia wartość na zmienną (w tabeli EMP jest 14 rekordów) ?</span></p>",
       "id": 2470,
-      "numberOfComments": 12,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"EN-US\">SELECT ename INTO v_ename FROM emp;</span>",
@@ -1970,73 +1112,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~k@31.174.*.*",
-          "comment": "Ja bym sie zastanowil czy C jest poprawna. Bo mamy informacje ze jest 14 rekordow wiec moze chodzi o to, ze nie ma rekordu o numerze 1234?",
-          "date": "07-09-2015 00:47:51"
-        },
-        {
-          "author": "~anon@213.108.*.*",
-          "comment": "Nie, nie chodzi o to. Chodzi o to, by wykluczyć odpowiedź A (nie przypiszesz kilku rekordów do zmiennej, która nie jest tabelą)",
-          "date": "26-01-2016 00:11:10"
-        },
-        {
-          "author": "~anon@194.152.*.*",
-          "comment": "Jest jeszcze pytanie \"SELECT *(może inne) INTO v_val FROM dummy\" (poprawna, bo tam 1-d rekord z 0 (number)) to 100% ",
-          "date": "24-01-2017 20:31:21"
-        },
-        {
-          "author": "~anon@87.206.*.*",
-          "comment": "w B nie brakuje DECLARE?",
-          "date": "29-01-2017 21:14:44"
-        },
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "nie,bo to przypisanie, a nie deklaracja",
-          "date": "06-02-2018 22:11:51"
-        },
-        {
-          "author": "~anon@85.128.*.*",
-          "comment": "c jest tu na pewno źle, sprawdzone na moim egzaminie",
-          "date": "31-08-2018 09:36:10"
-        },
-        {
-          "author": "~t@93.105.*.*",
-          "comment": "Znalazłem w materiałach szkolnych:\nhttp://edu.pjwstk.edu.pl/wyklady/sbd/scb/w5.htm\nInstrukcja SELECT ma w PL/SQL swoją specjalną postać. Wynik zapytania nie jest wyświetlany na ekranie, tylko zostaje zapisany na zmiennych - zamieszczanych w klauzuli INTO, która jest wymaganą klauzulą instrukcji SELECT w PL/SQL. Oto składnia instrukcji SELECT w PL/SQL:\nSELECT wyrażenie, wyrażenie,...\nINTO zmienna, zmienna,...\nFROM tabela, tabela,...\n[WHERE ...][GROUP BY ...][HAVING ...][FOR UPDATE OF ...];\nAby instrukcja była poprawna, instrukcja SELECT musi zwracać dokładnie jeden wiersz wyników. \n\nCzyli C jest na 100% dobrze.",
-          "date": "31-08-2018 12:10:00"
-        },
-        {
-          "author": "~t@93.105.*.*",
-          "comment": "Po przemyśleniach: chyba ze kluczem jest tutaj ta ilość rekordów, skoro 14  rekordów to system nie nadał by takiego wysokiego id...",
-          "date": "31-08-2018 12:20:31"
-        },
-        {
-          "author": "~anon@83.28.*.*",
-          "comment": "'b' jest złe a 'c' poprawne tylko jeśli któryś z rekordów ma empno równe 1234",
-          "date": "30-01-2019 17:32:22"
-        },
-        {
-          "author": "~Won Tyr@89.64.*.*",
-          "comment": "b jest dobrze",
-          "date": "31-01-2019 10:40:43"
-        },
-        {
-          "author": "~fsh@89.64.*.*",
-          "comment": "B jest poprawne, natomiast C nie. Przykładem będzie tabela, gdzie gdzie więcej niż jeden rekord ma wartość empno równą 1234.",
-          "date": "07-02-2019 12:41:55"
-        },
-        {
-          "author": "~JM@89.64.*.*",
-          "comment": "To jest pytanie z dupy najgorszego sortu, bo: \"V_ala Varchar2(10) := ‘Ala’;\" jest ok tylko wewnątrz sekcji DECLARE, inaczej błąd składni. Natomiast \"SELECT ename INTO v_name FROM emp WHERE empno = 1234;\" może być poprawne może nie być, za mało danych w pytaniu żeby stwierdzić.",
-          "date": "10-02-2019 23:11:19"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span>Pakiet</span><span> w PL/</span><span>SQL:</span>",
       "id": 2471,
-      "numberOfComments": 11,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span>Składa się z części publicznej (specyfikacji pakietu) i prywatnej (ciała</span><span> pakietu)</span><span>&nbsp;</span>",
@@ -2055,63 +1136,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~KK@89.67.*.*",
-          "comment": "B źle ?",
-          "date": "09-02-2015 05:23:35"
-        },
-        {
-          "author": "~anon@89.71.*.*",
-          "comment": "C jest chyba zle",
-          "date": "09-02-2015 08:35:56"
-        },
-        {
-          "author": "~anon@31.174.*.*",
-          "comment": "C jest z godnie z wykladem dobrze",
-          "date": "07-09-2015 00:48:39"
-        },
-        {
-          "author": "~K@31.179.*.*",
-          "comment": "B powinno byc ok",
-          "date": "07-09-2015 09:29:45"
-        },
-        {
-          "author": "~K@31.179.*.*",
-          "comment": "http://ii.uwb.edu.pl/~aboltuc/images/stories/bazy_danych_2/wykad_7.pdf - drugi slajd- pakiety\n",
-          "date": "07-09-2015 09:30:49"
-        },
-        {
-          "author": "~anon@213.108.*.*",
-          "comment": "według powyższego linku, odpowiedź B jest również poprawna",
-          "date": "26-01-2016 00:15:33"
-        },
-        {
-          "author": "~sbd@83.9.*.*",
-          "comment": "w ciele pakietu (czesci prywatnej) mozemy definiowac procedury, w ktorych to mozemy deklarowac zmienne, wiec sila rzeczy sa to zmienne deklarowane wewnatrz czesci prywatnej",
-          "date": "21-01-2017 21:40:44"
-        },
-        {
-          "author": "~inb4@178.235.*.*",
-          "comment": "tutaj B też jest dobrze",
-          "date": "23-01-2017 18:46:46"
-        },
-        {
-          "author": "mykhi",
-          "comment": "zaznaczam B",
-          "date": "23-01-2017 18:49:02"
-        },
-        {
-          "author": "~anon@89.67.*.*",
-          "comment": "B nie jest zaznaczone",
-          "date": "27-06-2017 19:26:59"
-        },
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "mykhi zaznacz B\n",
-          "date": "07-02-2018 00:39:31"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<p><span>&nbsp; &nbsp;Użycie klauzuli UNIQUE w deklaracji pola instrukcji CREATE TABLE oznacza , że :</span></p>",
@@ -2188,7 +1213,7 @@
     {
       "question": "<p><span>&nbsp; &nbsp;Która z poniższych instrukcji jest poprawna w T-SQL , jeżeli zostały prawidłowo zadeklarowane zmienne @empno i @deptno ?</span></p>",
       "id": 2475,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"EN-US\">SELECT @empno = 100;</span>",
@@ -2207,23 +1232,12 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@31.132.*.*",
-          "comment": "C na pewno dobrzee? ",
-          "date": "30-08-2015 00:43:55"
-        },
-        {
-          "author": "~Zdzisio@79.191.*.*",
-          "comment": "Sprawdzałem w T-SQLu i nie wyskakuje błąd. Na zmienną @empno wskakuje pole z ostatniego rekordu z tabeli emp.",
-          "date": "03-02-2016 16:01:12"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<p><span>&nbsp; &nbsp;Dane są trzy tabele Klienci ( Id_Klienta, Imie , Nazwisko ), Produkty (Id_Produktu , Nazwa , Cena ) oraz Zakupy (Id_Klienta , Id_Produktu , Ilosc ) . Wskaż poprawne zapytania SQL znajdujące nazwy i ceny produktów , które zostały zakupione przez przynajmniej jednego klienta .</span></p>",
       "id": 2476,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"EN-US\">SELECT DISTINCT Nazwa , Cena FROM Zakupy RIGHT OUTER JOIN Produkty ON Produkty.Id_Produktu = Zakupy.Id_Produktu;</span>",
@@ -2242,18 +1256,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@62.233.*.*",
-          "comment": "dlaczego pierwsze nie ?",
-          "date": "16-02-2020 15:37:07"
-        },
-        {
-          "author": "~JSZ@46.186.*.*",
-          "comment": "Bo da Ci też produkty ktore nie byly kupowane",
-          "date": "10-07-2020 22:23:55"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span>Zaznacz poprawne stwierdzenia dotyczące replikacji w MS SQL Server:</span>",
@@ -2282,7 +1285,7 @@
     {
       "question": "Które z poniższych stwierdzeń jest prawidłowe w PL/SQL ?",
       "id": 2478,
-      "numberOfComments": 10,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Prawidłową konstrukcję pętli jest WHILE warunek BEGIN ciąg instrukcji END;",
@@ -2301,63 +1304,12 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@31.174.*.*",
-          "comment": "Odpowiedz C moim zdaniem jest bledna. Nie ma rozpoczecia petli \"LOOP\" a jest samo zakonczenie \"END LOOP\"",
-          "date": "07-09-2015 01:26:22"
-        },
-        {
-          "author": "~anon@84.40.*.*",
-          "comment": "Zgadzam się, C nie jest prawidlową odpowiedzią",
-          "date": "08-02-2016 09:09:48"
-        },
-        {
-          "author": "~anon@178.42.*.*",
-          "comment": "tak, c jest zle, nie ma LOOP przed ciagiem instrukcji",
-          "date": "27-06-2016 20:50:26"
-        },
-        {
-          "author": "~anon@95.49.*.*",
-          "comment": "Oczywiście, że odpowiedź prawidłowa. Przykład ze strony Oracle: \n\nWHILE condition\nLOOP\n   {...statements...}\nEND LOOP;",
-          "date": "29-01-2017 12:45:37"
-        },
-        {
-          "author": "~anon@87.206.*.*",
-          "comment": "@up pogubiłeś chyba wątki..",
-          "date": "29-01-2017 21:21:07"
-        },
-        {
-          "author": "~anon@89.70.*.*",
-          "comment": "[ label ] FOR index IN [ REVERSE ] lower_bound..upper_bound LOOP\n  statements\nEND LOOP [ label ];\n\nW C brakuje LOOP - więc jest źle",
-          "date": "30-01-2017 10:15:52"
-        },
-        {
-          "author": "~dexter@91.230.*.*",
-          "comment": "@mykhi, c błędne ",
-          "date": "07-02-2018 12:16:33"
-        },
-        {
-          "author": "mykhi",
-          "comment": "odznaczam c",
-          "date": "07-02-2018 12:26:39"
-        },
-        {
-          "author": "~t@93.105.*.*",
-          "comment": "dlaczego A błednie? ",
-          "date": "06-07-2018 14:13:55"
-        },
-        {
-          "author": "~anon@83.28.*.*",
-          "comment": "'a' tylko w T-SQL",
-          "date": "30-01-2019 17:38:36"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<p><span>&nbsp; &nbsp;Wskaż poprawne zapytanie SQL (dialekt Oracle) znajdujące pracowników zarabiających minimalną pensję na ich stanowiskach pracy :</span></p>",
       "id": 2479,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"EN-US\">SELECT ename , job , sal FROM emp WHERE (sal,job) IN (SELECT MIN(sal) , job FROM emp GROUP BY job );</span>",
@@ -2376,18 +1328,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~s19273@212.180.*.*",
-          "comment": "Wie ktoś dlaczego c) jest niepoprawne? Składniowo wygląda w porządku i sensownie",
-          "date": "12-02-2020 08:29:08"
-        },
-        {
-          "author": "~s19273@212.180.*.*",
-          "comment": "Ok już mi kolega wyjaśnił - podzapytanie (SELECT MIN(sal) FROM emp GROUP BY job) zwróci w tym przypadku wiele wierszy, a potrzeba tylko jednego ",
-          "date": "12-02-2020 08:30:10"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span>Zaznacz poprawne stwierdzenia dotyczące opcji obiektowej w Oracle:</span>",
@@ -2440,7 +1381,7 @@
     {
       "question": "<span>W funkcji (FUNCTION) PL/SQL:(</span>",
       "id": 2482,
-      "numberOfComments": 5,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span>Nie można zadeklarować parametru typu OUT</span>",
@@ -2459,38 +1400,12 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@5.172.*.*",
-          "comment": "W funkcjach można deklarować parametry out",
-          "date": "26-01-2016 23:51:37"
-        },
-        {
-          "author": "~anon@178.42.*.*",
-          "comment": "nie, w funkcjach nie mozna deklarowac parametrow OUT. wykład: \"funkcje nie mogą posiadać parametrów wyjściowych OUT\"",
-          "date": "28-06-2016 10:40:05"
-        },
-        {
-          "author": "~piotrek@83.6.*.*",
-          "comment": "W wykładzie Wykład 11. PL/SQL cz. 3. Procedury, funkcje, pakiety, wyzwalacze. jest informacja na ten temat \"Jak widać z ostatniego przykładu, funkcje definiowane w bazie danych mogą być używane w poleceniach SQL tak jak inne funkcje implementowane przez SZBD. Ograniczenie w ich wykorzystaniu wewnątrz poleceń SQL stanowi:\nnie mogą posiadać parametrów wyjściowych OUT,\"",
-          "date": "04-09-2016 19:36:33"
-        },
-        {
-          "author": "~anon@89.67.*.*",
-          "comment": "Odp A jest niepoprawna",
-          "date": "27-06-2017 20:02:41"
-        },
-        {
-          "author": "~t@93.105.*.*",
-          "comment": "Nie wprowadzaj ludzi w bład, odpowiedz A jest poprawna. info z wykładu: Funkcje, nie mogą posiadać parametrów wyjściowych OUT.",
-          "date": "31-08-2018 15:13:14"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Więzy spójności moga być definiowane w nastepujących instrukacjach:",
       "id": 2483,
-      "numberOfComments": 6,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "CREATE TABLE",
@@ -2509,38 +1424,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@91.230.*.*",
-          "comment": "B też jest poprawne",
-          "date": "03-09-2016 12:28:00"
-        },
-        {
-          "author": "~inb4@178.235.*.*",
-          "comment": "B też poprawne źródło:\nhttp://edu.pjwstk.edu.pl/wyklady/szb/scb/wyklad3/w3.htm",
-          "date": "23-01-2017 19:03:56"
-        },
-        {
-          "author": "mykhi",
-          "comment": "zaznaczam B",
-          "date": "23-01-2017 20:26:56"
-        },
-        {
-          "author": "~anon@89.67.*.*",
-          "comment": "nie jest zaznaczone B",
-          "date": "26-06-2017 22:38:18"
-        },
-        {
-          "author": "mykhi",
-          "comment": "już jest",
-          "date": "27-06-2017 08:36:26"
-        },
-        {
-          "author": "~wow@93.105.*.*",
-          "comment": "Zduplikowane pytanie #42",
-          "date": "08-02-2019 12:00:29"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span>Zaznacz poprawne stwierdzenia dotyczące typu obiektowego w Oracle:</span>",
@@ -2569,7 +1453,7 @@
     {
       "question": "<span>Wskazać poprawne zapytanie SQL (dialekt ORACLE) znajdujące departamenty zatrudniające powyżej trzech pracowników :</span>",
       "id": 2485,
-      "numberOfComments": 4,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span>SELECT deptno, job, COUNT(*) GROUP BY deptno, job HAVING COUNT (*) &gt; 3;</span>",
@@ -2588,33 +1472,12 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~fsdaf@95.49.*.*",
-          "comment": "Nie no, przecież having nie może być przed grup by.",
-          "date": "23-01-2017 22:30:56"
-        },
-        {
-          "author": "~dsasd@95.49.*.*",
-          "comment": "Dostałem Syntax error in HAVING clause. w 3",
-          "date": "23-01-2017 22:32:58"
-        },
-        {
-          "author": "~anon@194.152.*.*",
-          "comment": "HAVING można pisać po i do GROUP BY\ninfa sotka",
-          "date": "28-01-2017 17:08:27"
-        },
-        {
-          "author": "~anon@87.206.*.*",
-          "comment": "można tylko w PL/SQL, w TSQL już nie",
-          "date": "29-01-2017 21:24:23"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<p class=\"MsoNormal\"><span>Wskazać poprawne zapytanie SQL (dialekt ORACLE) znajdujące departamenty zatrudniające powyżej trzech pracowników :</span><span></span></p>",
       "id": 2486,
-      "numberOfComments": 4,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span>SELECT deptno, COUNT(*) FROM emp GROUP BY deptno HAVING COUNT (*) &gt; 3;</span>",
@@ -2633,33 +1496,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~Murek1993@78.11.*.*",
-          "comment": "2 odp jak ona moze byc poprawna skoro having jest przed groupby ,having dziala na grupach ale grup jeszcze nie ma bo group by jest dalej, to jest bład-->SELECT deptno, COUNT(*) FROM emp HAVING COUNT (*) > 3 GROUP BY deptno; \n",
-          "date": "29-06-2015 14:29:47"
-        },
-        {
-          "author": "~klm@95.51.*.*",
-          "comment": "niech kolega sobie wrzuci do sql developera ową instrukcję select i sam się przekona co ona zwraca i czy jest to prawdziwy wynik. sprawdziłem - jest ok",
-          "date": "01-09-2015 17:00:37"
-        },
-        {
-          "author": "~xd@2a02:a31a:146:2080:3886:1ebf:ab54:57fa",
-          "comment": "dlaczego pytania mowia o jednym zapytaniu kiedy oczekuja wiekszej ilosci xd teoretycznie na egzaminie powinni zaliczyc jesli pytanie bylo sformulowane w liczbie pojedynczej",
-          "date": "09-02-2020 20:50:15"
-        },
-        {
-          "author": "~BigBlackCough@83.24.*.*",
-          "comment": "Kiedyś na wykładzie prowadząca powiedziała, że niektóre pytania miały zmienione odpowiedzi/aktualizowane, ale nie zmieniane były pytania, dlatego nie należy sugerować się liczbą pojedynczą. Tak, wiem jak to brzmi, nie wnikaj",
-          "date": "12-02-2020 21:14:55"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Która z poniższych instrukcji jest składniowo poprawna w T-SQL:",
       "id": 2487,
-      "numberOfComments": 13,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "IF NULL = NULL PRINT 'OK';",
@@ -2678,73 +1520,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~szmer@80.238.*.*",
-          "comment": "Wszystkie są składniowo poprawne. Sprawdzane w Management Studio.",
-          "date": "08-02-2015 18:11:39"
-        },
-        {
-          "author": "~master@89.73.*.*",
-          "comment": "W takim razie aktualizację prosimy ;)",
-          "date": "08-02-2015 19:41:31"
-        },
-        {
-          "author": "~Mtk@89.68.*.*",
-          "comment": "Na podstawie tego samego zdjecia z egzaminu A,C,D tutaj są poprawne.",
-          "date": "08-02-2015 21:43:14"
-        },
-        {
-          "author": "~anon@89.76.*.*",
-          "comment": "przeciez na zdjeciach nie musi byc dobrze, chyba ze sprawdzal po",
-          "date": "08-02-2015 21:44:26"
-        },
-        {
-          "author": "~anon@89.68.*.*",
-          "comment": "Musi. To są zdjecia zrobione juz przy sprawdzaniu odpowiedzi z prowadzacym. Tam gdzie sa prawidlowe i twoje odpowiedzi.\n",
-          "date": "08-02-2015 21:45:41"
-        },
-        {
-          "author": "~Mtk@89.68.*.*",
-          "comment": "Wrzucałem je na grupe. Nie wiem dlaczego nikt ich nie uwzględnił.",
-          "date": "08-02-2015 21:49:30"
-        },
-        {
-          "author": "~anon@80.238.*.*",
-          "comment": "Jeżeli weźmiemy pod uwagę, że jest to blok T-SQL to empno musi być jakąś zmienną, bo inaczej if nie ma sensu. Czyli faktycznie może być A,C,D",
-          "date": "08-02-2015 22:27:47"
-        },
-        {
-          "author": "~anon@89.68.*.*",
-          "comment": "No to jest z nami Admin?? Zeby robić updaty??",
-          "date": "08-02-2015 22:34:51"
-        },
-        {
-          "author": "~szmer@80.238.*.*",
-          "comment": "Gdyby w B było @empno wtedy poprawnie.",
-          "date": "08-02-2015 22:35:00"
-        },
-        {
-          "author": "~Murek1993@78.11.*.*",
-          "comment": "tylko AD jest dobrze w tsql nie ma when then a powyzej nie wie co to empno",
-          "date": "01-07-2015 13:32:53"
-        },
-        {
-          "author": "~anon@95.41.*.*",
-          "comment": "w t-sql jest when then",
-          "date": "01-07-2016 16:48:07"
-        },
-        {
-          "author": "~anon@178.235.*.*",
-          "comment": "> w t-sql jest when then\nZgadza się, ale jest częścią konstrukcji CASE, której tutaj brakuje",
-          "date": "03-09-2016 12:22:00"
-        },
-        {
-          "author": "~anon@83.28.*.*",
-          "comment": "jest dobrze, nic nie poprawiać",
-          "date": "30-01-2019 17:47:06"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span>Wskazać poprawne zapytanie SQL (dialekt ORACLE) znajdujące pracowników zarabiających minimalną pensję na ich stanowiskach pracy.:</span>",
@@ -2773,7 +1549,7 @@
     {
       "question": "Które z poniżej wymienionych metod są metodami sekwencji w Oracle:",
       "id": 2489,
-      "numberOfComments": 8,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "InitVal",
@@ -2792,53 +1568,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~Budzyn@85.222.*.*",
-          "comment": "CurrVal też jest jak coś .\nhttp://www.toadworld.com/platforms/ibmdb2/w/wiki/7690.currval-prevval-nextval-functions.aspx",
-          "date": "08-02-2015 15:27:50"
-        },
-        {
-          "author": "~iHeadKoRn@89.75.*.*",
-          "comment": "jest w drugim pytaniu ;)",
-          "date": "08-02-2015 15:48:09"
-        },
-        {
-          "author": "~szmer@80.238.*.*",
-          "comment": "Mnie się wydaje, że nie ma czegoś takiego jak PrevVal. Za wartość obecną służy CurrVal. W ogóle ten link wyżej nie wygląda mi na Oracle.",
-          "date": "08-02-2015 18:14:05"
-        },
-        {
-          "author": "~master@89.73.*.*",
-          "comment": "To jak z tym PrevVal?",
-          "date": "09-02-2015 00:20:02"
-        },
-        {
-          "author": "~master@89.73.*.*",
-          "comment": "Wydaje mi sie, ze poprawna odpowiedz to tylko NextVal",
-          "date": "09-02-2015 00:21:59"
-        },
-        {
-          "author": "~viora@93.154.*.*",
-          "comment": "W Oracle będą tylko NextVal i CurrVal: http://docs.oracle.com/cd/B19306_01/server.102/b14200/pseudocolumns002.htm",
-          "date": "09-02-2015 04:26:45"
-        },
-        {
-          "author": "~me@185.15.*.*",
-          "comment": "@up potwierdzam, Mykhi prosimy o poprawę :)",
-          "date": "29-01-2017 12:06:00"
-        },
-        {
-          "author": "mykhi",
-          "comment": "odznaczam PrevVal",
-          "date": "29-01-2017 12:12:44"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span>Które z poniżej wymienionych metod są metodami sekwencji w Oracle:</span>",
       "id": 2490,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span>CurrVal</span>",
@@ -2857,18 +1592,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~kurwal@91.230.*.*",
-          "comment": "kurwal",
-          "date": "07-02-2018 11:51:02"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span>Która z poniższych instrukcji PL/SQL prawidłowo podstawia wartość na zmienną (w tabeli EMP jest 14 rekordów)?</span>",
       "id": 2491,
-      "numberOfComments": 11,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"EN-US\">SELECT ‘ename’ INTO v_ename FROM dummy;&nbsp; &nbsp;</span>",
@@ -2887,63 +1616,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@78.11.*.*",
-          "comment": "dummy zadziala",
-          "date": "03-07-2015 23:54:12"
-        },
-        {
-          "author": "~anon@78.11.*.*",
-          "comment": "wstawi ename w zmienna v_ename sprawdzone w dev",
-          "date": "03-07-2015 23:54:34"
-        },
-        {
-          "author": "~Murek1993@78.11.*.*",
-          "comment": "Dummy poprane bo ename z apostrofem gdyby samo ename to blad, bylo na exam",
-          "date": "04-07-2015 17:35:07"
-        },
-        {
-          "author": "~wismarc@95.49.*.*",
-          "comment": "czemu 2 jest dobra, a 3 jest nieprawidłowa?",
-          "date": "01-07-2016 18:08:29"
-        },
-        {
-          "author": "~sbd@83.9.*.*",
-          "comment": "bo w tabeli jest 14 rekordow, a na zmienna mozesz podstawic tylko jeden",
-          "date": "21-01-2017 18:00:29"
-        },
-        {
-          "author": "~sbd@83.9.*.*",
-          "comment": "jedna wartosc*",
-          "date": "21-01-2017 18:01:59"
-        },
-        {
-          "author": "~anon@87.206.*.*",
-          "comment": "w 2 nie ma DECLARE",
-          "date": "29-01-2017 20:32:07"
-        },
-        {
-          "author": "~kosmit@91.230.*.*",
-          "comment": "A i D poprawna",
-          "date": "07-02-2018 11:20:39"
-        },
-        {
-          "author": "~anon@83.28.*.*",
-          "comment": "'A' rzeczywiście poprawne, bo to po prostu stała\n",
-          "date": "30-01-2019 17:50:38"
-        },
-        {
-          "author": "~darcoola@162.158.*.*",
-          "comment": "'A' nie jest poprawne. Tabela ma 14 rekordów. SELECT 'ename' FROM dummy zwróci 14 wierszy z wartością 'ename'! dlatego przy próbie podstawienia na zmienną v_ename wystąpi błąd - zwróconych zostało więcej niż 1 wartość. Sprawdzone w SQL Developer.",
-          "date": "25-06-2019 21:29:13"
-        },
-        {
-          "author": "~anon@162.158.*.*",
-          "comment": "tak by było, gdybyś brał z emp (co robisz w C). W A bierzesz zmienną tekstową z tabeli dummy, która istnieje w tym celu, żeby właśnie robić takie operacje, jak powyższa",
-          "date": "30-06-2019 04:44:07"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<p class=\"MsoNormal\"><span>Zaznacz poprawne stwierdzenia dotyczące typów LOB:</span></p>",
@@ -2972,7 +1645,7 @@
     {
       "question": "Zaznacz poprawne stwierdzenia dotyczące rozproszonej bazy danych:",
       "id": 2493,
-      "numberOfComments": 5,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "W rozproszonej bazie danych zawsze jest jeden serwer główny (read-write) oraz jeden lub wiele serwerów dodatkowych (read-only).",
@@ -2991,33 +1664,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~kowgli@83.15.*.*",
-          "comment": "Na moje oko odpowiedzi powinny być dokładnie odwrotne, niż zaznaczone.",
-          "date": "09-02-2015 10:57:01"
-        },
-        {
-          "author": "~anon@31.174.*.*",
-          "comment": "Tez mi sie tak wydaje",
-          "date": "07-09-2015 01:47:18"
-        },
-        {
-          "author": "~piotrek@95.49.*.*",
-          "comment": "Zgodnie z wykładem https://edux.pjwstk.edu.pl/mat/216/lec/rw14.htm poprawne odpowiedzi to b,c i d. ",
-          "date": "03-09-2016 22:34:17"
-        },
-        {
-          "author": "~jodlai@95.49.*.*",
-          "comment": "popieram",
-          "date": "24-01-2017 00:00:01"
-        },
-        {
-          "author": "mykhi",
-          "comment": "zaznaczam B, C, i D odznaczam A",
-          "date": "24-01-2017 09:02:30"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "&nbsp;<p></p>\n<p>&nbsp;</p>\n\n<p>Nieulotność w definicji hurtowni danych oznacza, że: \n          </p>",
@@ -3042,7 +1689,7 @@
     {
       "question": "Dane są trzy tabele\n\nKlienci(Id_Klienta, Imie, Nazwisko), \nProdukty(Id_Produktu, Nazwa, Cena) oraz \nZakupy(Id_Klienta, Id_Produktu, Ilosc). \n\nWskazac poprawne zapytanie SQL znajdujace nazwy i ceny produktow, zakupionych przez klientow o nazwisku Abacki.",
       "id": 2495,
-      "numberOfComments": 3,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "SELECT DISTINCT Nazwa, Cena FROM Produkty, Klienci;",
@@ -3061,28 +1708,12 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~Budzyn@85.222.*.*",
-          "comment": "Moim zdaniem jedyną poprawną odpowiedzią jest ostatnia odp.",
-          "date": "08-02-2015 17:23:17"
-        },
-        {
-          "author": "~iHeadKoRn@89.75.*.*",
-          "comment": "masz racje ;) odpowiedz D jest poprawna ",
-          "date": "08-02-2015 17:33:19"
-        },
-        {
-          "author": "~master@89.73.*.*",
-          "comment": "UP! Odpowiedz D poprawna.",
-          "date": "08-02-2015 17:40:53"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<p class=\"MsoNormal\"><span>Która z poniższych instrukcji może zostać użyta w bloku Pl/SQL?</span></p>",
       "id": 2496,
-      "numberOfComments": 6,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"EN-US\">INSERT</span>",
@@ -3101,38 +1732,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@178.42.*.*",
-          "comment": "\"Jedynymi instrukcjami języka SQL, które mogą się pojawić w bloku PL/SQL, są instrukcje SELECT, INSERT, UPDATE, DELETE, COMMIT i ROLLBACK.\" Odpowiedź poprawna. ",
-          "date": "24-01-2017 09:45:02"
-        },
-        {
-          "author": "~anon@31.178.*.*",
-          "comment": "Error report -\nSQL Error: ORA-04092: nie można ROLLBACK w wyzwalaczu\n\nDEAL WITH IT",
-          "date": "26-01-2017 09:59:50"
-        },
-        {
-          "author": "~anon@95.49.*.*",
-          "comment": "@UP: No...w wyzwalaczu nie można używać ani COMMIT ani ROLLBACK (dialekt PL/SQL). Jednak w tym pytaniu jest mowa o bloku.\n\nPozdrawiam.",
-          "date": "29-01-2017 13:17:17"
-        },
-        {
-          "author": "~anon@83.28.*.*",
-          "comment": "można również alter jak i create",
-          "date": "30-01-2019 18:00:36"
-        },
-        {
-          "author": "~anon@93.105.*.*",
-          "comment": "@UP: testowane?",
-          "date": "05-02-2019 21:20:02"
-        },
-        {
-          "author": "~anon@93.105.*.*",
-          "comment": "Jest dobrze:\nhttps://stackoverflow.com/questions/7575887/getting-error-while-trying-to-alter-table-in-an-sql-block",
-          "date": "05-02-2019 21:25:53"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<p class=\"MsoNormal\"><span>Dane są trzy tabele Klienci(Id_Klienta, Imie, Nazwisko), Produkty(Id_Produktu, Nazwa, Cena) oraz Zakupy(Id_Klienta, Id_Produktu, Ilosc). Wskazac poprawne zapytanie SQL znajdujace nazwy i ceny produktow, zakupionych przez klientow o nazwisku Abacki.&nbsp;</span></p>",
@@ -3161,7 +1761,7 @@
     {
       "question": "<span>Które z poniższych stwierdzeń jest prawdziwe w T-SQL:</span>",
       "id": 2498,
-      "numberOfComments": 3,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span>W procedurze mogą być &nbsp;wykonywane polecenia DQL.&nbsp;</span>",
@@ -3180,23 +1780,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~szmer@80.238.*.*",
-          "comment": "Procedura nie może modyfikować schematu bazy więc DDL odpada.",
-          "date": "08-02-2015 18:15:04"
-        },
-        {
-          "author": "~Budzyn@85.222.*.*",
-          "comment": "Można \nhttps://social.msdn.microsoft.com/forums/sqlserver/en-US/a77a91c8-4efe-408d-af3f-e8ee665cf0ff/can-we-write-ddl-command-in-stored-procedure\n",
-          "date": "09-02-2015 12:50:39"
-        },
-        {
-          "author": "~Zdzisio@83.31.*.*",
-          "comment": "\"Poprzez procedury mogą być realizowane polecenia DML, w MS SQL Server także polecenia DDL.\" Cytat z \"Wykład 05. T-SQL cz. 3. Procedury i wyzwalacze. Obsługa błędów.\"",
-          "date": "01-02-2016 13:33:02"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "W jaki sposób tworzy się perspektywę z opcją sprawdzania:",
@@ -3225,7 +1809,7 @@
     {
       "question": "<span>Która z poniższych instrukcji w PL/SQL nie zakończy się błędem, przy założeniu, że w tabeli DEPTNO są dwa rekordy z wartościami Deptno IN (10, 20) oraz prawidłowej deklaracji?</span>",
       "id": 2500,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<p class=\"MsoNormal\"><span>SELECT deptno INTO v_deptno FROM dept;</span></p>",
@@ -3244,13 +1828,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~L@83.24.*.*",
-          "comment": "A jeżeli v_deptno to typ tablicowy?",
-          "date": "25-02-2018 10:08:32"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span>Która z poniższych instrukcji w PL/SQL nie zakończy się błędem, przy założeniu, że w tabeli DEPTNO są dwa rekordy z wartościami Deptno IN (10, 20) oraz prawidłowej deklaracji?</span>",
@@ -3423,7 +2001,7 @@
     {
       "question": "Która z poniższych nazw jest prawidłową nazwą zmiennej w PL/SQL?",
       "id": 2508,
-      "numberOfComments": 12,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "5SELECT",
@@ -3450,68 +2028,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@83.9.*.*",
-          "comment": "tam jest \"SELECT5\" a nie SELECT",
-          "date": "08-02-2015 18:29:20"
-        },
-        {
-          "author": "~master@89.73.*.*",
-          "comment": "select5 bedzie ok?",
-          "date": "08-02-2015 18:30:25"
-        },
-        {
-          "author": "~iHeadKoRn@89.75.*.*",
-          "comment": "nie",
-          "date": "08-02-2015 19:04:32"
-        },
-        {
-          "author": "~anon@31.174.*.*",
-          "comment": "dlaczego nie?",
-          "date": "07-09-2015 01:53:23"
-        },
-        {
-          "author": "~anon@31.11.*.*",
-          "comment": "\"x+y\" albo \"alamakota\" nie sa przypadkiem literalami, a nie nazwami zmiennych?\nnie napiszemy SELECT sth INTO \"x+y\" FROM smthn\nani\n\"alamakota\" := 1;\nale mozemy napisac\nLala := 1;",
-          "date": "31-01-2016 20:23:51"
-        },
-        {
-          "author": "~Zdzisio@79.191.*.*",
-          "comment": "select5 będzie ok, sprawdzałem.",
-          "date": "03-02-2016 16:21:09"
-        },
-        {
-          "author": "~Zdzisio@79.191.*.*",
-          "comment": "\"x+y\" i \"alamakota\" też jest dobre, sprawdzałem. Można zadeklarować np. \"x+y\" int := 1   i wywołać ją podając \"x+y\"",
-          "date": "03-02-2016 16:44:12"
-        },
-        {
-          "author": "~anon@178.42.*.*",
-          "comment": "z wykładu: \"Nazwami zmiennych mogą też być ciągi dowolnych znaków ujęte w podwójne cudzysłowy, np. ” x+y”, ”last minute”, ”on/off switch” To działa, ale nie polecamy!!!\"",
-          "date": "28-06-2016 12:11:20"
-        },
-        {
-          "author": "~anon@178.42.*.*",
-          "comment": "oraz: \"nie mogą być słowami kluczowymi SQL ani Pl/SQL\"",
-          "date": "28-06-2016 12:11:51"
-        },
-        {
-          "author": "~anon@95.49.*.*",
-          "comment": "Jesli na egzaminie jest SELECT lub SELECT 5 to odpowiedź jest niepoprawna. Jeśli jednak jest tam odpowiedź SELECT5 to odpowiedź jest poprawna. ",
-          "date": "29-01-2017 13:29:26"
-        },
-        {
-          "author": "~anon@94.254.*.*",
-          "comment": "Uwaga! 5SELECT nie jest poprawna. Nie może zaczynać się od cyfry. Na egzaminie nie wiedziałem tego. ",
-          "date": "30-01-2017 11:27:32"
-        },
-        {
-          "author": "mykhi",
-          "comment": "dodałem odpowiedzi według waszych info.",
-          "date": "30-01-2017 12:57:35"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<p class=\"MsoNormal\"><span>W procedurze (PROCEDURE) PL/SQL</span></p>",
@@ -3564,7 +2081,7 @@
     {
       "question": "Koszt pokazywany w planie wykonania zadania:",
       "id": 2511,
-      "numberOfComments": 9,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Jest wyświetlany w sekundach",
@@ -3583,58 +2100,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@81.15.*.*",
-          "comment": "pierwsze jest błędne Edux tak twiedzi. Zresztą ja też bo akurat tam nie ma podanej jednostki. Ale napewno nie są to sekundy ",
-          "date": "06-02-2016 18:41:27"
-        },
-        {
-          "author": "~sbd@83.9.*.*",
-          "comment": "Z tego co pamiętam z wykladow/cwiczen:\nA - na pewno nieprawdziwe,\nC - prawdziwe.\nCo do reszty nie jestem pewien ",
-          "date": "21-01-2017 22:30:28"
-        },
-        {
-          "author": "~sbd@83.28.*.*",
-          "comment": "C chyba jednak nie bedzie dobrze. Z wykladu:\n\"Koszty prezentowane w planie są bardzo dobrym wskaźnikiem, gdy zależy nam na porównaniu, np. kosztu przed założeniem indeksu i po. Są bowiem niezależne od bieżącego obciążenia serwera, buforowania danych i innych zewnętrznych wpływów. Koszt w planie dla danego zapytania oraz ustalonego zestawu danych będzie więc zawsze taki sam, niezależnie od tego, na jakim serwerze uruchomimy to zapytanie.\"",
-          "date": "23-01-2017 19:06:30"
-        },
-        {
-          "author": "~anon@5.134.*.*",
-          "comment": "wykład z ABD: \"Opcja podglądu planu wykonania umożliwia nam również obejrzenie szczegółowych informacji na temat każdego operatora, po najechaniu myszą na jego ikonę. Szczególnie istotne są tutaj koszty CPU cost (koszt użycia procesora) oraz IO cost (koszt operacji dyskowych). Możemy też zobaczyć koszt zsumowany dla każdego operatora, jak też dla części lub całego planu (Estimated Subtree Cost). SQL Server przedstawia koszty w swoich wewnętrznych jednostkach tak, aby były one porównywalne niezależnie od komputera, na którym pracujemy, jak również jego bieżącego obciążenia. \"\n\nwg mnie poprawne jest tylko B",
-          "date": "01-02-2017 21:45:32"
-        },
-        {
-          "author": "~anon@188.146.*.*",
-          "comment": "Dzisiaj miałem ten egzamin. Sprawdzałem u kaem'a. Jest tylko B",
-          "date": "06-02-2017 14:46:12"
-        },
-        {
-          "author": "mykhi",
-          "comment": "zmieniam na B (było a,b,d)",
-          "date": "06-02-2017 16:16:36"
-        },
-        {
-          "author": "~miszczunio@79.184.*.*",
-          "comment": "przecież \"B\" wynika z \"D\", na roznych komputerach sa różne procesory, więc nie wiem co to za zmienianie :P \"C\" też jest dobrą odpowiedzią, bo takie zdanie słowo w słowo wypowiedział Lenkiewicz na wykładzie z administrowania",
-          "date": "31-01-2018 21:33:36"
-        },
-        {
-          "author": "~miszczunio@79.184.*.*",
-          "comment": "a \"A\" oczywiście też jest źle bo według naszych prowadzących, jednostki podawane dla kosztu różnią się w zależności od firmy, po każda firma ma własny algorytm liczący te koszty",
-          "date": "31-01-2018 21:35:08"
-        },
-        {
-          "author": "~t@93.105.*.*",
-          "comment": "B - przecież polecenie nie wykonuje się na Twoim komputerze tylko na serwerze na którym znajduje się baza",
-          "date": "30-08-2018 21:25:03"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span>Która z poniższych intrukcji SQL Server jest składniowo poprawna….</span>",
       "id": 2512,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"EN-US\">INSERT INTO emp(empno, ename, sal) VALUES(1111,’LORD’);</span>",
@@ -3653,23 +2124,12 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~Zdzisio@79.185.*.*",
-          "comment": "D jest poprawne gdy na empno nie ma więzów \"not null\", jeżeli są to jest błąd więzów spójności",
-          "date": "08-02-2016 10:47:28"
-        },
-        {
-          "author": "~sbd@83.9.*.*",
-          "comment": "ale skladniowo jest poprawna, gdyby bylo pytanie o to czy zakonczy sie bledem to moznaby sie nad tym faktycznie zastanawiac",
-          "date": "21-01-2017 19:27:07"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Wyzwalacz może zostac uruchomiony przez:",
       "id": 2513,
-      "numberOfComments": 3,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Jedną z operacji DML spośród zadeklarowanych w wyzwalaczu.",
@@ -3688,28 +2148,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~kogut@83.24.*.*",
-          "comment": "czemu odpowiedz D nie ? ",
-          "date": "05-07-2018 14:31:16"
-        },
-        {
-          "author": "~kogut@83.24.*.*",
-          "comment": "cofam pytanie xd",
-          "date": "05-07-2018 14:32:06"
-        },
-        {
-          "author": "~NoIPanPawel@185.186.*.*",
-          "comment": "Czy odpowiedzi c nie powinna byc poprawna?\n",
-          "date": "01-02-2020 21:44:40"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "W funkcji (FUNCTION) PL/SQL: (?)",
       "id": 2514,
-      "numberOfComments": 20,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Jedynym sposobem uruchomienia funkcji jest użycie komendy EXECUTE",
@@ -3728,113 +2172,12 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~al@80.210.*.*@109.173.*.*",
-          "comment": "Tu nie sa wszystkie poprawne? ",
-          "date": "08-02-2015 18:36:15"
-        },
-        {
-          "author": "~szmer@80.238.*.*",
-          "comment": "Na pewno funkcję można przeciążyć, uzywać w niej selectów (DQL) i odwoływać się poprzez nazwę. Pierwszego nie jestem pewien.",
-          "date": "08-02-2015 19:04:16"
-        },
-        {
-          "author": "~anon@89.68.*.*",
-          "comment": "Tak, tutaj powinny być wszystkie poprawne!!\n",
-          "date": "08-02-2015 19:07:50"
-        },
-        {
-          "author": "~Hinduzzzz@89.71.*.*",
-          "comment": "Dokladnie wszystkie poprawne..",
-          "date": "08-02-2015 19:28:40"
-        },
-        {
-          "author": "~Hinduzzzz@89.71.*.*",
-          "comment": "@edit chociaż pierwsze chyba nie\n",
-          "date": "08-02-2015 19:28:59"
-        },
-        {
-          "author": "~KK@89.67.*.*",
-          "comment": "Też myślę, że pierwsze nie.",
-          "date": "08-02-2015 22:18:35"
-        },
-        {
-          "author": "~Mtk@89.68.*.*",
-          "comment": "Tutaj wszystkie poprawne. Powinny być.",
-          "date": "08-02-2015 22:31:19"
-        },
-        {
-          "author": "~anon@37.152.*.*",
-          "comment": "Pierwsze nie jest poprawne, można np po prostu wywołać funkcję poprzez jej nazwę",
-          "date": "26-01-2016 12:25:38"
-        },
-        {
-          "author": "~anon@83.144.*.*",
-          "comment": "@up",
-          "date": "31-01-2016 22:28:44"
-        },
-        {
-          "author": "~d@83.31.*.*",
-          "comment": "fajne te testy, 3/4 ze złymi odpowiedziami",
-          "date": "01-02-2016 14:40:27"
-        },
-        {
-          "author": "~student@89.67.*.*",
-          "comment": "Które odpowiedzi są poprawne w tym pytaniu? Czy ktoś to umie jednoznacznie określić? ",
-          "date": "10-02-2016 19:30:13"
-        },
-        {
-          "author": "~anon@178.42.*.*",
-          "comment": "Kapitan przybywa! wiadomosci z wykladu: w SQL Plus Można wywołać funkcję w następujący sposob: VARIABLE v_budzet NUMBER\nEXECUTE    :v_budzet := YYY(10);",
-          "date": "28-06-2016 13:43:35"
-        },
-        {
-          "author": "~anon@178.42.*.*",
-          "comment": "Pl/SQL dopuszcza wielokrotne użycie tej samej nazwy funkcji (przeciążanie)",
-          "date": "28-06-2016 13:44:19"
-        },
-        {
-          "author": "~anon@178.42.*.*",
-          "comment": "zakaz użycia w ich treści instrukcji DDL i DML (funkcje nie mogą zmieniać stanu bazy danych) ~~ Wiec dql mozna",
-          "date": "28-06-2016 13:45:59"
-        },
-        {
-          "author": "~anon@178.42.*.*",
-          "comment": "i ostatnie:\nDECLARE\n    v_deptBudzet NUMBER(10,2);\nBEGIN\n    v_deptBudzet := YYY(10);\n~~ Kapitan",
-          "date": "28-06-2016 13:47:46"
-        },
-        {
-          "author": "~piotrek@83.6.*.*",
-          "comment": "Zgodnie z wykładem https://edux.pjwstk.edu.pl/mat/216/lec/rw6.htm\n\"W SQL wywołujemy procedurę w następujący sposób:\nCALL Credit(10112, 1000);\nW kodzie PL/SQL wywołujemy procedurę w zwykły sposób:\nCredit(10112, 1000);\nW SQL*Plus poprzedzamy nazwę procedury słowem kluczowym EXECUTE:\nEXECUTE Credit(10112, 1000)\"\n\nOdpowiedz A jest błędna. ",
-          "date": "04-09-2016 21:40:22"
-        },
-        {
-          "author": "~piotrek@83.6.*.*",
-          "comment": "Pomyliłem z procedurą. Chodziło mi o zapis z wykładu https://edux.pjwstk.edu.pl/mat/216/lec/rw6.htm  \n\n\"W kodzie SQL lub PL/SQL używamy funkcji w zwykły sposób, np.\nSELECT Saldo(a.Account_id) FROM Accounts a;\nlub\nx := Saldo(10112);\nNatomiast w SQL*Plus możemy wywołać i wypisać wartość funkcji w następujący sposób:\nVARIABLE p INTEGER\nEXECUTE :p:= Saldo(10112)\nPRINT p\"",
-          "date": "04-09-2016 21:43:30"
-        },
-        {
-          "author": "~anon@83.9.*.*",
-          "comment": "czyli poprawne b,c,d",
-          "date": "21-01-2017 18:27:28"
-        },
-        {
-          "author": "~Michał L@78.11.*.*",
-          "comment": "odpowiedź A błędna\nhttps://www.tutorialspoint.com/plsql/plsql_procedures.htm\nprocedurę można wywołać na dwa sposoby, przez EXECUTE albo przez jej nazwę",
-          "date": "03-02-2017 15:51:05"
-        },
-        {
-          "author": "mykhi",
-          "comment": "odznaczam A, zaznaczam B i C.",
-          "date": "03-02-2017 18:05:55"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "W jaki sposób można wyprowadzić dane w procedurze PL/SQL?",
       "id": 2902,
-      "numberOfComments": 6,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Argument typu IN",
@@ -3853,43 +2196,12 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@178.235.*.*",
-          "comment": "PLSQL nie wyprowadza danych w postaci Result Set",
-          "date": "01-07-2017 12:22:37"
-        },
-        {
-          "author": "~da@89.77.*.*",
-          "comment": "Z tego co czytałem, w PLSQL TYLKO I WYŁĄCZNIE argumenty typu OUT",
-          "date": "01-07-2017 23:48:00"
-        },
-        {
-          "author": "~anon@37.47.*.*",
-          "comment": "to jak w końcu?",
-          "date": "02-09-2017 20:25:33"
-        },
-        {
-          "author": "~petenshi@37.47.*.*",
-          "comment": "W procedurze tylko OUT natomiast RETURN dotyczy funkcji, ResultSet tylko w T-SQL",
-          "date": "30-01-2018 11:35:16"
-        },
-        {
-          "author": "~wow@93.105.*.*",
-          "comment": "@mykhi w PL/SQL tylko OUT. Za to w T-SQL: OUT, RETURN i ResultSet.",
-          "date": "08-02-2019 11:19:37"
-        },
-        {
-          "author": "mykhi",
-          "comment": "odznaczam b) i c)",
-          "date": "08-02-2019 11:20:47"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "W wyzwalaczu T-SQL można modyfikować dane w",
       "id": 2903,
-      "numberOfComments": 3,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "W każdej dostępnej, oprócz INSERTED i DELETED",
@@ -3908,28 +2220,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@83.9.*.*",
-          "comment": "źle, modyfikować dane można tylko w tabelach, na których zdefiniowany jest wyzwalacz",
-          "date": "30-06-2017 12:50:22"
-        },
-        {
-          "author": "~anon@89.67.*.*",
-          "comment": "Dokładnie poprawna odp jest B",
-          "date": "30-06-2017 21:44:11"
-        },
-        {
-          "author": "~Won Tyr@89.64.*.*",
-          "comment": "wyzwalacz może modyfikować inne tabele, nie tylko tą na której sie znajduje, przecież stopień zagnieżdżeń wyzwalaczy wynosi 32 (tj. wyzwalacz w1 na tab t1 zmienia dane na tabelce t2 przez co uruchamia wyzwalacz w2 itd) ",
-          "date": "31-01-2019 11:05:33"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Które z poniższych słów mogą być nagłówkami sekcji w bloku anonimowym PL/SQL:",
       "id": 2515,
-      "numberOfComments": 8,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "BEGIN",
@@ -3948,53 +2244,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~viora@93.154.*.*",
-          "comment": "Czy ostatnia jest na pewno dobrze?",
-          "date": "09-02-2015 04:32:48"
-        },
-        {
-          "author": "~Domka@91.199.*.*",
-          "comment": "DECLARE\n   deklaracje obiektów PL/SQL jak zmienne, stałe, wyjątki, procedury, funkcje\nBEGIN\n   ciąg instrukcji do wykonania\nEXCEPTION\n   obsługa wyjątków (błędów)\nEND;\n\nCzyli exception jest źle",
-          "date": "01-07-2015 08:34:35"
-        },
-        {
-          "author": "~anon@78.11.*.*",
-          "comment": "Sama sobie przeczysz \"\nSkładnia bloku anonimowego jest następująca:\nDECLARE\nDeklaracje obiektów Pl/SQL(zmienne,stałe,wyjątki,procedury,funkcje)\nBEGIN\nCiąg instrukcji SQL i Pl/SQL\nEXCEPTION\nObsługa wyjątków\nEND;\nSekcje DECLARE i EXCEPTION są opcjonalne,\nbloki mogą być zagnieżdżane,\nwbloku mogąsię pojawić instrukcje SELECT,INSERT,UPDATE,DELETE,COMMIT,ROLLBACK.Niedopuszczalne sąinstrukcje DDL!\"  odp to begin i exception\n",
-          "date": "01-07-2015 11:16:41"
-        },
-        {
-          "author": "~Domka@91.199.*.*",
-          "comment": "Chodziło mi o execute, które powinno zostać odznaczone",
-          "date": "02-07-2015 12:19:24"
-        },
-        {
-          "author": "~inb4@178.235.*.*",
-          "comment": "Poprawne odpowiedzi są tylko A i C EXECUTE jest źle!",
-          "date": "23-01-2017 19:35:28"
-        },
-        {
-          "author": "mykhi",
-          "comment": "odznaczam D",
-          "date": "23-01-2017 20:29:43"
-        },
-        {
-          "author": "~anon@89.74.*.*",
-          "comment": "Ale nie jest odznaczone :D",
-          "date": "24-01-2017 02:40:30"
-        },
-        {
-          "author": "mykhi",
-          "comment": "no już :)",
-          "date": "24-01-2017 09:06:53"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span>Które z poniższych stwierdzeń jest prawdziwe T-SQL :&nbsp;</span>",
       "id": 2516,
-      "numberOfComments": 8,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "W procedurze mogą być wykorzystywane &nbsp;polecenia DML",
@@ -4013,53 +2268,12 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@89.74.*.*",
-          "comment": "tu nie sa czasem wszystkie poprawne?",
-          "date": "08-02-2015 21:51:22"
-        },
-        {
-          "author": "~Hinduzzzz@89.71.*.*",
-          "comment": "tez mi sie tak wydaje",
-          "date": "09-02-2015 08:24:29"
-        },
-        {
-          "author": "~Hudini@88.156.*.*",
-          "comment": "Na pewno Wszystkie",
-          "date": "31-01-2016 23:29:01"
-        },
-        {
-          "author": "~Kuba@83.17.*.*",
-          "comment": "Oczywiście, że wszystkie poprawne. DO POPRAWY!",
-          "date": "07-02-2016 20:50:41"
-        },
-        {
-          "author": "~anon@178.42.*.*",
-          "comment": "Kapitan wykład: \"Procedury mogą zawierać wszystkie prawidłowe, dotychczas omówione konstrukcje języka T-SQL, a także wszystkie prawidłowe instrukcje SQL.\" ~~ wszystkie poprawne",
-          "date": "28-06-2016 13:53:30"
-        },
-        {
-          "author": "~maziar@160.83.*.*",
-          "comment": "dokładnie wszystkie !",
-          "date": "26-06-2017 12:38:30"
-        },
-        {
-          "author": "~anon@160.83.*.*",
-          "comment": "Wszystkie są poprawne!!",
-          "date": "28-06-2017 17:31:44"
-        },
-        {
-          "author": "mykhi",
-          "comment": "zaznaczam wszystkie",
-          "date": "28-06-2017 19:47:07"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span>Deklaracja kursora może dotyczyć instrukcji:</span>",
       "id": 2517,
-      "numberOfComments": 5,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"EN-US\">DELETE</span>",
@@ -4078,33 +2292,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~Namedix@83.24.*.*",
-          "comment": "Chyba wszystko poza?",
-          "date": "05-02-2017 23:05:54"
-        },
-        {
-          "author": "~Śpioszek@89.73.*.*",
-          "comment": "też mi się wydaję,że wszystko poza SELECT \n",
-          "date": "06-02-2017 01:18:08"
-        },
-        {
-          "author": "~anon@89.67.*.*",
-          "comment": "dokladnie wszystko poza select",
-          "date": "26-06-2017 21:23:35"
-        },
-        {
-          "author": "~anon@83.9.*.*",
-          "comment": "Deklarując kursor używa się instrukcji SELECT:  \"DECLARE Test CURSOR FOR SELECT...\", przypadkiem nie o to chodzi w pytaniu?",
-          "date": "29-06-2017 14:20:54"
-        },
-        {
-          "author": "~anon@160.83.*.*",
-          "comment": "Dokładnie tak deklaracja kursora dotyczy tylko Select",
-          "date": "29-06-2017 14:53:04"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span>Które z poniższych instrukcji wypisze tekst Ala123 w SQL Server ?</span>",
@@ -4157,7 +2345,7 @@
     {
       "question": "Które z poniższych instrukcji wypisze tekst Ala123 w SQL Server ?",
       "id": 2520,
-      "numberOfComments": 7,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "SET ‘Ala’ + ‘123’",
@@ -4176,43 +2364,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~palmares@77.255.*.*",
-          "comment": "PRINT ALA + CAST(123 AS VARCHAR) jest nie poprawne brak ' w ALA",
-          "date": "28-06-2016 17:48:16"
-        },
-        {
-          "author": "~piotrek@83.6.*.*",
-          "comment": "Sprawdziłem w SQL Server. Poprawna jest tylko odpowiedz B. ",
-          "date": "04-09-2016 21:51:54"
-        },
-        {
-          "author": "~anon@194.169.*.*",
-          "comment": "PRINT ALA + CAST(123 AS VARCHAR) ,\njest nie poprawne bo ALA jest upperCase a ma byc lowerCase xD",
-          "date": "25-01-2017 18:31:02"
-        },
-        {
-          "author": "~maziar@89.67.*.*",
-          "comment": "Gdyby było \tPRINT 'Ala' + CAST(123 AS VARCHAR) to zadziala",
-          "date": "26-06-2017 20:55:17"
-        },
-        {
-          "author": "~anon@89.67.*.*",
-          "comment": "Tylko B jest poprawne",
-          "date": "27-06-2017 20:03:43"
-        },
-        {
-          "author": "~anon@160.83.*.*",
-          "comment": "Dokladnie tylko B poprawne. Sprawdzane na MSSQL",
-          "date": "28-06-2017 18:50:34"
-        },
-        {
-          "author": "mykhi",
-          "comment": "odznaczam C",
-          "date": "28-06-2017 19:48:11"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span>Na jakich kolumnach warto założyć indeks?</span>",
@@ -4241,7 +2393,7 @@
     {
       "question": "Zaznacz poprawne stwierdzenia:",
       "id": 2522,
-      "numberOfComments": 13,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Kilka transakcji może jednocześnie trzymać blokadę S(współdzieloną).",
@@ -4260,78 +2412,12 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@88.156.*.*",
-          "comment": "C jest poprawne.",
-          "date": "08-02-2015 21:03:44"
-        },
-        {
-          "author": "~Hinduzzzz@89.71.*.*",
-          "comment": "zgadzam sie",
-          "date": "08-02-2015 21:07:53"
-        },
-        {
-          "author": "~Budzyn@88.156.*.*",
-          "comment": "I jeszcze D.",
-          "date": "08-02-2015 21:15:27"
-        },
-        {
-          "author": "~iHeadKoRn@89.75.*.*",
-          "comment": "a c d",
-          "date": "08-02-2015 22:20:30"
-        },
-        {
-          "author": "~Kuba@83.17.*.*",
-          "comment": "Poprawne są A, C, D. Proszę o poprawkę.",
-          "date": "05-02-2016 22:23:01"
-        },
-        {
-          "author": "~anon@178.42.*.*",
-          "comment": "Kapitan Wykład: \" Tylko jedna transakcja może mieć założoną wyłączną blokadę na obiekcie i w tym czasie nie może być założonej żadnej innej blokady nawet współdzielonej.\"",
-          "date": "28-06-2016 14:13:52"
-        },
-        {
-          "author": "~anon@178.42.*.*",
-          "comment": "System zarządzania bazami danych automatycznie zakłada i zwalnia blokady w zależności od tego, jak zarządzamy transakcjami (używając poleceń m.in.: BEGIN TRANSACTION, COMMIT, ROLLBACK) oraz w zależności od ustawionego poziomu izolacji.",
-          "date": "28-06-2016 14:17:55"
-        },
-        {
-          "author": "~anon@178.42.*.*",
-          "comment": "i istnieja blokady na poziomie rekordów\n~~ Kapitan",
-          "date": "28-06-2016 14:19:51"
-        },
-        {
-          "author": "~anon@89.74.*.*",
-          "comment": "to co, A C i D?",
-          "date": "23-01-2017 16:33:22"
-        },
-        {
-          "author": "mykhi",
-          "comment": "poprawiam na a,c,d - wcześniej było tylko a.",
-          "date": "23-01-2017 17:06:47"
-        },
-        {
-          "author": "~anon@5.134.*.*",
-          "comment": "prawie roku było trzeba, żeby zmienić odp na poprawne :) biada tym, którzy w tym czasie mieli sesję ;)",
-          "date": "01-02-2017 21:47:55"
-        },
-        {
-          "author": "~anon@79.184.*.*",
-          "comment": "cytując prof Matejewskiego \"Proponuję użyć mózgu\"",
-          "date": "13-02-2018 16:21:53"
-        },
-        {
-          "author": "~wow@93.105.*.*",
-          "comment": "W pytaniu nie jest powiedziane, że blokada wyłączna jest założona na tym samym obiekcie. Może być kilka transakcji z wyłącznymi blokadami, gdy każda blokuje co innego?",
-          "date": "07-02-2019 12:40:53"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "&nbsp;<p></p>\n<p><span>Która z poniższych instrukcji w PL/SQL nie zakończy się błędem przy zalożeniu , że w tabeli DEPTNO są dwa rekordy z wartościami Deptno IN (10,20) oraz prawidłowych deklaracji zmiennej v_deptno</span>\n          </p>",
       "id": 2523,
-      "numberOfComments": 6,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "&nbsp;<p></p>\n<p><span lang=\"EN-US\">SELECT Deptno INTO v_deptno FROM debt WHERE deptno &gt; 0;</span></p>",
@@ -4350,38 +2436,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@37.248.*.*",
-          "comment": "3 jest niepoprawne! Cytując błąd: Brakuje parametru IN lub OUT przy indeksie:: 1\n",
-          "date": "30-01-2016 18:30:31"
-        },
-        {
-          "author": "~anon@89.71.*.*",
-          "comment": "Jak ma być poprawne, jak tam nawet nie ma odwołania do v_deptno?",
-          "date": "07-02-2016 20:13:55"
-        },
-        {
-          "author": "~Zdzisio@79.185.*.*",
-          "comment": "Być może jest tutaj zrobiony błąd, że skopiowało się \"to:\" a miało być v_deptno. wtedy mogłoby to być poprawne.",
-          "date": "07-02-2016 20:39:27"
-        },
-        {
-          "author": "~anon@5.134.*.*",
-          "comment": "tak jak wygląda to w tej postaci = odpowiedź C jest niepoprawna",
-          "date": "02-02-2017 23:24:05"
-        },
-        {
-          "author": "~kogut@83.24.*.*",
-          "comment": "up",
-          "date": "05-07-2018 15:27:49"
-        },
-        {
-          "author": "~kochamMagde@178.235.*.*",
-          "comment": "Tylko mi nie pasuje że jest from debt gdzie nazwa tabelki to deptno?",
-          "date": "10-02-2020 23:29:47"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Wyzwalacz może zostać uruchomiony przez:",
@@ -4410,7 +2465,7 @@
     {
       "question": "<span>Deklaracja zmiennej w T-SQL:</span>",
       "id": 2525,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span>musi zawierać określenie typu danych zmiennej</span>",
@@ -4429,23 +2484,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@178.42.*.*",
-          "comment": "a ostatnie?:\" W celu zadeklarowania zmiennej używana jest instrukcja DECLARE a po niej nazwa zmiennej i jej typ.\"",
-          "date": "28-06-2016 14:24:56"
-        },
-        {
-          "author": "~sbd@83.28.*.*",
-          "comment": "tak, ale to nie jest wydzielona sekcja, tylko po prostu instrukcja",
-          "date": "23-01-2017 20:12:41"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<p class=\"MsoNormal\"><span>Wskazać poprawne zapytanie SQL (dialekt ORACLE) znajdujące dla każdego departamentu ostatnio zatrudnych pracowników</span></p>",
       "id": 2526,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"EN-US\">SELECT deptno, ename, hiredate FROM emp r WHERE hiredate = (SELECT MAX(hiredate) FROM emp WHERE deptno=e.deptno);</span>",
@@ -4464,23 +2508,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~inb4@178.235.*.*",
-          "comment": "Tutaj odp A jest źle, żeby była poprawna odpowiedź na końcu powinno być r.deptno (sprawdzone w sqldeveloperze)",
-          "date": "23-01-2017 17:18:21"
-        },
-        {
-          "author": "~me@185.15.*.*",
-          "comment": "Mnie się wydaje, że to literówka przy pisaniu odpowiedzi, ale jeżeli nie to masz rację",
-          "date": "28-01-2017 18:01:23"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Hurtownia danych jest:",
       "id": 2527,
-      "numberOfComments": 7,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "zorientowania na działanie",
@@ -4499,43 +2532,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~szmer@80.238.*.*",
-          "comment": "Hurtowania danych na pewno nie jest znormalizowana. Jest zdenormalizowana.",
-          "date": "08-02-2015 18:19:25"
-        },
-        {
-          "author": "~Hinduzzzz@89.71.*.*",
-          "comment": "Zgadzam sie ze szmer",
-          "date": "08-02-2015 19:34:30"
-        },
-        {
-          "author": "~master@89.73.*.*",
-          "comment": "up! aktualizacja!",
-          "date": "08-02-2015 20:04:23"
-        },
-        {
-          "author": "~klm@95.51.*.*",
-          "comment": "jak najbardziej moze byc znormalizowana, tzn oparta o podejście znormalizowane (tzw model 3NF) ",
-          "date": "01-09-2015 18:59:51"
-        },
-        {
-          "author": "~anon@31.174.*.*",
-          "comment": "wedlug wykladu:\n- zorientowana na temat\n- nieulotna\n- zintegrowana\n- zroznicowana czasowo\n\nwiec myślę, że odpowiedź znormalizowana jest błędna",
-          "date": "07-09-2015 02:11:40"
-        },
-        {
-          "author": "~Maxxx@93.105.*.*",
-          "comment": "Pytałem specjalnie u pana Matejewskiego o tym pytaniu i powiedzial ze jest NIE ZNORMALIZOWANA!!! To na 100 %.",
-          "date": "28-01-2016 14:00:25"
-        },
-        {
-          "author": "mykhi",
-          "comment": "to poprawiam",
-          "date": "28-01-2016 14:01:15"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span>Zaznacz poprawne stwierdzenia dotyczące wydajności w bazach danych:</span>",
@@ -4564,7 +2561,7 @@
     {
       "question": "Indeks w bazie danych może przyspieszyć:",
       "id": 2529,
-      "numberOfComments": 8,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "sortowanie",
@@ -4583,53 +2580,12 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@89.74.*.*",
-          "comment": "Przecież indeks przyspiesza złączenia.",
-          "date": "03-07-2015 13:35:41"
-        },
-        {
-          "author": "~Zdzisio@79.185.*.*",
-          "comment": "\"Klucze obce. Są one używane przy wykonywaniu złączeń, a złączenia są operacją bardzo częstą. Złączenie wykonane z użyciem indeksów może być zdecydowanie szybsze.\" cytat z wykładów",
-          "date": "08-02-2016 10:49:58"
-        },
-        {
-          "author": "~anon@178.235.*.*",
-          "comment": "złączenia panie, weź pan",
-          "date": "02-07-2017 00:43:06"
-        },
-        {
-          "author": "~helme@77.252.*.*",
-          "comment": "to jak w końcu?",
-          "date": "29-08-2018 07:40:20"
-        },
-        {
-          "author": "~t@93.105.*.*",
-          "comment": "@mykhi, mozna prosić update?",
-          "date": "30-08-2018 19:02:28"
-        },
-        {
-          "author": "~wow@93.105.*.*",
-          "comment": "@mykhi",
-          "date": "07-02-2019 13:02:52"
-        },
-        {
-          "author": "~A moze kłamie?@79.184.*.*",
-          "comment": "@mykhi ",
-          "date": "14-02-2019 22:31:00"
-        },
-        {
-          "author": "mykhi",
-          "comment": "no już już...",
-          "date": "14-02-2019 22:44:20"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span>Partycjonowanie tabel polega na:</span>",
       "id": 2530,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span>Podziale tabeli na schemat oraz zawartość</span>",
@@ -4648,23 +2604,12 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@178.42.*.*",
-          "comment": "Kapitan wyklad: \"Partycjonowanie jest techniką poprawy wydajności baz danych, polegającą na podziale dużej tabeli na wiele części, z których każda jest fizycznie przechowywana w innym pliku (np. na osobnym dysku).\"",
-          "date": "28-06-2016 14:42:19"
-        },
-        {
-          "author": "~anon@178.42.*.*",
-          "comment": "Jest to podział horyzontalny, a więc względem wierszy.",
-          "date": "28-06-2016 14:42:34"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span>Kopia zapasowa dziennika transakcji:</span>",
       "id": 2531,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span>Jest bezużyteczna, jeśli nie odtworzymy wcześniej pełnej kopii zapasowej</span>",
@@ -4683,23 +2628,12 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@62.233.*.*",
-          "comment": "miałem to na egzaminie, wszystkie odpowiedzi poprawne.",
-          "date": "15-02-2020 16:04:49"
-        },
-        {
-          "author": "~anon@62.233.*.*",
-          "comment": "nvm, zmienili jedną rzecz w nowej wersji. Jednak te 3",
-          "date": "15-02-2020 16:06:14"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Wyniki pokazywane przez opcję SET STATISTICS IO ON w MS SQL:",
       "id": 2532,
-      "numberOfComments": 11,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Zawierają liczbę odczytanych stron dyskowych.",
@@ -4718,68 +2652,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@217.99.*.*",
-          "comment": "Kapitan wykład: \"Warto zauważyć, że większość przedstawionych powyżej parametrów będzie przyjmować różne wartości, gdy wielokrotnie wykonamy to samo zapytanie.\" ~~ drugie tez poprawne",
-          "date": "29-06-2016 18:28:55"
-        },
-        {
-          "author": "~piotrek@83.6.*.*",
-          "comment": "Zgadzam sie z tym, że drugie poprawne. Drugie zapytanie SQL nie musi już sprowadzać rekordów z dysku tylko pobierze je z bufora. ",
-          "date": "04-09-2016 22:15:27"
-        },
-        {
-          "author": "~anon@89.67.*.*",
-          "comment": "dokladnie tak",
-          "date": "26-06-2017 20:56:01"
-        },
-        {
-          "author": "~anon@89.67.*.*",
-          "comment": "Odp B jest poprawna",
-          "date": "27-06-2017 19:35:11"
-        },
-        {
-          "author": "~anon@81.219.*.*",
-          "comment": "Warto byłoby zaznaczyć B jako poprawną ;)",
-          "date": "29-06-2017 12:28:06"
-        },
-        {
-          "author": "~anon@89.67.*.*",
-          "comment": "Odp B jest poprawne",
-          "date": "30-06-2017 21:44:44"
-        },
-        {
-          "author": "~anon@31.178.*.*",
-          "comment": "prosiłbym o podmianę b na + :)",
-          "date": "01-07-2017 11:18:39"
-        },
-        {
-          "author": "~anon@89.69.*.*",
-          "comment": "up",
-          "date": "19-02-2018 16:40:22"
-        },
-        {
-          "author": "~kogut@83.24.*.*",
-          "comment": "up ",
-          "date": "05-07-2018 13:54:37"
-        },
-        {
-          "author": "~fsh@89.64.*.*",
-          "comment": "up",
-          "date": "01-02-2019 19:26:16"
-        },
-        {
-          "author": "mykhi",
-          "comment": "no moment. już.",
-          "date": "01-02-2019 19:39:10"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Zintegrowanie w definicji hurtowni danych oznacza, że:",
       "id": 2534,
-      "numberOfComments": 15,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Dane, raz umieszczone w hurtowni, zazwyczaj zostają nie zmienione.",
@@ -4798,88 +2676,12 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@89.71.*.*",
-          "comment": "C było źle u mnie na egzaminie , D było poprawne",
-          "date": "09-02-2015 20:28:11"
-        },
-        {
-          "author": "~michal@79.185.*.*",
-          "comment": "tutaj A chyba tez jest dobrze. Co myslicie?",
-          "date": "03-07-2015 16:58:32"
-        },
-        {
-          "author": "~michal@79.185.*.*",
-          "comment": "tutaj potwierdzenie:\nhttp://edu.pjwstk.edu.pl/wyklady/hur/scb/rW1.htm",
-          "date": "03-07-2015 17:01:11"
-        },
-        {
-          "author": "~anon@78.11.*.*",
-          "comment": "Zintegrowanie  oznacza, że umieszczane w hurtowni dane są jednolite, czyli na przykład:\ndaty przechowywane są zawsze w tym samym formacie\nznaki kodowane są w ten sam sposób\npola zawierające tę samą informację mają tę samą postać \nZintegrowanie jest konieczne, ponieważ dane pochodzące z różnych źródeł mogą mieć różną postać.",
-          "date": "03-07-2015 22:46:17"
-        },
-        {
-          "author": "~Zdzisio@79.191.*.*",
-          "comment": "michal@79.185 umiesz czytać ze zrozumieniem? mówisz o Nieulotności a pytanie jest o Zintegrowanie",
-          "date": "03-02-2016 16:28:19"
-        },
-        {
-          "author": "~anon@81.15.*.*",
-          "comment": "D jest poprawne potwierdzam ",
-          "date": "06-02-2016 20:09:54"
-        },
-        {
-          "author": "~anon@81.15.*.*",
-          "comment": "D jest poprawne bo hurtownie są ukierunkowane tylko na informacje o fakcie. Nie obchodzi je co z tym fantem można zrobić.",
-          "date": "07-02-2016 17:45:49"
-        },
-        {
-          "author": "~aa@89.71.*.*",
-          "comment": "To by chodziło o \"Zorientowanie na temat\", a tu chodzi o \"Zintegrowanie\"\nWykład 12 p.3 z SBD",
-          "date": "07-02-2016 19:31:06"
-        },
-        {
-          "author": "~anon@94.254.*.*",
-          "comment": "Tu tylko D. Sprawdzono po egzaminie. 100%",
-          "date": "30-01-2017 11:23:53"
-        },
-        {
-          "author": "mykhi",
-          "comment": "odznaczam C, zaznaczam D",
-          "date": "30-01-2017 12:49:00"
-        },
-        {
-          "author": "~L@178.42.*.*",
-          "comment": "mam wrażenie że tu jakiś troll działa bo wg https://edux.pjwstk.edu.pl/mat/246/lec/w1.html zintegrowanie=jednolite dane a zorientowane na temat=dane dotyczą tematu a nie działań",
-          "date": "25-02-2018 18:28:51"
-        },
-        {
-          "author": "~anon@83.28.*.*",
-          "comment": "odpowiedź \"dane są jednolite\" musi być dobra",
-          "date": "30-01-2019 16:58:34"
-        },
-        {
-          "author": "~lel@2a02:a31a:146:2080:ad5c:60e3:2730:69de",
-          "comment": "wyklad d. Lenkiewicza mowi wyraznie ze zintegrowanie to Dane Jednolite --> SBD_W14_rozproszone",
-          "date": "12-02-2020 10:21:22"
-        },
-        {
-          "author": "~BigBlackCough@83.24.*.*",
-          "comment": "Dokładnie, u Lenkiewicza jest napisane \"Zintegrowanie oznacza, że umieszczane w hurtowni dane są jednolite(...)\"",
-          "date": "12-02-2020 21:45:04"
-        },
-        {
-          "author": "~lel@2a02:a31a:146:2080:d1d1:871a:f216:27af",
-          "comment": "może PCH sabotuje mykhi xdd\n",
-          "date": "04-03-2020 18:37:14"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span>Zaznacz poprawnie stwierdzenia :</span>",
       "id": 2535,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span>Liczba i rodzaj zakła</span><span>danych blokad zależy od poziomu izolacji transakcji</span>",
@@ -4898,23 +2700,12 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~Hinduzzzz@89.71.*.*",
-          "comment": "Zadanie numer 100 ma taką samą treść ale odpowiedzi są inne. Wedłóg mnie te są poprawne a jak inni mysla?",
-          "date": "08-02-2015 19:56:05"
-        },
-        {
-          "author": "~master@89.73.*.*",
-          "comment": "tez mi sie tak wydaje",
-          "date": "08-02-2015 20:02:39"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<p class=\"MsoNormal\"><span>&nbsp; &nbsp;Zaznacz poprawne stwierdzenie dotyczące wydajności w bazach danych:</span></p>",
       "id": 2536,
-      "numberOfComments": 12,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Plik z danymi oraz pliki z dziennika transakcji powinny znajdować się na tych samych dyskach twardych",
@@ -4933,73 +2724,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~daniello@89.74.*.*",
-          "comment": "napewno a) jest poprawne?",
-          "date": "08-02-2015 19:26:40"
-        },
-        {
-          "author": "~anon@89.76.*.*",
-          "comment": "wedlug mnie nie",
-          "date": "08-02-2015 20:36:19"
-        },
-        {
-          "author": "~szmer@80.238.*.*",
-          "comment": "Zaleca się na oddzielnych dyskach, więc jest źle.",
-          "date": "08-02-2015 20:53:31"
-        },
-        {
-          "author": "~Hinduzzzz@89.71.*.*",
-          "comment": "źle źle poprawne tylko C",
-          "date": "08-02-2015 20:59:58"
-        },
-        {
-          "author": "~kostek@176.124.*.*",
-          "comment": "potwierdzam tylko C",
-          "date": "25-06-2015 22:08:56"
-        },
-        {
-          "author": "~anon@194.153.*.*",
-          "comment": "A jest błędne: Przechowuj dziennik transakcji na innym dysku niż plik z danymi. Serwer będzie korzystał z tych plików równolegle.",
-          "date": "31-01-2016 19:22:19"
-        },
-        {
-          "author": "~anon@81.15.*.*",
-          "comment": "Ale odczyt w obrębie jednego dysku jest szybszy niż między dwoma. Na dwóch jest bezpieczniej ale nie szybciej",
-          "date": "05-02-2016 15:59:20"
-        },
-        {
-          "author": "~anon@37.190.*.*",
-          "comment": "jest i szybciej bo odczyt jest równoległy ",
-          "date": "02-07-2016 10:01:08"
-        },
-        {
-          "author": "~anon@5.134.*.*",
-          "comment": "wykład z ABD: \"Należy zawsze umieszczać plik z danymi i plik z dziennikiem transakcji na oddzielnych dyskach. Wpływa to pozytywnie na wydajność, gdyż serwer będzie mógł wykonywać operacje na tych plikach równolegle.\"\n\nodpowiedź A jest NIEPOPRAWNA",
-          "date": "01-02-2017 21:52:21"
-        },
-        {
-          "author": "~anon@89.67.*.*",
-          "comment": "odpowiedź A jest NIEPOPRAWNA, lepiej zeby bylo na roznych dyskach. patrz wyklad ABD",
-          "date": "26-06-2017 20:56:58"
-        },
-        {
-          "author": "~anon@89.67.*.*",
-          "comment": "odpowiedź A jest NIEPOPRAWNA, lepiej zeby bylo na roznych dyskach. patrz wyklad ABD",
-          "date": "28-06-2017 21:11:42"
-        },
-        {
-          "author": "mykhi",
-          "comment": "odznaczam A",
-          "date": "28-06-2017 22:14:24"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span>Wskazać poprawnie zapytanie SQL znajdujące pracowników o najniższych zarobkach w ich działach :</span>",
       "id": 2537,
-      "numberOfComments": 6,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"EN-US\">SELECT ename , sal , deptno FROM emp WHERE &nbsp;sal IN ( SELECT MIN(sal) FROM emp GROUP BY deptno );</span>",
@@ -5018,38 +2748,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~palmares@77.255.*.*",
-          "comment": "a,b,c są poprawne, no może poza literówką w c) w słowie depto :) ",
-          "date": "28-06-2016 18:21:39"
-        },
-        {
-          "author": "~piotrek@83.6.*.*",
-          "comment": "Zapytanie z A daje zupełnie inne wyniki niż  b i c. ",
-          "date": "04-09-2016 22:24:15"
-        },
-        {
-          "author": "~anon@194.152.*.*",
-          "comment": "A jest poprawne. Bo znajduję co trzeba, jak i w B.",
-          "date": "29-01-2017 20:09:03"
-        },
-        {
-          "author": "~anon@89.72.*.*",
-          "comment": "A nie jest poprawne, bo zwraca również minimalne wyniki spoza działów, sprawdzone na bazie.",
-          "date": "01-07-2017 20:52:21"
-        },
-        {
-          "author": "~lolek@83.6.*.*",
-          "comment": "zapytanie A również jest jak najbardziej poprawne. Polecam odpalic sobie SQL Dev i samemu sprawdzić!",
-          "date": "31-08-2019 14:50:22"
-        },
-        {
-          "author": "~anon@94.254.*.*",
-          "comment": "Jeżeli w departamencie 1 będziemy mieli dwóch pracowników jeden zarabia 2000, a drugi 3000. W departamencie 2 będziemy mieli jednego pracownika, który zarabia 3000, to zapytanie z odpowiedzi A zwróci nam wszystkich trzech pracowników, co jest niepoprawne.",
-          "date": "06-09-2019 21:39:57"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span>Zaznacz poprawne stwierdzenie dotyczące indeksów w bazach danych:</span>",
@@ -5078,7 +2777,7 @@
     {
       "question": "Common table Expression",
       "id": 2539,
-      "numberOfComments": 6,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "To perspekty której definicja jest trwale zapisywana w bazie danych",
@@ -5097,43 +2796,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~Domka@91.199.*.*",
-          "comment": "Miałam to pytanie i poprawna odpowiedź to :\nJest zaimplementowana w T-SQL jak i PL/SQL",
-          "date": "31-08-2015 12:23:48"
-        },
-        {
-          "author": "~??@193.239.*.*",
-          "comment": "GÓWNO PRAWDA. CTEs TYLKO W T-SQL",
-          "date": "31-01-2016 20:05:48"
-        },
-        {
-          "author": "~sbd@83.9.*.*",
-          "comment": "cytat z wykladu:\n\"Ponieważ składnia i działanie CTE jest identyczne dla MS SQL Server i ORACLE, omówienie tej konstrukcji zostanie pominięte w części poświęconej ORACLE.\"",
-          "date": "21-01-2017 23:35:06"
-        },
-        {
-          "author": "~anon@89.67.*.*",
-          "comment": "poprawna odpowiedź to B",
-          "date": "28-06-2017 00:09:40"
-        },
-        {
-          "author": "~anon@160.83.*.*",
-          "comment": "Dokladnie CTE jest rowniez w PL/SQL",
-          "date": "28-06-2017 17:33:09"
-        },
-        {
-          "author": "mykhi",
-          "comment": "zmieniam z D na B",
-          "date": "28-06-2017 19:48:57"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span>Dane są dwie tabele Osoby(Imie,Nazwisko,Zarobki,Id_Działu) oraz Działy(Id_Działu,Nazwa). Które z następujących instrukcji są poprawnymi instrukacjami SQL w Oracle :</span>",
       "id": 2540,
-      "numberOfComments": 5,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"EN-US\">INSERT INTO Osoby VALUES (‘Jan’,’Kowalski’,2000) WHERE Osoby.Id_Działu = 23;</span>",
@@ -5152,33 +2820,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@31.132.*.*",
-          "comment": "B na pewno źle?",
-          "date": "29-08-2015 23:36:57"
-        },
-        {
-          "author": "~utc@89.71.*.*",
-          "comment": "Count musi być albo z having albo z select.",
-          "date": "07-02-2016 22:34:53"
-        },
-        {
-          "author": "~D.K.@159.205.*.*",
-          "comment": "Po uruchomieniu odpowiedzi B w sqldeveloper dostaniemy komunikat: \"SQL Error: ORA-00934: group function is not allowed here\"",
-          "date": "01-07-2016 19:23:16"
-        },
-        {
-          "author": "~anon@87.206.*.*",
-          "comment": "czemu C jest źle?",
-          "date": "29-01-2017 20:33:59"
-        },
-        {
-          "author": "~anon@87.206.*.*",
-          "comment": "jbc. ponieważ usuwa się tylko z jednej tabeli ",
-          "date": "29-01-2017 20:59:04"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span>Zaznacz poprawne stwierdzenie dotyczące kopii zapasowych w MS SQL Server :</span>",
@@ -5207,7 +2849,7 @@
     {
       "question": "<span>W wyzwalaczu T-SQL :</span>",
       "id": 2543,
-      "numberOfComments": 9,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span>Mogą być deklarowane zmienne</span>",
@@ -5226,58 +2868,12 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@109.173.*.*",
-          "comment": "Czy aby na pewno mozna używać instrukcji ROLLBACK?",
-          "date": "08-02-2015 19:22:47"
-        },
-        {
-          "author": "~daniello@89.74.*.*",
-          "comment": "nie można",
-          "date": "08-02-2015 19:28:53"
-        },
-        {
-          "author": "~anon@89.76.*.*",
-          "comment": "tak samo commit, gdyby sie trafilo",
-          "date": "08-02-2015 22:37:53"
-        },
-        {
-          "author": "~anon@80.238.*.*",
-          "comment": "Mnie się wydaje, że w wyzwalaczu w TSQL można uzywać commit, rollback. W PLSQL za to nie można, ze względu na jego konstrukcję.",
-          "date": "08-02-2015 22:50:33"
-        },
-        {
-          "author": "~anon@89.71.*.*",
-          "comment": "To jak , można Commit i Rollback w tym Tsqlu czy nie?",
-          "date": "08-02-2015 22:50:41"
-        },
-        {
-          "author": "~anon@80.238.*.*",
-          "comment": "TSQL tak. PLSQL nie.",
-          "date": "08-02-2015 22:51:27"
-        },
-        {
-          "author": "~Hinduzzzz@89.71.*.*",
-          "comment": "Mi sie zdaje że można użyć COMMIT i ROLLBACK w TSQL natomiast w PLSQL nie. Niech sie ktos wypowie",
-          "date": "08-02-2015 22:51:30"
-        },
-        {
-          "author": "~anon@89.74.*.*",
-          "comment": "macie racje\nhttp://edu.pjwstk.edu.pl/wyklady/wspbd/scb/SQLServer/main10.htm",
-          "date": "08-02-2015 22:54:14"
-        },
-        {
-          "author": "~anon@89.76.*.*",
-          "comment": "wszystkie dobre (zdjecie z rozwiazaniami) ",
-          "date": "08-02-2015 22:58:21"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span>Dane są trzy tabele Klienci(Id_klienta, Imie, Nazwisko), Produkty(Id_produktu, Nazwa, Cena) oraz Zakupy(Id_Klienta, Id_Produktu, Ilosc). Wskazac poprawne zapytanie SQL znajdujace imie i nazwiska klientow, ktorzy zakupili conajmniej jeden produkt.</span>",
       "id": 2544,
-      "numberOfComments": 8,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span>SELECT Imie, Nazwisko FROM Klienci;</span>",
@@ -5296,53 +2892,12 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~kkk@164.126.*.*",
-          "comment": "ostatnie też powinno działać!!!",
-          "date": "04-02-2016 22:44:19"
-        },
-        {
-          "author": "~Zdzisio@79.185.*.*",
-          "comment": "Sprawdzałem ostatnie i działa",
-          "date": "08-02-2016 10:50:29"
-        },
-        {
-          "author": "~me@185.15.*.*",
-          "comment": "Potwierdzam, ostatnie też prawidłowa odpowiedź.",
-          "date": "28-01-2017 18:02:16"
-        },
-        {
-          "author": "~anon@194.152.*.*",
-          "comment": "+1",
-          "date": "29-01-2017 22:20:01"
-        },
-        {
-          "author": "~anon@83.28.*.*",
-          "comment": "Działa...ale Zakupy nie musza zawierać IdProduktu i wtedy takie rozwiązanie nie będzie prawidłowe. ",
-          "date": "30-01-2017 00:54:43"
-        },
-        {
-          "author": "~ale@89.64.*.*",
-          "comment": "Jednak czy Id_Produktu nie wchodzi w skład klucza głównego Zakupy? Jeśli tak - Zakupy muszą zawierać Id_Produktu, zatem odp 4 powinna być okej.",
-          "date": "10-02-2019 01:21:04"
-        },
-        {
-          "author": "~BigBlackCough@83.24.*.*",
-          "comment": "@mykhi prośba o zaznacznie D",
-          "date": "12-02-2020 21:50:41"
-        },
-        {
-          "author": "mykhi",
-          "comment": "zaznaczam D)",
-          "date": "12-02-2020 23:32:46"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span>Wskazać poprawne zapytanie SQL znajdujące pracowników, którzy zarabiają mniej od swoich kierowników.</span>",
       "id": 2545,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "<span lang=\"EN-US\">SELECT e.ename prac_name, e.sal prac_sal, m.ename kier_name, m.sal kier_sal FROM emp e, emp m WHERE e.mgr = m.empno AND e.sal &lt; m.sal &nbsp; &nbsp;</span>",
@@ -5361,18 +2916,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~L@178.42.*.*",
-          "comment": "a jaka jest różnica między pierwszym a drugim",
-          "date": "25-02-2018 19:48:20"
-        },
-        {
-          "author": "~kogut@83.24.*.*",
-          "comment": "w drugim pensja kierownika jest pierwsza od pracownika",
-          "date": "05-07-2018 14:41:07"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span>Zaznacz poprawne stwierdzenia dotyczące indeksów opartych na B+ drzewie:</span>",
@@ -5401,7 +2945,7 @@
     {
       "question": "Stategia tylko indeks (indeks pokrywający)",
       "id": 2548,
-      "numberOfComments": 5,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "może być osiągnięta przy pomocy indeksu złożonego (jeden indeks na kilku kolumnach)",
@@ -5420,38 +2964,12 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~Zdzisio@79.185.*.*",
-          "comment": "MS SQL Server pozwala dodawać do indeksu dołączone kolumny (included columns), które nie stanowią klucza wyszukiwania w indeksie, lecz ich wartości są przechowywane jedynie na poziomie liści. Ułatwia to zastosowanie strategii \"tylko indeks\". \nD jest prawdziwe.",
-          "date": "07-02-2016 21:26:15"
-        },
-        {
-          "author": "~sbd@83.9.*.*",
-          "comment": "zgadza sie, D to poprawna odpowiedz",
-          "date": "21-01-2017 23:43:02"
-        },
-        {
-          "author": "~anon@5.134.*.*",
-          "comment": "rok minął i cisza :)",
-          "date": "01-02-2017 21:55:32"
-        },
-        {
-          "author": "mykhi",
-          "comment": "",
-          "date": "01-02-2017 22:06:22"
-        },
-        {
-          "author": "~anon@83.28.*.*",
-          "comment": "Xd",
-          "date": "30-01-2019 20:09:17"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span>Dane są dwie tabele Osoby(Imie, Nazwisko, Zarobki, Id_działku) raz DZiały (ID_działu, Nazwa). Które z nastepujacych instrukcji sa poprawymi instrukcjami SQL w Oracle:</span>",
       "id": 2549,
-      "numberOfComments": 7,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "INSERT INTO Osoby(Imie,Nazwisko,Zarobki) VALUES(‘Jan’, ‘Kowalski”, 2000);",
@@ -5470,48 +2988,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~michal@79.185.*.*",
-          "comment": "odp A jest zla -> rozne cudzyslowia\n",
-          "date": "03-07-2015 17:16:37"
-        },
-        {
-          "author": "~anon@78.11.*.*",
-          "comment": "tak",
-          "date": "03-07-2015 23:02:32"
-        },
-        {
-          "author": "~sbd@83.9.*.*",
-          "comment": "gdyby za Kowalskim byl apostrof to byloby dobrze, ale to pewnie literowka",
-          "date": "21-01-2017 23:44:58"
-        },
-        {
-          "author": "~anon@87.206.*.*",
-          "comment": "odp A jest nieprawidłowa, brakuje Id_działu przy wstawianiu",
-          "date": "29-01-2017 19:19:32"
-        },
-        {
-          "author": "~anon@5.134.*.*",
-          "comment": "nie znając schematu tabeli można założyć, że id_działu przyjmuje wartości null, więc taki insert jest poprawny",
-          "date": "01-02-2017 21:14:02"
-        },
-        {
-          "author": "~anon@89.67.*.*",
-          "comment": "Insert z A był by poprawny gdyby było 'Kowalski', a tak będzie błąd.",
-          "date": "29-06-2017 20:12:19"
-        },
-        {
-          "author": "mykhi",
-          "comment": "odznaczam A",
-          "date": "29-06-2017 20:34:14"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Partycjonowanie tabel polega na:",
       "id": 2550,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Podziale tabeli na schemat oraz zawartość",
@@ -5530,23 +3012,12 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~PickleRick@79.191.*.*",
-          "comment": "Pytanie identyczne jak 2530 ",
-          "date": "13-02-2018 23:31:21"
-        },
-        {
-          "author": "~noico@79.184.*.*",
-          "comment": "to lepiej się nauczysz",
-          "date": "14-02-2018 10:26:28"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Które z poniższych stwierdzeń jest prawdziwe w PL/SQL",
       "id": 2904,
-      "numberOfComments": 7,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Jeżeli zmiennej nie została nadana wartość, to jest ona NULL",
@@ -5565,48 +3036,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~Hz@89.65.*.*",
-          "comment": "dodałem pytanie ale nie znam poprawnej odpowiedzi\n",
-          "date": "05-02-2017 17:25:04"
-        },
-        {
-          "author": "~Englishman in New York@89.72.*.*",
-          "comment": "PUSTYM STINGIEM XD",
-          "date": "06-02-2017 07:37:04"
-        },
-        {
-          "author": "~anon@89.72.*.*",
-          "comment": "\"W Pl/SQL wszystkie niezainicjalizowane zmienne mają wartość NULL.\" SBD_W09",
-          "date": "01-07-2017 21:09:41"
-        },
-        {
-          "author": "~kogut@83.24.*.*",
-          "comment": "tylko A bedzie prawidlowa  ?",
-          "date": "05-07-2018 14:41:35"
-        },
-        {
-          "author": "~darcoola@162.158.*.*",
-          "comment": "odp. A jest prawidłowa również dla T-SQL - sprawdzone, mykhi, prośba o zaznaczenie",
-          "date": "29-06-2019 19:29:06"
-        },
-        {
-          "author": "~BigBlackCough@83.24.*.*",
-          "comment": "@mykhi odpowiedz A jest poprawna tutaj https://www.tutorialspoint.com/plsql/plsql_variable_types.htm \"Whenever you declare a variable, PL/SQL assigns it a default value of NULL\"",
-          "date": "12-02-2020 21:58:03"
-        },
-        {
-          "author": "mykhi",
-          "comment": "zaznaczam a",
-          "date": "12-02-2020 23:30:00"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Które z poniższych stwierdzeń jest prawdziwe w T-SQL",
       "id": 2960,
-      "numberOfComments": 5,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "W procedurze mogą być wykonywane polecenia DQL",
@@ -5625,38 +3060,12 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@148.81.*.*",
-          "comment": "b) na pewno?",
-          "date": "01-07-2017 16:54:57"
-        },
-        {
-          "author": "~anon@89.79.*.*",
-          "comment": "wg MS w procedurach nie mozna używać DDL (Create or ALTER).\npatrz: https://msdn.microsoft.com/pl-pl/library/ms187926(v=sql.110).aspx w Limitations and restrictions",
-          "date": "01-07-2017 17:16:06"
-        },
-        {
-          "author": "~anon@148.81.*.*",
-          "comment": "czyli B) źle ",
-          "date": "01-07-2017 18:12:30"
-        },
-        {
-          "author": "~g678@89.76.*.*",
-          "comment": "@mykhi popraw b",
-          "date": "08-07-2020 22:49:43"
-        },
-        {
-          "author": "~anon@2a02:a311:64:bc00:899e:f298:33:9d3f",
-          "comment": "Create może być i nawet dość często jest wykorzystywane w procedurach m.in. Tabele tymczasowe.\n\nwięc DDL jest okej",
-          "date": "10-07-2020 18:41:47"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Common Table Expression",
       "id": 2961,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Jest zaimplementowana zarówno w T-SQL jak i PL/SQL",
@@ -5675,23 +3084,12 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@160.83.*.*",
-          "comment": "Odpowiedzi A,B i D są na 100% poprawne sprawdzone na bazie.\nC nie ponieważ CTE występuje w T-SQL i Pl/SQL",
-          "date": "28-06-2017 16:25:23"
-        },
-        {
-          "author": "mykhi",
-          "comment": "zaznaczam",
-          "date": "28-06-2017 16:26:49"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Problem fantomów dotyczy sytuacji w której:",
       "id": 3287,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Użytkownik zobaczył rekord wprowadzony przez innego użytkownika, który nie został zatwierdzony przez COMMIT",
@@ -5710,13 +3108,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~lel@2a02:a31a:146:2080:997f:874b:faec:95a4",
-          "comment": "w wykładzie doktora Lenkiewicza jest napisane dosłownie \"Problem fantomów czyli rekordów, których nie było w trakcie rozpoczynania transakcji(...)\"",
-          "date": "05-03-2020 12:34:48"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "<span id=\"docs-internal-guid-cd3fb89f-7fff-0464-2db4-186e8aebe104\"><span>Zaznacz poprawne stwierdzenia dotyczące przestrzeni tabel (Oracle) oraz grup plików (MS SQL):</span></span>",
@@ -6079,5 +3471,5 @@
       "comments": []
     }
   ],
-  "updatedAt": 1655413492390
+  "updatedAt": 1655413568101
 }

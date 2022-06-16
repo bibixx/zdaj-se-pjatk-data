@@ -5,7 +5,7 @@
     {
       "question": "Jak w ogóle wygląda test z TAK'u, jest to test wielokrotnego wyboru czy raczej otwarty?",
       "id": 3241,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "otwart",
@@ -24,13 +24,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@91.207.*.*",
-          "comment": "Pytania były całkowicie otwarte na zaocznych. Zazwyczaj typu: wymień... (gdzie odpowiedzi się od myślników / kropek daje)",
-          "date": "06-02-2020 19:58:29"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Co oznacza A w akronimie ACID?",
@@ -57,5 +51,5 @@
       "comments": []
     }
   ],
-  "updatedAt": 1655413492390
+  "updatedAt": 1655413568101
 }

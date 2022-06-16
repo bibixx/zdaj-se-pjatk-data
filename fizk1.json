@@ -89,7 +89,7 @@
     {
       "question": "Na pewnej planecie, w pobliżu jej powierzchni, każdy kamien spada z<br>przyspieszeniem okolo 5m/s^2 (na powierzchni Ziemi z przyspieszeniem około 10<br>m/s^2). Może to oznaczać, że:",
       "id": 2232,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "planeta ta ma masę 2 razy mniejszą od masy Ziemi, a jej promień jest taki sam<br>jak Ziemi",
@@ -108,13 +108,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@195.95.*.*",
-          "comment": "Wzór -> F = G*M*m/r^2",
-          "date": "05-02-2015 16:38:10"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Orbity planet to:",
@@ -163,7 +157,7 @@
     {
       "question": "Na skraju niewielkiego krążka, obracającego się swobodnie, siedzi żuczek. W<br>pewnej chwili żuczek zaczyna iść ku środkowi krążka. Czy prędkość kątowa żuczka<br>i krążka:",
       "id": 2235,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "wzrośnie",
@@ -178,23 +172,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@89.73.*.*",
-          "comment": "powinno byc pozostanie taka sama",
-          "date": "17-11-2014 22:29:05"
-        },
-        {
-          "author": "~anon@89.74.*.*",
-          "comment": "prędkość kątowa jest odwrotnie proporcjonalna do promienia, więc w tym przypadku wzrośnie",
-          "date": "13-01-2015 12:55:30"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Na skraju niewielkiego krążka, obracającego się jak karuzela, siedzi żuczek. W<br>pewnej chwili żuczek zaczyna iść ku środkowi krążka. Czy moment pędu układu<br>żuczek-krążek:",
       "id": 2236,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "wzrośnie",
@@ -209,23 +192,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@89.73.*.*",
-          "comment": "wydaje mi sie ze zmaleje, ze wzoru 1/2mR^2",
-          "date": "17-11-2014 22:30:51"
-        },
-        {
-          "author": "~anon@89.74.*.*",
-          "comment": "zmaleje, ale z innego wzoru -> L=R*m*v, Twój wzór jest na moment bezwładności, a nie pędu",
-          "date": "13-01-2015 14:08:13"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Na skraju niewielkiego obracającego się krążka, siedzi żuczek. W pewnej chwili<br>żuczek zaczyna iść ku środkowi krążka. Czy moment bezwładności układu żuczekkrążek:",
       "id": 2237,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "wzrośnie",
@@ -240,18 +212,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@89.74.*.*",
-          "comment": "chyba się zmniejszy, bo moment bezwładności jest proporcjonalny do promienia, I=1/2*mr^2",
-          "date": "13-01-2015 14:03:00"
-        },
-        {
-          "author": "~anon@87.206.*.*",
-          "comment": "Tak zmalejej, prosimy o poprawkę :) ",
-          "date": "05-02-2015 13:23:39"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Elektryczny ładunek elementarny 'e' ma wartość:",
@@ -500,7 +461,7 @@
     {
       "question": "Tylne koło roweru clowna ma promień dwukrotnie większy niż przednie. W czasie<br>jazdy prędkość LINIOWA górnego punktu tylnego koła jest w stosunku do prędkości<br>LINIOWEJ koła przedniego:",
       "id": 2249,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "mniejsza",
@@ -515,18 +476,12 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@89.73.*.*",
-          "comment": "wg mnie predkosc liniowa jest zalezna od promienia, powinno byc wieksza",
-          "date": "17-11-2014 22:33:48"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Tylne koło roweru clowna ma promień dwukrotnie większy niż przednie. W czasie<br>jazdy prędkość KĄTOWA górnego punktu tylnego koła jest w stosunku do prędkości<br>KĄTOWEJ koła przedniego:",
       "id": 2250,
-      "numberOfComments": 3,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "mniejsza",
@@ -541,23 +496,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@89.73.*.*",
-          "comment": "wg mnie taka sama, promien nie ma znaczenia",
-          "date": "17-11-2014 22:34:48"
-        },
-        {
-          "author": "~anon@89.74.*.*",
-          "comment": "dla prędkości kątowej promień ma znaczenie, więc mniejsza",
-          "date": "13-01-2015 14:57:12"
-        },
-        {
-          "author": "~Prof. K@87.206.*.*",
-          "comment": "w tym przypadku prędkość KĄTOWA! zmaleje, do poprawki a niedowiarków odsyłam do wyszukiwarki\n ",
-          "date": "05-02-2015 20:44:22"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Nasza Galaktyka:",
@@ -1066,7 +1005,7 @@
     {
       "question": "Ciało o masie 2 kg porusza się ruchem obrotowym z prędkością kątową 'w' = 1<br>[1/s] i promieniem r = 1 [m]. Jaka jest energia kinetyczna ciała?",
       "id": 2272,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "0 J",
@@ -1085,13 +1024,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@79.191.*.*",
-          "comment": "Ek = m*w^2*r^2/2 =\n= 2* 1 *1 / 2",
-          "date": "04-02-2015 22:53:10"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Przemieszczenie jest to:",
@@ -1304,7 +1237,7 @@
     {
       "question": "Trzecie prawo Keplera mówi, że:",
       "id": 2282,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "kwadraty czasów obiegu planet wokół Słońca mają się tak do siebie, jak<br>sześciany dużych półosi trajektorii",
@@ -1323,13 +1256,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@89.74.*.*",
-          "comment": "BŁĄD - kwadraty czasów obiegu planet wokół Słońca mają się tak do siebie, jak\nsześciany dużych półosi trajektorii",
-          "date": "13-01-2015 13:16:29"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Zmiana pędu ciała może być wywołana:",
@@ -1358,7 +1285,7 @@
     {
       "question": "Kinematyka, to dział fizyki o:",
       "id": 2284,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "to nie dział fizyki, tylko matematyki",
@@ -1377,13 +1304,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@213.108.*.*",
-          "comment": "dział fizyki zajmujący się badaniem geometrycznych właściwości ruchu ciał bez uwzględniania ich cech fizycznych (np. masy) i działających na nie sił.",
-          "date": "18-06-2016 19:35:54"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Moment siły działający na ciało o masie m, to:",
@@ -1640,7 +1561,7 @@
     {
       "question": "Po równi pochyłej stacza się jednorodna kula. Ile musi wynosić kąt nachylenia<br>równi do poziomu, aby przyspieszenie liniowe środka kuli miało wartość równą 0.1<br>g?",
       "id": 2296,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "5 stopni",
@@ -1659,13 +1580,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@89.74.*.*",
-          "comment": "chyba 5 stopni, bo a=g*sin(a), czyli sin(a) = 0,1",
-          "date": "13-01-2015 13:42:16"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Kula toczy się po równi bez poślizgu. Przyspieszenie z jakim porusza się ciało,<br>zależy od:",
@@ -1826,7 +1741,7 @@
     {
       "question": "Fala biegnąca wzdłuż liny opisana jest wzorem: y(x,t) = 0.00327 sin(72.1x-<br>2.72t), w którym wszystkie stałe numeryczne wyrażone są w jednostkach układu SI<br>(0.00327 m, 72.1 rad/m oraz 2.72rad/s). Długość fali, jej okres i częstość<br>wynoszą:",
       "id": 2304,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "7.81 cm, T = 2.31 ms, f = 4.33 Hz",
@@ -1845,13 +1760,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@195.95.*.*",
-          "comment": "8.71 cm, T = 2.31 s, f = 0.433 Hz - wydaje mi się to poprawna odpowiedz.....\n0 = sin(72.1x) => 2pi = 72.1x -> x = 8,7 cm\n0 = sin(-2.72t) => 2pi = -2.72t -> t = 2.31\n1/T = 0.433",
-          "date": "05-02-2015 16:35:46"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "O momencie bezwładności można powiedzieć:",
@@ -2058,5 +1967,5 @@
       "comments": []
     }
   ],
-  "updatedAt": 1655413492390
+  "updatedAt": 1655413568101
 }

@@ -85,7 +85,7 @@
     {
       "question": "Jeżeli nieprawdą jest że wszyscy wysocy ludzię są inteligentni to wiemy, że prawdą jest:",
       "id": 3344,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Niscy ludzie są inteligentni",
@@ -100,13 +100,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~Wander@194.31.*.*",
-          "comment": "A dlaczego wariant \"Wzrost nie pozwala na jednoznaczne wnioskowanie o inteligencji\" jest niepoprawny ?\n",
-          "date": "27-08-2020 18:55:29"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Iluzjonista wydobył z pięciu różnych cylindrów pięć różnych przedmiotów. Po prezentacji włożył je losowo po jednym do cylindra. Na ile sposobów mógł to zrobić, jeśli żaden przedmiot nie trafił do cylindra w którym był?",
@@ -131,7 +125,7 @@
     {
       "question": "Do zdań, dla których do określenia wartości wystarczy analiza syntaksuczna należą",
       "id": 3346,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Zdania złożone",
@@ -150,18 +144,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~Rat@83.24.*.*",
-          "comment": "Zdania proste",
-          "date": "31-08-2020 21:43:42"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Wariancja zmiennej losowej zawsze",
       "id": 3382,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "jest dodatnia,",
@@ -176,18 +164,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~Kubson@89.69.*.*",
-          "comment": "Jest nieujemna.\n\"Wariancja zawsze jest liczbą nieujemną. Jest inaczej nazywana również miarą rozrzutu. Zawsze zwróćmy uwagę, czy wariancja wyszła nam nieujemna. Jeżeli wyszła ujemna, to mamy błąd.\"  - z dupy.",
-          "date": "13-02-2021 11:26:30"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Liczba podzbiorów zbioru {A,B,C,D,E} o parzystej liczbie elementów jest:",
       "id": 3383,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "równa 16",
@@ -202,18 +184,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~Kubson@89.69.*.*",
-          "comment": "Czemu nie 20? 32 - 5 poj (bez pustego) - 6 pot - 1 pięcio = 20",
-          "date": "13-02-2021 11:42:15"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Relacja określona następująco: R = { (x,y)&nbsp;<span>∈</span>&nbsp;R x R: ( x*y = 1) } jest",
       "id": 3384,
-      "numberOfComments": 4,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "funkcją częściową",
@@ -228,29 +204,8 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@37.30.*.*",
-          "comment": "nie jest asymetryczna, bo moze byc chociazby para ( 2 , 1/2 ) , a rownie dobrze ( 1/2 , 2 )  ",
-          "date": "25-08-2020 18:22:53"
-        },
-        {
-          "author": "~anon@2a01:110f:1413:c300:812a:45a8:7ce5:22ae",
-          "comment": "o co chodzi z tą funkcją częściową?",
-          "date": "31-08-2020 21:30:05"
-        },
-        {
-          "author": "~anon@2a01:110f:1413:c300:812a:45a8:7ce5:22ae",
-          "comment": "i całkowitą",
-          "date": "31-08-2020 21:30:20"
-        },
-        {
-          "author": "~Kubson@89.69.*.*",
-          "comment": "Częściowa, to chyba częściowego porządku, czyli: zwrotna, antysymetryczna i przechodnia.",
-          "date": "13-02-2021 11:50:09"
-        }
-      ]
+      "comments": []
     }
   ],
-  "updatedAt": 1655413492390
+  "updatedAt": 1655413568101
 }

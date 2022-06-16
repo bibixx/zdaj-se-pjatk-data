@@ -69,7 +69,7 @@
     {
       "question": "Architektura kilient-serwer sprzyja redukcji ruchu sieciowego.&nbsp;",
       "id": 1964,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "TAK",
@@ -80,18 +80,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~janpapaj@162.158.*.*",
-          "comment": "CO?!",
-          "date": "30-06-2019 03:00:47"
-        },
-        {
-          "author": "~wyklady@2a02:a317:213c:1700:8c9d:4ae1:1b2:15d4",
-          "comment": "Zależy pewnie z czym porównasz :) W wykładach jest przedstawione, że zmniejsza ruch sieciowy, gdyż wysyła tylko odpowiedź, a nie dane potrzebne do jej wyliczenia",
-          "date": "11-07-2020 21:43:15"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Architektury warstwowe ułatwiają tworzenie współczesnego oprogramowania.",
@@ -144,7 +133,7 @@
     {
       "question": "Atrybut klasowy ma zawsze stałą wartość.",
       "id": 1968,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "TAK",
@@ -155,18 +144,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~PCH@89.70.*.*",
-          "comment": "Atrybut klasowy ma tę samą wartość dla wszystkich obiektów danej klasy - wykład MAS",
-          "date": "01-07-2020 13:17:14"
-        },
-        {
-          "author": "~anon@37.130.*.*",
-          "comment": "Taka sama wartość, a stała wartość to jednak trochę różnica",
-          "date": "01-07-2020 14:35:18"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Atrybut opcjonalny zawsze musi mieć jakąś wartość.&nbsp;",
@@ -235,7 +213,7 @@
     {
       "question": "Asocjację n-arną implementujemy wykorzystując klasę pośredniczącą",
       "id": 2567,
-      "numberOfComments": 7,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "NIE",
@@ -246,43 +224,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "prawidłowa odp nie",
-          "date": "01-07-2018 15:40:33"
-        },
-        {
-          "author": "~anon@185.15.*.*",
-          "comment": "dowód? Bo ja z wykładów pamiętam, że implementując asocjację n-arną wykorzystuje się klasę.",
-          "date": "01-07-2018 15:45:08"
-        },
-        {
-          "author": "~anon@185.15.*.*",
-          "comment": "https://pja.mykhi.org/6sem/MAS/referaty/mas622-3.ppt tutaj masz to opisane.",
-          "date": "01-07-2018 15:46:21"
-        },
-        {
-          "author": "mykhi",
-          "comment": "zmieniam",
-          "date": "01-07-2018 21:05:26"
-        },
-        {
-          "author": "~anon@185.15.*.*",
-          "comment": "Mykhi nie zmieniaj, gościu rzucił, że odpowiedź to nie, a jest na odwrót. Wyżej podałem dowód xD",
-          "date": "02-07-2018 07:31:49"
-        },
-        {
-          "author": "~anon@185.15.*.*",
-          "comment": "prawidłowa to: TAK",
-          "date": "02-07-2018 07:32:09"
-        },
-        {
-          "author": "mykhi",
-          "comment": "cofam xD",
-          "date": "02-07-2018 10:55:13"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Jednym ze sposobów kształtowania dobrej użyteczności jest obserwacja sposobu pracy użytkowników",
@@ -335,7 +277,7 @@
     {
       "question": "Asocjacji to grupa powiązań o tej samej semantyce i strukturze",
       "id": 2649,
-      "numberOfComments": 1,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "tak",
@@ -346,13 +288,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@89.64.*.*",
-          "comment": "zdublowane pytanie",
-          "date": "01-07-2018 16:22:21"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Przy implementacji ograniczenia {XOR} warto użyć jednej z wersji metody contains(…) znajdującej się w klasie pojemnikowej.",
@@ -389,7 +325,7 @@
     {
       "question": "Ograniczenie {bag} dla asocjacji oznacza, że powiązania pomiędzy tymi samymi obiektami są uporządkowane.",
       "id": 3073,
-      "numberOfComments": 4,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "TAK",
@@ -400,33 +336,12 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@185.15.*.*",
-          "comment": "NIE, źródło - plik poprawne_odpowiedzi...",
-          "date": "01-07-2018 14:25:43"
-        },
-        {
-          "author": "~anon@185.15.*.*",
-          "comment": "Przyjmuje się, że tylko jeden raz dany obiekt może pojawić się w zbiorze obiektów opisującym rolę. Jeżeli potencjalnie takich obiektów może być więcej, należy wykorzystać ograniczenie {bag}; - dowód (nie ma nic powiedziane o uporządkowaniu) - prawidłowa odpowiedź to NIE",
-          "date": "01-07-2018 14:51:14"
-        },
-        {
-          "author": "~anon@89.71.*.*",
-          "comment": "Pytanie konsultowałem osobiście z Panem Trzaską, prawidłowa odpowiedź to NIE. Uporządkowanie powiązań narzuca inne ograniczenie o nazwie \"{History}\".",
-          "date": "06-09-2019 13:22:15"
-        },
-        {
-          "author": "mykhi",
-          "comment": "zmieniam",
-          "date": "06-09-2019 13:24:57"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Implementacja atrybutu złożonego może polegać na zdefiniowaniu nowego typu.",
       "id": 3074,
-      "numberOfComments": 2,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "TAK",
@@ -437,18 +352,7 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@185.15.*.*",
-          "comment": "Prawidłowa odpowiedź - TAK, dowód:\nWykład MAS - lekcja 01\n\"Atrybut złożony jest opisywany za pomocą dedykowanej klasy (np. data). Klasa ta może być dostarczana przez twórców danego języka programowania, bibliotekę zewnętrzną lub stworzona przez użytkownika (programistę).\"",
-          "date": "01-07-2018 15:16:46"
-        },
-        {
-          "author": "mykhi",
-          "comment": "zmieniam",
-          "date": "01-07-2018 21:04:40"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Zjawisko określane jako niezgodność impedancji jest związane ze słabą wydajnością relacyjnych baz danych.",
@@ -501,7 +405,7 @@
     {
       "question": "W przypadku implementacji ekstensji klasy w ramach klasy zewnętrznej, odpowiedni kontener musi być oznaczony słowem static.",
       "id": 3078,
-      "numberOfComments": 3,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "TAK",
@@ -512,23 +416,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@185.15.*.*",
-          "comment": "Tutaj jest ok, prawidłowa odpowiedź NIE - może, ale nie musi jakby ktoś miał wątpliwości - wykład MAS - lekcja 01",
-          "date": "01-07-2018 15:19:45"
-        },
-        {
-          "author": "~anon@2a01:110f:150c:8e00:ac4c:b000:5d1a:43a4",
-          "comment": "odpowiednia odpowiedź to \"TAK\". Omawiane na wykładzie przed egzaminem",
-          "date": "30-06-2020 15:44:30"
-        },
-        {
-          "author": "~Ziomus@95.49.*.*",
-          "comment": "oj nie nie byczq - \"Sposób realizacji zależy od podejścia do ekstensji: Ekstensja w ramach tej samej klasy. Stosujemy atrybuty klasowe w tej samej klasie ze słowem kluczowym static, lub Ekstensja jako klasa dodatkowa. Implementujemy atrybuty klasowe w klasie dodatkowej (bez słowa kluczowego static).",
-          "date": "30-06-2020 17:05:15"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Dobre GUI, w celu pokazania wykluczających się opcji wykorzystuje \"radio buttons\".",
@@ -581,7 +469,7 @@
     {
       "question": "Technologia zwana refleksją (ang. Reflection) może posłużyć do odczytania budowy/struktury klasy",
       "id": 2969,
-      "numberOfComments": 3,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "Tak",
@@ -592,28 +480,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@188.146.*.*",
-          "comment": "Błąd - odpowiedz prawidłowa to Tak",
-          "date": "26-02-2018 18:40:32"
-        },
-        {
-          "author": "~anon@185.15.*.*",
-          "comment": "Potwierdzam - dowód:\n // bez refleksji\n Foo foo = new Foo();\n foo.hello();\n\n // z refleksją\n Class cl = Class.forName(\"Foo\");\n Method method = cl.getMethod(\"hello\");\n method.invoke(cl.newInstance());",
-          "date": "01-07-2018 14:41:45"
-        },
-        {
-          "author": "mykhi",
-          "comment": "poprawiam",
-          "date": "01-07-2018 14:44:54"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Mechanizm serializacji języka Java, ułatwia uzyskanie trwałości ekstensji",
       "id": 2970,
-      "numberOfComments": 3,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "tak",
@@ -624,28 +496,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@89.69.*.*",
-          "comment": "obie odpowiedzi ustawione sa jako tak",
-          "date": "25-02-2018 21:13:57"
-        },
-        {
-          "author": "~anon@185.15.*.*",
-          "comment": "a prawidłowa to? :p",
-          "date": "01-07-2018 11:05:45"
-        },
-        {
-          "author": "mykhi",
-          "comment": "prawidłowa to \"tak\"",
-          "date": "01-07-2018 11:36:12"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "W popularnych językach programowania (np. Java) ograniczenia nie występują bezpośrednio.",
       "id": 2971,
-      "numberOfComments": 3,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "tak",
@@ -656,28 +512,12 @@
           "correct": false
         }
       ],
-      "comments": [
-        {
-          "author": "~anon@79.185.*.*",
-          "comment": "Błąd. Prawidłowa odpowiedź to \"tak\".\nŹródło (pierwsze zdanie): https://edux.pjwstk.edu.pl/mat/205/lec/Wyklad-MAS-nr-08.html#link4",
-          "date": "30-06-2018 00:12:55"
-        },
-        {
-          "author": "~anon@185.15.*.*",
-          "comment": "Mykhi prosimy o poprawę na 'tak' :)",
-          "date": "01-07-2018 15:14:45"
-        },
-        {
-          "author": "mykhi",
-          "comment": "poprawione :)",
-          "date": "01-07-2018 21:04:17"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Dobry programista nie musi używać komentarzy",
       "id": 2979,
-      "numberOfComments": 4,
+      "numberOfComments": 0,
       "answers": [
         {
           "answer": "tak",
@@ -688,28 +528,7 @@
           "correct": true
         }
       ],
-      "comments": [
-        {
-          "author": "~as@162.158.*.*",
-          "comment": "Co myślicie na ten temat? ",
-          "date": "16-06-2019 21:10:46"
-        },
-        {
-          "author": "~anon@2a02:a310:c261:2000:f293:8229:81ea:4dc6",
-          "comment": "Dobry programista MUSI używać komentarzy",
-          "date": "30-06-2021 20:42:31"
-        },
-        {
-          "author": "~mati@95.40.*.*",
-          "comment": "(nie) nie musi czy musi :) nie jest tutaj poprawne",
-          "date": "02-07-2021 07:55:16"
-        },
-        {
-          "author": "~mati@95.40.*.*",
-          "comment": "(nie) nie musi czyli musi :) \"nie\" jest tutaj poprawne*",
-          "date": "02-07-2021 07:55:50"
-        }
-      ]
+      "comments": []
     },
     {
       "question": "Dziedziczenie dynamiczne występuje bezpośrednio w języku Java",
@@ -1064,5 +883,5 @@
       "comments": []
     }
   ],
-  "updatedAt": 1655413492390
+  "updatedAt": 1655413568101
 }
