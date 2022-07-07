@@ -1701,7 +1701,7 @@
         },
         {
           "answer": "nie możemy bezpośrednio wyspecyfikować, do którego pliku trafi tabela, lecz możemy wyspecyfikować, do której grupy plików trafi&nbsp;",
-          "correct": false
+          "correct": true
         },
         {
           "answer": "grupie plików zawsze odpowiada folder na dysku. Wszystkie pliki z grupy muszą znajdować się w tym samym folderze&nbsp;",
@@ -2385,7 +2385,103 @@
         }
       ],
       "comments": []
+    },
+    {
+      "question": "Do czego szłuży SQL Server Profiler",
+      "id": 3632,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Zapisywanie błędów do pliku",
+          "correct": false
+        },
+        {
+          "answer": "Zapisywanie aktywności użytkowników do tabeli",
+          "correct": false
+        },
+        {
+          "answer": "Zapisywanie aktywności użytkowników do pliku",
+          "correct": true
+        },
+        {
+          "answer": "Śledzenia aktywności użytkowników",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Jakie są aplikacje klienckie w postgresie",
+      "id": 3633,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "pgadmin",
+          "correct": true
+        },
+        {
+          "answer": "psql",
+          "correct": true
+        },
+        {
+          "answer": "Oracle sql developer",
+          "correct": false
+        },
+        {
+          "answer": "Sql Management Server",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "W Postgresie",
+      "id": 3634,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Rola i User różnią się zasadniczo tym, że user ma prawa do logowania",
+          "correct": true
+        },
+        {
+          "answer": "Rola jest na poziomie serwera, a user na poziomie bazy danych",
+          "correct": false
+        },
+        {
+          "answer": "Role to nowszy mechanizm userów",
+          "correct": false
+        },
+        {
+          "answer": "Postgres nie wspiera ról i użytkowników",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "W Postgresie mamy tabelkę wykorzystującą typ danych jsonb. Jaki indeks przyśpieszy zapytanie (zapytanie się wykonuje)<p></p>\n<p>SELECT * FROM books WHERE data-&gt;'published' = 'false';\n          </p>",
+      "id": 3635,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Index B+ drzewo na kolumnie data",
+          "correct": false
+        },
+        {
+          "answer": "Nie da się indeksować tego zapytania",
+          "correct": false
+        },
+        {
+          "answer": "Indeks gin na kolumnie data",
+          "correct": false
+        },
+        {
+          "answer": "Indeks B+ drzewo na wyrażeniu ((data-&gt;'published'))",
+          "correct": false
+        }
+      ],
+      "comments": []
     }
   ],
-  "updatedAt": 1655621027520
+  "updatedAt": 1657201011390
 }

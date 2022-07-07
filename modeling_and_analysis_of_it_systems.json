@@ -1,0 +1,71 @@
+{
+  "title": "Modeling and Analysis of IT Systems",
+  "id": "modeling_and_analysis_of_it_systems",
+  "data": [
+    {
+      "question": "Assosiations can be directly implemented in Java",
+      "id": 3628,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Yes",
+          "correct": false
+        },
+        {
+          "answer": "No",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Associations from the object model are implemented as tables in the relational mode",
+      "id": 3629,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Yes",
+          "correct": false
+        },
+        {
+          "answer": "No",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Directional associations are always more useful than bidirectional associations",
+      "id": 3630,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Yes",
+          "correct": false
+        },
+        {
+          "answer": "No",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "An association is a group of connections within the same semantics and structure",
+      "id": 3631,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Yes",
+          "correct": true
+        },
+        {
+          "answer": "No",
+          "correct": false
+        }
+      ],
+      "comments": []
+    }
+  ],
+  "updatedAt": 1657201011390
+}

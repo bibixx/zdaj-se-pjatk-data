@@ -569,7 +569,7 @@
       "answers": [
         {
           "answer": "TAK",
-          "correct": false
+          "correct": true
         },
         {
           "answer": "NIE",
@@ -707,17 +707,17 @@
       "comments": []
     },
     {
-      "question": "Ograniczenie {subset} może dotyczyć jednej asocjacji<p></p>\n<p>&nbsp;\n          </p>",
+      "question": "Ograniczenie {subset} może dotyczyć jednej asocjacji",
       "id": 3548,
       "numberOfComments": 0,
       "answers": [
         {
           "answer": "TAK",
-          "correct": true
+          "correct": false
         },
         {
           "answer": "NIE",
-          "correct": false
+          "correct": true
         }
       ],
       "comments": []
@@ -857,11 +857,11 @@
       "answers": [
         {
           "answer": "TAK",
-          "correct": false
+          "correct": true
         },
         {
           "answer": "NIE",
-          "correct": true
+          "correct": false
         }
       ],
       "comments": []
@@ -883,5 +883,5 @@
       "comments": []
     }
   ],
-  "updatedAt": 1655621027520
+  "updatedAt": 1657201011390
 }

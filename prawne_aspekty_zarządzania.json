@@ -1,0 +1,2291 @@
+{
+  "title": "Prawne aspekty zarządzania",
+  "id": "prawne_aspekty_zarządzania",
+  "data": [
+    {
+      "question": "Akcje uprzywilejowane w zakresie dywidendy nie mogą przyznawać uprawnionemu dywidendy, która przewyższa dywidende przeznaczoną dla wypłaty dla akcjonariusza nieuprzywilejowanego:&nbsp;",
+      "id": 3636,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "o 1/4",
+          "correct": false
+        },
+        {
+          "answer": "o 1/5",
+          "correct": false
+        },
+        {
+          "answer": "o 1/3",
+          "correct": false
+        },
+        {
+          "answer": "o 1/2",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Rejestracji spółki kapitałowej w Krajowym Rejestrze Sądowym dokonuje:",
+      "id": 3637,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Zarząd spółki",
+          "correct": true
+        },
+        {
+          "answer": "Zgromadzenie wspólników lub akcjonariuszy",
+          "correct": false
+        },
+        {
+          "answer": "Prokurent wraz z członkiem zarządu",
+          "correct": false
+        },
+        {
+          "answer": "Rada Nadzorcza",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Wartość nominalna akcji w spółce akcyjnej nie może być niższa niż:",
+      "id": 3638,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "10 zł",
+          "correct": false
+        },
+        {
+          "answer": "1 gr",
+          "correct": true
+        },
+        {
+          "answer": "100 zł",
+          "correct": false
+        },
+        {
+          "answer": "1 zł",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Akcjonariusze mogą uczestniczyć w walnym zgromadzeniu oraz wykonywać prawo głosu",
+      "id": 3639,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Przez członka zarządu lub rady nadzorczej",
+          "correct": false
+        },
+        {
+          "answer": "Tylko osobiście",
+          "correct": false
+        },
+        {
+          "answer": "Osobiście lub przez pełnomocnika",
+          "correct": true
+        },
+        {
+          "answer": "Tylko przez pełnomocnika",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Kapitał zakładowy spółki z o.o. Wynosi co najmniej:",
+      "id": 3640,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "50 000 zł",
+          "correct": false
+        },
+        {
+          "answer": "5 zł",
+          "correct": false
+        },
+        {
+          "answer": "5 000 zł",
+          "correct": true
+        },
+        {
+          "answer": "100 000 zł",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Wartość nominalna udziału w spółce z o.o. Nie może być niższa niż:",
+      "id": 3641,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "50 zł",
+          "correct": true
+        },
+        {
+          "answer": "100 zł",
+          "correct": false
+        },
+        {
+          "answer": "0.01 zł",
+          "correct": false
+        },
+        {
+          "answer": "5 zł",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Akcje uprzywilejowane:",
+      "id": 3642,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Powinny być imienne",
+          "correct": true
+        },
+        {
+          "answer": "Powinny być tzw. Złotymi akcjami",
+          "correct": false
+        },
+        {
+          "answer": "Muszą być aportowe",
+          "correct": false
+        },
+        {
+          "answer": "Muszą być na okaziciela",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Akcjonariusze mogą uczestniczyć w Walnym Zgromadzeniu oraz głosować za poszczególnymi uchwałami",
+      "id": 3643,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Osobiście lub przez pełnomocników",
+          "correct": true
+        },
+        {
+          "answer": "Powinny być tzw. Złotymi akcjami",
+          "correct": false
+        },
+        {
+          "answer": "Muszą być aportowe",
+          "correct": false
+        },
+        {
+          "answer": "Muszą być na okaziciela",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "W spółce komandytowej w sprawach przekraczających zakres zwykłych czynności wymagana jest zgoda:",
+      "id": 3644,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Tylko komplementariuszy, którzy mają prawo do prowadzenia spraw spółki",
+          "correct": false
+        },
+        {
+          "answer": "Komandytariuszy spółki",
+          "correct": false
+        },
+        {
+          "answer": "Wszystkich komplementariuszy i wszystkich komandytariuszy, chyba że umowa spółki stanowi inaczej",
+          "correct": true
+        },
+        {
+          "answer": "Sądu rejestrowego",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Prosta spółka akcyjna może być założona przez:",
+      "id": 3645,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Jednoosobową spółkę z o.o.",
+          "correct": false
+        },
+        {
+          "answer": "Spółkę akcyjną publiczną",
+          "correct": false
+        },
+        {
+          "answer": "Osoby fizyczne",
+          "correct": true
+        },
+        {
+          "answer": "Spółkę akcyjną niepubliczną",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Uchwały rady nadzorczej spółki akcyjnej zapadają:",
+      "id": 3646,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Bezwzględnej większością głosów, chyba że statut spółki stanowi inaczej",
+          "correct": true
+        },
+        {
+          "answer": "Jednomyślnie",
+          "correct": false
+        },
+        {
+          "answer": "Względną większością głosów",
+          "correct": false
+        },
+        {
+          "answer": "Zawsze większości 2/3 głosów",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Zarząd może być powołany w spółce:",
+      "id": 3647,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "komandytowej&nbsp;",
+          "correct": false
+        },
+        {
+          "answer": "Jawnej",
+          "correct": false
+        },
+        {
+          "answer": "Komandytowo-akcyjnej",
+          "correct": false
+        },
+        {
+          "answer": "Partnerskiej",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Spółka jednoosobowa to spółka",
+      "id": 3648,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Kapitałowa, której wszystkie udziały albo akcje należą do jednego wspólnika albo akcjonariusza",
+          "correct": true
+        },
+        {
+          "answer": "W rozumieniu przepisów o publicznym obrocie papierami wartościowymi",
+          "correct": false
+        },
+        {
+          "answer": "Osobowa, której wszystkie udziały albo akcje należą do jednego akcjonariusza",
+          "correct": false
+        },
+        {
+          "answer": "Osobowa, której wszystkie prawa i obowiązki przysługują jednemu wspólnikowi",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Uchwały zarządu spółki akcyjnej zapadają:",
+      "id": 3649,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Zwykła większością głosów przy obecności co najmniej połowy składu zarządu",
+          "correct": false
+        },
+        {
+          "answer": "Jednomyślnie",
+          "correct": false
+        },
+        {
+          "answer": "Bezwzględną większością głosów, chyba że statut stanowi inaczej",
+          "correct": true
+        },
+        {
+          "answer": "Większością 2/3 głosów przy obecności 3/4 składu zarządu",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Członkowie rady nadzorczej spółki z o.o. Mogą być odwołani",
+      "id": 3650,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Tylko w sytuacjach określonych w przepisach kodeksu spółek handlowych&nbsp;",
+          "correct": false
+        },
+        {
+          "answer": "Po upływie co najmniej 6 miesięcy sprawowania kadencji członka rady nadzorczej",
+          "correct": false
+        },
+        {
+          "answer": "Po upływie co najmniej 6 miesięcy sprawowania kadencji członka rady nadzorczej",
+          "correct": false
+        },
+        {
+          "answer": "Tylko z ważnych powodów",
+          "correct": false
+        },
+        {
+          "answer": "W każdym czasie",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Kadencja członka zarządu spółki akcyjnej nie może być dłuższa niż:",
+      "id": 3651,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "3 lata",
+          "correct": false
+        },
+        {
+          "answer": "6 lat",
+          "correct": false
+        },
+        {
+          "answer": "4 lata",
+          "correct": false
+        },
+        {
+          "answer": "5 lat",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Organem fakultatywnym w spółce z o.o. Jest:",
+      "id": 3652,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Zgromadzenie wspólników",
+          "correct": false
+        },
+        {
+          "answer": "Rada dyrektorów",
+          "correct": false
+        },
+        {
+          "answer": "Komisja rewizyjna",
+          "correct": true
+        },
+        {
+          "answer": "Zarząd",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Prokurenta spółki może odwołać:",
+      "id": 3653,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Każdy członek rady nadzorczej lub walnego zgromadzenia spółki",
+          "correct": false
+        },
+        {
+          "answer": "Każdy członek rady nadzorczej spółki",
+          "correct": false
+        },
+        {
+          "answer": "Każdy członek walnego zgromadzenia spółki",
+          "correct": false
+        },
+        {
+          "answer": "Każdy członek zarządu spółki",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Spółka akcyjna w organizacji staje się spółką akcyjną w chwili:",
+      "id": 3654,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Zawarcia umowy spółki",
+          "correct": false
+        },
+        {
+          "answer": "Ustanowienia zarządu spółki",
+          "correct": false
+        },
+        {
+          "answer": "Objęcia wszystkich akcji",
+          "correct": false
+        },
+        {
+          "answer": "Wpisania spółki do KRS-u",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "W okresie likwidacji spółki prokura:",
+      "id": 3655,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Może być ustanowiona bez ograniczeń",
+          "correct": false
+        },
+        {
+          "answer": "Może być ustanowiona z wyłączenie możliwości sprzedaży firmy",
+          "correct": false
+        },
+        {
+          "answer": "Może być ustanowiona za zgodą sądu rejestrowego",
+          "correct": false
+        },
+        {
+          "answer": "Nie może być ustanowiona",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Zawiadomienie o zgromadzeniu wspólników spółki z o.o.:",
+      "id": 3656,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Powinno być wysłane listem poleconym lub przesyłką kurierską",
+          "correct": true
+        },
+        {
+          "answer": "Może być przekazane w dowolnej formie np. telefonicznie lub mailowo",
+          "correct": false
+        },
+        {
+          "answer": "Powinno być ustanowione w sposób zwyczajowo p(..) w spółce",
+          "correct": false
+        },
+        {
+          "answer": "Może być wysłane listem zwykłym",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Prawo i obowiązek prowadzenia spraw spółki komandytowo-akcyjnej ma:",
+      "id": 3657,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Każdy upoważniony komplementariusz",
+          "correct": false
+        },
+        {
+          "answer": "Każdy komplementariusz",
+          "correct": true
+        },
+        {
+          "answer": "Każdy akcjonariusz",
+          "correct": false
+        },
+        {
+          "answer": "Każdy komplementariusz i akcjonariusz",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Podział zysków pomiędzy wspólnikami spółki jawnej:",
+      "id": 3658,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Regulowany jest przez przepisy kodeksu cywilnego",
+          "correct": false
+        },
+        {
+          "answer": "W przypadku braku postanowień umownych&nbsp; - podział każdego ze wspólników jest równy bez względu na (...) i wartość wkładów",
+          "correct": true
+        },
+        {
+          "answer": "Reguluje tylko i wyłącznie kodeks handlowy",
+          "correct": false
+        },
+        {
+          "answer": "Musi określać umowa spółki",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Uprzywilejowanie udziałów w spółce handlowej:",
+      "id": 3659,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Może dotyczyć prawa głosu lub dywidendy",
+          "correct": true
+        },
+        {
+          "answer": "Dotyczy prawa do reprezentacji spółki",
+          "correct": false
+        },
+        {
+          "answer": "Zawsze dotyczy prawa głosu",
+          "correct": false
+        },
+        {
+          "answer": "Zawsze dotyczy dywidendy",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Wspólnik aktywny w spółce komandytowej to:",
+      "id": 3660,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Akcjonariusz",
+          "correct": false
+        },
+        {
+          "answer": "Komplementariusz",
+          "correct": true
+        },
+        {
+          "answer": "Mandatariusz",
+          "correct": false
+        },
+        {
+          "answer": "Komandytariusz",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Przedsiębiorstwo działające w formie spółki handlowej, zanim rozpocznie działalność musi zarejestrować się w:",
+      "id": 3661,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Rejestrze handlowym",
+          "correct": false
+        },
+        {
+          "answer": "Rejestrze gospodarczym",
+          "correct": false
+        },
+        {
+          "answer": "Krajowym Rejestrze Sądowym",
+          "correct": true
+        },
+        {
+          "answer": "Krajowym Rejestrze Gospodarczym",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Cechą spółki kapitałowej jest:",
+      "id": 3662,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Brak osobistej odpowiedzialności wspólników za zobowiązania spółkie",
+          "correct": true
+        },
+        {
+          "answer": "Wkładami wspólników może być praca i usługi świadczone na rzecz spółki",
+          "correct": false
+        },
+        {
+          "answer": "Prowadzenie spraw spółki należy do kompetencji jej wspólników",
+          "correct": false
+        },
+        {
+          "answer": "Stały i niezmienny skład wspólników",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "W spółce komandytowo-akcyjnej, w której liczba akcjonariuszy wynosi 30 osób, ustanowienie rady nadzorczej jest:",
+      "id": 3663,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Obligatoryjne",
+          "correct": true
+        },
+        {
+          "answer": "Fakultatywne",
+          "correct": false
+        },
+        {
+          "answer": "Fakultatywne jeżeli akcjonariusze wyrażą na to zgodę",
+          "correct": false
+        },
+        {
+          "answer": "Obligatoryjne tylko wtedy gdy tak przewiduje statut spółki",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Członków zarządu spółki z o.o. Wybiera",
+      "id": 3664,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Zgromadzenie wspólników",
+          "correct": true
+        },
+        {
+          "answer": "Zgromadzenie wspólników w porozumienie z radą nadzorczą",
+          "correct": false
+        },
+        {
+          "answer": "Walne zgromadzenie akcjonariuszy",
+          "correct": false
+        },
+        {
+          "answer": "Rada nadzorcza",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Akcje prostej spółki akcyjnej mogą być:",
+      "id": 3665,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Beznominałowe",
+          "correct": true
+        },
+        {
+          "answer": "Walutowe",
+          "correct": false
+        },
+        {
+          "answer": "Obligacyjne",
+          "correct": false
+        },
+        {
+          "answer": "Korporacyjne",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "W spółce z ograniczoną odpowiedzialnością uchwała wspólników dotycząca wyrażenia zgody na sprzedaż przedsiębiorstwa lub jego zorganizowanej części zapada:",
+      "id": 3666,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Większością 2/3 głosów",
+          "correct": true
+        },
+        {
+          "answer": "Bezwzględną większością głosów",
+          "correct": false
+        },
+        {
+          "answer": "Zwykłą większością głosów",
+          "correct": false
+        },
+        {
+          "answer": "Jednomyślnie",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Cechą spółki handlowej, osobowej jest to, że:",
+      "id": 3667,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "wymogi dotyczące kapitału zakładowego spółki są ściśle określone w przepisach prawa",
+          "correct": false
+        },
+        {
+          "answer": "wspólnicy ponoszą osobistą odpowiedzialność za zobowiązania spółki",
+          "correct": true
+        },
+        {
+          "answer": "istnieje możliwość założenia spółki jawnej jednoosobowej",
+          "correct": false
+        },
+        {
+          "answer": "Posiada osobowość prawną",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Udzielona w spółce prokura podlega obowiązkowi ujawnienia w:",
+      "id": 3668,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Centralnym Rejestrze Beneficjentów Rzeczywistych",
+          "correct": false
+        },
+        {
+          "answer": "Rejestrze Handlowym",
+          "correct": false
+        },
+        {
+          "answer": "Krajowym Rejestrze Sądowym",
+          "correct": true
+        },
+        {
+          "answer": "Centralnej Ewidencji i Informacji o Działalności Gospodarczej",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Minimalny kapitał zakładowy przy prostej spółce akcyjnej to:&nbsp;",
+      "id": 3669,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "10zł",
+          "correct": false
+        },
+        {
+          "answer": "0.01 zł&nbsp;",
+          "correct": false
+        },
+        {
+          "answer": "0zł",
+          "correct": false
+        },
+        {
+          "answer": "1zł",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Zgoda na przetwarzanie danych osobowych musi być:",
+      "id": 3670,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Dobrowolna, konkretna, świadoma i jednoznaczna",
+          "correct": true
+        },
+        {
+          "answer": "Także w wersji angielskiej",
+          "correct": false
+        },
+        {
+          "answer": "Dorozumiana, abstrakcyjna i ambiwalentna",
+          "correct": false
+        },
+        {
+          "answer": "Samoista, generalna i dorozumiana",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Minimalny kapitał zakładowy wymagany do założenia spółki komandytowo-akcyjnej to:",
+      "id": 3672,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "50 000 zł",
+          "correct": true
+        },
+        {
+          "answer": "100 000 zł",
+          "correct": false
+        },
+        {
+          "answer": "5000 zł",
+          "correct": false
+        },
+        {
+          "answer": "500 000 zł",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Zgoda na przetwarzanie danych osobowych:",
+      "id": 3673,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Może być łączona jedynie tzw. Klauzulą poufności",
+          "correct": false
+        },
+        {
+          "answer": "Może być łączona ze zgodami innej treści, jeżeli osoba, której dane dotyczą wyrazi na to zgodę",
+          "correct": false
+        },
+        {
+          "answer": "Nie może być łączona ze zgodami innej treści",
+          "correct": true
+        },
+        {
+          "answer": "Może być łączona ze zgodami innej treści",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Kto dokonuje zgłoszenia do Centralnego Rejestru Beneficjentów Rzeczywistych w imieniu spółki?",
+      "id": 3674,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Pełnomocnicy spółki",
+          "correct": false
+        },
+        {
+          "answer": "Osoby uprawnione do reprezentacji spółki",
+          "correct": true
+        },
+        {
+          "answer": "Wyznaczeni do tego pracownicy spółki",
+          "correct": false
+        },
+        {
+          "answer": "Główny księgowy.księgowa spółki",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Sprawy spółki jawnej:",
+      "id": 3675,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Ma prawo i obowiązek prowadzić każdy wspólnik",
+          "correct": true
+        },
+        {
+          "answer": "Mają obowiązek prowadzić wyznaczeni do tego pracownicy spółki (...)",
+          "correct": false
+        },
+        {
+          "answer": "Mają prawo i obowiązek prowadzić tylko wspólnik z prokurentem (...)",
+          "correct": false
+        },
+        {
+          "answer": "Mają prawo i obowiązek prowadzić wyłączenie co najmniej dwie (...) powierzono prowadzenie spraw spółki, z wyłączeniem wspó(...)",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Administrator danych osobowych jest zobowiązany do dokumentowania naruszeń ochrony danych osobowych. Zgodnie z RODO naruszenie ochrony danych osobowych, należy bezwzględnie zgłosić w ciągu",
+      "id": 3676,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "76 godzin od stwierdzenia naruszenia",
+          "correct": false
+        },
+        {
+          "answer": "72 godzin od stwierdzenia naruszenia",
+          "correct": true
+        },
+        {
+          "answer": "48 godzin od stwierdzenia naruszenia",
+          "correct": false
+        },
+        {
+          "answer": "74 godzin od stwierdzenia naruszenia",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Prokura nie może być udzielona w:",
+      "id": 3677,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Spółce cywilnej",
+          "correct": true
+        },
+        {
+          "answer": "Spółce akcyjnej",
+          "correct": false
+        },
+        {
+          "answer": "Spółce jawnej",
+          "correct": false
+        },
+        {
+          "answer": "Spółce komandytowej",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Komandytariusz w spółce komandytowej",
+      "id": 3678,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Odpowiada za zobowiązania spółki proporcjonalnie do posiadanych udziałów",
+          "correct": false
+        },
+        {
+          "answer": "W ogóle nie odpowiada za zobowiązania spółki",
+          "correct": false
+        },
+        {
+          "answer": "Odpowiada za zobowiązania spółki tylko do wysokości sumy komandytowej",
+          "correct": true
+        },
+        {
+          "answer": "Odpowiada za zobowiązania spółki całym swoim majątkiem osobistym",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Spółką osobową handlową jest:",
+      "id": 3679,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Spółka komandytowa",
+          "correct": true
+        },
+        {
+          "answer": "Prosta spółka akcyjna",
+          "correct": false
+        },
+        {
+          "answer": "Spółka z o.o.",
+          "correct": false
+        },
+        {
+          "answer": "Spółka cywilna",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Cechą spółki handlowej osobowej jest to, że:",
+      "id": 3680,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Wymogi dotyczące kapitału zakładowego spółki są ściśle określone w przepisach prawa.",
+          "correct": false
+        },
+        {
+          "answer": "Wspólnicy ponoszą osobistą odpowiedzialność za zobowiązania spółki.",
+          "correct": true
+        },
+        {
+          "answer": "Istnieje możliwość założenie spółki jawnej jednoosobowej",
+          "correct": false
+        },
+        {
+          "answer": "Posiada ona osobowość prawną",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Wadą spółki jawnej jest:",
+      "id": 3681,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Swoboda w formułowaniu treści umowy spółki",
+          "correct": false
+        },
+        {
+          "answer": "Brak wymogu minimalnego kapitału",
+          "correct": false
+        },
+        {
+          "answer": "To, że każdy wspólnik może reprezentować spółkę",
+          "correct": false
+        },
+        {
+          "answer": "Odpowiedzialność solidarna wszystkich wspólników za zobowiązania spółki",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Do ustanowienia prokury w spółce kapitałowej wymagana jest:",
+      "id": 3682,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Zgoda wszystkich członków Rady Nadzorczej",
+          "correct": false
+        },
+        {
+          "answer": "Zgoda wszystkich akcjonariuszy spółki",
+          "correct": false
+        },
+        {
+          "answer": "Zgoda tylko jednego z członków zarządu spółki",
+          "correct": false
+        },
+        {
+          "answer": "Zgoda wszystkich członków zarządu spółki",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "W jakim terminie należy dokonać rejestracji Beneficjenta Rzeczywistego spółki w Centralnym Rejestrze Beneficjentów Rzeczywistych:",
+      "id": 3683,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "W ciągu 30 dni od rejestracji spółki w KRS-ie",
+          "correct": false
+        },
+        {
+          "answer": "W ciągu 21 dni od rejestracji spółki w KRS-ie",
+          "correct": false
+        },
+        {
+          "answer": "W ciągu 14 dni od rejestracji spółki w KRS-ie",
+          "correct": false
+        },
+        {
+          "answer": "W ciągu 7 dni od rejestracji spółki w KRS-ie",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "RODO obejmuje swoim zastosowaniem:",
+      "id": 3684,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Wszystkie podmioty publiczne, które przetwarzają dane osobowe",
+          "correct": false
+        },
+        {
+          "answer": "Wszystkie podmioty prywatne i publiczne, które przetwarzają dane osobowe",
+          "correct": true
+        },
+        {
+          "answer": "Wszystkie podmioty prywatne, które przetwarzają dane osobowe",
+          "correct": false
+        },
+        {
+          "answer": "Tylko przedsiębiorcy, którzy przetwarzają dane osobowe na masową skalę",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Osoba przystępująca do spółki jawnej:",
+      "id": 3685,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Odpowiada za zobowiązania spółki powstałe przed dniem jej przystąpienia, tylko jeżeli wyrazi na to zgodę przystępując do spółki",
+          "correct": false
+        },
+        {
+          "answer": "Nie odpowiada za zobowiązania spółki powstałe przed dniem jej przystąpienia",
+          "correct": false
+        },
+        {
+          "answer": "Odpowiada za zobowiązania spółki powstałe po dniu jej przystąpienia do spółki",
+          "correct": false
+        },
+        {
+          "answer": "Odpowiada za zobowiązania spółki powstałe przed dniem jej przystąpienia",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Komplementariusz w spółce komandytowej:",
+      "id": 3686,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Odpowiada za zobowiązania spółki całym swoim majątkiem osobistym",
+          "correct": true
+        },
+        {
+          "answer": "Nie odpowiada za zobowiązania spółki",
+          "correct": false
+        },
+        {
+          "answer": "Odpowiada za zobowiązania na takich samych zasadach co komandytariusz spółki",
+          "correct": false
+        },
+        {
+          "answer": "Odpowiada za zobowiązania spółki tylko do wysokości wniesionego wkładu",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Prokurę w spółce kapitałowej odwołać może:",
+      "id": 3687,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Udziałowiec lub akcjonariusz spółki",
+          "correct": false
+        },
+        {
+          "answer": "Każdy z członków zarządu spółki",
+          "correct": true
+        },
+        {
+          "answer": "Każdy z członków Rady Nadzorczej spółki&nbsp;",
+          "correct": false
+        },
+        {
+          "answer": "Każdy pracownik spółki zajmujący stanowisko kierownicze w spółce",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Członkowie Rady Nadzorczej spółki z.o.o. powoływani są:",
+      "id": 3688,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Wspólną uchwałą wspólników i zarządu",
+          "correct": false
+        },
+        {
+          "answer": "Uchwałą akcjonariuszy",
+          "correct": false
+        },
+        {
+          "answer": "Uchwałą wspólników",
+          "correct": true
+        },
+        {
+          "answer": "Uchwałą zarządu",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Formami reglamentacji działalności gospodarczej dla przedsiębiorców są:",
+      "id": 3689,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Pozwolenia, zgody, certyfikaty",
+          "correct": false
+        },
+        {
+          "answer": "Koncesje, pozwolenia, licencje",
+          "correct": false
+        },
+        {
+          "answer": "Koncesje, zezwolenia, rejestry działalności regulowanej",
+          "correct": true
+        },
+        {
+          "answer": "zezwolenia , zgody, licencje autorskie",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Zakaz zajmowania się interesami konkurencji:",
+      "id": 3690,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Obejmuje także udział w konkurencyjnej spółce kapitałowej, w przypadku posiadania w niej przez członka zarządu co najmniej 5% udziałów lub akcji",
+          "correct": false
+        },
+        {
+          "answer": "Obejmuje także udział w konkurencyjnej spółce kapitałowej, w przypadku posiadania w niej przez członka zarządu co najmniej 10% udziałów lub akcji",
+          "correct": true
+        },
+        {
+          "answer": "Obejmuje także udział w konkurencyjnej spółce kapitałowej, w przypadku posiadania w niej przez członka zarządu powyżej 10% udziałów lub akcji",
+          "correct": false
+        },
+        {
+          "answer": "Obejmuje także udział w konkurencyjnej spółce kapitałowej, w przypadku posiadania w niej przez członka zarządu do 10% udziałów lub akcji",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Radę Nadzorczą w spółce akcyjnej powołuje:&nbsp;",
+      "id": 3691,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Zarząd spółki",
+          "correct": false
+        },
+        {
+          "answer": "Walne Zgromadzenie Akcjonariuszy na wniosek zarządu",
+          "correct": false
+        },
+        {
+          "answer": "Walne Zgromadzenie Akcjonariuszy",
+          "correct": true
+        },
+        {
+          "answer": "Akcjonariusz większościowy spółki",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Organem nadzorującym ochronę danych osobowych na terenie całego kraju jest:",
+      "id": 3692,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Inspektor ochrony danych osobowych",
+          "correct": false
+        },
+        {
+          "answer": "Minister ds. cyfryzacji&nbsp;",
+          "correct": false
+        },
+        {
+          "answer": "Prokurator generalny&nbsp;",
+          "correct": false
+        },
+        {
+          "answer": "Prezes urzędu ochrony danych osobowych",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Podział zysków pomiędzy wspólnikami spółki jawnej&nbsp;",
+      "id": 3693,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "W przypadku braku postanowień umownych – udział każdego ze wspólników jest równy, bez względu na rodzaj i wartość wkładów&nbsp;",
+          "correct": true
+        },
+        {
+          "answer": "Regulowany jest przez przepisy kodeksu cywilnego",
+          "correct": false
+        },
+        {
+          "answer": "Reaguje tylko i wyłącznie kodeks handlowy&nbsp;",
+          "correct": false
+        },
+        {
+          "answer": "Musi określać umowa spółki",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Cechą spółki handlowej osobowej jest",
+      "id": 3729,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Istnienie określonego kapitału zakładowego",
+          "correct": false
+        },
+        {
+          "answer": "Możliwość złożenia spółki jednoosobowej",
+          "correct": false
+        },
+        {
+          "answer": "Osobista odpowiedzialność wspólnika za zobowiązania spółki",
+          "correct": true
+        },
+        {
+          "answer": "Osobowość prawna",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Komandytariusz w spółce komandytowej:",
+      "id": 3694,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Odpowiada za zobowiązania spółki jeżeli egzekucja z majątku komplementariusza okaże się bezskuteczna",
+          "correct": false
+        },
+        {
+          "answer": "Odpowiada za zobowiązania spółki na takich samych zasadach co komplementariusz&nbsp;",
+          "correct": false
+        },
+        {
+          "answer": "Odpowiada za zobowiązania spółki tylko do wysokości tzw. Sumy komandytowej",
+          "correct": true
+        },
+        {
+          "answer": "Odpowiada za zobowiązania spółki całym swoim majątkiem osobistym&nbsp;",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Statut. Spółki akcyjnej powinien być sporządzony:&nbsp;",
+      "id": 3695,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "W formie elektronicznej&nbsp;",
+          "correct": false
+        },
+        {
+          "answer": "W formie aktu notarialnego",
+          "correct": true
+        },
+        {
+          "answer": "W formie pisemnej",
+          "correct": false
+        },
+        {
+          "answer": "W formie ustnej",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Prawo do wytoczenia powództwa przeciwko spółce akcyjnej o stwierdzenie nieważności uchwały walnego zgromadzenia sprzecznej z przepisami prawa:",
+      "id": 3696,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Wygasa z upływem 6 miesięcy od dnia otrzymania wiadomości o uchwale, jednakże nie później niż z upływem dwóch lat od dnia powzięcia uchwały&nbsp;",
+          "correct": true
+        },
+        {
+          "answer": "Wygasa z upływem jednego miesiąca od dnia otrzymania wiadomości o uchwale, jednakże nie później niż z upływem trzech miesięcy od dnia powzięcia uchwał&nbsp;",
+          "correct": false
+        },
+        {
+          "answer": "Nigdy nie wygasa",
+          "correct": false
+        },
+        {
+          "answer": "Wygasa z upływem 6 miesięcy od dnia otrzymania wiadomości o uchwale, jednakże nie później niż z upływem 6 lat od dnia powzięcia uchwały&nbsp;",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Wspólnik pasywny w spółce komandytowo-akcyjnej to:",
+      "id": 3697,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Akcjonariusz",
+          "correct": true
+        },
+        {
+          "answer": "Mandytariusz",
+          "correct": false
+        },
+        {
+          "answer": "Komandytariusz&nbsp;",
+          "correct": false
+        },
+        {
+          "answer": "Komplementariusz",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Członków zarządu spółki akcyjnej powołuje i odwołuje&nbsp;",
+      "id": 3698,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Zgromadzenie wspólników",
+          "correct": false
+        },
+        {
+          "answer": "Walne zgromadzenie akcjonariuszy",
+          "correct": false
+        },
+        {
+          "answer": "Walne zgromadzenie akcjonariuszy w porozumieniu z radą nadzorczą&nbsp;",
+          "correct": false
+        },
+        {
+          "answer": "Rada nadzorcza, chyba, że statut spółki wskazuje inaczej",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Minimalna liczba wspólników w spółce jawnej to:",
+      "id": 3699,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "4",
+          "correct": false
+        },
+        {
+          "answer": "2",
+          "correct": true
+        },
+        {
+          "answer": "3",
+          "correct": false
+        },
+        {
+          "answer": "1",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Minimalna wysokość kapitału zakładowego spółki komandytowo-akcyjnej wynosi:",
+      "id": 3700,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "500 tys.",
+          "correct": false
+        },
+        {
+          "answer": "25 tys.",
+          "correct": false
+        },
+        {
+          "answer": "5 tys.",
+          "correct": false
+        },
+        {
+          "answer": "50 tys.",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Minimalna wysokość kapitału zakładowego wymagana do założenia spółki akcyjnej to:&nbsp;",
+      "id": 3701,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "500 tys.",
+          "correct": false
+        },
+        {
+          "answer": "10 tys.",
+          "correct": false
+        },
+        {
+          "answer": "100 tys.",
+          "correct": true
+        },
+        {
+          "answer": "1 zł",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Akcjonariusz spółki komandytowo akcyjnej:",
+      "id": 3702,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "może reprezentować spółkę jedynie jako pełnomocnik&nbsp;",
+          "correct": true
+        },
+        {
+          "answer": "zawsze może reprezentować spółkę&nbsp;",
+          "correct": false
+        },
+        {
+          "answer": "reprezentuje spółkę, jeżeli posiada ponad 25% akcji&nbsp;",
+          "correct": false
+        },
+        {
+          "answer": "nie może reprezentować spółki",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Członek zarządu spółki z.o.o. może być odwołany:",
+      "id": 3703,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "w każdym czasie&nbsp;",
+          "correct": true
+        },
+        {
+          "answer": "tylko jeśli wyrazi na to zgodę&nbsp;",
+          "correct": false
+        },
+        {
+          "answer": "tylko po wygaśnięciu mandatu&nbsp;",
+          "correct": false
+        },
+        {
+          "answer": "tylko po upływie kadencji na jaką został wybrany",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Członek zarządu, prokurent, likwidator, kierownik oddziału lub zakładu oraz zatrudniony w spółce akcyjnej główny księgowy, radca prawny lub adwokat:",
+      "id": 3704,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "nie może być jednocześnie członkiem rady nadzorczej&nbsp;",
+          "correct": true
+        },
+        {
+          "answer": "może być jednocześnie członkiem rady nadzorczej&nbsp;",
+          "correct": false
+        },
+        {
+          "answer": "nie może być jednocześnie członkiem rady nadzorczej chyba, że akcjonariusze spółki wyrażą na to zgodę&nbsp;",
+          "correct": false
+        },
+        {
+          "answer": "nie może być jednocześnie członkiem rady nadzorczej chyba, że zarząd spółki wyrazi na to zgodę",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Zakaz zajmowania się interesami konkurencyjnymi:",
+      "id": 3705,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "obejmuje udział w konkurencyjnej spółce kapitałowej, w przypadku posiadania w niej przez członka zarządu co najmniej 10% udziałów albo akcji",
+          "correct": true
+        },
+        {
+          "answer": "obejmuje udział w konkurencyjnej spółce kapitałowej, w przypadku posiadania w niej przez członka zarządu mniej niż 10% udziałów albo akcji",
+          "correct": false
+        },
+        {
+          "answer": "obejmuje udział w konkurencyjnej spółce kapitałowej, w przypadku posiadania w niej przez członka zarządu co najmniej 5% udziałów albo akcji",
+          "correct": false
+        },
+        {
+          "answer": "obejmuje udział w konkurencyjnej spółce kapitałowej, w przypadku posiadania w niej przez członka zarządu mniej niż 5% udziałów albo akcji",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Organami w spółce komandytowo akcyjnej są:",
+      "id": 3706,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Rada Nadzorcza i Walne Zgromadzenie&nbsp;",
+          "correct": true
+        },
+        {
+          "answer": "Rada Nadzorcza",
+          "correct": false
+        },
+        {
+          "answer": "Rada Nadzorcza, Zarząd i Walne Zgromadzenie",
+          "correct": false
+        },
+        {
+          "answer": "Zarząd i Walne Zgromadzenie",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Za zobowiązania spółki partnerskiej powstałe w związku z wykonywaniem przez pozostałych partnerów wolnego zawodu w spółce, o ile umowa spółki nie stanowi inaczej, partner:",
+      "id": 3707,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "ponosi odpowiedzialność do wysokości wniesionego wkładu&nbsp;",
+          "correct": false
+        },
+        {
+          "answer": "ponosi odpowiedzialność solidarnie z partnerem z winy którego powstało zobowiązania",
+          "correct": false
+        },
+        {
+          "answer": "nie ponosi odpowiedzialności&nbsp;",
+          "correct": true
+        },
+        {
+          "answer": "ponosi odpowiedzialność całym swoim majątkiem osobistym",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Prosta spółka akcyjna nie może być założona przez:",
+      "id": 3708,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "jednoosobowa spółkę z.o.o&nbsp;",
+          "correct": true
+        },
+        {
+          "answer": "osoby fizyczne",
+          "correct": false
+        },
+        {
+          "answer": "spółkę akcyjną publiczną&nbsp;",
+          "correct": false
+        },
+        {
+          "answer": "spółkę akcyjną niepubliczną",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Członkowie zarządu spółki z o.o. powoływani są:",
+      "id": 3709,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Uchwałą Rady Nadzorczej&nbsp;",
+          "correct": false
+        },
+        {
+          "answer": "Uchwałą Komisji Rewizyjnej&nbsp;",
+          "correct": false
+        },
+        {
+          "answer": "Uchwałą komplementariuszy spółki&nbsp;",
+          "correct": false
+        },
+        {
+          "answer": "Uchwałą wspólników&nbsp;",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Komandytariusz uczestniczy w zyskach spółki komandytowej:",
+      "id": 3710,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Proporcjonalnie do rzeczywiście wniesionego do spółki wkładu&nbsp;",
+          "correct": true
+        },
+        {
+          "answer": "Ma prawo do równego udziału w zyskach bez względu na wysokość wniesionego wkładu&nbsp;",
+          "correct": false
+        },
+        {
+          "answer": "Komplementariusze ustalają jego udział w zyskach&nbsp;",
+          "correct": false
+        },
+        {
+          "answer": "Przepisy kodeksu spółek handlowych określają wysokość udziału komandytariusza w zyskach",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Rada Nadzorcza w spółce akcyjnej składa się z:&nbsp;",
+      "id": 3711,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Co najmniej 5 osób&nbsp;",
+          "correct": false
+        },
+        {
+          "answer": "Co najmniej 2 osób&nbsp;",
+          "correct": false
+        },
+        {
+          "answer": "Co najmniej 3 osób&nbsp;",
+          "correct": true
+        },
+        {
+          "answer": "Co najmniej 4 osób&nbsp;",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "„Spółka cywilna” jest:",
+      "id": 3712,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Formą jednoosobowej działalności gospodarczej&nbsp;",
+          "correct": false
+        },
+        {
+          "answer": "Spółka handlową osobową&nbsp;",
+          "correct": false
+        },
+        {
+          "answer": "Spółką handlową kapitałową",
+          "correct": false
+        },
+        {
+          "answer": "Umową wspólników&nbsp;",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Prokura może zostać udzielona:",
+      "id": 3713,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Tylko przez przedsiębiorcę podlegającego wpisowi do Centralnej Ewidencji i informacji o Działalności Gospodarczej",
+          "correct": false
+        },
+        {
+          "answer": "Tylko przez osobę fizyczną, która prowadzi jednoosobową działalność gospodarczą",
+          "correct": false
+        },
+        {
+          "answer": "Przez każdego członka zarządu z o.o. i spółki akcyjnej&nbsp;",
+          "correct": false
+        },
+        {
+          "answer": "Tylko przez przedsiębiorcę podlegającego wpisowi do Krajowego Rejestru Sądowego",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Minimalny kapitał zakładowy wymagany do założenia spółki akcyjnej to:&nbsp;",
+      "id": 3714,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "100 000 zł",
+          "correct": true
+        },
+        {
+          "answer": "50 000 zł",
+          "correct": false
+        },
+        {
+          "answer": "10 000 zł",
+          "correct": false
+        },
+        {
+          "answer": "500 000 zł",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Rejestr czynności przetwarzania danych osobowych, nie musi być prowadzony w przedsiębiorstwach zatrudniających:",
+      "id": 3715,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Mniej niż 250 osób",
+          "correct": true
+        },
+        {
+          "answer": "Mniej niż 150 osób",
+          "correct": false
+        },
+        {
+          "answer": "Mniej niż 50 osób",
+          "correct": false
+        },
+        {
+          "answer": "Mniej niż 350 osób",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Spółkę komandytową reprezentują:",
+      "id": 3716,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Komandytariusz spółki, którzy wnieśli wkłady przekraczające ponad 25% udziałów w spółce&nbsp;",
+          "correct": false
+        },
+        {
+          "answer": "Komplementariusze, których z mocy umowy spółki albo prawomocnego orzeczenia sądu niepozbawionego prawa reprezentowania spółki oraz komplementariusze, których z mocy prawomocnego orzeczenia sądu pozbawionego prawa reprezentowania spółki w terminie do 6 miesięcy od dnia uprawomocnienia się orzeczenia&nbsp;",
+          "correct": false
+        },
+        {
+          "answer": "Komandytariusze, którym zostali upoważnieni przez komplementariuszy do reprezentacji spółki&nbsp;",
+          "correct": false
+        },
+        {
+          "answer": "Komplementariusze, których z mocy umowy spółki albo prawomocnego orzeczenia sądu nie pozbawiono prawa reprezentowania spółki&nbsp;",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Wskaż spółkę, która nie jest przedsiębiorcą:",
+      "id": 3717,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Spółka jawna",
+          "correct": false
+        },
+        {
+          "answer": "Spółka komandytowo-akcyjna&nbsp;",
+          "correct": false
+        },
+        {
+          "answer": "Spółka cywilna&nbsp;",
+          "correct": true
+        },
+        {
+          "answer": "Prosta spółka akcyjna",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Wspólnik pasywny w spółce komandytowej to:",
+      "id": 3718,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Komandytariusz",
+          "correct": true
+        },
+        {
+          "answer": "Komplementariusz",
+          "correct": false
+        },
+        {
+          "answer": "Mandatariusz",
+          "correct": false
+        },
+        {
+          "answer": "Akcjonariusz",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Rada Nadzorcza w spółce z o.o.:",
+      "id": 3719,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Musi być powołana, jeżeli wartość kapitału zakładowego spółki przekracza 500 000 zł, a wspólników jest więcej niż 25",
+          "correct": true
+        },
+        {
+          "answer": "Musi być powołana bez względu na wartość kapitału zakładowego i ilości wspólników, to organ obligatoryjny w spółce",
+          "correct": false
+        },
+        {
+          "answer": "Musi być powołana, jeżeli wartość kapitału zakładowego spółki przekracza 5 000,00 zł, a wspólników jest więcej niż 25",
+          "correct": false
+        },
+        {
+          "answer": "Musi być powołana, jeżeli wartość kapitału zakładowego spółki przekracza 50 000, 00 zł, a wspólników jest więcej niż 25",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Jeżeli komplementariuszem w spółce komandytowej jest spółka z ograniczoną odpowiedzialnością, zaś komandytariuszem jest wspólnik tej spółki:",
+      "id": 3720,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Wkładu komandytariusza nie mogą stanowić jego udziały w tej spółce z ograniczoną odpowiedzialnością&nbsp;",
+          "correct": true
+        },
+        {
+          "answer": "Wkładu komandytariusza muszą stanowić jego udziały w tej spółce z ograniczoną odpowiedzialnością&nbsp;",
+          "correct": false
+        },
+        {
+          "answer": "Wkładu komandytariusza mogą stanowić jego udziały w tej spółce z ograniczoną odpowiedzialnością&nbsp;",
+          "correct": false
+        },
+        {
+          "answer": "Wkładu komandytariusza mogą stanowić udziały w spółce z ograniczona odpowiedzialnością, jeżeli zgodę na takie wkłady wyrażają pozostali komandytariusze spółki&nbsp;&nbsp;",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Uchwały Rady Nadzorczej spółki z o.o. podejmowane są, jeśli na posiedzeniu jest obecna:",
+      "id": 3721,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Co najmniej 2/3 jej składu&nbsp;",
+          "correct": false
+        },
+        {
+          "answer": "Całość jej składu&nbsp;",
+          "correct": false
+        },
+        {
+          "answer": "Co najmniej 3/4 jej składu&nbsp;",
+          "correct": false
+        },
+        {
+          "answer": "Co najmniej połowa jej członków",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "W spółkach osobowych w ich imieniu działają:",
+      "id": 3722,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Tylko niektórzy z udziałowców umocowani przez zgromadzenie udziałowców&nbsp;",
+          "correct": false
+        },
+        {
+          "answer": "Wszyscy wspólnicy lub tylko niektórzy z nich&nbsp;",
+          "correct": true
+        },
+        {
+          "answer": "Umocowani do tego członkowie zarządu&nbsp;",
+          "correct": false
+        },
+        {
+          "answer": "Prezesi zarządu tych spółek&nbsp;",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Minimalny kapitał zakładowy wymagany do założenia spółki z o.o. to:&nbsp;",
+      "id": 3723,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "5 000 zł",
+          "correct": true
+        },
+        {
+          "answer": "50 zł",
+          "correct": false
+        },
+        {
+          "answer": "100 000 zł",
+          "correct": false
+        },
+        {
+          "answer": "50 000 zł",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Za zobowiązania spółki jawnej odpowiadają:",
+      "id": 3724,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Tylko wspólnicy określeni w umowie spółki&nbsp;",
+          "correct": false
+        },
+        {
+          "answer": "Wszyscy wspólnicy solidarnie",
+          "correct": true
+        },
+        {
+          "answer": "Wszyscy wspólnicy proporcjonalnie co do wysokości wniesionego wkładu&nbsp;",
+          "correct": false
+        },
+        {
+          "answer": "Wszyscy wspólnicy, którzy posiadają majątek osobisty&nbsp;",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Najważniejszym organem w prostej spółce akcyjnej jest",
+      "id": 3725,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "walne zgromadzenie",
+          "correct": true
+        },
+        {
+          "answer": "rada nadzorcza&nbsp;&nbsp;",
+          "correct": false
+        },
+        {
+          "answer": "Zarząd",
+          "correct": false
+        },
+        {
+          "answer": "rada dyrektorów",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "W przypadku spółek osobowych w ich imieniu działają:",
+      "id": 3726,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Akcjonariusze,",
+          "correct": false
+        },
+        {
+          "answer": "Umocowani do tego członkowie zarządów,",
+          "correct": false
+        },
+        {
+          "answer": "Prezesi Rad Nadzorczych tych spółek",
+          "correct": false
+        },
+        {
+          "answer": "Wszyscy wspólnicy lub niektórzy z nich",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Rejestracji spółki z o.o. i spółki akcyjnej w KRS dokonuje:&nbsp;",
+      "id": 3727,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "zgromadzenie wspólników lub akcjonariuszy",
+          "correct": false
+        },
+        {
+          "answer": "Rada Nadzorcza",
+          "correct": false
+        },
+        {
+          "answer": "Prokurent lub prokurenci",
+          "correct": false
+        },
+        {
+          "answer": "Zarząd spółki",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Za zobowiązania “spółki cywilnej” wobec osób trzecich",
+      "id": 3728,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Odpowiada spółka cywilna solidarnie ze wspólnikami",
+          "correct": false
+        },
+        {
+          "answer": "Odpowiada spółka cywilna całym swoim majątkiem",
+          "correct": false
+        },
+        {
+          "answer": "Odpowiadają wszyscy wspólnicy solidarnie",
+          "correct": true
+        },
+        {
+          "answer": "Nie odpowiadają wspólnicy wyłączeni od strat",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Podejmowanie uchwał przez zarząd spółki akcyjnej wymaga dodatkowo dla jej ważności:",
+      "id": 3730,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "monitorowania przez członka rady nadzorczej&nbsp;",
+          "correct": false
+        },
+        {
+          "answer": "Nagrywania",
+          "correct": false
+        },
+        {
+          "answer": "rejestrowania audiowizualnego",
+          "correct": false
+        },
+        {
+          "answer": "protokołowania",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Podstawowym aktem prawnym który reguluje funkcjonowanie, organizację, zasady działania, kompetencje organów w spółkach handlowych",
+      "id": 3731,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "ustawa kodeks spółek handlowych",
+          "correct": true
+        },
+        {
+          "answer": "ustawa kodeks handlowy&nbsp;",
+          "correct": false
+        },
+        {
+          "answer": "ustawa prawo przedsiębiorstw&nbsp;",
+          "correct": false
+        },
+        {
+          "answer": "ustawa kodeks cywilny&nbsp;",
+          "correct": false
+        }
+      ],
+      "comments": []
+    }
+  ],
+  "updatedAt": 1657201011390
+}
