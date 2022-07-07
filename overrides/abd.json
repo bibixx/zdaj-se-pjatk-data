@@ -29,6 +29,7 @@
       "question": "Wybierz narzędzia klienckie wykorzystywane podczas pracy administracyjnej z bazą danych PostgreSQL",
       "isMarkdown": true,
       "comments": [],
+      "id": 3633,
       "answers": [
         {
           "answer": "psql",
@@ -74,27 +75,28 @@
     {
       "question": "Rozważ następujące zapytanie SQL:\n```sql\nselect fname, lname from person\nwhere fname='Anna' or lname='Kowalska';\n```\nJaki zestaw indeksów będzie w tym wypadku najkorzystniejszy z poniższych?",
       "isMarkdown": true,
+      "id": 3330,
       "comments": [],
       "answers": [
         {
-          "answer": "create index index1 on person(fname, lname);",
-          "correct": false
+          "answer": "`create index index1 on person(fname, lname);`",
+          "correct": false,
+          "isMarkdown": true
         },
         {
-          "answer": "create index index1 on person(lname, fname);",
-          "correct": false
+          "answer": "`create index index1 on person(lname, fname);`",
+          "correct": false,
+          "isMarkdown": true
         },
         {
           "answer": "Żadne z wymienionych rozwiązań nie przyspieszy zapytania",
-          "correct": false
+          "correct": false,
+          "isMarkdown": true
         },
         {
-          "answer": "create index index1 on person(fname);",
-          "correct": false
-        },
-        {
-          "answer": "create index index2 on person(lname);",
-          "correct": false
+          "answer": "```\ncreate index index1 on person(fname);\ncreate index index2 on person(lname);\n```",
+          "correct": true,
+          "isMarkdown": true
         }
       ]
     },
@@ -125,30 +127,27 @@
       "question": "Rozważ następujące zapytanie SQL:\n```sql\nselect idperson, fname, lname, birthdate from person\nwhere fname='Anna' and birthdate='01-01-2001';\n```\nKtóry z poniższych indeksów realizuję strategię \"tylko indeks\"?",
       "isMarkdown": true,
       "comments": [],
+      "id": 3339,
       "answers": [
         {
-          "answer": "create index index1 on person(fname, birthdate, idperson, lname);",
-          "correct": false
+          "answer": "`create index index1 on person(fname, birthdate, idperson, lname);`",
+          "correct": false,
+          "isMarkdown": true
         },
         {
-          "answer": "create index index1 on person(birthdate, fname, idperson);",
-          "correct": false
+          "answer": "`create index index1 on person(birthdate, fname, idperson);`",
+          "correct": true,
+          "isMarkdown": true
         },
         {
-          "answer": "create index index1 on person(fname);",
-          "correct": false
+          "answer": "```\ncreate index index1 on person(fname);\ncreate index index2 on person(birthdate);\n```",
+          "correct": false,
+          "isMarkdown": true
         },
         {
-          "answer": "create index index2 on person(birthdate);",
-          "correct": false
-        },
-        {
-          "answer": "create index index1 ON person using gin(birthdate);",
-          "correct": false
-        },
-        {
-          "answer": "create index index2 ON person using btree (fname);",
-          "correct": false
+          "answer": "```\ncreate index index1 ON person using gin(birthdate);\ncreate index index2 ON person using btree (fname);\n```",
+          "correct": false,
+          "isMarkdown": true
         }
       ]
     },
@@ -370,11 +369,11 @@
         },
         {
           "answer": "Do podglądu zapytań wykonywanych przez użytkowników.",
-          "correct": false
+          "correct": true
         },
         {
           "answer": "Do zapisywania informacji o błędach w dzienniku systemowym.",
-          "correct": false
+          "correct": true
         },
         {
           "answer": "Do zapisywania aktywności użytkowników w pliku.",
