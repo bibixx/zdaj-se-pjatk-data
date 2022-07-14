@@ -2285,7 +2285,823 @@
         }
       ],
       "comments": []
+    },
+    {
+      "question": "Jak długo przedsiębiorca może przechowywać dane osobowe?&nbsp;",
+      "id": 3732,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Każdy pracownik może je usunąć, kiedy uzna, że nie są już mu potrzebne&nbsp;",
+          "correct": false
+        },
+        {
+          "answer": "Maksymalnie 12 msc",
+          "correct": false
+        },
+        {
+          "answer": "Nie dłużej niż jest to konieczne&nbsp;",
+          "correct": true
+        },
+        {
+          "answer": "Bez ograniczeń&nbsp;",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Uchwały walnego zgromadzenie akcjonariuszy spółki akcyjnej mogą być podjęte pomimo braku formalnego zwołania:",
+      "id": 3733,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Jeśli co najmniej 3/4 kapitału zakładowego jest reprezentatywne",
+          "correct": false
+        },
+        {
+          "answer": "Jeśli co najmniej 2/3 kapitału zakładowego jest reprezentatywne",
+          "correct": false
+        },
+        {
+          "answer": "Jeśli cały kapitał jest reprezentowany&nbsp;",
+          "correct": true
+        },
+        {
+          "answer": "Jeśli bezwzględna większość kapitału zakładowego jest reprezentowana&nbsp;",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "W której dziedzinie wymagane jest uzyskanie koncesji:",
+      "id": 3734,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Sprzedaż napojów alkoholowych",
+          "correct": true
+        },
+        {
+          "answer": "Działalność biurowa",
+          "correct": false
+        },
+        {
+          "answer": "Przewóz lotniczy",
+          "correct": false
+        },
+        {
+          "answer": "Usługi detektywistyczne",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Umowa spółki jawnej powinna być zawarta:",
+      "id": 3735,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Wyłącznie w formie aktu notarialnego",
+          "correct": false
+        },
+        {
+          "answer": "Na piśmie pod rygorem nieważności",
+          "correct": true
+        },
+        {
+          "answer": "Wyłącznie na piśmie z podpisami notarialnie poświadczonymi",
+          "correct": false
+        },
+        {
+          "answer": "Ustnie lub pisemnie",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Spółka z o.o. Może:",
+      "id": 3736,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Być utworzona dla realizacji każdego celu",
+          "correct": false
+        },
+        {
+          "answer": "Być utworzona dla realizacji celu gospodarczego",
+          "correct": false
+        },
+        {
+          "answer": "Być utworzona tylko dla realizacji celu prawnie dopuszczalnego",
+          "correct": true
+        },
+        {
+          "answer": "Być utworzona m.in. dla realizacji celu gospodarczego",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Kadencja zarządu spółki akcyjnej wynosi:",
+      "id": 3737,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Nie dłużej niż 5 lat",
+          "correct": true
+        },
+        {
+          "answer": "Długość kadencji zarządu zależy od umowy spółki",
+          "correct": false
+        },
+        {
+          "answer": "Zarząd powoływany jest na czas nieoznaczony i może być w każdej chwili odwołany",
+          "correct": false
+        },
+        {
+          "answer": "Długość kadencji ustala Walne Zgromadzenie Wspólników, może wynosić 1, 2, 3, lub 5 lat",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Wymagalność świadczenia w przypadku umowy forfaitingu wynosi:",
+      "id": 3738,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Do 6 miesięcy",
+          "correct": false
+        },
+        {
+          "answer": "Od 6 miesięcy do 210 dni",
+          "correct": true
+        },
+        {
+          "answer": "Od 6 miesięcy do 10 lat",
+          "correct": false
+        },
+        {
+          "answer": "Od 6 miesięcy do 5 lat",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Rejestracja spółki z o.o. I spółki akcyjnej w KRS-ie dokonuje:",
+      "id": 3739,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Zgromadzenia wspólników lub akcjonariuszy",
+          "correct": false
+        },
+        {
+          "answer": "Rada Nadzorcza",
+          "correct": false
+        },
+        {
+          "answer": "Prokurent lub prokurent ustanowienie dla spółki",
+          "correct": false
+        },
+        {
+          "answer": "Zarząd spółki",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Kapitał zakładowy spółki akcyjnej wynosi co najmniej",
+      "id": 3740,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "25 000 zł",
+          "correct": false
+        },
+        {
+          "answer": "50 000 zł",
+          "correct": false
+        },
+        {
+          "answer": "100 000 zł",
+          "correct": true
+        },
+        {
+          "answer": "5 000 zł",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Uprzywilejowanie udziałów:",
+      "id": 3751,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Nie jest możliwe, wszystkie udziały w spółkach kapitałowych są równe i niepodzielne",
+          "correct": false
+        },
+        {
+          "answer": "Jest możliwe tylko co do prawa głosu (max 3 na jeden udział)",
+          "correct": false
+        },
+        {
+          "answer": "Może dotyczyć dywidendy (1,5-2 na jeden udział)",
+          "correct": false
+        },
+        {
+          "answer": "Może dotyczyć prawa głosu lub prawa dywidendy",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Akcjonariusz w spółce komandytowo-akcyjnej",
+      "id": 3752,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Odpowiada solidarnie i subsydiarnie za zobowiązania spółki",
+          "correct": false
+        },
+        {
+          "answer": "Odpowiada majątkiem osobistym za zobowiązania spółki",
+          "correct": false
+        },
+        {
+          "answer": "Nie odpowiada za zobowiązania spółki",
+          "correct": true
+        },
+        {
+          "answer": "Odpowiada za zobowiązania spółki tylko do wysokości wniesionego wkładu",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Za straty spółki jawnej:",
+      "id": 3753,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Każdy ze wspólników odpowiada solidarnie - subsydiarnie",
+          "correct": true
+        },
+        {
+          "answer": "Każdy ze wspólników odpowiada solidarnie",
+          "correct": false
+        },
+        {
+          "answer": "Każdy ze wspólników odpowiada stosownie do udziału w zyskach spółki",
+          "correct": false
+        },
+        {
+          "answer": "Odpowiada tylko ten wspólnik, który prowadzi sprawy spółki",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Czynność nagła w spółce to:",
+      "id": 3754,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Każda czynność prawna także czynność zwykłego zarządu, którą musimy dokonać w interesie spółki",
+          "correct": false
+        },
+        {
+          "answer": "Każda czynność wykraczająca poza zwykły zarząd",
+          "correct": false
+        },
+        {
+          "answer": "Każda czynność wykraczająca poza zwykły zarząd, której nie dokonanie narazi spółke na niepowetowane straty",
+          "correct": true
+        },
+        {
+          "answer": "Czynność, której dokonanie spowoduje niepowetowane straty",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "W spółce akcyjnej uchwały Walnego zgromadzenia akcjonariuszy wymaga:",
+      "id": 3755,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Zmiana umowy spółki",
+          "correct": true
+        },
+        {
+          "answer": "Powołanie prokurenta spółki",
+          "correct": false
+        },
+        {
+          "answer": "Podpisanie umowy najmu przez spółkę",
+          "correct": false
+        },
+        {
+          "answer": "Zatrudnienie nowego pracownika",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "W przypadku naruszenia danych osobowych administrator ma obowiązek poinformować o takim incydencie osoby, których dane dotyczą:",
+      "id": 3756,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Kiedy uzna takie zgłoszenie za uzasadnione i potrzebne w jego ocenie",
+          "correct": false
+        },
+        {
+          "answer": "Kiedy dokonuje zgłoszenia naruszenia danych osobowych do Prezesa Urzędu Ochrony Danych Osobowych",
+          "correct": false
+        },
+        {
+          "answer": "Bezwzględnie, w każdej sytuacji kiedy w firmie dochodzi do jakiegokolwiek naruszenia danych osobowych lub przepisach o ochronie danych osobowych",
+          "correct": false
+        },
+        {
+          "answer": "Kiedy naruszenie może spowodować wysokie ryzyko naruszenia praw lub wolności osób fizycznych&nbsp;",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Gdzie należy szukać informacji dotyczących reprezentacji danej spółki?",
+      "id": 3757,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "w rejestrze handlowych w tzw białej księdze",
+          "correct": false
+        },
+        {
+          "answer": "w umowie spółki, statucie lub KRS",
+          "correct": true
+        },
+        {
+          "answer": "w protokołach z posiedzeń rady nadzorczej lub protokole z posiedzeń zarząd spółki",
+          "correct": false
+        },
+        {
+          "answer": "w centralnym rejestrze beneficjentów rzeczywistych lub Monitorze Gospodarczym",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Inspektor ochrony danych osobowych musi być powołany:",
+      "id": 3758,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Przez podmioty, których główna działalność polega na operacjach przetwarzania danych osobowych lub które przetwarzają dane osobową na dużą skalę",
+          "correct": true
+        },
+        {
+          "answer": "Przez podmioty, które zostały upoważnione do przetwarzania danych osobowych przez osoby których dane dotyczą",
+          "correct": false
+        },
+        {
+          "answer": "W każdej firmie, w której przetwarzane są dane osobowe",
+          "correct": false
+        },
+        {
+          "answer": "Tylko w podmiotach administracji publicznej",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "W przypadku spółki cywilnej status przedsiębiorcy przysługuje:",
+      "id": 3759,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Spółce w momencie uzyskania wpisu do Krajowego Rejestru Sądowego",
+          "correct": false
+        },
+        {
+          "answer": "Samej spółce w zakresie prowadzonej przez nią działalności gospodarczej",
+          "correct": false
+        },
+        {
+          "answer": "Wyłącznie wspólnikom spółki cywilnej w zakresie wykonywanej przez nich działalności gospodarczej",
+          "correct": true
+        },
+        {
+          "answer": "Wspólnikowi, który posiada wpis do Centralnego Rejestru Beneficjentów Rzeczywistych",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Udział kapitałowy w spółce jawnej równy jest:",
+      "id": 3760,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Nie występuje",
+          "correct": false
+        },
+        {
+          "answer": "Wartości rzeczywiście wniesionego do spółki wkładu",
+          "correct": true
+        },
+        {
+          "answer": "Obejmuje tylko wkład niegotówkowy",
+          "correct": false
+        },
+        {
+          "answer": "Obejmuje tylko gotówkę",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Do składania oświadczeń woli w imieniu spółki kapitałowej co do zasady wymagane jest:",
+      "id": 3761,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "współdziałanie dwóch członków zarządu albo jednego członka zarządu łącznie prokurentem",
+          "correct": true
+        },
+        {
+          "answer": "współdziałanie dwóch członków zgromadzenia udziałowców (akcjonariuszy) albo jednego członka rady nadzorcze łącznie z prokurentem",
+          "correct": false
+        },
+        {
+          "answer": "współdziałanie jednego z członków rady nadzorczej albo jednego członka rady nadzorczej łącznie z prokurentem",
+          "correct": false
+        },
+        {
+          "answer": "współdziałanie dwóch członków rady nadzorczej albo jednego członka rady nadzorczej łącznie z prokurentem&nbsp;",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Przedsiębiorca działający w formie spółki, zanim rozpocznie działalność (...) się w:",
+      "id": 3762,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Rejestrze przedstawicielstw przedsiębiorców",
+          "correct": false
+        },
+        {
+          "answer": "Centralnej Ewidencji i Informacji o Działalności Gospodarczej",
+          "correct": true
+        },
+        {
+          "answer": "Krajowym Rejestrze Sądowym",
+          "correct": false
+        },
+        {
+          "answer": "Rejestrze Handlowym",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Cechą spółki handlowej kapitałowej jest to, że:",
+      "id": 3763,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Wkładami wspólników może być praca i usługi świadczone na rzecz spółki",
+          "correct": false
+        },
+        {
+          "answer": "Prowadzenie spraw spółki należy do kompetencji jej wspólników",
+          "correct": false
+        },
+        {
+          "answer": "Brak osobistej odpowiedzialności wspólnika za zobowiązania spółki",
+          "correct": true
+        },
+        {
+          "answer": "Stały i niezmienny skład udziałowców i akcjonariuszy",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Gdzie należy szukać informacji dotyczących reprezentacji danej spółki:",
+      "id": 3764,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "W Rejestrze Handlowym lub tzw. Białej Księdze",
+          "correct": false
+        },
+        {
+          "answer": "W Centralnym Rejestrze Beneficjentów Rzeczywistych lub Monitorze Gospodarczym",
+          "correct": false
+        },
+        {
+          "answer": "W umowie spółki, statucie spółki lub Krajowym Rejestrze Sądowym",
+          "correct": true
+        },
+        {
+          "answer": "W protokołach z posiedzeń rady nadzorczej spółki lub protokole z posiedzeń zarządu spółki",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Do podjęcia uchwały na walnym zgromadzeniu akcjonariuszy spółki akcyjnej w sprawie obniżenia kapitału zakładowego spółki potrzebna jest większość:",
+      "id": 3765,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "3/4 głosów&nbsp;",
+          "correct": true
+        },
+        {
+          "answer": "1/2 głosów&nbsp;",
+          "correct": false
+        },
+        {
+          "answer": "Bezwzględna&nbsp;",
+          "correct": false
+        },
+        {
+          "answer": "2/3 głosów&nbsp;",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Zawiadomienie o posiedzeniu zarządu spółki akcyjnej:",
+      "id": 3766,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Musi być wysłane listem poleconym albo przesyłką kurierską&nbsp;",
+          "correct": false
+        },
+        {
+          "answer": "Musi być doręczone każdemu członkowi osobiście do rąk własnych",
+          "correct": false
+        },
+        {
+          "answer": "Musi zawierać szczegółowy porządek obrad",
+          "correct": false
+        },
+        {
+          "answer": "Powinno wskazywać przynajmniej datę, godzinę i miejsce posiedzenia&nbsp;",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Do ustanowienia prokury w spółkach osobowych wymagana jest:",
+      "id": 3767,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Zgoda wszystkich wspólników, którzy mają prawo do reprezentowania spółki&nbsp;",
+          "correct": true
+        },
+        {
+          "answer": "Zgoda jednego wspólnika, który ma prawo do reprezentowania spółki",
+          "correct": false
+        },
+        {
+          "answer": "Zgoda wszystkich wspólników&nbsp;",
+          "correct": false
+        },
+        {
+          "answer": "Zgoda wspólnika większościowego lub wspólników, którzy mają wspólnie większościowy udział w spółce",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Równość wspólników w rozumieniu prawa handlowego to:",
+      "id": 3768,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Równość co do głosu i dywidendy",
+          "correct": false
+        },
+        {
+          "answer": "Jednakowa pozycja prawna każdego wspólnika",
+          "correct": false
+        },
+        {
+          "answer": "Równe traktowanie wspólników znajdujących się w tej samej sytuacji",
+          "correct": true
+        },
+        {
+          "answer": "Przyznanie wszystkim wspólnikom równych praw majątkowych i korporacyjnych",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Udział kapitałowy wspólnika w spółce jawnej:",
+      "id": 3769,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Nie występuje",
+          "correct": false
+        },
+        {
+          "answer": "Decyduje o prawie głosu",
+          "correct": false
+        },
+        {
+          "answer": "Decyduje o zakresie spraw prowadzonych przez wspólnika",
+          "correct": false
+        },
+        {
+          "answer": "Równy jest wartości rzeczywiście wniesionego wkładu do spółki",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Wkładem komandytariusza do spółki może być:",
+      "id": 3770,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Tylko gotówka",
+          "correct": false
+        },
+        {
+          "answer": "Tylko gotówka i aport",
+          "correct": false
+        },
+        {
+          "answer": "Zawsze świadczona na rzecz spółki praca lub usługi",
+          "correct": false
+        },
+        {
+          "answer": "Gotówka lub świadczona na rzecz spółki praca lub usługi",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Członków zarządu spółki akcyjnej powołuje:",
+      "id": 3771,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Rada nadzorcza",
+          "correct": true
+        },
+        {
+          "answer": "Zgromadzenie wspólników na mocy uchwały",
+          "correct": false
+        },
+        {
+          "answer": "Walne Zgromadzenie Akcjonariuszy poprzez głosowanie",
+          "correct": false
+        },
+        {
+          "answer": "Walne Zgromadzenie Akcjonariuszy na mocy uchwały",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "W spółce akcyjnej uchwały walnego zgromadzenia wspólników wymaga:",
+      "id": 3772,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Uchwała w sprawie powołania członków zarządu spółki",
+          "correct": false
+        },
+        {
+          "answer": "Zmiana umowy spółki",
+          "correct": true
+        },
+        {
+          "answer": "Zawieszenie z ważnych powodów w czynnościach poszczególnych lub wszystkich członków zarządu",
+          "correct": false
+        },
+        {
+          "answer": "Ocena wniosku zarządu dotycząca podziału zysku i pokrycia strat",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Komplementariusz w spółce komandytowej ma prawo do:",
+      "id": 3773,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Ma prawo do udziału w zyskach",
+          "correct": false
+        },
+        {
+          "answer": "Ma obowiązek udziału w stratach",
+          "correct": false
+        },
+        {
+          "answer": "Ma prawo do równego udziału w zyskach i stratach",
+          "correct": false
+        },
+        {
+          "answer": "Ma prawo do równego udziału w zyskach i stratach w zależności od rodzaju i wysokości wniesionego wkładu",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Spółka cywilna podlega rejestracji w:",
+      "id": 3774,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "CEIDG",
+          "correct": true
+        },
+        {
+          "answer": "KRS",
+          "correct": false
+        },
+        {
+          "answer": "Nie podlega rejestracji",
+          "correct": false
+        },
+        {
+          "answer": "W Sądzie Rejestrowym wł. W sprawach spółek cywilnych",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Kto ustala wysokość wynagrodzenia członków zarządu spółki akcyjnej?",
+      "id": 3775,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Walne zgromadzenie&nbsp;",
+          "correct": false
+        },
+        {
+          "answer": "Zarząd&nbsp;",
+          "correct": false
+        },
+        {
+          "answer": "Wynika ze statutu spółki&nbsp;",
+          "correct": false
+        },
+        {
+          "answer": "Rada Nadzorcza ustala wynagrodzenie, chyba że statut stanowi inaczej",
+          "correct": true
+        }
+      ],
+      "comments": []
     }
   ],
-  "updatedAt": 1657201011390
+  "updatedAt": 1657811210693
 }

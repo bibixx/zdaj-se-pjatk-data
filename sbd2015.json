@@ -3469,7 +3469,291 @@
         }
       ],
       "comments": []
+    },
+    {
+      "question": "Relacja w modelu relacyjnym to",
+      "id": 3741,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Związek tabel",
+          "correct": false
+        },
+        {
+          "answer": "Uporzadkowana para encji",
+          "correct": false
+        },
+        {
+          "answer": "Podzbiór iloczynu kartezjańskiego zbiorów",
+          "correct": true
+        },
+        {
+          "answer": "Zależnośc pomiędzy wierszami tabel&nbsp;",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<p><strong>Edgar Codd zdefiniował wymogi stawiane bazie danych tworzonej zgodnie z modelem relacyjnym</strong></p>\n<div><strong><br></strong></div>\n<div class=\"kt-radio-list pt-3 pb-3\">&nbsp;</div>",
+      "id": 3742,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<p><span>Rozszerzając aksjomaty matematycznej teorii zbiorów</span></p>\n<div><span><br></span></div>",
+          "correct": false
+        },
+        {
+          "answer": "<p><span>Definiując 13 postulatów zwanych postulatami Codd'a</span></p>\n<div><span><br></span></div>",
+          "correct": true
+        },
+        {
+          "answer": "<p><span>Opisując model tabeli bazodanowej</span></p>\n<div><span><br></span></div>",
+          "correct": false
+        },
+        {
+          "answer": "<p><span>Nie formalizował wymogów, pozostawiając tenproblem do rozwiazania w implementacjach</span></p>\n<div><span><br></span></div>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<p><strong>W tabeli bazodanowej w modelu relacyjnym</strong></p>\n<div><strong><br></strong></div>\n<div class=\"kt-radio-list pt-3 pb-3\">&nbsp;</div>",
+      "id": 3743,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<p><span>istnieje co najwyżej jeden klucz</span></p>\n<div><span><br></span></div>",
+          "correct": false
+        },
+        {
+          "answer": "<p><span>istnieje zawsze dokładnie jeden klucz</span></p>\n<div><span><br></span></div>",
+          "correct": false
+        },
+        {
+          "answer": "<p><span>istnieje zawsze dokładnie jeden klucz główny</span></p>\n<div><span><br></span></div>",
+          "correct": false
+        },
+        {
+          "answer": "<p><span>może istnieć kilka kluczy</span></p>\n<div><span><br></span></div>",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<p><strong>&nbsp;Która z poniższych nazw NIE jest nazwą więzów integralności</strong></p>\n<div><strong><br></strong></div>\n<div class=\"kt-radio-list pt-3 pb-3\">&nbsp;</div>",
+      "id": 3744,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<p><span>więzy NOT NULL</span></p>\n<div><span><br></span></div>",
+          "correct": false
+        },
+        {
+          "answer": "<p><span>więzy UNIQUE</span></p>\n<div><span><br></span></div>",
+          "correct": false
+        },
+        {
+          "answer": "<p><span>Więzy klucza głównego</span></p>\n<div><span><br></span></div>",
+          "correct": false
+        },
+        {
+          "answer": "<p><span>Wiezy międzykolumnowe</span></p>\n<div><span><br></span></div>",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<p><strong>Która z poniższych definicji NIE jest poprawną</strong></p>\n<div><strong><br></strong></div>\n<div class=\"kt-radio-list pt-3 pb-3\">&nbsp;</div>",
+      "id": 3745,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<p><span>W skład zwiazku jedna encja może wchodzic wiecej niż jeden raz</span></p>\n<div><span><br></span></div>",
+          "correct": false
+        },
+        {
+          "answer": "<p><span>Związek niejednoznaczny w implementacji musi zostać rozłożony na związki jednoznaczne</span></p>\n<div><span><br></span></div>",
+          "correct": false
+        },
+        {
+          "answer": "<p><span>Związek jedno - jednoznaczny to szcsególny przypadek związku niejednoznacznego</span></p>\n<div><span><br></span></div>",
+          "correct": true
+        },
+        {
+          "answer": "<p><span>Encja jest modelem tabeli</span></p>\n<div><span><br></span></div>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<p><strong>Polecenie INSERT należy do grupy poleceń (\"podjęzyka\")</strong></p>\n<div><strong><br></strong></div>\n<div class=\"kt-radio-list pt-3 pb-3\">&nbsp;</div>",
+      "id": 3746,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "DQL",
+          "correct": false
+        },
+        {
+          "answer": "DCL",
+          "correct": false
+        },
+        {
+          "answer": "DML",
+          "correct": true
+        },
+        {
+          "answer": "DDL",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<p><strong>Polecenie GRANT służy do</strong></p>\n<div><strong><br></strong></div>\n<div class=\"kt-radio-list pt-3 pb-3\">&nbsp;</div>",
+      "id": 3747,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<p><span>Nadania uprawnień do obiektu bazy danych</span></p>\n<div><span><br></span></div>",
+          "correct": true
+        },
+        {
+          "answer": "<p><span>Zatwierdzenia transakcji</span></p>\n<div><span><br></span></div>",
+          "correct": false
+        },
+        {
+          "answer": "<p><span>Dodania nowej kolumny do widoku</span></p>\n<div><span><br></span></div>",
+          "correct": false
+        },
+        {
+          "answer": "<p><span>Usuniecia wiezów refeerencyjnych</span></p>\n<div><span><br></span></div>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<p><strong>Char(n) to typ danych</strong></p>\n<div><strong><br></strong></div>\n<div class=\"kt-radio-list pt-3 pb-3\">&nbsp;</div>",
+      "id": 3748,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<p><span>napisowych o stałej długości n znaków</span></p>\n<div><span><br></span></div>",
+          "correct": true
+        },
+        {
+          "answer": "<p><span>napisowych o stałej długości n znaków</span></p>\n<div><span><br></span></div>",
+          "correct": false
+        },
+        {
+          "answer": "<p><span>liczby całkowitej o max. długości n cyfr</span></p>\n<div><span><br></span></div>",
+          "correct": false
+        },
+        {
+          "answer": "<p><span>nie jest prawidłowym typem danych wg standardu języka SQL</span></p>\n<div><span><br></span></div>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<p><strong>W tabeli X jest jedna kolumna X1 typu Integer. Co zwróci polecenie SELECT 'Alamakota' FROM X;</strong></p>\n<div><strong><br></strong></div>\n<div class=\"kt-radio-list pt-3 pb-3\">&nbsp;</div>",
+      "id": 3749,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<p><span>zostanie wygenerowany błąd</span></p>\n<div><span><br></span></div>",
+          "correct": false
+        },
+        {
+          "answer": "<p><span>jeden wiersz zawierajacy napis Alamakota</span></p>\n<div><span><br></span></div>",
+          "correct": false
+        },
+        {
+          "answer": "<p><span>tyle wierszy zawierajacych napis Alamakota, ile zawiera aktualnie tabela X</span></p>\n<div><span><br></span></div>",
+          "correct": true
+        },
+        {
+          "answer": "<p><span>zbiór pusty</span></p>\n<div><span><br></span></div>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<p><strong>SELECT empno FROM emp MINUS SELECT empno FROM emp;</strong></p>\n<div><strong><br></strong></div>\n<div class=\"kt-radio-list pt-3 pb-3\">&nbsp;</div>",
+      "id": 3750,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<p><span>jest niepoprawne składniowo</span></p>\n<div><span><br></span></div>",
+          "correct": false
+        },
+        {
+          "answer": "<p><span>zwróci zbiór pusty</span></p>\n<div><span><br></span></div>",
+          "correct": true
+        },
+        {
+          "answer": "<p><span>zwróci wszystkie wartości empno z tabeli emp</span></p>\n<div><span><br></span></div>",
+          "correct": false
+        },
+        {
+          "answer": "<p><span>zapętli się</span></p>\n<div><span><br></span></div>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Co stanowi definicję kursora?",
+      "id": 3776,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<p><span>Instrukcja SELECT</span></p>\n<div><span><br></span></div>",
+          "correct": true
+        },
+        {
+          "answer": "<p><span>Dowolne polecenie SQL</span></p>\n<div><span><br></span></div>",
+          "correct": false
+        },
+        {
+          "answer": "<p><span>Instrukcja petli</span></p>\n<div><span><br></span></div>",
+          "correct": false
+        },
+        {
+          "answer": "<p><span>Dowolne polecenie PL/SQL</span></p>\n<div><span><br></span></div>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<p><strong>Czy otwarcie kursora wpływa na dostęp do danych innych użytkowników bazy?</strong></p>\n<div><strong><br></strong></div>\n<div class=\"kt-radio-list pt-3 pb-3\">&nbsp;</div>",
+      "id": 3777,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Tak",
+          "correct": true
+        },
+        {
+          "answer": "nie",
+          "correct": false
+        },
+        {
+          "answer": "<span>po otwarciu kursora na odczytywane wiersze nakładane są blokady uniemożliwiajace innym uzytkownikom wykonywanie operacji na tych wierszach.</span>Odpowiedź 3",
+          "correct": true
+        }
+      ],
+      "comments": []
     }
   ],
-  "updatedAt": 1657201011390
+  "updatedAt": 1657811210693
 }
