@@ -1,0 +1,14 @@
+{
+  "$schema":"../schemas/subject-override.json",
+  "data": [
+    {
+      "id": 2142,
+      "question": "Projekt Seti@Home to:"
+    },
+    {
+      "id": 2141,
+      "question": "Język WSDL służy wyspecyfikowaniu (wskaż kompletną odpowiedź)"
+    }
+  ],
+  "updatedAt": 1659128883934
+}

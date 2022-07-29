@@ -1,4 +1,5 @@
 {
+  "$schema":"schemas/subject.json",
   "title": "Fizyka k2",
   "id": "fizk2",
   "data": [

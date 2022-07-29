@@ -1,4 +1,5 @@
 {
+  "$schema":"schemas/index.json",
   "updatedAt": 1659128372196,
   "pages": [
     {

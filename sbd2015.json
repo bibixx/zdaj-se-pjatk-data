@@ -1,4 +1,5 @@
 {
+  "$schema":"schemas/subject.json",
   "title": "Systemy Baz Danych zima 2015",
   "id": "sbd2015",
   "data": [

@@ -1,4 +1,5 @@
 {
+  "$schema":"schemas/subject.json",
   "title": "Relacyjne Bazy Danych",
   "id": "rbd",
   "data": [

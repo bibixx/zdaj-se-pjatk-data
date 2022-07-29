@@ -1,4 +1,5 @@
 {
+  "$schema":"schemas/subject.json",
   "title": "Technika i Architektura Komputerów",
   "id": "tak",
   "data": [

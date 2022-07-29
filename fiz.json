@@ -1,4 +1,5 @@
 {
+  "$schema":"schemas/subject.json",
   "title": "Fizyka Kolos1 (angielska)",
   "id": "fiz",
   "data": [

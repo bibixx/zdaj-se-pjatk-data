@@ -1,4 +1,5 @@
 {
+  "$schema":"../schemas/subject-override.json",
   "title": "Systemy Baz Danych (SBD)",
   "id": "sbd",
   "data": [

@@ -1,4 +1,5 @@
 {
+  "$schema":"schemas/subject.json",
   "title": "Sieci Komputerowe 1",
   "id": "sko1-skj",
   "data": [

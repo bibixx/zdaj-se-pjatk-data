@@ -1,4 +1,5 @@
 {
+  "$schema":"schemas/subject.json",
   "title": "Administrowanie bazami danych",
   "id": "abd",
   "data": [

@@ -1,0 +1,106 @@
+{
+  "definitions": {},
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://example.com/object1659129904.json",
+  "title": "Root",
+  "type": "object",
+  "required": [
+    "title",
+    "id",
+    "data",
+    "updatedAt"
+  ],
+  "properties": {
+    "title": {
+      "$id": "#root/title",
+      "title": "Title",
+      "type": "string",
+      "default": ""
+    },
+    "id": {
+      "$id": "#root/id",
+      "title": "Id",
+      "type": "string",
+      "default": ""
+    },
+    "data": {
+      "$id": "#root/data",
+      "title": "Data",
+      "type": "array",
+      "default": [],
+      "items":{
+        "$id": "#root/data/items",
+        "title": "Items",
+        "type": "object",
+        "required": [
+          "question",
+          "id",
+          "numberOfComments",
+          "answers",
+          "comments"
+        ],
+        "properties": {
+          "question": {
+            "$id": "#root/data/items/question",
+            "title": "Question",
+            "type": "string",
+            "default": ""
+          },
+          "id": {
+            "$id": "#root/data/items/id",
+            "title": "Id",
+            "type": ["integer", "null"],
+            "default": 0
+          },
+          "numberOfComments": {
+            "$id": "#root/data/items/numberOfComments",
+            "title": "Numberofcomments",
+            "type": "integer",
+            "default": 0
+          },
+          "answers": {
+            "$id": "#root/data/items/answers",
+            "title": "Answers",
+            "type": "array",
+            "default": [],
+            "items":{
+              "$id": "#root/data/items/answers/items",
+              "title": "Items",
+              "type": "object",
+              "required": [
+                "answer",
+                "correct"
+              ],
+              "properties": {
+                "answer": {
+                  "$id": "#root/data/items/answers/items/answer",
+                  "title": "Answer",
+                  "type": "string",
+                  "default": ""
+                },
+                "correct": {
+                  "$id": "#root/data/items/answers/items/correct",
+                  "title": "Correct",
+                  "type": "boolean",
+                  "default": true
+                }
+              }
+            }
+          },
+          "comments": {
+            "$id": "#root/data/items/comments",
+            "title": "Comments",
+            "type": "array",
+            "default": []
+          }
+        }
+      }
+    },
+    "updatedAt": {
+      "$id": "#root/updatedAt",
+      "title": "Updatedat",
+      "type": "integer",
+      "default": 0
+    }
+  }
+}

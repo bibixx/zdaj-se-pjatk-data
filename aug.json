@@ -1,4 +1,5 @@
 {
+  "$schema":"schemas/subject.json",
   "title": "Automaty i Gramatyki",
   "id": "aug",
   "data": [

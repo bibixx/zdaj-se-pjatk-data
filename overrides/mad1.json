@@ -1,4 +1,5 @@
 {
+  "$schema":"../schemas/subject-override.json",
   "title": "Matematyka Dyskretna 1 - 2020, Gakko (MAD1)",
   "id": "matematyka_dyskretna_1_-_2020,_gakko_(mad1)",
   "data": [

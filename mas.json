@@ -1,4 +1,5 @@
 {
+  "$schema":"schemas/subject.json",
   "title": "Modelowanie i Analiza Systemów informacyjnych",
   "id": "mas",
   "data": [

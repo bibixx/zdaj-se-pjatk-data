@@ -1,4 +1,5 @@
 {
+  "$schema":"schemas/subject.json",
   "title": "Bezpieczeństwo Systemów Informatycznych 2018",
   "id": "bsi_ang_2018",
   "data": [

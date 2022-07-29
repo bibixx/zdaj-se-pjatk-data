@@ -1,4 +1,5 @@
 {
+  "$schema":"schemas/subject.json",
   "title": "Sieci Komputerowe 2 - edu - 2011 ZIMA",
   "id": "sko2",
   "data": [

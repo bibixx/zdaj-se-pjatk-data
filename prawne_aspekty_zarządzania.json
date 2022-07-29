@@ -1,4 +1,5 @@
 {
+  "$schema":"schemas/subject.json",
   "title": "Prawne aspekty zarządzania",
   "id": "prawne_aspekty_zarządzania",
   "data": [

@@ -1,4 +1,5 @@
 {
+  "$schema":"schemas/subject.json",
   "title": "RBD egz 2016 zaoczne",
   "id": "rbdz",
   "data": [

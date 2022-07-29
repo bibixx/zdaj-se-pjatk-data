@@ -1,4 +1,5 @@
 {
+  "$schema":"schemas/subject.json",
   "title": "Grafika Komputerowa",
   "id": "grk",
   "data": [

@@ -1,4 +1,5 @@
 {
+  "$schema":"schemas/subject.json",
   "title": "Wstęp do systemów informacyjnych",
   "id": "wsi",
   "data": [
