@@ -1,0 +1,7 @@
+{
+  "$schema":"../schemas/subject-override.json",
+  "id": "zpr",
+  "title": "Zarządzanie projektem informatycznym",
+  "data": [],
+  "updatedAt": 1659139863868
+}

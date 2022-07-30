@@ -1,6 +1,5 @@
 {
   "$schema":"../schemas/subject-override.json",
-  "title": "Administrowanie bazami danych",
   "id": "abd",
   "data": [
     {

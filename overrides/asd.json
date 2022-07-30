@@ -1,6 +1,5 @@
 {
   "$schema":"../schemas/subject-override.json",
-  "title": "Algorytmy i Struktury Danych - edux (ASD)",
   "id": "asd",
   "data": [
     {
