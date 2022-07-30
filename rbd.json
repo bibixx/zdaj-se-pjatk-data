@@ -460,7 +460,7 @@
       "comments": []
     },
     {
-      "question": "Relacja R ma atrybut a. Jaka liczba może być wynikiem wykonania instrukcji SELECT Count(*) FROM R WHERE a<a",
+      "question": "Relacja R ma atrybut a. Jaka liczba może być wynikiem wykonania instrukcji SELECT Count(*) FROM R WHERE a&lt;a",
       "id": 337,
       "numberOfComments": 0,
       "answers": [
@@ -5116,5 +5116,5 @@
       "comments": []
     }
   ],
-  "updatedAt": 1659140698283
+  "updatedAt": 1659141166827
 }
