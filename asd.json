@@ -1,5 +1,5 @@
 {
-  "$schema":"schemas/subject.json",
+  "$schema": "schemas/subject.json",
   "title": "Algorytmy i Struktury Danych - edux",
   "id": "asd",
   "data": [
@@ -6532,5 +6532,5 @@
       "comments": []
     }
   ],
-  "updatedAt": 1659128372196
+  "updatedAt": 1659139608950
 }

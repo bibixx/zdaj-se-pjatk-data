@@ -1,6 +1,6 @@
 {
-  "$schema":"schemas/index.json",
-  "updatedAt": 1659128372196,
+  "$schema": "schemas/index.json",
+  "updatedAt": 1659139608950,
   "pages": [
     {
       "title": "Administrowanie bazami danych",

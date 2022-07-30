@@ -1,5 +1,5 @@
 {
-  "$schema":"schemas/subject.json",
+  "$schema": "schemas/subject.json",
   "title": "Systemy Baz Danych",
   "id": "sbd",
   "data": [
@@ -452,7 +452,7 @@
       "comments": []
     },
     {
-      "question": "Relacja R ma atrybut a. Jaka liczba może być wynikiem wykonania instrukcji SELECT Count(*) FROM R WHERE a<a <img=\"\" src=\"question.png\" height=\"16\" width=\"16\" onclick=\"window.open('?comment=660','komentarze','width=560,height=360')\">      </a>",
+      "question": "Relacja R ma atrybut a. Jaka liczba może być wynikiem wykonania instrukcji SELECT Count(*) FROM R WHERE a<a",
       "id": null,
       "numberOfComments": 0,
       "answers": [
@@ -9000,5 +9000,5 @@
       "comments": []
     }
   ],
-  "updatedAt": 1659128372196
+  "updatedAt": 1659139608950
 }

@@ -1,5 +1,5 @@
 {
-  "$schema":"schemas/subject.json",
+  "$schema": "schemas/subject.json",
   "title": "Modeling and Analysis of IT Systems",
   "id": "modeling_and_analysis_of_it_systems",
   "data": [
@@ -68,5 +68,5 @@
       "comments": []
     }
   ],
-  "updatedAt": 1659128372196
+  "updatedAt": 1659139608950
 }

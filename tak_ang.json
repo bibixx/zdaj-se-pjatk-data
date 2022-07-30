@@ -1,5 +1,5 @@
 {
-  "$schema":"schemas/subject.json",
+  "$schema": "schemas/subject.json",
   "title": "Technika i Architekture Komputerów (TAK) [ENG]",
   "id": "tak_ang",
   "data": [
@@ -3304,5 +3304,5 @@
       "comments": []
     }
   ],
-  "updatedAt": 1659128372196
+  "updatedAt": 1659139608950
 }

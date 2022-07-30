@@ -1,5 +1,5 @@
 {
-  "$schema":"schemas/subject.json",
+  "$schema": "schemas/subject.json",
   "title": "Rachunkowość Podmiotow Gospodarczych",
   "id": "rpg",
   "data": [
@@ -1036,5 +1036,5 @@
       "comments": []
     }
   ],
-  "updatedAt": 1659128372196
+  "updatedAt": 1659139608950
 }

@@ -1,5 +1,5 @@
 {
-  "$schema":"schemas/subject.json",
+  "$schema": "schemas/subject.json",
   "title": "Matematyka Dyskretna 1 - 2020, Gakko",
   "id": "mad1",
   "data": [
@@ -1444,5 +1444,5 @@
       "comments": []
     }
   ],
-  "updatedAt": 1659128372196
+  "updatedAt": 1659139608950
 }

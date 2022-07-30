@@ -1,5 +1,5 @@
 {
-  "$schema":"schemas/subject.json",
+  "$schema": "schemas/subject.json",
   "title": "Matematyka Dyskretna - edux - 2012 ZIMA",
   "id": "mad2012a",
   "data": [
@@ -3672,5 +3672,5 @@
       "comments": []
     }
   ],
-  "updatedAt": 1659128372196
+  "updatedAt": 1659139608950
 }
