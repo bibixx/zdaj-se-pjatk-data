@@ -1174,7 +1174,7 @@
       "answers": [
         {
           "answer": "Politycy(id_polityka, imię, nazwisko)<br>Partie(id_partii, nazwa, od, do)<br>Koalicje(id_koalicji,  data_wyborów)<br>Członkowie(id_partii, id_osoby, od, do)<br>W_koalicji(id_partii, id_koalicji, od, do)",
-          "correct": true
+          "correct": false
         },
         {
           "answer": "Osoby(id_osoby, imię, nazwisko, id_partii)<br>Partie(id_partii, nazwa, id_koalicji)<br>Politycy(id_osoby, id_partii, od, do)<br>Koalicje(id_koalicji, data_wyborów)",
@@ -1186,7 +1186,7 @@
         },
         {
           "answer": "Politycy(id_polityka, imię, nazwisko, id_partii, od, do)<br>Partie(id_partii, nazwa, od, do)<br>Koalicje(id_koalicji,  data_wyborów)<br>W_koalicji(id_partii, id_koalicji, od, do)",
-          "correct": false
+          "correct": true
         }
       ],
       "comments": []
