@@ -1,0 +1,33 @@
+{
+  "$schema":"../schemas/subject-override.json",
+  "title": "Wstęp do systemów informacyjnych",
+  "id": "wsi",
+  "data": [
+    {
+      "question": "Spiralny model cyklu życia oprogramowania:",
+      "id": 3202,
+      "numberOfComments": 0,
+      "contributor": "Kacper",
+      "answers": [
+        {
+          "answer": "W praktyce każda jego faza jest realizowana zgodnie z podejściem iteracyjnym",
+          "correct": true
+        },
+        {
+          "answer": "Utrudnia klientowi walidacje produktu na etapie wytwarzania",
+          "correct": false
+        },
+        {
+          "answer": "W praktyce każda jego faza jest realizowana zgodnie z podejściem kaskadowym",
+          "correct": false
+        },
+        {
+          "answer": "Utrudnia sporządzenie harmonogramu projektu",
+          "correct": false
+        }
+      ],
+      "comments": []
+    }
+  ],
+  "updatedAt": 1675678458235
+}
