@@ -4,7 +4,7 @@
   "updatedAt": 1675724671246,
   "data": [
     {
-      "id": "3088",
+      "id": 3088,
       "question": "<span>Dana jest relacja {(1,2),(2,3),(3,1),(2,4),(5,3)} określona na zbiorze {1,2,3,4,5,6}. Która z poniższych relacji stanowi jej&nbsp;</span><strong>domknięcie symetryczne</strong><span>?</span>",
       "isMarkdown": false,
       "comments": [],
