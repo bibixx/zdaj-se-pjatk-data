@@ -1,0 +1,35 @@
+{
+  "$schema": "../schemas/subject-override.json",
+  "id": "sko1-skj",
+  "updatedAt": 1675792869321,
+  "data": [
+    {
+      "id": 2565,
+      "question": "Ile ma warst model internetowy?",
+      "isMarkdown": false,
+      "comments": [],
+      "answers": [
+        {
+          "answer": "3",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "4",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "5",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "7",
+          "correct": false,
+          "isMarkdown": false
+        }
+      ]
+    }
+  ]
+}
