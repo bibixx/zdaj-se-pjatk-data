@@ -1,0 +1,16 @@
+{
+  "$schema": "../schemas/subject-override.json",
+  "id": "sko1-skj",
+  "updatedAt": 1675757465452,
+  "data": [
+    {
+      "id": 636,
+      "question": "Sieci radiowe w standardzie 802.11g pracują z następującą maksymalną teoretyczną szybkością przesyłania danych na kanał:",
+      "isMarkdown": false,
+      "comments": [],
+      "answers": [
+        {
+          "answer": "54 Mb/s",
+          "correct": true,
+          "isMarkdown": false
+        },
