@@ -1,0 +1,35 @@
+{
+  "$schema": "../schemas/subject-override.json",
+  "id": "sko1-skj",
+  "updatedAt": 1675761252954,
+  "data": [
+    {
+      "id": 2566,
+      "question": "Wymien model usług warstwy sieci:",
+      "isMarkdown": false,
+      "comments": [],
+      "answers": [
+        {
+          "answer": "best effort",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "ABR",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "UBR",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "VBR i CBR",
+          "correct": true,
+          "isMarkdown": false
+        }
+      ]
+    }
+  ]
+}
