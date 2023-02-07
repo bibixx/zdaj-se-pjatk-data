@@ -1,0 +1,35 @@
+{
+  "$schema": "../schemas/subject-override.json",
+  "id": "sko1-skj",
+  "updatedAt": 1675794261696,
+  "data": [
+    {
+      "id": 1887,
+      "question": "Telefonia internetowa wykorzystuje zazwyczaj protokół",
+      "isMarkdown": false,
+      "comments": [],
+      "answers": [
+        {
+          "answer": "ipvoice",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "UDP",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "HTTP",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "TCP",
+          "correct": false,
+          "isMarkdown": false
+        }
+      ]
+    }
+  ]
+}
