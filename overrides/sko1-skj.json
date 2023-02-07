@@ -1,0 +1,35 @@
+{
+  "$schema": "../schemas/subject-override.json",
+  "id": "sko1-skj",
+  "updatedAt": 1675757959822,
+  "data": [
+    {
+      "id": 1721,
+      "question": "Co oznacza odebrany pakiet ICMP Destination Unreachable?",
+      "isMarkdown": false,
+      "comments": [],
+      "answers": [
+        {
+          "answer": "komputer, z którym chcemy nawiązać połączenie TCP, ma zamkniety wybrany przez nas port",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "komputer, do którego chcemy wysłać pakiet UDP, ma zamkniety wybrany przez nas port",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "zatłoczoną sieć",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "komputer, z którym się chcemy skontaktować jest wyłączony",
+          "correct": true,
+          "isMarkdown": false
+        }
+      ]
+    }
+  ]
+}
