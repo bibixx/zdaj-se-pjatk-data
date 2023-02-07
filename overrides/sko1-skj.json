@@ -1,0 +1,35 @@
+{
+  "$schema": "../schemas/subject-override.json",
+  "id": "sko1-skj",
+  "updatedAt": 1675782281216,
+  "data": [
+    {
+      "id": 563,
+      "question": "Zastąpienie koncentratów przełącznikami, powoduje w sieci:",
+      "isMarkdown": false,
+      "comments": [],
+      "answers": [
+        {
+          "answer": "zmiejszenie ilości domen rozgłoszeniowych",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "zmniejszenie ilości domen kolizyjnych",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "zwiększenie ilości domen kolizyjnych",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "zwiekszenie ilości domen rozgłoszeniowych",
+          "correct": false,
+          "isMarkdown": false
+        }
+      ]
+    }
+  ]
+}
