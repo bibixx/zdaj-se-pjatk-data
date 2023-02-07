@@ -1,0 +1,35 @@
+{
+  "$schema": "../schemas/subject-override.json",
+  "id": "skj",
+  "updatedAt": 1675728922426,
+  "data": [
+    {
+      "id": 2628,
+      "question": "<span>TEMPEST protects against:</span>",
+      "isMarkdown": false,
+      "comments": [],
+      "answers": [
+        {
+          "answer": "<span>sniffing at link layer&nbsp;</span>",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "<span>sniffing at physical layer</span>",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "<span>spoofing at physical layer</span>",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "<span>TEMPEST is not a protection technology</span>",
+          "correct": false,
+          "isMarkdown": false
+        }
+      ]
+    }
+  ]
+}
