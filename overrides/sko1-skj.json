@@ -1,0 +1,35 @@
+{
+  "$schema": "../schemas/subject-override.json",
+  "id": "sko1-skj",
+  "updatedAt": 1675758893275,
+  "data": [
+    {
+      "id": 3624,
+      "question": "Jakie usługi oferuje sieć IP dla swoich aplikacji? ",
+      "isMarkdown": false,
+      "comments": [],
+      "answers": [
+        {
+          "answer": "zawodną usługę typu \"best effort\"<p></p>\n<p>&nbsp;</p>",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "niezawodną usługę TCP",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "usługę gwarantującą minimalną przepustowość<p></p>\n<p>&nbsp;</p>",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "usługę gwarantującą górne ograniczenia na opóźnienia",
+          "correct": false,
+          "isMarkdown": false
+        }
+      ]
+    }
+  ]
+}
