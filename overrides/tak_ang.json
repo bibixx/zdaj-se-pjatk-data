@@ -1,7 +1,16 @@
 {
-  "$schema":"../schemas/subject-override.json",
-  "title": "Technika i Architekture Komputerów [ENG]",
+  "$schema": "../schemas/subject-override.json",
   "id": "tak_ang",
-  "data": [],
-  "updatedAt": 1659139863868
-}
+  "title": "Technika i Architekture Komputerów [ENG]",
+  "updatedAt": 1675770040211,
+  "data": [
+    {
+      "question": "<span lang=\"EN-US\">The standard RAM memory is realized in</span>",
+      "isMarkdown": false,
+      "answers": [
+        {
+          "answer": "<span lang=\"EN-US\">magnetic technology</span>",
+          "correct": true,
+          "isMarkdown": false
+        },
+{
