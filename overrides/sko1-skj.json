@@ -1,0 +1,30 @@
+{
+  "$schema": "../schemas/subject-override.json",
+  "id": "sko1-skj",
+  "updatedAt": 1675759811772,
+  "data": [
+    {
+      "id": 1896,
+      "question": "Zaznacz ceche kontroli przeciążeń z pomocą sieci",
+      "isMarkdown": false,
+      "comments": [],
+      "answers": [
+        {
+          "answer": "estymuje przeciążenie na podstawie obciążenia procesora routera",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "routery udostępniają informację zwrotną systemom końcowym",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "tą metodą posługuje się TCP",
+          "correct": true,
+          "isMarkdown": false
+        }
+      ]
+    }
+  ]
+}
