@@ -1,0 +1,25 @@
+{
+  "$schema": "../schemas/subject-override.json",
+  "id": "sko1-skj",
+  "updatedAt": 1675790844571,
+  "data": [
+    {
+      "id": 560,
+      "question": "OSPF jest protokołem typu \"wektor odległości\".",
+      "isMarkdown": false,
+      "comments": [],
+      "answers": [
+        {
+          "answer": "Tak",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "Nie",
+          "correct": false,
+          "isMarkdown": false
+        }
+      ]
+    }
+  ]
+}
