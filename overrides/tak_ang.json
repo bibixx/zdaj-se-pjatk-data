@@ -2,7 +2,7 @@
   "$schema": "../schemas/subject-override.json",
   "id": "tak_ang",
   "title": "Technika i Architekture Komputerów [ENG]",
-  "updatedAt": 1675770040211,
+  "updatedAt": 1675849557812,
   "data": [
     {
       "question": "<span lang=\"EN-US\">The standard RAM memory is realized in</span>",
@@ -13,4 +13,22 @@
           "correct": true,
           "isMarkdown": false
         },
-{
+        {
+          "answer": "<span lang=\"EN-US\">electromagnetic technology</span>",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">electrodynamic technology</span>",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">optical technology</span>",
+          "correct": false,
+          "isMarkdown": false
+        }
+      ]
+    }
+  ]
+}
