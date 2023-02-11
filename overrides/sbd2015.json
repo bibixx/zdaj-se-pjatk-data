@@ -18,6 +18,11 @@
           "answer": "SELECT deptno, AVG(sal) FROM emp HAVING COUNT (*) &gt; 3;GROUP BY deptno;",
           "correct": false,
           "isMarkdown": false
+        },
+        {
+          "answer": "SELECT deptno, AVG(sal) as avg_sal FROM emp GROUP BY deptno HAVING COUNT(*) > 3;",
+          "correct": true,
+          "isMarkdown": false
         }
       ]
     }
