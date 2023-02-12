@@ -1,7 +1,29 @@
 {
-  "$schema":"../schemas/subject-override.json",
-  "title": "Technika i Architekture Komputerów [ENG]",
+  "$schema": "../schemas/subject-override.json",
   "id": "tak_ang",
-  "data": [],
-  "updatedAt": 1659139863868
+  "title": "Technika i Architekture Komputerów [ENG]",
+  "updatedAt": 1676212387535,
+  "data": [
+    {
+      "question": "<span lang=\"EN-US\">In 8-bit code the signed number representation</span>",
+      "isMarkdown": false,
+      "answers": [
+        {
+          "answer": "<span lang=\"EN-US\">11111111 represents value 0</span>",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">11110000 represents value -16</span>",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">11110000 represents value -15</span>",
+          "correct": false,
+          "isMarkdown": false
+        }
+      ]
+    }
+  ]
 }
