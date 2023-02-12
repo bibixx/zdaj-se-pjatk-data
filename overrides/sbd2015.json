@@ -27,28 +27,28 @@
       ]
     },
     {
-      "question": "<p class=\"MsoNormal\"><strong><span>Dane są trzy tabele Klienci(Id_Klienta, Imie, Nazwisko),Produkty(Id_Produktu, Nazwa, Cena) oraz Zakupy(Id_Klienta, Id_Produktu, Ilość). Wskazać poprawne zapytanie SQL</span></strong></p>",
-      "isMarkdown": false,
+      "question": "Dane są trzy tabele `Klienci(Id_Klienta, Imie, Nazwisko)`, `Produkty(Id_Produktu, Nazwa, Cena)` oraz `Zakupy(Id_Klienta, Id_Produktu, Ilość)`. Wskazać poprawne zapytanie SQL",
+      "isMarkdown": true,
       "answers": [
         {
-          "answer": "<span>SELECT Imie, Nazwisko FROM Produkty WHERE Nazwa = Produkt;</span>",
+          "answer": "`SELECT Imie, Nazwisko FROM Produkty WHERE Nazwa = Produkt;`",
           "correct": false,
-          "isMarkdown": false
+          "isMarkdown": true
         },
         {
-          "answer": "<span>SELECT Imie, Nazwisko FROM Klienci, Produkty, Zakupy WHERE Klienci.Id_Klienta = Zakupy.Id_klienta, AND Produkty.Id_Produktu = Zakupy.Id_produktu</span>",
+          "answer": "`SELECT Imie, Nazwisko FROM Klienci, Produkty, Zakupy WHERE Klienci.Id_Klienta = Zakupy.Id_klienta, AND Produkty.Id_Produktu = Zakupy.Id_produktu`",
           "correct": false,
-          "isMarkdown": false
+          "isMarkdown": true
         },
         {
-          "answer": "<span>SELECT Imie, Nazwisko FROM Klienci INNER JOIN Produkty ON Produkty.Id_Produktu= Klienci.Id_Klienta WHERE Produkty.Nazwa= ‘Pralka’.</span>",
+          "answer": "`SELECT Imie, Nazwisko FROM Klienci INNER JOIN Produkty ON Produkty.Id_Produktu= Klienci.Id_Klienta WHERE Produkty.Nazwa = 'Pralka'`",
           "correct": true,
-          "isMarkdown": false
+          "isMarkdown": true
         },
         {
-          "answer": "<p class=\"MsoNormal\"><span>SELECT Imie, Nazwisko FROM Klienci WHERE Nazwa=’Pralka’;</span></p>\n<p class=\"MsoNormal\">&nbsp;</p>",
+          "answer": "`SELECT Imie, Nazwisko FROM Klienci WHERE Nazwa='Pralka';`",
           "correct": false,
-          "isMarkdown": false
+          "isMarkdown": true
         }
       ]
     }
