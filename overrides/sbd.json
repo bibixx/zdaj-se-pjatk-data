@@ -1,6 +1,7 @@
 {
-  "$schema":"../schemas/subject-override.json",
+  "$schema": "../schemas/subject-override.json",
   "id": "sbd",
+  "updatedAt": 1676216367128,
   "data": [
     {
       "question": "<strong>Które z wymienionych mechanizmów są metodami zarządzania współbieżnością?</strong>",
@@ -59,7 +60,32 @@
           "correct": true
         }
       ]
+    },
+    {
+      "question": "<strong>W których z wymienionych sytuacji mówimy o problemie fantomów?</strong>",
+      "isMarkdown": false,
+      "answers": [
+        {
+          "answer": "Użytkownik zobaczył rekord wprowadzony przez innego użytkownika, który nie został zatwierdzony przez COMMIT",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "Rekord został w obrębie jednej transakcji wprowadzony (INSERT) i od razu usunięty (DELETE)",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "W trakcie działania transakcji inna transakcja wykonała INSERT",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "W trakcie działania transakcji inna transakcja wykonała DELETE",
+          "correct": false,
+          "isMarkdown": false
+        }
+      ]
     }
-  ],
-  "updatedAt": 1633287873823
+  ]
 }
