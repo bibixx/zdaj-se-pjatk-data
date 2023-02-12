@@ -1,7 +1,7 @@
 {
   "$schema": "../schemas/subject-override.json",
   "id": "sbd2015",
-  "updatedAt": 1676115446340,
+  "updatedAt": 1676197147138,
   "data": [
     {
       "id": 2431,
@@ -23,6 +23,32 @@
           "answer": "SELECT deptno, AVG(sal) as avg_sal FROM emp GROUP BY deptno HAVING COUNT(*) > 3;",
           "correct": true,
           "isMarkdown": false
+        }
+      ]
+    },
+    {
+      "question": "Dane są trzy tabele `Klienci(Id_Klienta, Imie, Nazwisko)`, `Produkty(Id_Produktu, Nazwa, Cena)` oraz `Zakupy(Id_Klienta, Id_Produktu, Ilość)`. Wskazać poprawne zapytanie SQL",
+      "isMarkdown": true,
+      "answers": [
+        {
+          "answer": "`SELECT Imie, Nazwisko FROM Produkty WHERE Nazwa = Produkt;`",
+          "correct": false,
+          "isMarkdown": true
+        },
+        {
+          "answer": "`SELECT Imie, Nazwisko FROM Klienci, Produkty, Zakupy WHERE Klienci.Id_Klienta = Zakupy.Id_klienta, AND Produkty.Id_Produktu = Zakupy.Id_produktu`",
+          "correct": false,
+          "isMarkdown": true
+        },
+        {
+          "answer": "`SELECT Imie, Nazwisko FROM Klienci INNER JOIN Produkty ON Produkty.Id_Produktu= Klienci.Id_Klienta WHERE Produkty.Nazwa = 'Pralka'`",
+          "correct": true,
+          "isMarkdown": true
+        },
+        {
+          "answer": "`SELECT Imie, Nazwisko FROM Klienci WHERE Nazwa='Pralka';`",
+          "correct": false,
+          "isMarkdown": true
         }
       ]
     }
