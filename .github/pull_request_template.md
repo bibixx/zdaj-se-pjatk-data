@@ -1,6 +1,10 @@
 <!--
   ⬆️ CHANGE PULL REQUEST TITLE ⬆️
-  Please change the pull request's title to match the following format: [SUBJECT_ID] QUESTION CONTENTS (eg. [sbd2015] Wskazać poprawne zapytanie SQL (dialekt ORACLE) znajdujące średnie zarobki tylko tych departamentów, które zatrudniają wiecej, niż trzech pracowników)
+  Please change the pull request's title to match the following format: [SUBJECT_ID] QUESTION CONTENTS (eg. [sbd2015] Wskazać poprawne zapytanie SQL [...])
+-->
+
+<!--
+  NOTE: Feel free to fill all of those in Polish 🇵🇱
 -->
 
 # Source backing up the changes 🔍
