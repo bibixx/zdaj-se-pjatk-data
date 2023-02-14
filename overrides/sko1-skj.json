@@ -5,7 +5,7 @@
   "data": [
     {
       "id": 2565,
-      "question": "Ile ma warst model internetowy?",
+      "question": "Ile ma warstw model internetowy?",
       "isMarkdown": false,
       "comments": [],
       "answers": [
@@ -33,12 +33,12 @@
     },
     {
       "id": 563,
-      "question": "Zastąpienie koncentratów przełącznikami, powoduje w sieci:",
+      "question": "Zastąpienie koncentratorów przełącznikami, powoduje w sieci:",
       "isMarkdown": false,
       "comments": [],
       "answers": [
         {
-          "answer": "zmiejszenie ilości domen rozgłoszeniowych",
+          "answer": "zmniejszenie ilości domen rozgłoszeniowych",
           "correct": true,
           "isMarkdown": false
         },
@@ -53,7 +53,7 @@
           "isMarkdown": false
         },
         {
-          "answer": "zwiekszenie ilości domen rozgłoszeniowych",
+          "answer": "zwiększenie ilości domen rozgłoszeniowych",
           "correct": false,
           "isMarkdown": false
         }
