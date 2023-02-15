@@ -5,29 +5,29 @@
   "data": [
     {
       "id": 3281,
-      "question": "Dane są dwie tabele Osoby(Imię, Nazwisko, Zarobki, Id_działu) oraz Działy (Id_działu, Nazwa). Które z następujących instrukcji są poprawnymi instrukcjami SQL w dialekcie ORACLE?",
-      "isMarkdown": false,
+      "question": "Dane są dwie tabele `Osoby(Imię, Nazwisko, Zarobki, Id_działu)` oraz `Działy(Id_działu, Nazwa)`. Które z następujących instrukcji są poprawnymi instrukcjami SQL w dialekcie ORACLE?",
+      "isMarkdown": true,
       "comments": [],
       "answers": [
         {
-          "answer": "INSERT INTO Osoby (Imię, Nazwisko, Zarobki) VALUES ('Jan', 'Kowalski', 2000);",
+          "answer": "`INSERT INTO Osoby (Imię, Nazwisko, Zarobki) VALUES ('Jan', 'Kowalski', 2000);`",
           "correct": true,
-          "isMarkdown": false
+          "isMarkdown": true
         },
         {
-          "answer": "DELETE FROM Osoby WHERE Id_działu = 10;",
+          "answer": "`DELETE FROM Osoby WHERE Id_działu = 10;`",
           "correct": true,
-          "isMarkdown": false
+          "isMarkdown": true
         },
         {
-          "answer": "UPDATE Osoby DELETE Nazwisko = 'KOWALSKI';",
+          "answer": "`UPDATE Osoby DELETE Nazwisko = 'KOWALSKI';`",
           "correct": false,
-          "isMarkdown": false
+          "isMarkdown": true
         },
         {
-          "answer": "SELECT Osoby.Nazwisko, Osoby.Imię, Osoby.Id_działu WHERE Działy.Nazwa = 'PRAWNY';",
+          "answer": "`SELECT Osoby.Nazwisko, Osoby.Imię, Osoby.Id_działu WHERE Działy.Nazwa = 'PRAWNY';`",
           "correct": false,
-          "isMarkdown": false
+          "isMarkdown": true
         }
       ]
     }
