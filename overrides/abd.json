@@ -1,6 +1,6 @@
 {
   "$schema":"../schemas/subject-override.json",
-  "id": "abd",
+  "id": "TEST",
   "data": [
     {
       "question": "Załóżmy, że w bazie danych PostgreSQL mamy tabelkę wykorzystującą typ danych jsonb. Czy możemy założyć indeks, który przyspieszyłby zapytanie pokazane poniżej (zakładając , że tabelka ma odpowiednią ilość danych i zapytanie jest selektywne):\n`SELECT * FROM books WHERE data->'published' = 'false';`",
