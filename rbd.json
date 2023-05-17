@@ -5025,19 +5025,19 @@
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<img src=\"https://bibixx.github.io/zdaj-se-pjatk-data/images/2403-WSI-PJA-01a.jpg\" alt=\"\" width=\"428\" height=\"158\">",
+          "answer": "<img src=\"https://i.ibb.co/Lr7sG2t/WSI-PJA-01a.jpg\" alt=\"\" width=\"428\" height=\"158\">",
           "correct": false
         },
         {
-          "answer": "<img src=\"https://bibixx.github.io/zdaj-se-pjatk-data/images/2404-WSI-PJA-02a.jpg\" alt=\"\" width=\"421\" height=\"134\">",
+          "answer": "<img src=\"https://i.ibb.co/VJRqnm3/WSI-PJA-02a.jpg\" alt=\"\" width=\"421\" height=\"134\">",
           "correct": true
         },
         {
-          "answer": "<img src=\"https://bibixx.github.io/zdaj-se-pjatk-data/images/2405-WSI-PJA-03a.jpg\" alt=\"\" width=\"421\" height=\"158\">",
+          "answer": "<img src=\"https://i.ibb.co/0QdtmNh/WSI-PJA-03a.jpg\" alt=\"\" width=\"421\" height=\"158\">",
           "correct": false
         },
         {
-          "answer": "<img src=\"https://bibixx.github.io/zdaj-se-pjatk-data/images/2406-WSI-PJA-04a.jpg\" alt=\"\" width=\"181\" height=\"174\">",
+          "answer": "<img src=\"https://i.ibb.co/sjgkBkv/WSI-PJA-04a.jpg\" alt=\"\" width=\"181\" height=\"174\">",
           "correct": false
         }
       ],
@@ -5116,5 +5116,5 @@
       "comments": []
     }
   ],
-  "updatedAt": 1681592051639
+  "updatedAt": 1684347416352
 }
