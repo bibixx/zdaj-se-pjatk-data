@@ -15,7 +15,7 @@
   • Link to a relevant part in the lecture
   • Link to an official documentation
   • Stack overflow question
-  • Thorough explanaition 
+  • Thorough explanation 
 
   🚨🚨 WARNING: Pull requests without sources will be closed without further questions 🚨🚨
 --> 
