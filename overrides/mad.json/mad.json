@@ -1,0 +1,30 @@
+{
+  "$schema": "../schemas/subject-override.json",
+  "id": "mad",
+  "updatedAt": 1688302315772,
+  "data": [
+    {
+      "id": null,
+      "question": "Wariancja zmiennej losowej zawsze",
+      "isMarkdown": false,
+      "comments": [],
+      "answers": [
+        {
+          "answer": "jest dodatnia,",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "należy do zakresu [0,1],",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "jest nieujemna.",
+          "correct": true,
+          "isMarkdown": false
+        }
+      ]
+    }
+  ]
+}
