@@ -1,5 +1,6 @@
 {
-  "$schema":"../schemas/subject-override.json",
+  "$schema": "../schemas/subject-override.json",
+  "updatedAt": 1688345533539,
   "data": [
     {
       "id": 2142,
@@ -8,7 +9,32 @@
     {
       "id": 2141,
       "question": "Język WSDL służy wyspecyfikowaniu (wskaż kompletną odpowiedź)"
+    },
+    {
+      "question": "Do technologii dynamicznych stron WWW zaliczamy:",
+      "isMarkdown": false,
+      "answers": [
+        {
+          "answer": "<p>aplety Javy</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "<p>JSF</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "<p>ActiveX</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "<p>XPath</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": false,
+          "isMarkdown": false
+        }
+      ]
     }
-  ],
-  "updatedAt": 1659128883934
+  ]
 }
