@@ -1,5 +1,6 @@
 {
-  "$schema":"../schemas/subject-override.json",
+  "$schema": "../schemas/subject-override.json",
+  "updatedAt": 1688343722832,
   "data": [
     {
       "id": 2142,
@@ -8,7 +9,32 @@
     {
       "id": 2141,
       "question": "Język WSDL służy wyspecyfikowaniu (wskaż kompletną odpowiedź)"
+    },
+    {
+      "question": "Kaskadowe arkusze stylów (CSS):",
+      "isMarkdown": false,
+      "answers": [
+        {
+          "answer": "Są interpretowane po stronie serwera",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "Pozwalają usprawnić ładowanie korzystających z nich stron",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "Wymagają przygotowania stron w postaci zgodnej z XHTML",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "Wykluczają możliwość zastosowania grafiki wektorowej",
+          "correct": false,
+          "isMarkdown": false
+        }
+      ]
     }
-  ],
-  "updatedAt": 1659128883934
+  ]
 }
