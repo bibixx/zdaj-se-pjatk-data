@@ -137,6 +137,32 @@
           "isMarkdown": false
         }
       ]
+    },
+    {
+      "question": "Numery portów są przekazywane w ramach:",
+      "isMarkdown": false,
+      "answers": [
+        {
+          "answer": "protokołu aplikacyjnego",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "protokołu warstwy sprzętowej",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "protokołu transportowego",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "protokołu warstwy sieciowej",
+          "correct": false,
+          "isMarkdown": false
+        }
+      ]
     }
   ]
 }
