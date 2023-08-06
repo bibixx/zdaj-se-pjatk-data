@@ -42,6 +42,11 @@
 						"type": "string",
 						"default": "",
 						"pattern": "^.*$"
+					},
+					"questionsCount": {
+						"$id": "#root/pages/items/questionsCount",
+						"title": "Questions Count",
+						"type": "number"
 					}
 				}
 			}
