@@ -1,6 +1,6 @@
 {
   "$schema": "schemas/index.json",
-  "updatedAt": 1691363367006,
+  "updatedAt": 1693674458752,
   "pages": [
     {
       "title": "Administrowanie bazami danych",
@@ -85,7 +85,7 @@
     {
       "title": "Modeling and Analysis of IT Systems",
       "id": "modeling_and_analysis_of_it_systems",
-      "questionsCount": 169
+      "questionsCount": 4
     },
     {
       "title": "Legal foundations of business",
@@ -161,11 +161,6 @@
       "title": "Wstęp do systemów informacyjnych",
       "id": "wsi",
       "questionsCount": 94
-    },
-    {
-      "title": "ZBD - pytania od studentów",
-      "id": "zbd",
-      "questionsCount": 2
     },
     {
       "title": "Zarządzanie projektem informatycznym (ZPR)",
