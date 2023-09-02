@@ -1,56 +1,49 @@
 {
-	"definitions": {},
-	"$schema": "http://json-schema.org/draft-07/schema#",
-	"$id": "https://example.com/object1659130525.json",
-	"title": "Root",
-	"type": "object",
-	"required": [
-		"updatedAt",
-		"pages"
-	],
-	"properties": {
-		"updatedAt": {
-			"$id": "#root/updatedAt",
-			"title": "Updated at",
-			"type": "integer",
-			"default": 0
-		},
-		"pages": {
-			"$id": "#root/pages",
-			"title": "Pages",
-			"type": "array",
-			"default": [],
-			"items":{
-				"$id": "#root/pages/items",
-				"title": "Items",
-				"type": "object",
-				"required": [
-					"title",
-					"id"
-				],
-				"properties": {
-					"title": {
-						"$id": "#root/pages/items/title",
-						"title": "Title",
-						"type": "string",
-						"default": "",
-						"pattern": "^.*$"
-					},
-					"id": {
-						"$id": "#root/pages/items/id",
-						"title": "Id",
-						"type": "string",
-						"default": "",
-						"pattern": "^.*$"
-					},
-					"questionsCount": {
-						"$id": "#root/pages/items/questionsCount",
-						"title": "Questions Count",
-						"type": "number"
-					}
-				}
-			}
-
-		}
-	}
+  "definitions": {},
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://example.com/object1659130525.json",
+  "title": "Root",
+  "type": "object",
+  "required": ["updatedAt", "pages"],
+  "properties": {
+    "updatedAt": {
+      "$id": "#root/updatedAt",
+      "title": "Updated at",
+      "type": "integer",
+      "default": 0
+    },
+    "pages": {
+      "$id": "#root/pages",
+      "title": "Pages",
+      "type": "array",
+      "default": [],
+      "items": {
+        "$id": "#root/pages/items",
+        "title": "Items",
+        "type": "object",
+        "required": ["title", "id"],
+        "properties": {
+          "title": {
+            "$id": "#root/pages/items/title",
+            "title": "Title",
+            "type": "string",
+            "default": "",
+            "pattern": "^.*$"
+          },
+          "id": {
+            "$id": "#root/pages/items/id",
+            "title": "Id",
+            "type": "string",
+            "default": "",
+            "pattern": "^.*$"
+          },
+          "questionsCount": {
+            "$id": "#root/pages/items/questionsCount",
+            "title": "Questions Count",
+            "type": "number"
+          }
+        }
+      }
+    }
+  }
 }
