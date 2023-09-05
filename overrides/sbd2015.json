@@ -1,7 +1,7 @@
 {
   "$schema": "../schemas/subject-override.json",
   "id": "sbd2015",
-  "updatedAt": 1676197147138,
+  "updatedAt": 1693952589737,
   "data": [
     {
       "id": 2431,
@@ -49,6 +49,32 @@
           "answer": "`SELECT Imie, Nazwisko FROM Klienci WHERE Nazwa='Pralka';`",
           "correct": false,
           "isMarkdown": true
+        }
+      ]
+    },
+    {
+      "question": "<span>W funkcji (FUNCTION) PL/SQL:(</span>",
+      "isMarkdown": false,
+      "answers": [
+        {
+          "answer": "<span>Nie można zadeklarować parametru typu OUT</span>",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "<span>Wywołanie funkcji odbywa się przez jej nazwę</span>",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "<span>nazwa funkcji może zostać przeciżona</span>",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "<span>funkcji definiowane w bazie danych mogą być użyte w poleceniach SQL</span>",
+          "correct": true,
+          "isMarkdown": false
         }
       ]
     }
