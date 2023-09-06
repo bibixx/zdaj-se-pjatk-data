@@ -1,0 +1,35 @@
+{
+  "$schema": "../schemas/subject-override.json",
+  "id": "apbd",
+  "updatedAt": 1688713373971,
+  "data": [
+    {
+      "id": null,
+      "question": "Które z poniższych zdań na temat LINQ jest prawdziwe?",
+      "isMarkdown": false,
+      "comments": [],
+      "answers": [
+        {
+          "answer": "Jest to część framework'u .NET. Technologia ta umożliwia realizowanie zapytań na kolekcjach obiektów. Składnia LINQ przypomina nieco SQL.&nbsp; LINQ może działać na dowolnej kolekcji, która implementuje interfejs IEnumerable.",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "Jest to część framework'u .NET. Technologia ta umożliwia bezpośrednią komunikację z relacyjną bazą danych z pominięciem języka SQL. Zapytanie jest wysyłane do bazy danych w zupełnie innej postaci (protokół 2PC).",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "Jest to część framework'u .NET. Technologia ta umożliwia realizowanie zapytań na obiektach. Składnia LINQ przypomina nieco SQL. Technologia ta służy wyłącznie do działania na plikach XML.",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "Jest to część framework'u .NET. Technologia ta umożliwia realizowanie znacznie bardziej wydajnych zapytań SQL na bazie danych. Wzrost wydajności wynosi ok. 10-20%.",
+          "correct": false,
+          "isMarkdown": false
+        }
+      ]
+    }
+  ]
+}
