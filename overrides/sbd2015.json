@@ -53,26 +53,26 @@
       ]
     },
     {
-      "question": "<span>W funkcji (FUNCTION) PL/SQL:(</span>",
-      "isMarkdown": false,
+      "question": "W funkcji (FUNCTION) PL/SQL:",
+      "isMarkdown": true,
       "answers": [
         {
-          "answer": "<span>Nie można zadeklarować parametru typu OUT</span>",
+          "answer": "Nie można zadeklarować parametru typu `OUT`",
           "correct": false,
-          "isMarkdown": false
+          "isMarkdown": true
         },
         {
-          "answer": "<span>Wywołanie funkcji odbywa się przez jej nazwę</span>",
+          "answer": "Wywołanie funkcji odbywa się przez jej nazwę",
           "correct": true,
           "isMarkdown": false
         },
         {
-          "answer": "<span>nazwa funkcji może zostać przeciżona</span>",
+          "answer": "Nazwa funkcji może zostać przeciążona",
           "correct": true,
           "isMarkdown": false
         },
         {
-          "answer": "<span>funkcji definiowane w bazie danych mogą być użyte w poleceniach SQL</span>",
+          "answer": "Funkcji definiowane w bazie danych mogą być użyte w poleceniach SQL",
           "correct": true,
           "isMarkdown": false
         }
