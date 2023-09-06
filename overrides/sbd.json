@@ -1,7 +1,7 @@
 {
   "$schema": "../schemas/subject-override.json",
   "id": "sbd",
-  "updatedAt": 1676216367128,
+  "updatedAt": 1694028830675,
   "data": [
     {
       "question": "<strong>Które z wymienionych mechanizmów są metodami zarządzania współbieżnością?</strong>",
@@ -83,6 +83,32 @@
         {
           "answer": "W trakcie działania transakcji inna transakcja wykonała DELETE",
           "correct": false,
+          "isMarkdown": false
+        }
+      ]
+    },
+    {
+      "question": "Które z poniższych klauzul mogą (ewentualnie muszą) wystąpić przed GROUP BY w Oraclu?",
+      "isMarkdown": false,
+      "answers": [
+        {
+          "answer": "<span>WHERE</span>",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "<span>ORDER BY</span>",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "<span>HAVING</span>",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "<span>FROM</span>",
+          "correct": true,
           "isMarkdown": false
         }
       ]
