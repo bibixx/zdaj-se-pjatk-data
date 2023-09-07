@@ -1,7 +1,7 @@
 {
   "$schema": "../schemas/subject-override.json",
   "id": "sbd",
-  "updatedAt": 1676216367128,
+  "updatedAt": 1694112181916,
   "data": [
     {
       "question": "<strong>Które z wymienionych mechanizmów są metodami zarządzania współbieżnością?</strong>",
@@ -82,6 +82,32 @@
         },
         {
           "answer": "W trakcie działania transakcji inna transakcja wykonała DELETE",
+          "correct": false,
+          "isMarkdown": false
+        }
+      ]
+    },
+    {
+      "question": "Który ze schematów bazy danych dla biblioteki jest najodpowiedniejszy z punktu widzenia zasad projektowania baz danych. Baza powinna przechowywać informacje o klientach, książkach i wypożyczeniach (wielkie litery oznaczają klucz główny):",
+      "isMarkdown": false,
+      "answers": [
+        {
+          "answer": "Klient(ID_KLIENTA, imię, nazwisko, adres)<br>Książka(ID_KSIąŻKI, tytuł, autor)<br>Wypożyczenie(ID_KLIENTA, id_książki, data_wypożyczenia, data_zwrotu)",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "Klient(ID_KLIENTA, imię, nazwisko, adres)<br>Książka(ID_KSIąŻKI, tytuł, autor)<br>Wypożyczenie(ID_KLIENTA, ID_KSIąŻKI, data_wypożyczenia, data_zwrotu)",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "Klient(ID_KLIENTA, imię, nazwisko, adres)<br>Książka(ID_KSIąŻKI, tytuł, autor)<br>Wypożyczenie(ID_KLIENTA, ID_KSIąŻKI, DATA_WYPOŻYCZENIA, data_zwrotu)",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "Klient(ID_KLIENTA, imię, nazwisko, adres)<br>Książka(ID_KSIąŻKI, tytuł, autor)<br>Wypożyczenie(ID_KLIENTA, ID_KSIąŻKI, DATA_WYPOŻYCZENIA, DATA_ZWROTU)",
           "correct": false,
           "isMarkdown": false
         }
