@@ -92,7 +92,7 @@
       "isMarkdown": false,
       "answers": [
         {
-          "answer": "Klient(ID_KLIENTA, imię, nazwisko, adres)<br>Książka(ID_KSIąŻKI, tytuł, autor)<br>Wypożyczenie(ID_KLIENTA, id_książki, data_wypożyczenia, data_zwrotu)",
+          "answer": "Klient(ID_KLIENTA, imię, nazwisko, adres)<br>Książka(ID_KSIĄŻKI, tytuł, autor)<br>Wypożyczenie(ID_KLIENTA, id_książki, data_wypożyczenia, data_zwrotu)",
           "correct": true,
           "isMarkdown": false
         },
@@ -102,12 +102,12 @@
           "isMarkdown": false
         },
         {
-          "answer": "Klient(ID_KLIENTA, imię, nazwisko, adres)<br>Książka(ID_KSIąŻKI, tytuł, autor)<br>Wypożyczenie(ID_KLIENTA, ID_KSIąŻKI, DATA_WYPOŻYCZENIA, data_zwrotu)",
+          "answer": "Klient(ID_KLIENTA, imię, nazwisko, adres)<br>Książka(ID_KSIĄŻKI, tytuł, autor)<br>Wypożyczenie(ID_KLIENTA, ID_KSIĄŻKI, DATA_WYPOŻYCZENIA, data_zwrotu)",
           "correct": false,
           "isMarkdown": false
         },
         {
-          "answer": "Klient(ID_KLIENTA, imię, nazwisko, adres)<br>Książka(ID_KSIąŻKI, tytuł, autor)<br>Wypożyczenie(ID_KLIENTA, ID_KSIąŻKI, DATA_WYPOŻYCZENIA, DATA_ZWROTU)",
+          "answer": "Klient(ID_KLIENTA, imię, nazwisko, adres)<br>Książka(ID_KSIĄŻKI, tytuł, autor)<br>Wypożyczenie(ID_KLIENTA, ID_KSIĄŻKI, DATA_WYPOŻYCZENIA, DATA_ZWROTU)",
           "correct": false,
           "isMarkdown": false
         }
