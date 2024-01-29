@@ -1,7 +1,7 @@
 {
   "$schema": "../schemas/subject-override.json",
   "id": "sbd",
-  "updatedAt": 1676216367128,
+  "updatedAt": 1706548845005,
   "data": [
     {
       "question": "<strong>Które z wymienionych mechanizmów są metodami zarządzania współbieżnością?</strong>",
@@ -83,6 +83,32 @@
         {
           "answer": "W trakcie działania transakcji inna transakcja wykonała DELETE",
           "correct": false,
+          "isMarkdown": false
+        }
+      ]
+    },
+    {
+      "question": "Które ze sformułowań są prawdziwe w modelu relacyjnym:",
+      "isMarkdown": false,
+      "answers": [
+        {
+          "answer": "tabela jest konkretną reprezentacją relacji",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "dla klucza jednoznacznego jest automatycznie zakładany indeks",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "dla klucza obcego jest automatycznie zakładany indeks",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "dla klucza głównego jest automatycznie zakładany indeks jednoznaczny",
+          "correct": true,
           "isMarkdown": false
         }
       ]
