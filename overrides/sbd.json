@@ -1,7 +1,7 @@
 {
   "$schema": "../schemas/subject-override.json",
   "id": "sbd",
-  "updatedAt": 1676216367128,
+  "updatedAt": 1706715940262,
   "data": [
     {
       "question": "<strong>Które z wymienionych mechanizmów są metodami zarządzania współbieżnością?</strong>",
@@ -83,6 +83,32 @@
         {
           "answer": "W trakcie działania transakcji inna transakcja wykonała DELETE",
           "correct": false,
+          "isMarkdown": false
+        }
+      ]
+    },
+    {
+      "question": "<span>Wskazać poprawne zapytanie SQL (w Oracle) znajdujące stanowiska, na których średni zarobek wynosi 3000 lub więcej.&nbsp;</span>",
+      "isMarkdown": false,
+      "answers": [
+        {
+          "answer": "<table>\n<tbody>\n<tr>\n<td>SELECT job, AVG(sal) FROM emp HAVING AVG (sal) &gt;= 3000 GROUP BY job</td>\n</tr>\n</tbody>\n</table>",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "<table>\n<tbody>\n<tr>\n<td>SELECT job, AVG(sal) FROM emp GROUP BY job WHERE AVG (sal) &gt;= 3000</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "<span>SELECT job, AVG(sal) FROM emp WHERE AVG (sal) &gt;= 3000 GROUP BY job</span>",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "<table>\n<tbody>\n<tr>\n<td>SELECT job, AVG(sal) FROM emp GROUP BY job HAVING AVG (sal) &gt;= 3000</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>",
+          "correct": true,
           "isMarkdown": false
         }
       ]
