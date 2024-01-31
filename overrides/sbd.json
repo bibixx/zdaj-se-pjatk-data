@@ -88,28 +88,29 @@
       ]
     },
     {
-      "question": "<span>Wskazać poprawne zapytanie SQL (w Oracle) znajdujące stanowiska, na których średni zarobek wynosi 3000 lub więcej.&nbsp;</span>",
+      "question": "Wskazać poprawne zapytanie SQL (w Oracle) znajdujące stanowiska, na których średni zarobek wynosi 3000 lub więcej.",
+      "id": 2384,
       "isMarkdown": false,
       "answers": [
         {
-          "answer": "<table>\n<tbody>\n<tr>\n<td>SELECT job, AVG(sal) FROM emp HAVING AVG (sal) &gt;= 3000 GROUP BY job</td>\n</tr>\n</tbody>\n</table>",
+          "answer": "```sql\nSELECT job, AVG(sal) FROM emp HAVING AVG (sal) >= 3000 GROUP BY job\n```",
           "correct": true,
-          "isMarkdown": false
+          "isMarkdown": true
         },
         {
-          "answer": "<table>\n<tbody>\n<tr>\n<td>SELECT job, AVG(sal) FROM emp GROUP BY job WHERE AVG (sal) &gt;= 3000</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>",
+          "answer": "```sql\nSELECT job, AVG(sal) FROM emp GROUP BY job WHERE AVG (sal) >= 3000\n```",
           "correct": false,
-          "isMarkdown": false
+          "isMarkdown": true
         },
         {
-          "answer": "<span>SELECT job, AVG(sal) FROM emp WHERE AVG (sal) &gt;= 3000 GROUP BY job</span>",
+          "answer": "```sql\nSELECT job, AVG(sal) FROM emp WHERE AVG (sal) >= 3000 GROUP BY job\n```",
           "correct": false,
-          "isMarkdown": false
+          "isMarkdown": true
         },
         {
-          "answer": "<table>\n<tbody>\n<tr>\n<td>SELECT job, AVG(sal) FROM emp GROUP BY job HAVING AVG (sal) &gt;= 3000</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>",
+          "answer": "```sql\nSELECT job, AVG(sal) FROM emp GROUP BY job HAVING AVG (sal) >= 3000\n```",
           "correct": true,
-          "isMarkdown": false
+          "isMarkdown": true
         }
       ]
     }
