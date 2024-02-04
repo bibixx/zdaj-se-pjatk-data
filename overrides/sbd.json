@@ -1,7 +1,7 @@
 {
   "$schema": "../schemas/subject-override.json",
   "id": "sbd",
-  "updatedAt": 1706715940262,
+  "updatedAt": 1707051639451,
   "data": [
     {
       "question": "<strong>Które z wymienionych mechanizmów są metodami zarządzania współbieżnością?</strong>",
@@ -111,6 +111,32 @@
           "answer": "```sql\nSELECT job, AVG(sal) FROM emp GROUP BY job HAVING AVG (sal) >= 3000\n```",
           "correct": true,
           "isMarkdown": true
+        }
+      ]
+    },
+    {
+      "question": "<span>Jaką wartość dla kolumny \"Salary\" zwróci to zapytanie?</span><br><span>SELECT ename, NVL(sal, 0) \"Salary\" FROM Emp WHERE Sal IS NULL ORDER BY ename;</span>",
+      "isMarkdown": false,
+      "answers": [
+        {
+          "answer": "<table>\n<tbody>\n<tr>\n<td>0</td>\n</tr>\n</tbody>\n</table>",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "<span>spację</span>",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "<table>\n<tbody>\n<tr>\n<td>nic nie zwróci</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "<span>null</span>",
+          "correct": false,
+          "isMarkdown": false
         }
       ]
     }
