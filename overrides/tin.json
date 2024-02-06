@@ -8,6 +8,28 @@
     {
       "id": 2141,
       "question": "Język WSDL służy wyspecyfikowaniu (wskaż kompletną odpowiedź)"
+    },
+    {
+      "question": "<p class=\"MsoListParagraphCxSpFirst\"><strong>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></strong><strong>Selektor CSS sformułowany jako ul ol selekcjonuje element[y]</strong></p>\n<p class=\"MsoListParagraphCxSpMiddle\">&nbsp;</p>",
+      "id": 2163,
+      "answers": [
+        {
+          "answer": "<span>&nbsp;</span><span>Wszystkie elementy &lt;ol&gt;..&lt;/ol&gt; oraz elementy&lt;ul&gt;…&lt;/ul&gt;????</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>&nbsp;</span><span>&lt;ul class=”ol”&gt;…&lt;/ul&gt;</span>",
+          "correct": false
+        },
+        {
+          "answer": "&nbsp;&nbsp;&lt;ol&gt;…&lt;/ol&gt; zawarte wewnątrz elementu &lt;ul&gt;…&lt;/ul&gt;",
+          "correct": true
+        },
+        {
+          "answer": "<span>&lt;ul&gt;ol&lt;/ul&gt;</span>",
+          "correct": false
+        }
+      ]
     }
   ],
   "updatedAt": 1659128883934
