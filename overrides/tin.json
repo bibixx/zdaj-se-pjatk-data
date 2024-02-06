@@ -12,10 +12,11 @@
     {
       "question": "<p class=\"MsoListParagraphCxSpFirst\"><strong>1.<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></strong><strong>Selektor CSS sformułowany jako ul ol selekcjonuje element[y]</strong></p>\n<p class=\"MsoListParagraphCxSpMiddle\">&nbsp;</p>",
       "id": 2163,
+      "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<span>&nbsp;</span><span>Wszystkie elementy &lt;ol&gt;..&lt;/ol&gt; oraz elementy&lt;ul&gt;…&lt;/ul&gt;????</span>",
-          "correct": false
+          "answer": "<span>&nbsp;</span><span>Wszystkie elementy &lt;ol&gt;..&lt;/ol&gt; oraz elementy&lt;ul&gt;…&lt;/ul&gt;</span>",
+          "correct": true
         },
         {
           "answer": "<span>&nbsp;</span><span>&lt;ul class=”ol”&gt;…&lt;/ul&gt;</span>",
@@ -23,7 +24,7 @@
         },
         {
           "answer": "&nbsp;&nbsp;&lt;ol&gt;…&lt;/ol&gt; zawarte wewnątrz elementu &lt;ul&gt;…&lt;/ul&gt;",
-          "correct": true
+          "correct": false
         },
         {
           "answer": "<span>&lt;ul&gt;ol&lt;/ul&gt;</span>",
