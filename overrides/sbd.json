@@ -115,28 +115,28 @@
       ]
     },
     {
-      "question": "<span>Jaką wartość dla kolumny \"Salary\" zwróci to zapytanie?</span><br><span>SELECT ename, NVL(sal, 0) \"Salary\" FROM Emp WHERE Sal IS NULL ORDER BY ename;</span>",
-      "isMarkdown": false,
+      "question": "Jaką wartość dla kolumny `Salary` zwróci to zapytanie?\n```sql\nSELECT ename, NVL(sal, 0) \"Salary\" FROM Emp WHERE Sal IS NULL ORDER BY ename;```",
+      "isMarkdown": true,
       "answers": [
         {
-          "answer": "<table>\n<tbody>\n<tr>\n<td>0</td>\n</tr>\n</tbody>\n</table>",
+          "answer": "`0`",
           "correct": true,
-          "isMarkdown": false
+          "isMarkdown": true
         },
         {
-          "answer": "<span>spację</span>",
+          "answer": "spację",
           "correct": false,
           "isMarkdown": false
         },
         {
-          "answer": "<table>\n<tbody>\n<tr>\n<td>nic nie zwróci</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>",
+          "answer": "nic nie zwróci",
           "correct": false,
           "isMarkdown": false
         },
         {
-          "answer": "<span>null</span>",
+          "answer": "`null`",
           "correct": false,
-          "isMarkdown": false
+          "isMarkdown": true
         }
       ]
     }
