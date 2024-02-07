@@ -8,6 +8,28 @@
     {
       "id": 2141,
       "question": "Język WSDL służy wyspecyfikowaniu (wskaż kompletną odpowiedź)"
+    },
+    {
+      "question": "Kaskadowe arkusze stylów (CSS):",
+      "id": 3396,
+      "answers": [
+        {
+          "answer": "Są interpretowane po stronie serwera",
+          "correct": false
+        },
+        {
+          "answer": "Pozwalają usprawnić ładowanie korzystających z nich stron",
+          "correct": true
+        },
+        {
+          "answer": "Wymagają przygotowania stron w postaci zgodnej z XHTML",
+          "correct": false
+        },
+        {
+          "answer": "Wykluczają możliwość zastosowania grafiki wektorowej",
+          "correct": false
+        }
+      ]
     }
   ],
   "updatedAt": 1659128883934
