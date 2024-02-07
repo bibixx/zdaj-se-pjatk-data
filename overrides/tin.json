@@ -1,5 +1,5 @@
 {
-  "$schema":"../schemas/subject-override.json",
+  "$schema": "../schemas/subject-override.json",
   "data": [
     {
       "id": 2142,
@@ -27,6 +27,34 @@
         },
         {
           "answer": "Wykluczają możliwość zastosowania grafiki wektorowej",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Selektor CSS sformułowany jako `ul ol` selekcjonuje element[y]",
+      "isMarkdown": true,
+      "id": 2163,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Wszystkie elementy `<ol>…</ol>` oraz elementy `<ul>…</ul>`",
+          "isMarkdown": true,
+          "correct": false
+        },
+        {
+          "answer": "`<ul class=”ol”>…</ul>`",
+          "isMarkdown": true,
+          "correct": false
+        },
+        {
+          "answer": "`<ol>…</ol>` zawarte wewnątrz elementu `<ul>…</ul>`",
+          "isMarkdown": true,
+          "correct": true
+        },
+        {
+          "answer": "`<ul>ol</ul>`",
+          "isMarkdown": true,
           "correct": false
         }
       ]
