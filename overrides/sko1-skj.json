@@ -92,17 +92,17 @@
       "isMarkdown": false,
       "answers": [
         {
-          "answer": "zawodną usługę typu \"best effort\"<p></p>\n<p>&nbsp;</p>",
+          "answer": "zawodną usługę typu \"best effort\"",
           "correct": true,
           "isMarkdown": false
         },
         {
           "answer": "niezawodną usługę TCP",
-          "correct": true,
+          "correct": false,
           "isMarkdown": false
         },
         {
-          "answer": "usługę gwarantującą minimalną przepustowość<p></p>\n<p>&nbsp;</p>",
+          "answer": "usługę gwarantującą minimalną przepustowość",
           "correct": false,
           "isMarkdown": false
         },
