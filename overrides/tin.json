@@ -1,5 +1,6 @@
 {
   "$schema": "../schemas/subject-override.json",
+  "updatedAt": 1707434565194,
   "data": [
     {
       "id": 2142,
@@ -58,7 +59,32 @@
           "correct": false
         }
       ]
+    },
+    {
+      "question": "Do technologii dynamicznych stron WWW zaliczamy:",
+      "isMarkdown": false,
+      "answers": [
+        {
+          "answer": "aplety Javy",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "JSF",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "ActiveX",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "XPath",
+          "correct": false,
+          "isMarkdown": false
+        }
+      ]
     }
-  ],
-  "updatedAt": 1659128883934
+  ]
 }
