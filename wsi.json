@@ -400,7 +400,7 @@
       "comments": []
     },
     {
-      "question": "<p class=\"MsoListParagraph\"><strong><span lang=\"PL\">Kto jest twórcą relacyjnego modelu danych:</span></strong></p>\n<p>&nbsp;</p>",
+      "question": "- (0)",
       "id": 2663,
       "numberOfComments": 0,
       "answers": [
@@ -424,7 +424,7 @@
       "comments": []
     },
     {
-      "question": "<p class=\"MsoListParagraph\"><strong><span lang=\"PL\">Zaznacz poprawne stwierdzenia dotyczęce kopii zapasowych w serwerach baz danych:</span></strong></p>\n<p class=\"MsoListParagraph\"><strong><span lang=\"PL\"><br></span></strong></p>",
+      "question": "- (8)",
       "id": 2664,
       "numberOfComments": 0,
       "answers": [
@@ -448,7 +448,7 @@
       "comments": []
     },
     {
-      "question": "<p class=\"MsoListParagraph\"><strong><span lang=\"PL\">Stereotyp &lt;&lt;include&gt;&gt; oznacza ze</span></strong></p>",
+      "question": "- (9)",
       "id": 2665,
       "numberOfComments": 0,
       "answers": [
@@ -472,12 +472,12 @@
       "comments": []
     },
     {
-      "question": "<p class=\"MsoListParagraph\"><strong><span lang=\"PL\">Zaznacz poprawne stwierdzenia dotyczące architektury klient-serwer:</span></strong></p>\n<p>&nbsp;</p>",
+      "question": "- (5)",
       "id": 2666,
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<p class=\"MsoListParagraph\"><span lang=\"PL\">Klientem może bać przeglądarka internetowa</span></p>",
+          "answer": "Klientem może bać przeglądarka internetowa",
           "correct": true
         },
         {
@@ -1996,20 +1996,20 @@
       "comments": []
     },
     {
-      "question": "&nbsp;<p></p>\n<p class=\"MsoListParagraph\"><strong><span><span><span>&nbsp; &nbsp;&nbsp;</span></span></span></strong><strong><span>Jakie są zalety tworzenia klientów WWW w architekturze klient-serwer?</span></strong>\n          </p>",
+      "question": "Jakie są zalety tworzenia klientów WWW w architekturze klient-serwer?",
       "id": 2739,
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "&nbsp;<p></p>\n<p class=\"MsoListParagraph\"><span><span><span>&nbsp; &nbsp;&nbsp;</span></span></span><span>łatwiejsza konserwacja systemu</span></p>",
+          "answer": "łatwiejsza konserwacja systemu",
           "correct": true
         },
         {
-          "answer": "&nbsp;<p></p>\n<p class=\"MsoListParagraph\"><span>brak konieczności instalacji oprogramowania po stronie klienta</span></p>",
+          "answer": "brak konieczności instalacji oprogramowania po stronie klienta",
           "correct": true
         },
         {
-          "answer": "&nbsp;<p></p>\n<p class=\"MsoListParagraph\"><span>wygodniejsza i szybsza praca z dużymi ilościami danych (zaleta klienta stacjonarnego)</span></p>",
+          "answer": "wygodniejsza i szybsza praca z dużymi ilościami danych (zaleta klienta stacjonarnego)",
           "correct": false
         }
       ],
@@ -2204,5 +2204,5 @@
       "comments": []
     }
   ],
-  "updatedAt": 1684347416352
+  "updatedAt": 1705528642695
 }

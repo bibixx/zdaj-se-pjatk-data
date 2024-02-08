@@ -1,7 +1,7 @@
 {
   "$schema": "../schemas/subject-override.json",
   "id": "sbd",
-  "updatedAt": 1676216367128,
+  "updatedAt": 1707051639451,
   "data": [
     {
       "question": "<strong>Które z wymienionych mechanizmów są metodami zarządzania współbieżnością?</strong>",
@@ -84,6 +84,59 @@
           "answer": "W trakcie działania transakcji inna transakcja wykonała DELETE",
           "correct": false,
           "isMarkdown": false
+        }
+      ]
+    },
+    {
+      "question": "Wskazać poprawne zapytanie SQL (w Oracle) znajdujące stanowiska, na których średni zarobek wynosi 3000 lub więcej.",
+      "id": 2384,
+      "isMarkdown": false,
+      "answers": [
+        {
+          "answer": "```sql\nSELECT job, AVG(sal) FROM emp HAVING AVG (sal) >= 3000 GROUP BY job\n```",
+          "correct": true,
+          "isMarkdown": true
+        },
+        {
+          "answer": "```sql\nSELECT job, AVG(sal) FROM emp GROUP BY job WHERE AVG (sal) >= 3000\n```",
+          "correct": false,
+          "isMarkdown": true
+        },
+        {
+          "answer": "```sql\nSELECT job, AVG(sal) FROM emp WHERE AVG (sal) >= 3000 GROUP BY job\n```",
+          "correct": false,
+          "isMarkdown": true
+        },
+        {
+          "answer": "```sql\nSELECT job, AVG(sal) FROM emp GROUP BY job HAVING AVG (sal) >= 3000\n```",
+          "correct": true,
+          "isMarkdown": true
+        }
+      ]
+    },
+    {
+      "question": "Jaką wartość dla kolumny `Salary` zwróci to zapytanie?\n```sql\nSELECT ename, NVL(sal, 0) \"Salary\" FROM Emp WHERE Sal IS NULL ORDER BY ename;```",
+      "isMarkdown": true,
+      "answers": [
+        {
+          "answer": "`0`",
+          "correct": true,
+          "isMarkdown": true
+        },
+        {
+          "answer": "spację",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "nic nie zwróci",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "`null`",
+          "correct": false,
+          "isMarkdown": true
         }
       ]
     }

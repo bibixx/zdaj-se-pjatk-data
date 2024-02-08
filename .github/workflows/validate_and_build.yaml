@@ -1,4 +1,4 @@
-name: 'Validate JSON files and deploy to GitHub Pages'
+name: "Validate JSON files and deploy to GitHub Pages"
 
 on:
   workflow_dispatch:
@@ -10,7 +10,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: '${{ github.workflow }} @ ${{ github.event.pull_request.head.label || github.head_ref || github.ref }}'
+  group: "${{ github.workflow }} @ ${{ github.event.pull_request.head.label || github.head_ref || github.ref }}"
   cancel-in-progress: true
 
 jobs:
@@ -24,9 +24,6 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: 16.13.x
-
-      - name: Install AJV
-        run: npm install -g ajv-cli
 
       - name: Validate schema
         run: ./validate.sh

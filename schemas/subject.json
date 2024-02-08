@@ -4,12 +4,7 @@
   "$id": "https://example.com/object1659129904.json",
   "title": "Root",
   "type": "object",
-  "required": [
-    "title",
-    "id",
-    "data",
-    "updatedAt"
-  ],
+  "required": ["title", "id", "data", "updatedAt"],
   "properties": {
     "title": {
       "$id": "#root/title",
@@ -28,7 +23,7 @@
       "title": "Data",
       "type": "array",
       "default": [],
-      "items":{
+      "items": {
         "$id": "#root/data/items",
         "title": "Items",
         "type": "object",
@@ -63,14 +58,11 @@
             "title": "Answers",
             "type": "array",
             "default": [],
-            "items":{
+            "items": {
               "$id": "#root/data/items/answers/items",
               "title": "Items",
               "type": "object",
-              "required": [
-                "answer",
-                "correct"
-              ],
+              "required": ["answer", "correct"],
               "properties": {
                 "answer": {
                   "$id": "#root/data/items/answers/items/answer",
@@ -88,10 +80,23 @@
             }
           },
           "comments": {
-            "$id": "#root/data/items/comments",
-            "title": "Comments",
             "type": "array",
-            "default": []
+            "items": {
+              "type": "object",
+              "properties": {
+                "author": {
+                  "type": "string"
+                },
+                "comment": {
+                  "type": "string"
+                },
+                "date": {
+                  "type": "string",
+                  "pattern": "^[0-9]{2}-[0-9]{2}-[0-9]{4} [0-9]{2}:[0-9]{2}:[0-9]{2}$"
+                }
+              },
+              "required": ["author", "comment", "date"]
+            }
           }
         }
       }

@@ -6,7 +6,7 @@ exit_code=0
 function validate() {
   file="$1"
 
-  message=$(ajv validate -d $file -s $(cat $file | jq -r '.["$schema"]') 2>&1)
+  message=$(npx ajv-cli validate -d $file -s $(cat $file | jq -r '.["$schema"]') 2>&1)
 
   if ! [ $? -eq 0 ];
   then

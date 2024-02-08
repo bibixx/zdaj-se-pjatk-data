@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/subject-override.json",
-  "updatedAt": 1688345533539,
+  "updatedAt": 1707434565194,
   "data": [
     {
       "id": 2142,
@@ -9,6 +9,56 @@
     {
       "id": 2141,
       "question": "Język WSDL służy wyspecyfikowaniu (wskaż kompletną odpowiedź)"
+    },
+    {
+      "question": "Kaskadowe arkusze stylów (CSS):",
+      "id": 3396,
+      "answers": [
+        {
+          "answer": "Są interpretowane po stronie serwera",
+          "correct": false
+        },
+        {
+          "answer": "Pozwalają usprawnić ładowanie korzystających z nich stron",
+          "correct": true
+        },
+        {
+          "answer": "Wymagają przygotowania stron w postaci zgodnej z XHTML",
+          "correct": false
+        },
+        {
+          "answer": "Wykluczają możliwość zastosowania grafiki wektorowej",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Selektor CSS sformułowany jako `ul ol` selekcjonuje element[y]",
+      "isMarkdown": true,
+      "id": 2163,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Wszystkie elementy `<ol>…</ol>` oraz elementy `<ul>…</ul>`",
+          "isMarkdown": true,
+          "correct": false
+        },
+        {
+          "answer": "`<ul class=”ol”>…</ul>`",
+          "isMarkdown": true,
+          "correct": false
+        },
+        {
+          "answer": "`<ol>…</ol>` zawarte wewnątrz elementu `<ul>…</ul>`",
+          "isMarkdown": true,
+          "correct": true
+        },
+        {
+          "answer": "`<ul>ol</ul>`",
+          "isMarkdown": true,
+          "correct": false
+        }
+      ]
     },
     {
       "question": "Do technologii dynamicznych stron WWW zaliczamy:",

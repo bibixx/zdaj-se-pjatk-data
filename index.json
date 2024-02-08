@@ -1,142 +1,171 @@
 {
   "$schema": "schemas/index.json",
-  "updatedAt": 1684347416352,
+  "updatedAt": 1705528642695,
   "pages": [
     {
       "title": "Administrowanie bazami danych",
-      "id": "abd"
+      "id": "abd",
+      "questionsCount": 104
     },
     {
       "title": "Aplikacje Baz Danych",
-      "id": "apbd"
+      "id": "apbd",
+      "questionsCount": 29
     },
     {
       "title": "Algorytmy i Struktury Danych - edux",
-      "id": "asd"
+      "id": "asd",
+      "questionsCount": 314
     },
     {
       "title": "Automaty i Gramatyki",
-      "id": "aug"
+      "id": "aug",
+      "questionsCount": 4
     },
     {
       "title": "Bezpieczeństwo Systemów Informatycznych",
-      "id": "bsi"
+      "id": "bsi",
+      "questionsCount": 129
     },
     {
       "title": "Bezpieczeństwo Systemów Informatycznych (ANG) - 2012",
-      "id": "bsi_ang_2012"
+      "id": "bsi_ang_2012",
+      "questionsCount": 75
     },
     {
       "title": "Bezpieczeństwo Systemów Informatycznych 2018",
-      "id": "bsi_ang_2018"
+      "id": "bsi_ang_2018",
+      "questionsCount": 18
     },
     {
       "title": "Fizyka Kolos1 (angielska)",
-      "id": "fiz"
+      "id": "fiz",
+      "questionsCount": 122
     },
     {
       "title": "Fizyka k1",
-      "id": "fizk1"
+      "id": "fizk1",
+      "questionsCount": 86
     },
     {
       "title": "Fizyka k2",
-      "id": "fizk2"
+      "id": "fizk2",
+      "questionsCount": 54
     },
     {
       "title": "Grafika Komputerowa",
-      "id": "grk"
+      "id": "grk",
+      "questionsCount": 74
     },
     {
       "title": "Hurtownie danych i aplikacje OLAP",
-      "id": "hur"
+      "id": "hur",
+      "questionsCount": 1
     },
     {
       "title": "Matematyka Dyskretna 2020",
-      "id": "mad"
+      "id": "mad",
+      "questionsCount": 10
     },
     {
       "title": "Matematyka Dyskretna 1 - 2020, Gakko",
-      "id": "mad1"
+      "id": "mad1",
+      "questionsCount": 60
     },
     {
       "title": "Matematyka Dyskretna - edux - 2012 ZIMA",
-      "id": "mad2012a"
+      "id": "mad2012a",
+      "questionsCount": 173
     },
     {
       "title": "Modelowanie i Analiza Systemów informacyjnych",
-      "id": "mas"
+      "id": "mas",
+      "questionsCount": 55
     },
     {
       "title": "Modeling and Analysis of IT Systems",
-      "id": "modeling_and_analysis_of_it_systems"
+      "id": "modeling_and_analysis_of_it_systems",
+      "questionsCount": 4
     },
     {
       "title": "Legal foundations of business",
-      "id": "ppb_ang"
+      "id": "ppb_ang",
+      "questionsCount": 6
     },
     {
       "title": "Prawne aspekty zarządzania",
-      "id": "prawne_aspekty_zarządzania"
+      "id": "prawne_aspekty_zarządzania",
+      "questionsCount": 129
     },
     {
       "title": "Relacyjne Bazy Danych",
-      "id": "rbd"
+      "id": "rbd",
+      "questionsCount": 213
     },
     {
       "title": "RBD egz 2016 zaoczne",
-      "id": "rbdz"
+      "id": "rbdz",
+      "questionsCount": 90
     },
     {
       "title": "Rachunkowość Podmiotow Gospodarczych",
-      "id": "rpg"
+      "id": "rpg",
+      "questionsCount": 43
     },
     {
       "title": "Systemy Baz Danych",
-      "id": "sbd"
+      "id": "sbd",
+      "questionsCount": 378
     },
     {
       "title": "Systemy Baz Danych zima 2015",
-      "id": "sbd2015"
+      "id": "sbd2015",
+      "questionsCount": 158
     },
     {
       "title": "Sieci Komputerowe - ang - egzamin ",
-      "id": "skj"
+      "id": "skj",
+      "questionsCount": 13
     },
     {
       "title": "Sieci Komputerowe 1",
-      "id": "sko1-skj"
+      "id": "sko1-skj",
+      "questionsCount": 170
     },
     {
       "title": "Sieci Komputerowe 2 - edu - 2011 ZIMA",
-      "id": "sko2"
+      "id": "sko2",
+      "questionsCount": 26
     },
     {
       "title": "Systemy operacyjne",
-      "id": "sop"
+      "id": "sop",
+      "questionsCount": 24
     },
     {
       "title": "Technika i Architektura Komputerów",
-      "id": "tak"
+      "id": "tak",
+      "questionsCount": 236
     },
     {
       "title": "Technika i Architekture Komputerów (TAK) [ENG]",
-      "id": "tak_ang"
+      "id": "tak_ang",
+      "questionsCount": 158
     },
     {
       "title": "Technologie Internetu",
-      "id": "tin"
+      "id": "tin",
+      "questionsCount": 137
     },
     {
       "title": "Wstęp do systemów informacyjnych",
-      "id": "wsi"
-    },
-    {
-      "title": "ZBD - pytania od studentów",
-      "id": "zbd"
+      "id": "wsi",
+      "questionsCount": 94
     },
     {
       "title": "Zarządzanie projektem informatycznym (ZPR)",
-      "id": "zpr"
+      "id": "zpr",
+      "questionsCount": 8
     }
   ]
 }
