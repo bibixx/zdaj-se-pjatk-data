@@ -1,7 +1,7 @@
 {
   "$schema": "../schemas/subject-override.json",
   "id": "sko1-skj",
-  "updatedAt": 1707393065568,
+  "updatedAt": 1707427094177,
   "data": [
     {
       "id": 2565,
@@ -108,6 +108,37 @@
         },
         {
           "answer": "usługę gwarantującą górne ograniczenia na opóźnienia",
+          "correct": false,
+          "isMarkdown": false
+        }
+      ]
+    },
+    {
+      "question": "-Jakie zjawiska wystąpią, gdy w sieci Ethernet zamienimy koncentrator (hub) na przełącznik (switch) pracujący w trybie store-and-forward ?",
+      "isMarkdown": false,
+      "answers": [
+        {
+          "answer": "opóźnienie transmisji pomiędzy węzłami zwiększy się",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "zmniejszy się maksymalny możliwy dystans pomiędzy węzłami",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "dzięki zmniejszeniu liczby kolizji zmniejszy się liczba traconych ramek",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "wzrośnie bisekcyjna przepustowość sieci (sumaryczna przepustowość, gdy połowa węzłów nadaje, połowa odbiera)",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "niektóre protokoły np. ARP przestaną pracować prawidłowo",
           "correct": false,
           "isMarkdown": false
         }
