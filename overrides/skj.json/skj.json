@@ -1,0 +1,35 @@
+{
+  "$schema": "../schemas/subject-override.json",
+  "id": "skj",
+  "updatedAt": 1707385727329,
+  "data": [
+    {
+      "id": 2630,
+      "question": "<span>&nbsp;A protocol used to automatically configure IP networking for a host is called:</span>",
+      "isMarkdown": false,
+      "comments": [],
+      "answers": [
+        {
+          "answer": "<span>DNS&nbsp;</span>",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "<span>DHCP</span>",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "<span>SNMP</span>",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "<span>DHCM&nbsp;</span>",
+          "correct": false,
+          "isMarkdown": false
+        }
+      ]
+    }
+  ]
+}
