@@ -15,22 +15,22 @@
       "isMarkdown": false,
       "answers": [
         {
-          "answer": "<p>aplety Javy</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "answer": "aplety Javy",
           "correct": true,
           "isMarkdown": false
         },
         {
-          "answer": "<p>JSF</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "answer": "JSF",
           "correct": true,
           "isMarkdown": false
         },
         {
-          "answer": "<p>ActiveX</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "answer": "ActiveX",
           "correct": true,
           "isMarkdown": false
         },
         {
-          "answer": "<p>XPath</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "answer": "XPath",
           "correct": false,
           "isMarkdown": false
         }
