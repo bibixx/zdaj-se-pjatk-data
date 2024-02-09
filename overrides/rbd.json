@@ -1,7 +1,7 @@
 {
   "$schema": "../schemas/subject-override.json",
   "id": "rbd",
-  "updatedAt": 1676489317350,
+  "updatedAt": 1707487547853,
   "data": [
     {
       "id": 3281,
@@ -28,6 +28,32 @@
           "answer": "`SELECT Osoby.Nazwisko, Osoby.Imię, Osoby.Id_działu WHERE Działy.Nazwa = 'PRAWNY';`",
           "correct": false,
           "isMarkdown": true
+        }
+      ]
+    },
+    {
+      "question": "Jeśli w zapytaniu występuje klauzula GROUP BY, wówczas po SELECT może być:",
+      "isMarkdown": false,
+      "answers": [
+        {
+          "answer": "dowolna kolumna",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "dowolne wyrażenie",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "kolumna występująca po GROUP BY",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "stała",
+          "correct": false,
+          "isMarkdown": false
         }
       ]
     }
