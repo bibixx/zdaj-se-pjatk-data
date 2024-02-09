@@ -1,7 +1,7 @@
 {
   "$schema": "../schemas/subject-override.json",
   "id": "sko1-skj",
-  "updatedAt": 1707393065568,
+  "updatedAt": 1707442468964,
   "data": [
     {
       "id": 2565,
@@ -16,12 +16,12 @@
         },
         {
           "answer": "4",
-          "correct": true,
+          "correct": false,
           "isMarkdown": false
         },
         {
           "answer": "5",
-          "correct": false,
+          "correct": true,
           "isMarkdown": false
         },
         {
