@@ -1,7 +1,7 @@
 {
   "$schema": "../schemas/subject-override.json",
   "id": "rbd",
-  "updatedAt": 1676489317350,
+  "updatedAt": 1707486510698,
   "data": [
     {
       "id": 3281,
@@ -28,6 +28,32 @@
           "answer": "`SELECT Osoby.Nazwisko, Osoby.Imię, Osoby.Id_działu WHERE Działy.Nazwa = 'PRAWNY';`",
           "correct": false,
           "isMarkdown": true
+        }
+      ]
+    },
+    {
+      "question": "Co będzie wynikiem realizacji poniższej instrukcji na niepustej relacji OSOBA (IdOsoba, Imie, Nazwisko, NrKonta): SELECT * FROM Osoba WHERE NrKonta = NrKonta OR NrKonta = NULL?",
+      "isMarkdown": false,
+      "answers": [
+        {
+          "answer": "&nbsp;relacja Osoba",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "relacja pusta",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "&nbsp;instrukcja jest niepoprawna składniowo",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "&nbsp;zawsze podzbiór relacji z rekordów, gdzie NrKonta ma wartość nie będącą NULL",
+          "correct": true,
+          "isMarkdown": false
         }
       ]
     }
