@@ -85,6 +85,32 @@
           "isMarkdown": false
         }
       ]
+    },
+    {
+      "question": "Wyrażenie w języku Ruby&nbsp;<strong>:xyz.class</strong> zwróci:",
+      "isMarkdown": false,
+      "answers": [
+        {
+          "answer": "klasę Method",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "klasę Symbol",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "błąd - literały w języku Ruby nie implementują metod",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "błąd - wyrażenie rozpoczęte dwukropkiem niezgodne ze składnią języka",
+          "correct": false,
+          "isMarkdown": false
+        }
+      ]
     }
   ]
 }
