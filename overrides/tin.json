@@ -111,6 +111,32 @@
           "isMarkdown": false
         }
       ]
+    },
+    {
+      "question": "Język XSLT:",
+      "isMarkdown": false,
+      "answers": [
+        {
+          "answer": "Zaimplementowano wyłącznie po stronie przeglądarki klienta",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "Wspiera rekurencyjne wywoływanie wzorców",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "Umożliwia przetwarzanie dowolnych dokumentów HTML",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "Działa wyłącznie po stronie serwera",
+          "correct": false,
+          "isMarkdown": false
+        }
+      ]
     }
   ]
 }
