@@ -138,6 +138,428 @@
           "isMarkdown": false
         }
       ]
+    },
+    {
+      "question": "W modelu internetowym warstwę aplikacji stanowią \"połączone\" warstwy prezentacji i aplikacji z modelu OSI/ISO",
+      "isMarkdown": false,
+      "answers": [
+        {
+          "answer": "Tak",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "Nie",
+          "correct": false,
+          "isMarkdown": false
+        }
+      ]
+    },
+    {
+      "question": "W warstwie fizycznej mówimy o:",
+      "isMarkdown": false,
+      "answers": [
+        {
+          "answer": "bitach",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "ramkach",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "pakietach",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "segmentach",
+          "correct": false,
+          "isMarkdown": false
+        }
+      ]
+    },
+    {
+      "question": "(...) jest to rozproszony algorytm, który definiuje format oraz kolejność wymiany komunikatów pomiędzy dwoma lub więcej komunikującymi się systemami.",
+      "isMarkdown": false,
+      "answers": [
+        {
+          "answer": "protokół",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "warstwa aplikacji",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "program",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "chmura obliczeniowa",
+          "correct": false,
+          "isMarkdown": false
+        }
+      ]
+    },
+    {
+      "question": "Jeżeli na jednym łączu w tym samym czasie, na tej samej częstotliwości i w tym samym miejscu komunikuje się wiele urządzeń, to jaki jest to rodzaj multipleksacji? Podaj skrót.",
+      "isMarkdown": false,
+      "answers": [
+        {
+          "answer": "TDM",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "CDM",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "WDM",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "FDM",
+          "correct": false,
+          "isMarkdown": false
+        }
+      ]
+    },
+    {
+      "question": "FTP jest protokołem bezstanowym.",
+      "id": 1856,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "tak",
+          "correct": false
+        },
+        {
+          "answer": "nie",
+          "correct": true
+        },
+        {
+          "answer": "zależy od używanego oprogramowania klienckiego",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Wybierz protokoły warstwy aplikacji, niekorzystające z protokołu UDP",
+      "isMarkdown": false,
+      "answers": [
+        {
+          "answer": "DNS",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "HTTP",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "ARP",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "FTP",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "SMTP",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "ICMP",
+          "correct": false,
+          "isMarkdown": false
+        }
+      ]
+    },
+    {
+      "question": "Rozważamy rekord DNS typu MX. Wartością rekordu jest:",
+      "id": 1723,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "nazwa serwera pocztowego",
+          "correct": true
+        },
+        {
+          "answer": "nie ma rekordu o typie MX",
+          "correct": false
+        },
+        {
+          "answer": "nazwa serwera dns",
+          "correct": false
+        },
+        {
+          "answer": "ip serwera dns",
+          "correct": false
+        },
+        {
+          "answer": "ip serwera pocztowego",
+          "correct": false
+        },
+        {
+          "answer": "adres ip serwera MS Exchange",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Rozważamy rekord DNS typu A. Wartością rekordu jest:",
+      "id": 1892,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "nie ma takiego rekordu",
+          "correct": false
+        },
+        {
+          "answer": "nazwa hosta",
+          "correct": false
+        },
+        {
+          "answer": "adres IPv4 hosta",
+          "correct": true
+        },
+        {
+          "answer": "adres IPv6 hosta",
+          "correct": true
+        },
+        {
+          "answer": "adres IP serwera pocztowego",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Zaznacz protokoły wysyłania grupowego:",
+      "isMarkdown": false,
+      "answers": [
+        {
+          "answer": "rozgłaszanie multiplikatywne",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "pójdź o N",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "idź o N",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "cofnij się o N",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "negatywne powtarzanie",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "selektywne powtarzanie",
+          "correct": true,
+          "isMarkdown": false
+        }
+      ]
+    },
+    {
+      "question": "Które z wymienionych to funkcje TCP?",
+      "id": 1889,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "kontrola przeciążenia",
+          "correct": true
+        },
+        {
+          "answer": "kontrola przepływu",
+          "correct": true
+        },
+        {
+          "answer": "numery sekwencyjne 128 bitowe",
+          "correct": false
+        },
+        {
+          "answer": "gwarancja przepustowości",
+          "correct": false
+        },
+        {
+          "answer": "sprawiedliwy podział przepustowości łącza",
+          "correct": true
+        },
+        {
+          "answer": "gwarancja maksymalnego opóźnienia",
+          "correct": false
+        },
+        {
+          "answer": "kontrola bez połączenia",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Integralność polega na:",
+      "id": 583,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "przesyłane dane mogą zostać zmienione, ale można odtworzyć oryginalną wiadomość",
+          "correct": false
+        },
+        {
+          "answer": "odbiorca może praktycznie z 100%-ową pewnością stwierdzić, czy wysłane do niego dane nie zostały zmodyfikowane",
+          "correct": true
+        },
+        {
+          "answer": "żadna z odpowiedzi nie jest prawidłowa",
+          "correct": false
+        },
+        {
+          "answer": "wiadomość może zostać zmodyfikowana przez każdy z węzłów sieci",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Który protokół dostępu do współdzielonego medium zapewnia, że maksymalny czas oczekiwania na skuteczną transmisje nie przekroczy pewnej wartości:",
+      "isMarkdown": false,
+      "answers": [
+        {
+          "answer": "odpytywanie",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "token ring",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "CSMA/CA",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "CSMA/CD",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "Ethernet",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "slotted Aloha",
+          "correct": false,
+          "isMarkdown": false
+        }
+      ]
+    },
+    {
+      "question": "Klasyczny model sieci OSI składa się z:",
+      "id": 601,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "siedmiu warstw",
+          "correct": true
+        },
+        {
+          "answer": "czterech warstw",
+          "correct": false
+        },
+        {
+          "answer": "trzech warstw",
+          "correct": false
+        },
+        {
+          "answer": "pięciu warstw",
+          "correct": false
+        },
+        {
+          "answer": "między innymi z warstwy sprzętowej",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Protokoły routingu dynamicznego nie reagują na zmiany topologii sieci oraz na jej przeciążenie:",
+      "isMarkdown": false,
+      "answers": [
+        {
+          "answer": "Tak",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "Nie",
+          "correct": true,
+          "isMarkdown": false
+        }
+      ]
+    },
+    {
+      "question": "Sieci radiowe w standardzie 802.11n pracują z następującą maksymalną teoretyczną szybkością przesyłania przy wykorzystaniu technologii MIMO:",
+      "isMarkdown": false,
+      "answers": [
+        {
+          "answer": "750 Mb/s",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "100 Mb/s",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "450 Mb/s",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "300 Mb/s",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "600 Mb/s",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "150 Mb/s",
+          "correct": false,
+          "isMarkdown": false
+        }
+      ]
     }
   ]
 }
