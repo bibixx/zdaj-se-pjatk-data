@@ -1,7 +1,7 @@
 {
   "$schema": "../schemas/subject-override.json",
   "id": "sbd",
-  "updatedAt": 1707051639451,
+  "updatedAt": 1707604647559,
   "data": [
     {
       "question": "<strong>Które z wymienionych mechanizmów są metodami zarządzania współbieżnością?</strong>",
@@ -137,6 +137,27 @@
           "answer": "`null`",
           "correct": false,
           "isMarkdown": true
+        }
+      ]
+    },
+    {
+      "question": "<p><span><strong>Wśród uprawnień przyznawanych w instrukcji GRANT występują:</strong></span></p>",
+      "isMarkdown": false,
+      "answers": [
+        {
+          "answer": "<p><span><span><span>ALTER</span></span></span></p>",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "<p lang=\"en-US\"><span>&nbsp;EXECUTE</span></p>\n<p>&nbsp;</p>\n<p lang=\"en-US\">&nbsp;</p>",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "<span>COMMIT</span>",
+          "correct": false,
+          "isMarkdown": false
         }
       ]
     }
