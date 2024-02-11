@@ -2670,11 +2670,11 @@
         },
         {
           "answer": "Dane są jednolite.",
-          "correct": false
+          "correct": true
         },
         {
           "answer": "Zbierane dane dotyczą tematu, a nie działań.",
-          "correct": true
+          "correct": false
         }
       ],
       "comments": []
@@ -3419,6 +3419,7 @@
         {
           "answer": "<span id=\"docs-internal-guid-776462a3-7fff-d30d-66cc-8dce1375271d\"><span>INSERT INTO Osoby VALUES ('Jan', 'Kowalski', 2000) WHERE Osoby.Id_działu = 23;</span></span>",
           "correct": false
+
         }
       ],
       "comments": []
