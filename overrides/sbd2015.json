@@ -1,7 +1,7 @@
 {
   "$schema": "../schemas/subject-override.json",
   "id": "sbd2015",
-  "updatedAt": 1693953721947,
+  "updatedAt": 1707679176310,
   "data": [
     {
       "id": 2431,
@@ -74,6 +74,32 @@
         {
           "answer": "Funkcji definiowane w bazie danych mogą być użyte w poleceniach SQL",
           "correct": true,
+          "isMarkdown": false
+        }
+      ]
+    },
+    {
+      "question": "Zintegrowanie w definicji hurtowni danych oznacza, że:",
+      "isMarkdown": false,
+      "answers": [
+        {
+          "answer": "Dane, raz umieszczone w hurtowni, zazwyczaj zostają nie zmienione.",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "Gromadzone są dane historyczne i każdy fakt oznaczony jest stemplem czasowym.",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "Dane są jednolite.",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "Zbierane dane dotyczą tematu, a nie działań.",
+          "correct": false,
           "isMarkdown": false
         }
       ]
