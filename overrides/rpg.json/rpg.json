@@ -1,0 +1,35 @@
+{
+  "$schema": "../schemas/subject-override.json",
+  "id": "rpg",
+  "updatedAt": 1713866619370,
+  "data": [
+    {
+      "id": 520,
+      "question": "Jakie wyniki cząstkowe uwzględniamy przy obliczaniu zysku brutto przedsiębiorstwa?",
+      "isMarkdown": false,
+      "comments": [],
+      "answers": [
+        {
+          "answer": "Przy obliczeniu zysku brutto przedsiębiorstwa konieczne jest obliczenie marży brutto.",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "Wynik na działalności gospodarczej pomniejszony o obowiązkowe obciążenia podatkowe.",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "Wynik na sprzedaży +/ -  wynik na działalności finansowej.",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "Wynik na działalności gospodarczej +/ - wynik na działalności losowej.",
+          "correct": false,
+          "isMarkdown": false
+        }
+      ]
+    }
+  ]
+}
