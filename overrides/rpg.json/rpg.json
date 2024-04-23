@@ -1,0 +1,35 @@
+{
+  "$schema": "../schemas/subject-override.json",
+  "id": "rpg",
+  "updatedAt": 1713866293467,
+  "data": [
+    {
+      "id": 527,
+      "question": "Jak obliczamy wynik na działalności operacyjnej przedsiębiorstwa?",
+      "isMarkdown": false,
+      "comments": [],
+      "answers": [
+        {
+          "answer": "Przychody z podstawowej działalności operacyjnej pomniejszamy o koszty finansowe.",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "Naliczona amortyzacja pomniejszona o koszty stałe.",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "Przychody z podstawowej i pomocniczej działalności operacyjnej pomniejszone o koszty wymienionych działalności.",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "Zysk netto pomniejszony o koszty działalności gospodarczej.",
+          "correct": false,
+          "isMarkdown": false
+        }
+      ]
+    }
+  ]
+}
