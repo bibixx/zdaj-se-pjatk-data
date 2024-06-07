@@ -9,19 +9,19 @@
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<b lang=\"eq.latex\">(n-1){n\\choose k}</b>",
+          "answer": "$(n-1){n\\choose k}$",
           "correct": true
         },
         {
-          "answer": "<b lang=\"eq.latex\">n\\cdot {n\\choose k-1}</b>",
+          "answer": "$n\\cdot {n\\choose k-1}$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">n\\cdot {n-k\\choose k}</b>",
+          "answer": "$n\\cdot {n-k\\choose k}$",
           "correct": true
         },
         {
-          "answer": "<b lang=\"eq.latex\">n\\cdot k!</b>",
+          "answer": "$n\\cdot k!$",
           "correct": false
         }
       ],
@@ -33,23 +33,23 @@
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<b lang=\"eq.latex\">2\\cdot 3^{n-1}</b>",
+          "answer": "$2\\cdot 3^{n-1}$",
           "correct": true
         },
         {
-          "answer": "<b lang=\"eq.latex\">6\\cdot 3^{n-2}</b>",
+          "answer": "$6\\cdot 3^{n-2}$",
           "correct": true
         },
         {
-          "answer": "<b lang=\"eq.latex\">3\\cdot 2\\cdot (n-2)^3</b>",
+          "answer": "$3\\cdot 2\\cdot (n-2)^3$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">(n-2)!</b>",
+          "answer": "$(n-2)!$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">2\\cdot {3\\choose 2} \\cdot 3^{n-2}</b>",
+          "answer": "$2\\cdot {3\\choose 2} \\cdot 3^{n-2}$",
           "correct": true
         }
       ],
@@ -61,19 +61,19 @@
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<b lang=\"eq.latex\">2^n -2</b>",
+          "answer": "$2^n -2$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">2^{n-2}</b>",
+          "answer": "$2^{n-2}$",
           "correct": true
         },
         {
-          "answer": "<b lang=\"eq.latex\">(n-2)^2</b>",
+          "answer": "$(n-2)^2$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">2^n</b>",
+          "answer": "$2^n$",
           "correct": false
         }
       ],
@@ -85,27 +85,27 @@
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<b lang=\"eq.latex\">{n\\choose k}</b>",
+          "answer": "${n\\choose k}$",
           "correct": true
         },
         {
-          "answer": "<b lang=\"eq.latex\">{n\\choose n-k}</b>",
+          "answer": "${n\\choose n-k}$",
           "correct": true
         },
         {
-          "answer": "<b lang=\"eq.latex\">{n!\\over (n-k)!}</b>",
+          "answer": "${n!\\over (n-k)!}$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">k^n</b>",
+          "answer": "$k^n$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">{n!\\over (n-k)!}</b>",
+          "answer": "${n!\\over (n-k)!}$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">{n^k}</b>",
+          "answer": "${n^k}$",
           "correct": false
         }
       ],
@@ -117,43 +117,43 @@
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<b lang=\"eq.latex\">A\\subseteq B</b>",
+          "answer": "$A\\subseteq B$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">A\\cap B = \\o</b>",
+          "answer": "$A\\cap B = \\o$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">A\\setminus B = \\{4,\\{8\\}\\}</b>",
+          "answer": "$A\\setminus B = \\{4,\\{8\\}\\}$",
           "correct": true
         },
         {
-          "answer": "<b lang=\"eq.latex\">|B|=6</b>",
+          "answer": "$|B|=6$",
           "correct": false
         }
       ],
       "comments": []
     },
     {
-      "question": "Niech <b lang=\"eq.latex\">X=(A\\cap B)\\cup (A\\cap C)\\cup (B\\cap C),Y=((A\\setminus B)\\cap C).</b>Czy zawsze zachodzi:",
+      "question": "Niech $X=(A\\cap B)\\cup (A\\cap C)\\cup (B\\cap C),Y=((A\\setminus B)\\cap C).$Czy zawsze zachodzi:",
       "id": 955,
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<b lang=\"eq.latex\">X=Y</b>",
+          "answer": "$X=Y$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">X\\oplus Y\\subseteq B</b>",
+          "answer": "$X\\oplus Y\\subseteq B$",
           "correct": true
         },
         {
-          "answer": "<b lang=\"eq.latex\">X\\subseteq Y</b>",
+          "answer": "$X\\subseteq Y$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">X\\cap Y\\subseteq C</b>",
+          "answer": "$X\\cap Y\\subseteq C$",
           "correct": true
         }
       ],
@@ -165,43 +165,43 @@
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<b lang=\"eq.latex\">|A\\cap B|+|A\\cap C|+|A\\cup B\\cup C|=|A|+|B|+|C|-|B\\cap C|</b>",
+          "answer": "$|A\\cap B|+|A\\cap C|+|A\\cup B\\cup C|=|A|+|B|+|C|-|B\\cap C|$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">|A|+|B|+|C|&lt;=|A\\cup B\\cup C|</b>",
+          "answer": "$|A|+|B|+|C|&lt;=|A\\cup B\\cup C|$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">|A\\cup B\\cup C|=|A\\cup B|+|C|-|(A\\cup B)\\cap C|</b>",
+          "answer": "$|A\\cup B\\cup C|=|A\\cup B|+|C|-|(A\\cup B)\\cap C|$",
           "correct": true
         },
         {
-          "answer": "<b lang=\"eq.latex\">|A|+|B|+|C|&gt;|A\\cap B\\cap C|</b>",
+          "answer": "$|A|+|B|+|C|&gt;|A\\cap B\\cap C|$",
           "correct": false
         }
       ],
       "comments": []
     },
     {
-      "question": "<b lang=\"eq.latex\">|A|=|A\\cap B|</b> gdy:",
+      "question": "$|A|=|A\\cap B|$ gdy:",
       "id": 954,
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<b lang=\"eq.latex\">A={2,{2}}, B={2,2}</b>",
+          "answer": "$A={2,{2}}, B={2,2}$",
           "correct": true
         },
         {
-          "answer": "<b lang=\"eq.latex\">B=\\o , A</b> dowolny",
+          "answer": "$B=\\o , A$ dowolny",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">A=\\o , B</b> dowolny",
+          "answer": "$A=\\o , B$ dowolny",
           "correct": true
         },
         {
-          "answer": "<b lang=\"eq.latex\">B=\\o , A=\\{\\o \\}</b>",
+          "answer": "$B=\\o , A=\\{\\o \\}$",
           "correct": false
         }
       ],
@@ -213,19 +213,19 @@
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<b lang=\"eq.latex\">|A|+|B|=|A\\cup B|</b>",
+          "answer": "$|A|+|B|=|A\\cup B|$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">|A|+|B|=|A\\cup B|+|(A\\cup B)\\setminus (A\\oplus B)|</b>",
+          "answer": "$|A|+|B|=|A\\cup B|+|(A\\cup B)\\setminus (A\\oplus B)|$",
           "correct": true
         },
         {
-          "answer": "<b lang=\"eq.latex\">|A|+|B|&gt;|A\\cup B|</b>",
+          "answer": "$|A|+|B|&gt;|A\\cup B|$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">|A|+|B|=|A\\cup B|+|A\\cap B|</b>",
+          "answer": "$|A|+|B|=|A\\cup B|+|A\\cap B|$",
           "correct": true
         }
       ],
@@ -237,78 +237,78 @@
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<b lang=\"eq.latex\">B\\setminus A=\\o</b>",
+          "answer": "$B\\setminus A=\\o$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">B\\subseteq A</b>",
+          "answer": "$B\\subseteq A$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">|A|=|B|</b>",
+          "answer": "$|A|=|B|$",
           "correct": true
         },
         {
-          "answer": "<b lang=\"eq.latex\">A\\cap B=\\o</b>",
+          "answer": "$A\\cap B=\\o$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">|A\\cap B|=\\1</b>",
+          "answer": "$|A\\cap B|=\\1$",
           "correct": true
         }
       ],
       "comments": []
     },
     {
-      "question": "Dane są dwa zbiory A i B. Niech <b lang=\"eq.latex\">X=(A\\setminus B) i Y=(-B\\cap A).</b>Czy zawsze zachodzi:",
+      "question": "Dane są dwa zbiory A i B. Niech $X=(A\\setminus B) i Y=(-B\\cap A).$Czy zawsze zachodzi:",
       "id": 950,
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<b lang=\"eq.latex\">(X\\cup Y)=(A\\cap B)</b>",
+          "answer": "$(X\\cup Y)=(A\\cap B)$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">Y\\subseteq X</b>",
+          "answer": "$Y\\subseteq X$",
           "correct": true
         },
         {
-          "answer": "<b lang=\"eq.latex\">X\\subseteq Y</b>",
+          "answer": "$X\\subseteq Y$",
           "correct": true
         },
         {
-          "answer": "<b lang=\"eq.latex\">X=Y</b>",
+          "answer": "$X=Y$",
           "correct": true
         }
       ],
       "comments": []
     },
     {
-      "question": "Niech <b lang=\"eq.latex\">X=(A\\setminus (A\\cap B))\\cap C, Y=(B\\oplus C)\\cap A.</b>Czy zawsze zachodzi:",
+      "question": "Niech $X=(A\\setminus (A\\cap B))\\cap C, Y=(B\\oplus C)\\cap A.$Czy zawsze zachodzi:",
       "id": 949,
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<b lang=\"eq.latex\">X\\cap Y\\subseteq A</b>",
+          "answer": "$X\\cap Y\\subseteq A$",
           "correct": true
         },
         {
-          "answer": "<b lang=\"eq.latex\">Y\\subseteq X</b>",
+          "answer": "$Y\\subseteq X$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">X\\subseteq Y</b>",
+          "answer": "$X\\subseteq Y$",
           "correct": true
         },
         {
-          "answer": "<b lang=\"eq.latex\">X=Y</b>",
+          "answer": "$X=Y$",
           "correct": false
         }
       ],
       "comments": []
     },
     {
-      "question": "Niech <b lang=\"eq.latex\">L=(p\\land \\lnot r)\\land (p\\to r), B=(p\\to r)\\land (r\\to p).</b>",
+      "question": "Niech $L=(p\\land \\lnot r)\\land (p\\to r), B=(p\\to r)\\land (r\\to p).$",
       "id": 948,
       "numberOfComments": 0,
       "answers": [
@@ -321,7 +321,7 @@
           "correct": true
         },
         {
-          "answer": "<b lang=\"eq.latex\">\\lnot L</b> jest tautologią",
+          "answer": "$\\lnot L$ jest tautologią",
           "correct": true
         },
         {
@@ -332,12 +332,12 @@
       "comments": []
     },
     {
-      "question": "Niech <b lang=\"eq.latex\">L=(p\\lor r)\\to (p\\to r), B=(p\\lor (r\\to p))\\lor r.</b>",
+      "question": "Niech $L=(p\\lor r)\\to (p\\to r), B=(p\\lor (r\\to p))\\lor r.$",
       "id": 947,
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<b lang=\"eq.latex\">L\\to B</b> jest tautologią",
+          "answer": "$L\\to B$ jest tautologią",
           "correct": true
         },
         {
@@ -345,7 +345,7 @@
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">\\lnot B=(\\lnot p\\land (r\\land \\lnot p))\\land \\lnot r</b>",
+          "answer": "$\\lnot B=(\\lnot p\\land (r\\land \\lnot p))\\land \\lnot r$",
           "correct": true
         },
         {
@@ -356,12 +356,12 @@
       "comments": []
     },
     {
-      "question": "Niech <b lang=\"eq.latex\">L=((p\\to q)\\to r)\\lor (p\\land \\lnot r).</b>",
+      "question": "Niech $L=((p\\to q)\\to r)\\lor (p\\land \\lnot r).$",
       "id": 946,
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<b lang=\"eq.latex\">\\lnot L</b> jest tautologią",
+          "answer": "$\\lnot L$ jest tautologią",
           "correct": false
         },
         {
@@ -380,7 +380,7 @@
       "comments": []
     },
     {
-      "question": "Niech <b lang=\"eq.latex\">L=(q\\lor p)\\to \\lnot p,B=(p\\land q)\\to p</b>. Tautologią jest:",
+      "question": "Niech $L=(q\\lor p)\\to \\lnot p,B=(p\\land q)\\to p$. Tautologią jest:",
       "id": 945,
       "numberOfComments": 0,
       "answers": [
@@ -393,11 +393,11 @@
           "correct": true
         },
         {
-          "answer": "B <b lang=\"eq.latex\">\\lor</b> L",
+          "answer": "B $\\lor$ L",
           "correct": true
         },
         {
-          "answer": "L <b lang=\"eq.latex\">\\land</b> B",
+          "answer": "L $\\land$ B",
           "correct": false
         },
         {
@@ -417,7 +417,7 @@
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "Liczba permutacji zbioru <b lang=\"eq.latex\">X\\cap Y</b> wynosi 5",
+          "answer": "Liczba permutacji zbioru $X\\cap Y$ wynosi 5",
           "correct": false
         },
         {
@@ -437,15 +437,15 @@
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "Liczba różnych relacji symetrycznych w zbiorze X wynosi <b lang=\"eq.latex\">2^6</b>",
+          "answer": "Liczba różnych relacji symetrycznych w zbiorze X wynosi $2^6$",
           "correct": true
         },
         {
-          "answer": "Liczba różnych relacji zwrotnych w zbiorze X wynosi <b lang=\"eq.latex\">2^6</b>",
+          "answer": "Liczba różnych relacji zwrotnych w zbiorze X wynosi $2^6$",
           "correct": true
         },
         {
-          "answer": "Liczba różnych relacji binarnych w zbiorze X wynosi <b lang=\"eq.latex\">2^3</b>",
+          "answer": "Liczba różnych relacji binarnych w zbiorze X wynosi $2^3$",
           "correct": false
         }
       ],
@@ -457,7 +457,7 @@
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "Zbiór wszystkich funkcji <b lang=\"eq.latex\">f:N\\to \\{0,1\\}</b> jest przeliczalny",
+          "answer": "Zbiór wszystkich funkcji $f:N\\to \\{0,1\\}$ jest przeliczalny",
           "correct": false
         },
         {
@@ -593,15 +593,15 @@
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "Prawdopodobieństwo tego, że 0,1,2 stoją obok siebie, jest mniejsze niż <b lang=\"eq.latex\">{1\\over 10!}</b>",
+          "answer": "Prawdopodobieństwo tego, że 0,1,2 stoją obok siebie, jest mniejsze niż ${1\\over 10!}$",
           "correct": false
         },
         {
-          "answer": "Prawdopodobieństwo tego, że 0,1,2 stoją obok siebie, jest większe niż <b lang=\"eq.latex\">{1\\over 10!}</b>",
+          "answer": "Prawdopodobieństwo tego, że 0,1,2 stoją obok siebie, jest większe niż ${1\\over 10!}$",
           "correct": true
         },
         {
-          "answer": "Prawdopodobieństwo tego, że 0 stoi bezpośrednio przed 1, wynosi <b lang=\"eq.latex\">{9\\over 10!}</b>",
+          "answer": "Prawdopodobieństwo tego, że 0 stoi bezpośrednio przed 1, wynosi ${9\\over 10!}$",
           "correct": false
         },
         {
@@ -716,32 +716,32 @@
       "comments": []
     },
     {
-      "question": "Czy suma <b lang=\"eq.latex\">\\sum_{i=1}^n 2^i</b> jest równa",
+      "question": "Czy suma $\\sum_{i=1}^n 2^i$ jest równa",
       "id": 929,
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<b lang=\"eq.latex\">2^{n+1}+1</b>",
+          "answer": "$2^{n+1}+1$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">2^{n+1}</b>",
+          "answer": "$2^{n+1}$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">2^{n+1}-1</b>",
+          "answer": "$2^{n+1}-1$",
           "correct": false
         }
       ],
       "comments": []
     },
     {
-      "question": "Ciąg <b lang=\"eq.latex\">s_n</b> jest określony następująco: <b lang=\"eq.latex\">s_1 = 1, s_n=s_{n-1}+2\\sqrt{s_{n-1}}+1</b>.Czy następujące stwierdzenia są prawdziwe?",
+      "question": "Ciąg $s_n$ jest określony następująco: $s_1 = 1, s_n=s_{n-1}+2\\sqrt{s_{n-1}}+1$.Czy następujące stwierdzenia są prawdziwe?",
       "id": 930,
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "Dla każdego n, <b lang=\"eq.latex\">s_n</b> jest kwadratem pewnej liczby całkowitej",
+          "answer": "Dla każdego n, $s_n$ jest kwadratem pewnej liczby całkowitej",
           "correct": true
         },
         {
@@ -756,12 +756,12 @@
       "comments": []
     },
     {
-      "question": "Czy suma <b lang=\"eq.latex\">\\sum_{i=1}^n2</b> jest równa",
+      "question": "Czy suma $\\sum_{i=1}^n2$ jest równa",
       "id": 928,
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<b lang=\"eq.latex\">2^n</b>",
+          "answer": "$2^n$",
           "correct": false
         },
         {
@@ -776,7 +776,7 @@
       "comments": []
     },
     {
-      "question": "Czy suma <b lang=\"eq.latex\">\\sum_{i=0}^{100}(-1)^i</b> jest równa",
+      "question": "Czy suma $\\sum_{i=0}^{100}(-1)^i$ jest równa",
       "id": 927,
       "numberOfComments": 0,
       "answers": [
@@ -801,19 +801,19 @@
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<b lang=\"eq.latex\">O(n^3)</b>",
+          "answer": "$O(n^3)$",
           "correct": true
         },
         {
-          "answer": "<b lang=\"eq.latex\">O(n^2)</b>",
+          "answer": "$O(n^2)$",
           "correct": true
         },
         {
-          "answer": "<b lang=\"eq.latex\">O(n . log_{2}n)</b>",
+          "answer": "$O(n . log_{2}n)$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">O(n)</b>",
+          "answer": "$O(n)$",
           "correct": false
         }
       ],
@@ -825,15 +825,15 @@
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<b lang=\"eq.latex\">3!+2!+2!</b>",
+          "answer": "$3!+2!+2!$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">C_{5}^3\\cdot C_{3}^2\\cdot C_{2}^2</b>",
+          "answer": "$C_{5}^3\\cdot C_{3}^2\\cdot C_{2}^2$",
           "correct": true
         },
         {
-          "answer": "<b lang=\"eq.latex\">C_{5}^3+C_{3}^2+C_{2}^2</b>",
+          "answer": "$C_{5}^3+C_{3}^2+C_{2}^2$",
           "correct": false
         }
       ],
@@ -845,15 +845,15 @@
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<b lang=\"eq.latex\">5!+3!+2!</b>",
+          "answer": "$5!+3!+2!$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">C_{10}^5+C_{5}^3+C_{2}^2</b>",
+          "answer": "$C_{10}^5+C_{5}^3+C_{2}^2$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">5!3!2!</b>",
+          "answer": "$5!3!2!$",
           "correct": true
         }
       ],
@@ -865,15 +865,15 @@
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<b lang=\"eq.latex\">{10!\\over 5!3!2!}</b>",
+          "answer": "${10!\\over 5!3!2!}$",
           "correct": true
         },
         {
-          "answer": "<b lang=\"eq.latex\">C_{10}^5\\cdot C_{5}^3\\cdot C_{2}^2</b>",
+          "answer": "$C_{10}^5\\cdot C_{5}^3\\cdot C_{2}^2$",
           "correct": true
         },
         {
-          "answer": "<b lang=\"eq.latex\">10!</b>",
+          "answer": "$10!$",
           "correct": false
         }
       ],
@@ -885,7 +885,7 @@
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "Ciągów zawierających tyle samo jedynek co zer jest <b lang=\"eq.latex\">2^5</b>",
+          "answer": "Ciągów zawierających tyle samo jedynek co zer jest $2^5$",
           "correct": false
         },
         {
@@ -893,11 +893,11 @@
           "correct": true
         },
         {
-          "answer": "Ciągów zaczynających się od bitów 10011 jest <b lang=\"eq.latex\">2^5</b>",
+          "answer": "Ciągów zaczynających się od bitów 10011 jest $2^5$",
           "correct": true
         },
         {
-          "answer": "Ciągów zaczynających się od bitów 1101 jest <b lang=\"eq.latex\">2^6</b>",
+          "answer": "Ciągów zaczynających się od bitów 1101 jest $2^6$",
           "correct": true
         }
       ],
@@ -913,7 +913,7 @@
           "correct": true
         },
         {
-          "answer": "Ciągów, które zawierają co najmniej 3 zera jest <b lang=\"eq.latex\">2^7</b>",
+          "answer": "Ciągów, które zawierają co najmniej 3 zera jest $2^7$",
           "correct": false
         },
         {
@@ -921,7 +921,7 @@
           "correct": true
         },
         {
-          "answer": "Liczba wszystkich takich ciągów jest równa <b lang=\"eq.latex\">2^{10}</b>",
+          "answer": "Liczba wszystkich takich ciągów jest równa $2^{10}$",
           "correct": true
         }
       ],
@@ -933,35 +933,35 @@
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<b lang=\"eq.latex\">5^2</b>",
+          "answer": "$5^2$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">2^5 -2</b>",
+          "answer": "$2^5 -2$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">2^5</b>",
+          "answer": "$2^5$",
           "correct": true
         }
       ],
       "comments": []
     },
     {
-      "question": "Liczba wszystkich funkcji <b lang=\"eq.latex\">f:\\{1,2,3,4,5\\}\\to \\{0,1\\}</b> jest równa",
+      "question": "Liczba wszystkich funkcji $f:\\{1,2,3,4,5\\}\\to \\{0,1\\}$ jest równa",
       "id": 920,
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<b lang=\"eq.latex\">2^5 -2</b>",
+          "answer": "$2^5 -2$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">5^2</b>",
+          "answer": "$5^2$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">2^5</b>",
+          "answer": "$2^5$",
           "correct": true
         }
       ],
@@ -973,7 +973,7 @@
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<b lang=\"eq.latex\">6!</b>",
+          "answer": "$6!$",
           "correct": false
         },
         {
@@ -981,14 +981,14 @@
           "correct": true
         },
         {
-          "answer": "<b lang=\"eq.latex\">6^4</b>",
+          "answer": "$6^4$",
           "correct": false
         }
       ],
       "comments": []
     },
     {
-      "question": "Niech A{0,1,2,3,4,5}. Relacja <b lang=\"eq.latex\">r\\subseteq A\\times A</b> jest określona następująco:x r y wttw, gdy xy mod 5 = 1. Czy następujące zdania są prawdziwe?",
+      "question": "Niech A{0,1,2,3,4,5}. Relacja $r\\subseteq A\\times A$ jest określona następująco:x r y wttw, gdy xy mod 5 = 1. Czy następujące zdania są prawdziwe?",
       "id": 916,
       "numberOfComments": 0,
       "answers": [
@@ -1032,7 +1032,7 @@
       "comments": []
     },
     {
-      "question": "Niech A={1,2,3,4,5}. Niech S będzie zbiorem wszystkich podzbiorów A. Definiujemy w S relację r: X r Ywttw., gdy <b lang=\"eq.latex\">X\\cap Y=\\{1,2,3\\}</b>. Czy następujące stwierdzenia są prawdziwe?",
+      "question": "Niech A={1,2,3,4,5}. Niech S będzie zbiorem wszystkich podzbiorów A. Definiujemy w S relację r: X r Ywttw., gdy $X\\cap Y=\\{1,2,3\\}$. Czy następujące stwierdzenia są prawdziwe?",
       "id": 915,
       "numberOfComments": 0,
       "answers": [
@@ -1052,7 +1052,7 @@
       "comments": []
     },
     {
-      "question": "Niech A={1,2,3,4,5}. Niech S będzie zbiorem wszystkich podzbiorów A. Definiujemy w S relację r: X r Ywttw., gdy <b lang=\"eq.latex\">X\\cap Y=\\{1,2,3\\}</b>. Czy następujące stwierdzenia są prawdziwe?",
+      "question": "Niech A={1,2,3,4,5}. Niech S będzie zbiorem wszystkich podzbiorów A. Definiujemy w S relację r: X r Ywttw., gdy $X\\cap Y=\\{1,2,3\\}$. Czy następujące stwierdzenia są prawdziwe?",
       "id": 914,
       "numberOfComments": 0,
       "answers": [
@@ -1072,27 +1072,27 @@
       "comments": []
     },
     {
-      "question": "Niech A={1,2,3,4,5}. Niech S będzie zbiorem wszystkich podzbiorów A. Definiujemy w S relację równoważności r: X r Y wttw., gdy <b lang=\"eq.latex\">X\\cup \\{1,2\\}=Y\\cup \\{1,2\\}</b>. Czynastępujące stwierdzenia są prawdziwe?",
+      "question": "Niech A={1,2,3,4,5}. Niech S będzie zbiorem wszystkich podzbiorów A. Definiujemy w S relację równoważności r: X r Y wttw., gdy $X\\cup \\{1,2\\}=Y\\cup \\{1,2\\}$. Czynastępujące stwierdzenia są prawdziwe?",
       "id": 913,
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "Klasa abstrakcji <b lang=\"eq.latex\">[3]_r</b> zawiera 2 elementy",
+          "answer": "Klasa abstrakcji $[3]_r$ zawiera 2 elementy",
           "correct": false
         },
         {
-          "answer": "Klasa abstrakcji <b lang=\"eq.latex\">[A]_r</b> zawiera 5 elementy",
+          "answer": "Klasa abstrakcji $[A]_r$ zawiera 5 elementy",
           "correct": false
         },
         {
-          "answer": "Klasa abstrakcji <b lang=\"eq.latex\">[\\o ]_r</b> zawiera 4 elementy",
+          "answer": "Klasa abstrakcji $[\\o ]_r$ zawiera 4 elementy",
           "correct": true
         }
       ],
       "comments": []
     },
     {
-      "question": "Niech A={1,2,3,4,5}. Niech S będzie zbiorem wszystkich podzbiorów A. Definiujemy w S relację rnastępująco: X r Y wttw., gdy <b lang=\"eq.latex\">X\\cup \\{1,2,3\\}=Y\\cup \\{1,2,3\\}</b>. Czynastępujące stwierdzenia są prawdziwe?",
+      "question": "Niech A={1,2,3,4,5}. Niech S będzie zbiorem wszystkich podzbiorów A. Definiujemy w S relację rnastępująco: X r Y wttw., gdy $X\\cup \\{1,2,3\\}=Y\\cup \\{1,2,3\\}$. Czynastępujące stwierdzenia są prawdziwe?",
       "id": 912,
       "numberOfComments": 0,
       "answers": [
@@ -1112,7 +1112,7 @@
       "comments": []
     },
     {
-      "question": "Niech A={1,2,3,4,5}. Niech S będzie zbiorem wszystkich podzbiorów A. Definiujemy na S relację rnastępująco: X r Y wttw., gdy <b lang=\"eq.latex\">X\\cup \\{1,2,3\\}=Y\\cup \\{1,2,3\\}</b>. Czynastępujące stwierdzenia są prawdziwe?",
+      "question": "Niech A={1,2,3,4,5}. Niech S będzie zbiorem wszystkich podzbiorów A. Definiujemy na S relację rnastępująco: X r Y wttw., gdy $X\\cup \\{1,2,3\\}=Y\\cup \\{1,2,3\\}$. Czynastępujące stwierdzenia są prawdziwe?",
       "id": 911,
       "numberOfComments": 0,
       "answers": [
@@ -1132,20 +1132,20 @@
       "comments": []
     },
     {
-      "question": "Niech A={1,2,3,4,5}. Niech S będzie zbiorem wszystkich podzbiorów A. Definiujemy w S relację równoważnościr: X r Y wttw., gdy <b lang=\"eq.latex\">X\\cap \\{2,4,5\\} = Y\\cap \\{2,4,5\\}</b> Czy następujące stwierdzenia sąprawdziwe?",
+      "question": "Niech A={1,2,3,4,5}. Niech S będzie zbiorem wszystkich podzbiorów A. Definiujemy w S relację równoważnościr: X r Y wttw., gdy $X\\cap \\{2,4,5\\} = Y\\cap \\{2,4,5\\}$ Czy następujące stwierdzenia sąprawdziwe?",
       "id": 910,
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "Klasa abstrakcji <b lang=\"eq.latex\">[\\{1,2\\}]</b> zawiera 2 elementy",
+          "answer": "Klasa abstrakcji $[\\{1,2\\}]$ zawiera 2 elementy",
           "correct": false
         },
         {
-          "answer": "Klasa abstrakcji <b lang=\"eq.latex\">[A]_r</b> zawiera 4 elementy",
+          "answer": "Klasa abstrakcji $[A]_r$ zawiera 4 elementy",
           "correct": true
         },
         {
-          "answer": "Klasa abstrakcji <b lang=\"eq.latex\">[\\o ]_r</b> zawiera 1 element",
+          "answer": "Klasa abstrakcji $[\\o ]_r$ zawiera 1 element",
           "correct": false
         }
       ],
@@ -1181,18 +1181,18 @@
           "correct": true
         },
         {
-          "answer": "Jeśli relacja r jest przechodnia to <b lang=\"eq.latex\">r\\cdot r\\subseteq r</b>",
+          "answer": "Jeśli relacja r jest przechodnia to $r\\cdot r\\subseteq r$",
           "correct": true
         },
         {
-          "answer": "Jeśli <b lang=\"eq.latex\">r_1</b> i <b lang=\"eq.latex\">r_2</b> są relacjami zwrotnymi, to jest nią również relacja <b lang=\"eq.latex\">r_1\\cap r_2</b>",
+          "answer": "Jeśli $r_1$ i $r_2$ są relacjami zwrotnymi, to jest nią również relacja $r_1\\cap r_2$",
           "correct": true
         }
       ],
       "comments": []
     },
     {
-      "question": "Dana jest relacja r określona na zbiorze <b lang=\"eq.latex\">R: x r y \\leftrightarrow |x+y|=1</b>.Wynika z tego, że",
+      "question": "Dana jest relacja r określona na zbiorze $R: x r y \\leftrightarrow |x+y|=1$.Wynika z tego, że",
       "id": 907,
       "numberOfComments": 0,
       "answers": [
@@ -1212,7 +1212,7 @@
       "comments": []
     },
     {
-      "question": "Niech A={1,2,3,4,5}. Niech S będzie zbiorem wszystkich podzbiorów A. Definiujemy w zbiorze S relację rnastępująco: X r Y wttw., gdy <b lang=\"eq.latex\">X\\cap\\{1,2,5\\} = Y\\cap\\{1,2,5\\}</b>.Wynika z tego, że",
+      "question": "Niech A={1,2,3,4,5}. Niech S będzie zbiorem wszystkich podzbiorów A. Definiujemy w zbiorze S relację rnastępująco: X r Y wttw., gdy $X\\cap\\{1,2,5\\} = Y\\cap\\{1,2,5\\}$.Wynika z tego, że",
       "id": 906,
       "numberOfComments": 0,
       "answers": [
@@ -1232,7 +1232,7 @@
       "comments": []
     },
     {
-      "question": "Niech A={1,2,3,4,5}. Niech S będzie zbiorem wszystkich podzbiorów A. Definiujemy na S relację rnastępująco: X r Y wttw., gdy <b lang=\"eq.latex\">X\\cap\\{1,2,5\\}</b>=<b lang=\"eq.latex\">Y\\cap\\{1,2,5\\}</b>.Czy wynika z tego, że",
+      "question": "Niech A={1,2,3,4,5}. Niech S będzie zbiorem wszystkich podzbiorów A. Definiujemy na S relację rnastępująco: X r Y wttw., gdy $X\\cap\\{1,2,5\\}$=$Y\\cap\\{1,2,5\\}$.Czy wynika z tego, że",
       "id": 905,
       "numberOfComments": 0,
       "answers": [
@@ -1252,20 +1252,20 @@
       "comments": []
     },
     {
-      "question": "Niech <b lang=\"eq.latex\">r\\subseteq R\\times R.</b> Czy następujące relacje są funkcjami",
+      "question": "Niech $r\\subseteq R\\times R.$ Czy następujące relacje są funkcjami",
       "id": 904,
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "x r y wttw., gdy <b lang=\"eq.latex\">x+y = 3</b>",
+          "answer": "x r y wttw., gdy $x+y = 3$",
           "correct": true
         },
         {
-          "answer": "x r y wttw., gdy <b lang=\"eq.latex\">x^2 &lt; y^2</b>",
+          "answer": "x r y wttw., gdy $x^2 &lt; y^2$",
           "correct": false
         },
         {
-          "answer": "x r y wttw., gdy <b lang=\"eq.latex\">x^2 = y+1</b>",
+          "answer": "x r y wttw., gdy $x^2 = y+1$",
           "correct": true
         }
       ],
@@ -1281,23 +1281,23 @@
           "correct": true
         },
         {
-          "answer": "Każda funkcja różnowartościowa <b lang=\"eq.latex\">f:\\{1,2,3,4,5\\}\\to \\{1,2,3,4,5\\}</b> jest funkcją \"na\"",
+          "answer": "Każda funkcja różnowartościowa $f:\\{1,2,3,4,5\\}\\to \\{1,2,3,4,5\\}$ jest funkcją \"na\"",
           "correct": true
         },
         {
-          "answer": "Każda funkcja różnowartościowa <b lang=\"eq.latex\">f:N\\to N</b> jest funkcją \"na\"",
+          "answer": "Każda funkcja różnowartościowa $f:N\\to N$ jest funkcją \"na\"",
           "correct": false
         }
       ],
       "comments": []
     },
     {
-      "question": "Niech <b lang=\"eq.latex\">r\\subseteq R\\times R</b>. Czy następujące relacje są funkcjami?",
+      "question": "Niech $r\\subseteq R\\times R$. Czy następujące relacje są funkcjami?",
       "id": 903,
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "x r y wttw., gdy <b lang=\"eq.latex\">x^2 = y^2</b>",
+          "answer": "x r y wttw., gdy $x^2 = y^2$",
           "correct": false
         },
         {
@@ -1312,12 +1312,12 @@
       "comments": []
     },
     {
-      "question": "Funkcja <b lang=\"eq.latex\">f: N\\to N</b> jest określona wzorem <b lang=\"eq.latex\">f(n)=n+\\!(-1\\!)^n</b>.Czy f jest",
+      "question": "Funkcja $f: N\\to N$ jest określona wzorem $f(n)=n+\\!(-1\\!)^n$.Czy f jest",
       "id": 901,
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "Czy <b lang=\"eq.latex\">f^{-1}(1)</b> zawiera 1 element?",
+          "answer": "Czy $f^{-1}(1)$ zawiera 1 element?",
           "correct": true
         },
         {
@@ -1332,12 +1332,12 @@
       "comments": []
     },
     {
-      "question": "Funkcja <b lang=\"eq.latex\">f: N\\to N</b> jest określona wzorem <b lang=\"eq.latex\">f(n)=[n/3]</b>. Czy f jest",
+      "question": "Funkcja $f: N\\to N$ jest określona wzorem $f(n)=[n/3]$. Czy f jest",
       "id": 900,
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "Czy <b lang=\"eq.latex\">f^{-1}(1)</b> zawiera 1 element?",
+          "answer": "Czy $f^{-1}(1)$ zawiera 1 element?",
           "correct": false
         },
         {
@@ -1381,18 +1381,18 @@
           "correct": true
         },
         {
-          "answer": "Jeśli <b lang=\"eq.latex\">\\langle X,r\\rangle</b> jest zbiorem uporządkowanym to <b lang=\"eq.latex\">\\langle X,X^2\\setminus r\\rangle</b> też jest zbiorem uporządkowanym",
+          "answer": "Jeśli $\\langle X,r\\rangle$ jest zbiorem uporządkowanym to $\\langle X,X^2\\setminus r\\rangle$ też jest zbiorem uporządkowanym",
           "correct": false
         },
         {
-          "answer": "Jeśli <b lang=\"eq.latex\">\\langle X,r\\rangle</b> jest zbiorem uporządkowanym to <b lang=\"eq.latex\">\\langle X,r^{-1} \\rangle</b> też jest zbiorem uporządkowanym",
+          "answer": "Jeśli $\\langle X,r\\rangle$ jest zbiorem uporządkowanym to $\\langle X,r^{-1} \\rangle$ też jest zbiorem uporządkowanym",
           "correct": true
         }
       ],
       "comments": []
     },
     {
-      "question": "Rozważmy zbiór <b lang=\"eq.latex\">A=\\{3,6,9,12,18\\}</b>, będący podzbiorem zbioru Nuporządkowanego przez relację: x r y <b lang=\"eq.latex\">\\leftrightarrow</b> y jest dzielnikiem x.",
+      "question": "Rozważmy zbiór $A=\\{3,6,9,12,18\\}$, będący podzbiorem zbioru Nuporządkowanego przez relację: x r y $\\leftrightarrow$ y jest dzielnikiem x.",
       "id": 897,
       "numberOfComments": 0,
       "answers": [
@@ -1412,7 +1412,7 @@
       "comments": []
     },
     {
-      "question": "Niech <b lang=\"eq.latex\">r\\subseteq N\\times N</b> będzie relacją zdefiniowaną następująco:<b lang=\"eq.latex\">x r y \\leftrightarrow x+y</b> jest liczbą parzystą. Czy:",
+      "question": "Niech $r\\subseteq N\\times N$ będzie relacją zdefiniowaną następująco:$x r y \\leftrightarrow x+y$ jest liczbą parzystą. Czy:",
       "id": 896,
       "numberOfComments": 0,
       "answers": [
@@ -1445,7 +1445,7 @@
           "correct": true
         },
         {
-          "answer": "Relacja <b lang=\"eq.latex\">r=\\{(x,y)\\in N\\times N: x^2 mod 3 = y^2 mod 3\\}</b> ma 3 klasy abstrakcji",
+          "answer": "Relacja $r=\\{(x,y)\\in N\\times N: x^2 mod 3 = y^2 mod 3\\}$ ma 3 klasy abstrakcji",
           "correct": false
         }
       ],
@@ -1457,35 +1457,35 @@
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<b lang=\"eq.latex\">r=\\{(x,y)\\in N\\times N: x^{1/2}=y^{1/2}\\}</b>",
+          "answer": "$r=\\{(x,y)\\in N\\times N: x^{1/2}=y^{1/2}\\}$",
           "correct": true
         },
         {
-          "answer": "<b lang=\"eq.latex\">r=\\{(x,y)\\in R\\times R: max(x,y) = 1\\}</b>",
+          "answer": "$r=\\{(x,y)\\in R\\times R: max(x,y) = 1\\}$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">r=\\{(x,y)\\in N\\times N: x^2 = y\\}</b>",
+          "answer": "$r=\\{(x,y)\\in N\\times N: x^2 = y\\}$",
           "correct": false
         }
       ],
       "comments": []
     },
     {
-      "question": "Czy <b lang=\"eq.latex\">f\\cdot f=f</b>, jeśli:",
+      "question": "Czy $f\\cdot f=f$, jeśli:",
       "id": 893,
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<b lang=\"eq.latex\">f: R\\to R, f(x)=2x</b>",
+          "answer": "$f: R\\to R, f(x)=2x$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">f: R\\to R, f(x)=x</b>",
+          "answer": "$f: R\\to R, f(x)=x$",
           "correct": true
         },
         {
-          "answer": "<b lang=\"eq.latex\">f: R\\to R, f(x)=0</b>",
+          "answer": "$f: R\\to R, f(x)=0$",
           "correct": true
         }
       ],
@@ -1517,31 +1517,31 @@
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<b lang=\"eq.latex\">f:R\\to R, f(x)=x^4</b>",
+          "answer": "$f:R\\to R, f(x)=x^4$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">f:R\\to R, f(x)=x^{2006}</b>",
+          "answer": "$f:R\\to R, f(x)=x^{2006}$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">f:R\\to R, f(x)=x^{2003}</b>",
+          "answer": "$f:R\\to R, f(x)=x^{2003}$",
           "correct": true
         },
         {
-          "answer": "<b lang=\"eq.latex\">f:R\\to R, f(x)=(x^2+1)^{1/2}</b>",
+          "answer": "$f:R\\to R, f(x)=(x^2+1)^{1/2}$",
           "correct": false
         }
       ],
       "comments": []
     },
     {
-      "question": "Niech f będzie funkcją odwzorowującą zbiór liczb rzeczywistych<b lang=\"eq.latex\">R^w R\\cdot f(x) = x^2-x-2.</b>Czy:",
+      "question": "Niech f będzie funkcją odwzorowującą zbiór liczb rzeczywistych$R^w R\\cdot f(x) = x^2-x-2.$Czy:",
       "id": 890,
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<b lang=\"eq.latex\">f((-1,2))\\subseteq f([-1,2])</b>",
+          "answer": "$f((-1,2))\\subseteq f([-1,2])$",
           "correct": true
         },
         {
@@ -1549,27 +1549,27 @@
           "correct": true
         },
         {
-          "answer": "<b lang=\"eq.latex\">f^{-1} (\\{0\\})=\\{0\\}</b>",
+          "answer": "$f^{-1} (\\{0\\})=\\{0\\}$",
           "correct": false
         }
       ],
       "comments": []
     },
     {
-      "question": "Dana jest formuła <b lang=\"eq.latex\">A=a\\leftrightarrow (b\\leftrightarrow c).</b>Które z następujących formuł są równoważne z formułą A:",
+      "question": "Dana jest formuła $A=a\\leftrightarrow (b\\leftrightarrow c).$Które z następujących formuł są równoważne z formułą A:",
       "id": 889,
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<b lang=\"eq.latex\">(a\\leftrightarrow b)\\leftrightarrow c</b>",
+          "answer": "$(a\\leftrightarrow b)\\leftrightarrow c$",
           "correct": true
         },
         {
-          "answer": "<b lang=\"eq.latex\">b\\leftrightarrow (a\\leftrightarrow c)</b>",
+          "answer": "$b\\leftrightarrow (a\\leftrightarrow c)$",
           "correct": true
         },
         {
-          "answer": "<b lang=\"eq.latex\">(a\\land b)\\leftrightarrow c</b>",
+          "answer": "$(a\\land b)\\leftrightarrow c$",
           "correct": false
         }
       ],
@@ -1581,35 +1581,35 @@
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<b lang=\"eq.latex\">(p\\to q)\\to \\lnot p</b>",
+          "answer": "$(p\\to q)\\to \\lnot p$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">(p\\land \\lnot q)\\to (\\lnot p\\lor q)</b>",
+          "answer": "$(p\\land \\lnot q)\\to (\\lnot p\\lor q)$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">(p\\land q)\\to (q\\lor \\lnot p)</b>",
+          "answer": "$(p\\land q)\\to (q\\lor \\lnot p)$",
           "correct": true
         }
       ],
       "comments": []
     },
     {
-      "question": "Dana jest formuła <b lang=\"eq.latex\">F= (\\exists x)(\\forall y)(\\exists z)[z&gt;y\\leftrightarrow z=x+1].</b>Które z następujących formuł są zaprzeczeniem formuły F:",
+      "question": "Dana jest formuła $F= (\\exists x)(\\forall y)(\\exists z)[z&gt;y\\leftrightarrow z=x+1].$Które z następujących formuł są zaprzeczeniem formuły F:",
       "id": 887,
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<b lang=\"eq.latex\">(\\exists x)(\\forall y)(\\exists z)[z=x+1\\leftrightarrow z&gt;y]</b>",
+          "answer": "$(\\exists x)(\\forall y)(\\exists z)[z=x+1\\leftrightarrow z&gt;y]$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">(\\forall x)(\\exists y)(\\forall z)[z&gt;y\\land z\\ne x+1]</b>",
+          "answer": "$(\\forall x)(\\exists y)(\\forall z)[z&gt;y\\land z\\ne x+1]$",
           "correct": true
         },
         {
-          "answer": "<b lang=\"eq.latex\">(\\forall x)(\\exists y)(\\forall z)[z&gt;y\\land z=x+1]</b>",
+          "answer": "$(\\forall x)(\\exists y)(\\forall z)[z&gt;y\\land z=x+1]$",
           "correct": false
         }
       ],
@@ -1621,35 +1621,35 @@
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<b lang=\"eq.latex\">((\\forall x)(a(x)\\lor b(x)))\\leftrightarrow ((\\forall x)(a(x)\\land b(x)))</b>",
+          "answer": "$((\\forall x)(a(x)\\lor b(x)))\\leftrightarrow ((\\forall x)(a(x)\\land b(x)))$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">((\\exists x)(a(x)\\land b(x)))\\leftrightarrow ((\\exists x)(a(x)\\lor b(x)))</b>",
+          "answer": "$((\\exists x)(a(x)\\land b(x)))\\leftrightarrow ((\\exists x)(a(x)\\lor b(x)))$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">((\\exists x)a(x))\\leftrightarrow ((\\exists x)a(x))</b>",
+          "answer": "$((\\exists x)a(x))\\leftrightarrow ((\\exists x)a(x))$",
           "correct": true
         }
       ],
       "comments": []
     },
     {
-      "question": "Niech <b lang=\"eq.latex\">a\\!(x\\!) = x &lt; 1, b\\!(x\\!)=x^2 &gt; 2</b>będą funkcjami zdaniowymi, których zakresem zmienności jest zbiór liczbrzeczywistych R. Które z następujących formuł są prawdziwe w R:",
+      "question": "Niech $a\\!(x\\!) = x &lt; 1, b\\!(x\\!)=x^2 &gt; 2$będą funkcjami zdaniowymi, których zakresem zmienności jest zbiór liczbrzeczywistych R. Które z następujących formuł są prawdziwe w R:",
       "id": 885,
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<b lang=\"eq.latex\">(\\forall x)(a(x)\\leftrightarrow b(x))</b>",
+          "answer": "$(\\forall x)(a(x)\\leftrightarrow b(x))$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">(\\exists x)(a(x)\\land b(x))</b>",
+          "answer": "$(\\exists x)(a(x)\\land b(x))$",
           "correct": true
         },
         {
-          "answer": "<b lang=\"eq.latex\">((\\exists x)a(x)\\land (\\exists x)b(x))</b>",
+          "answer": "$((\\exists x)a(x)\\land (\\exists x)b(x))$",
           "correct": true
         }
       ],
@@ -1661,15 +1661,15 @@
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<b lang=\"eq.latex\">(p\\land q)\\to p</b>",
+          "answer": "$(p\\land q)\\to p$",
           "correct": true
         },
         {
-          "answer": "<b lang=\"eq.latex\">(p\\to q)\\to p</b>",
+          "answer": "$(p\\to q)\\to p$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">p\\to (q\\to p)</b>",
+          "answer": "$p\\to (q\\to p)$",
           "correct": true
         }
       ],
@@ -1681,55 +1681,55 @@
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<b lang=\"eq.latex\">p\\to (p\\land q)</b>",
+          "answer": "$p\\to (p\\land q)$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">p\\to (p\\to q)</b>",
+          "answer": "$p\\to (p\\to q)$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">p\\to (p\\lor q)</b>",
+          "answer": "$p\\to (p\\lor q)$",
           "correct": true
         }
       ],
       "comments": []
     },
     {
-      "question": "Niech z będzie zdaniem: <b lang=\"eq.latex\">\\forall_{x\\in R}\\exists_{y\\in R}[(x^2\\geq y^2)\\to (x\\geq y)].</b>Czy zaprzeczeniem z jest",
+      "question": "Niech z będzie zdaniem: $\\forall_{x\\in R}\\exists_{y\\in R}[(x^2\\geq y^2)\\to (x\\geq y)].$Czy zaprzeczeniem z jest",
       "id": 881,
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<b lang=\"eq.latex\">\\exists_{x\\in R}\\forall_{y\\in R}[(x^2 &lt; y^2)\\to ( x &lt; y )]</b>",
+          "answer": "$\\exists_{x\\in R}\\forall_{y\\in R}[(x^2 &lt; y^2)\\to ( x &lt; y )]$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">\\exists_{x\\in R}\\forall_{y\\in R}[(x^2\\geq y^2)\\land (x\\leq y)]</b>",
+          "answer": "$\\exists_{x\\in R}\\forall_{y\\in R}[(x^2\\geq y^2)\\land (x\\leq y)]$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">\\exists_{x\\in R}\\forall_{y\\in R}[(x^2\\geq y^2)\\land (x &lt; y)]</b>",
+          "answer": "$\\exists_{x\\in R}\\forall_{y\\in R}[(x^2\\geq y^2)\\land (x &lt; y)]$",
           "correct": true
         }
       ],
       "comments": []
     },
     {
-      "question": "Niech z będzie zdaniem: <b lang=\"eq.latex\">\\forall_{x\\in R}\\forall_{y\\in R}[(x &lt; y)\\to (x^2 &lt; y^2)].</b>Czy zaprzeczeniem z jest:",
+      "question": "Niech z będzie zdaniem: $\\forall_{x\\in R}\\forall_{y\\in R}[(x &lt; y)\\to (x^2 &lt; y^2)].$Czy zaprzeczeniem z jest:",
       "id": 882,
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<b lang=\"eq.latex\">\\exists_{x\\in R}\\exists_{y\\in R}[(x\\geq y)\\land (x^2\\leq y^2)]</b>",
+          "answer": "$\\exists_{x\\in R}\\exists_{y\\in R}[(x\\geq y)\\land (x^2\\leq y^2)]$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">\\exists_{x\\in R}\\exists_{y\\in R}[(x\\geq y)\\land (x^2 &lt; y^2)]</b>",
+          "answer": "$\\exists_{x\\in R}\\exists_{y\\in R}[(x\\geq y)\\land (x^2 &lt; y^2)]$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">\\exists_{x\\in R}\\exists_{y\\in R}[(x\\geq y)\\land (x^2 &gt; y^2)]</b>",
+          "answer": "$\\exists_{x\\in R}\\exists_{y\\in R}[(x\\geq y)\\land (x^2 &gt; y^2)]$",
           "correct": false
         }
       ],
@@ -1741,15 +1741,15 @@
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<b lang=\"eq.latex\">\\exists_{x\\in R}\\forall_{y\\in R}[(x &lt; y)\\to (x^{2} &lt; y^{2})]</b>",
+          "answer": "$\\exists_{x\\in R}\\forall_{y\\in R}[(x &lt; y)\\to (x^{2} &lt; y^{2})]$",
           "correct": true
         },
         {
-          "answer": "<b lang=\"eq.latex\">\\forall_{x\\in R}\\exists_{y\\in R}[(x^{2} &lt; y^{2}) \\to (x &lt; y)]</b>",
+          "answer": "$\\forall_{x\\in R}\\exists_{y\\in R}[(x^{2} &lt; y^{2}) \\to (x &lt; y)]$",
           "correct": true
         },
         {
-          "answer": "<b lang=\"eq.latex\">\\forall_{x\\in R}\\forall_{y\\in R}[(x^2\\geq y^2)\\to (x\\geq y)]</b>",
+          "answer": "$\\forall_{x\\in R}\\forall_{y\\in R}[(x^2\\geq y^2)\\to (x\\geq y)]$",
           "correct": false
         }
       ],
@@ -1761,15 +1761,15 @@
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<b lang=\"eq.latex\">\\exists_{n\\in N}\\exists_{m\\in N}P(n,m)</b>",
+          "answer": "$\\exists_{n\\in N}\\exists_{m\\in N}P(n,m)$",
           "correct": true
         },
         {
-          "answer": "<b lang=\"eq.latex\">\\forall_{n\\in N}\\exists_{m\\in N}P(n,m)</b>",
+          "answer": "$\\forall_{n\\in N}\\exists_{m\\in N}P(n,m)$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">\\exists_{n\\in N}\\forall_{m\\in N}P(n,m)</b>",
+          "answer": "$\\exists_{n\\in N}\\forall_{m\\in N}P(n,m)$",
           "correct": true
         }
       ],
@@ -1781,22 +1781,22 @@
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<b lang=\"eq.latex\">A\\times B\\subseteq A \\times (A\\cup B)</b>",
+          "answer": "$A\\times B\\subseteq A \\times (A\\cup B)$",
           "correct": true
         },
         {
-          "answer": "<b lang=\"eq.latex\">A\\times (B\\cap C) = (A\\times B)\\cap (A\\times C)</b>",
+          "answer": "$A\\times (B\\cap C) = (A\\times B)\\cap (A\\times C)$",
           "correct": true
         },
         {
-          "answer": "<b lang=\"eq.latex\">A\\times B= B\\times A</b>",
+          "answer": "$A\\times B= B\\times A$",
           "correct": false
         }
       ],
       "comments": []
     },
     {
-      "question": "Jaka jest wartość wyrażenia <b lang=\"eq.latex\">(A \\oplus B)\\oplus B</b>dla dowolnych zbiorów A, B:",
+      "question": "Jaka jest wartość wyrażenia $(A \\oplus B)\\oplus B$dla dowolnych zbiorów A, B:",
       "id": 877,
       "numberOfComments": 0,
       "answers": [
@@ -1809,7 +1809,7 @@
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">\\o</b>",
+          "answer": "$\\o$",
           "correct": false
         }
       ],
@@ -1821,15 +1821,15 @@
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<b lang=\"eq.latex\">(A\\cap B)\\cap (A\\setminus B) = \\o</b>",
+          "answer": "$(A\\cap B)\\cap (A\\setminus B) = \\o$",
           "correct": true
         },
         {
-          "answer": "<b lang=\"eq.latex\">(A\\setminus B)\\subseteq (A\\cap B)</b>",
+          "answer": "$(A\\setminus B)\\subseteq (A\\cap B)$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">(-A) \\cap (-B) = -(A\\cap B)</b>",
+          "answer": "$(-A) \\cap (-B) = -(A\\cap B)$",
           "correct": false
         }
       ],
@@ -1841,15 +1841,15 @@
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<b lang=\"eq.latex\">A\\setminus B = A\\cap (-B)</b>",
+          "answer": "$A\\setminus B = A\\cap (-B)$",
           "correct": true
         },
         {
-          "answer": "<b lang=\"eq.latex\">A\\setminus (B\\setminus C) = (A\\setminus B)\\cap (A\\cap -C)</b>",
+          "answer": "$A\\setminus (B\\setminus C) = (A\\setminus B)\\cap (A\\cap -C)$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">(A\\cap B)\\setminus B = \\o</b>",
+          "answer": "$(A\\cap B)\\setminus B = \\o$",
           "correct": true
         }
       ],
@@ -1861,22 +1861,22 @@
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<b lang=\"eq.latex\">A\\cap (B\\setminus C) = (A\\cap B)</b>",
+          "answer": "$A\\cap (B\\setminus C) = (A\\cap B)$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">A\\setminus (B\\cap C) = (A\\setminus B)\\cup (B\\setminus C)</b>",
+          "answer": "$A\\setminus (B\\cap C) = (A\\setminus B)\\cup (B\\setminus C)$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">(A\\setminus B)\\cup B = A</b>",
+          "answer": "$(A\\setminus B)\\cup B = A$",
           "correct": false
         }
       ],
       "comments": []
     },
     {
-      "question": "Niech <b lang=\"eq.latex\">X</b> będzie zbiorem n-elementowym.Ile elementów ma zbiór <b lang=\"eq.latex\">\\{X,\\{X,\\o\\}\\}:</b>",
+      "question": "Niech $X$ będzie zbiorem n-elementowym.Ile elementów ma zbiór $\\{X,\\{X,\\o\\}\\}:$",
       "id": 873,
       "numberOfComments": 0,
       "answers": [
@@ -1896,7 +1896,7 @@
       "comments": []
     },
     {
-      "question": "Niech <b lang=\"eq.latex\">X</b> będzie zbiorem n-elementowym.Ile elementów ma zbiór <b lang=\"eq.latex\">P(X)\\cap\\{\\o\\}:</b>",
+      "question": "Niech $X$ będzie zbiorem n-elementowym.Ile elementów ma zbiór $P(X)\\cap\\{\\o\\}:$",
       "id": 872,
       "numberOfComments": 0,
       "answers": [
@@ -1916,12 +1916,12 @@
       "comments": []
     },
     {
-      "question": "Ile elementów ma zbiór P(A), jeżeli <b lang=\"eq.latex\">A=\\{1,\\{1\\},\\o\\}:</b>",
+      "question": "Ile elementów ma zbiór P(A), jeżeli $A=\\{1,\\{1\\},\\o\\}:$",
       "id": 871,
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "Tyle ile ma zbiór <b lang=\"eq.latex\">P(\\{1,2,3\\})</b>",
+          "answer": "Tyle ile ma zbiór $P(\\{1,2,3\\})$",
           "correct": true
         },
         {
@@ -1941,15 +1941,15 @@
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<b lang=\"eq.latex\">(A\\cup B)\\setminus B=A</b>",
+          "answer": "$(A\\cup B)\\setminus B=A$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">(A\\setminus B)\\cup B=A</b>",
+          "answer": "$(A\\setminus B)\\cup B=A$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">A\\cup (A\\cap B)=A</b>",
+          "answer": "$A\\cup (A\\cap B)=A$",
           "correct": true
         }
       ],
@@ -1961,75 +1961,75 @@
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<b lang=\"eq.latex\">A\\subseteq B\\to C\\setminus B\\subseteq C\\setminus A</b>",
+          "answer": "$A\\subseteq B\\to C\\setminus B\\subseteq C\\setminus A$",
           "correct": true
         },
         {
-          "answer": "<b lang=\"eq.latex\">A\\setminus C=B\\setminus C\\to A=B</b>",
+          "answer": "$A\\setminus C=B\\setminus C\\to A=B$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">A\\subseteq B\\to -A\\subseteq -B</b>",
+          "answer": "$A\\subseteq B\\to -A\\subseteq -B$",
           "correct": false
         }
       ],
       "comments": []
     },
     {
-      "question": "Niech <b lang=\"eq.latex\">A=\\{a, b, c\\}.</b>Czy następujące stwierdzenia są prawdziwe?",
+      "question": "Niech $A=\\{a, b, c\\}.$Czy następujące stwierdzenia są prawdziwe?",
       "id": 868,
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<b lang=\"eq.latex\">\\{a, c\\}\\subseteq A\\times A</b>",
+          "answer": "$\\{a, c\\}\\subseteq A\\times A$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">\\{a, b\\}\\in A\\times A</b>",
+          "answer": "$\\{a, b\\}\\in A\\times A$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">\\{a, c\\}\\in A</b>",
+          "answer": "$\\{a, c\\}\\in A$",
           "correct": false
         }
       ],
       "comments": []
     },
     {
-      "question": "Niech <b lang=\"eq.latex\">A=\\{a, b, c\\}.</b>Czy następujące stwierdzenia są prawdziwe?",
+      "question": "Niech $A=\\{a, b, c\\}.$Czy następujące stwierdzenia są prawdziwe?",
       "id": 866,
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<b lang=\"eq.latex\">\\{a\\}\\in P(A)</b>",
+          "answer": "$\\{a\\}\\in P(A)$",
           "correct": true
         },
         {
-          "answer": "<b lang=\"eq.latex\">\\{\\{a\\}\\}\\subseteq P(A)</b>",
+          "answer": "$\\{\\{a\\}\\}\\subseteq P(A)$",
           "correct": true
         },
         {
-          "answer": "<b lang=\"eq.latex\">\\{b, c\\}\\in P(A)</b>",
+          "answer": "$\\{b, c\\}\\in P(A)$",
           "correct": true
         }
       ],
       "comments": []
     },
     {
-      "question": "Niech <b lang=\"eq.latex\">A=\\{a, b, c\\}.</b>Czy następujące stwierdzenia są prawdziwe?",
+      "question": "Niech $A=\\{a, b, c\\}.$Czy następujące stwierdzenia są prawdziwe?",
       "id": 867,
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<b lang=\"eq.latex\">\\o\\in A</b>",
+          "answer": "$\\o\\in A$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">\\o\\in P(A)</b>",
+          "answer": "$\\o\\in P(A)$",
           "correct": true
         },
         {
-          "answer": "<b lang=\"eq.latex\">\\o\\subseteq P(A)</b>",
+          "answer": "$\\o\\subseteq P(A)$",
           "correct": true
         }
       ],
@@ -2041,7 +2041,7 @@
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<b lang=\"eq.latex\">2^{10}</b>",
+          "answer": "$2^{10}$",
           "correct": false
         },
         {
@@ -2049,11 +2049,11 @@
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">2^9</b>",
+          "answer": "$2^9$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">{10\\choose 2}</b>",
+          "answer": "${10\\choose 2}$",
           "correct": false
         }
       ],
@@ -2065,19 +2065,19 @@
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<b lang=\"eq.latex\">5!</b>",
+          "answer": "$5!$",
           "correct": true
         },
         {
-          "answer": "<b lang=\"eq.latex\">6^4</b>",
+          "answer": "$6^4$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">4^6-4</b>",
+          "answer": "$4^6-4$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">6\\cdot 5\\cdot 4\\cdot 3</b>",
+          "answer": "$6\\cdot 5\\cdot 4\\cdot 3$",
           "correct": false
         }
       ],
@@ -2089,19 +2089,19 @@
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<b lang=\"eq.latex\">{5\\choose 3}</b>",
+          "answer": "${5\\choose 3}$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">3^5</b>",
+          "answer": "$3^5$",
           "correct": true
         },
         {
-          "answer": "<b lang=\"eq.latex\">5^3</b>",
+          "answer": "$5^3$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">5\\cdot 4\\cdot 3</b>",
+          "answer": "$5\\cdot 4\\cdot 3$",
           "correct": false
         }
       ],
@@ -2113,19 +2113,19 @@
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<b lang=\"eq.latex\">{5\\choose 3}</b> gdy urny nie mogą być puste",
+          "answer": "${5\\choose 3}$ gdy urny nie mogą być puste",
           "correct": true
         },
         {
-          "answer": "<b lang=\"eq.latex\">{5\\choose 3}</b> gdy urny mogą być puste",
+          "answer": "${5\\choose 3}$ gdy urny mogą być puste",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">{9\\choose 6}</b> gdy urny mogą być puste",
+          "answer": "${9\\choose 6}$ gdy urny mogą być puste",
           "correct": true
         },
         {
-          "answer": "<b lang=\"eq.latex\">{6\\choose 4}</b> gdy urny nie mogą być puste",
+          "answer": "${6\\choose 4}$ gdy urny nie mogą być puste",
           "correct": false
         }
       ],
@@ -2137,67 +2137,67 @@
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<b lang=\"eq.latex\">4^8</b> gdy kule i urny są rozróżnialne",
+          "answer": "$4^8$ gdy kule i urny są rozróżnialne",
           "correct": true
         },
         {
-          "answer": "<b lang=\"eq.latex\">{11\\choose 3}</b> gdy urny są rozróżnialne, a kule nie",
+          "answer": "${11\\choose 3}$ gdy urny są rozróżnialne, a kule nie",
           "correct": true
         },
         {
-          "answer": "<b lang=\"eq.latex\">{7\\choose 3}</b> gdy urny są rozróżnialne,a kule nie i urny nie mogą być puste",
+          "answer": "${7\\choose 3}$ gdy urny są rozróżnialne,a kule nie i urny nie mogą być puste",
           "correct": true
         },
         {
-          "answer": "<b lang=\"eq.latex\">8^4</b> gdy kule i urny są rozróżnialne",
+          "answer": "$8^4$ gdy kule i urny są rozróżnialne",
           "correct": false
         }
       ],
       "comments": []
     },
     {
-      "question": "Niech <b lang=\"eq.latex\">g(x)=x^2, f(x)=5x-1</b>. Czy jest prawdą, że:",
+      "question": "Niech $g(x)=x^2, f(x)=5x-1$. Czy jest prawdą, że:",
       "id": 966,
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<b lang=\"eq.latex\">(g\\cdot f)(x)=(f\\cdot g)(x)</b>",
+          "answer": "$(g\\cdot f)(x)=(f\\cdot g)(x)$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">(g\\cdot f)(x)=25x^2 -10x +1</b>",
+          "answer": "$(g\\cdot f)(x)=25x^2 -10x +1$",
           "correct": true
         },
         {
-          "answer": "<b lang=\"eq.latex\">(f\\cdot g)(2)=15</b>",
+          "answer": "$(f\\cdot g)(2)=15$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">(g\\cdot f)(7)=4</b>",
+          "answer": "$(g\\cdot f)(7)=4$",
           "correct": false
         }
       ],
       "comments": []
     },
     {
-      "question": "Niech <b lang=\"eq.latex\">f(x)=x^2</b>.",
+      "question": "Niech $f(x)=x^2$.",
       "id": 967,
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "f jest na, gdy <b lang=\"eq.latex\">dom(f)=R,cod(f)=R_+ \\cup 0</b>",
+          "answer": "f jest na, gdy $dom(f)=R,cod(f)=R_+ \\cup 0$",
           "correct": true
         },
         {
-          "answer": "f jest różnowartościowa, gdy <b lang=\"eq.latex\">f:R\\to R</b>",
+          "answer": "f jest różnowartościowa, gdy $f:R\\to R$",
           "correct": false
         },
         {
-          "answer": "f jest bijekcją, gdy <b lang=\"eq.latex\">f:R_+ \\cup 0\\to R_+ \\cup 0</b>",
+          "answer": "f jest bijekcją, gdy $f:R_+ \\cup 0\\to R_+ \\cup 0$",
           "correct": true
         },
         {
-          "answer": "f jest bijekcją, gdy <b lang=\"eq.latex\">f:R_+ \\cup 0\\to R_+</b>",
+          "answer": "f jest bijekcją, gdy $f:R_+ \\cup 0\\to R_+$",
           "correct": false
         }
       ],
@@ -2209,122 +2209,122 @@
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<b lang=\"eq.latex\">(A\\oplus B)\\oplus B=A</b>",
+          "answer": "$(A\\oplus B)\\oplus B=A$",
           "correct": true
         },
         {
-          "answer": "<b lang=\"eq.latex\">(A\\oplus B)\\oplus C=A\\oplus (B\\oplus C)</b>",
+          "answer": "$(A\\oplus B)\\oplus C=A\\oplus (B\\oplus C)$",
           "correct": true
         },
         {
-          "answer": "<b lang=\"eq.latex\">(A\\oplus B)\\oplus C=(A\\oplus C)\\oplus B</b>",
+          "answer": "$(A\\oplus B)\\oplus C=(A\\oplus C)\\oplus B$",
           "correct": true
         }
       ],
       "comments": []
     },
     {
-      "question": "Niech <b lang=\"eq.latex\">A=\\{\\o ,1,\\{1\\}\\}</b>.",
+      "question": "Niech $A=\\{\\o ,1,\\{1\\}\\}$.",
       "id": 969,
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<b lang=\"eq.latex\">\\o \\in A</b>",
+          "answer": "$\\o \\in A$",
           "correct": true
         },
         {
-          "answer": "<b lang=\"eq.latex\">\\o \\in P(A)</b>",
+          "answer": "$\\o \\in P(A)$",
           "correct": true
         },
         {
-          "answer": "<b lang=\"eq.latex\">\\o \\subseteq A</b>",
+          "answer": "$\\o \\subseteq A$",
           "correct": true
         }
       ],
       "comments": []
     },
     {
-      "question": "Niech <b lang=\"eq.latex\">A=\\{\\o ,1,\\{\\o\\}\\}.</b>",
+      "question": "Niech $A=\\{\\o ,1,\\{\\o\\}\\}.$",
       "id": 970,
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<b lang=\"eq.latex\">\\o \\in A</b>",
+          "answer": "$\\o \\in A$",
           "correct": true
         },
         {
-          "answer": "<b lang=\"eq.latex\">\\o \\subseteq A</b>",
+          "answer": "$\\o \\subseteq A$",
           "correct": true
         },
         {
-          "answer": "<b lang=\"eq.latex\">\\{1,\\o\\}\\in A</b>",
+          "answer": "$\\{1,\\o\\}\\in A$",
           "correct": false
         }
       ],
       "comments": []
     },
     {
-      "question": "Mamy funkcję <b lang=\"eq.latex\">f: X\\to Y</b> oraz dwa podzbiory:<b lang=\"eq.latex\">A\\subseteq X</b> oraz <b lang=\"eq.latex\">B\\subseteq Y</b>",
+      "question": "Mamy funkcję $f: X\\to Y$ oraz dwa podzbiory:$A\\subseteq X$ oraz $B\\subseteq Y$",
       "id": 971,
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "Zawsze zachodzi: <b lang=\"eq.latex\">|A|&gt;|f(A)|</b>",
+          "answer": "Zawsze zachodzi: $|A|&gt;|f(A)|$",
           "correct": false
         },
         {
-          "answer": "Zawsze zachodzi: <b lang=\"eq.latex\">|f^{-1}(B)|&gt;|B|</b>",
+          "answer": "Zawsze zachodzi: $|f^{-1}(B)|&gt;|B|$",
           "correct": false
         },
         {
-          "answer": "Zawsze zachodzi: <b lang=\"eq.latex\">f(f^{-1}(B))=B</b>",
+          "answer": "Zawsze zachodzi: $f(f^{-1}(B))=B$",
           "correct": false
         }
       ],
       "comments": []
     },
     {
-      "question": "Dane są dwie relacje równoważności <b lang=\"eq.latex\">r_1 , r_2</b>.Relacją równoważności jest również relacja",
+      "question": "Dane są dwie relacje równoważności $r_1 , r_2$.Relacją równoważności jest również relacja",
       "id": 972,
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<b lang=\"eq.latex\">r_1\\cup r_2</b>",
+          "answer": "$r_1\\cup r_2$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">r_1\\cap r_2</b>",
+          "answer": "$r_1\\cap r_2$",
           "correct": true
         },
         {
-          "answer": "<b lang=\"eq.latex\">r_1\\cdot r_2</b>",
+          "answer": "$r_1\\cdot r_2$",
           "correct": false
         }
       ],
       "comments": []
     },
     {
-      "question": "Dany jest zbiór <b lang=\"eq.latex\">\\{\\o,\\{\\o\\},\\{\\o,\\{\\o\\}\\}\\}.</b>",
+      "question": "Dany jest zbiór $\\{\\o,\\{\\o\\},\\{\\o,\\{\\o\\}\\}\\}.$",
       "id": 973,
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<b lang=\"eq.latex\">\\o \\in A</b>",
+          "answer": "$\\o \\in A$",
           "correct": true
         },
         {
-          "answer": "<b lang=\"eq.latex\">\\o \\subseteq A</b>",
+          "answer": "$\\o \\subseteq A$",
           "correct": true
         },
         {
-          "answer": "<b lang=\"eq.latex\">\\o \\in 2^A</b>",
+          "answer": "$\\o \\in 2^A$",
           "correct": true
         }
       ],
       "comments": []
     },
     {
-      "question": "Niech X będzie zbiorem 1 elementowym. Ile elementów ma zbiór <b lang=\"eq.latex\">P(X)\\cap X</b>?",
+      "question": "Niech X będzie zbiorem 1 elementowym. Ile elementów ma zbiór $P(X)\\cap X$?",
       "id": 974,
       "numberOfComments": 0,
       "answers": [
@@ -2333,18 +2333,18 @@
           "correct": false
         },
         {
-          "answer": "1, jeżeli <b lang=\"eq.latex\">X=\\{\\o\\}</b>",
+          "answer": "1, jeżeli $X=\\{\\o\\}$",
           "correct": true
         },
         {
-          "answer": "0, jeżeli <b lang=\"eq.latex\">X\\ne \\{\\o\\}</b>",
+          "answer": "0, jeżeli $X\\ne \\{\\o\\}$",
           "correct": false
         }
       ],
       "comments": []
     },
     {
-      "question": "Ile elementów ma zbiór <b lang=\"eq.latex\">\\{\\o,\\{X\\},P(X)\\}</b> jeśli Xjest zbiorem n-elementowym.",
+      "question": "Ile elementów ma zbiór $\\{\\o,\\{X\\},P(X)\\}$ jeśli Xjest zbiorem n-elementowym.",
       "id": 975,
       "numberOfComments": 0,
       "answers": [
@@ -2357,14 +2357,14 @@
           "correct": true
         },
         {
-          "answer": "<b lang=\"eq.latex\">1+n+2^n</b>",
+          "answer": "$1+n+2^n$",
           "correct": false
         }
       ],
       "comments": []
     },
     {
-      "question": "Czy relacja <b lang=\"eq.latex\">r=\\{(x,y)\\in R\\times R: x = y\\}</b>",
+      "question": "Czy relacja $r=\\{(x,y)\\in R\\times R: x = y\\}$",
       "id": 976,
       "numberOfComments": 0,
       "answers": [
@@ -2377,14 +2377,14 @@
           "correct": true
         },
         {
-          "answer": "ma <b lang=\"eq.latex\">\\aleph_0</b> klas abstrakcji?",
+          "answer": "ma $\\aleph_0$ klas abstrakcji?",
           "correct": false
         }
       ],
       "comments": []
     },
     {
-      "question": "Ile klas abstrakcji ma relacja <b lang=\"eq.latex\">r=\\{(x,y)\\in R\\times R: x^2 = y^2\\}</b>",
+      "question": "Ile klas abstrakcji ma relacja $r=\\{(x,y)\\in R\\times R: x^2 = y^2\\}$",
       "id": 977,
       "numberOfComments": 0,
       "answers": [
@@ -2393,7 +2393,7 @@
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">\\aleph_0</b>",
+          "answer": "$\\aleph_0$",
           "correct": false
         },
         {
@@ -2404,36 +2404,36 @@
       "comments": []
     },
     {
-      "question": "Czy suma <b lang=\"eq.latex\">\\sum_{i=0}^n i^2</b>jest równa:",
+      "question": "Czy suma $\\sum_{i=0}^n i^2$jest równa:",
       "id": 978,
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<b lang=\"eq.latex\">n^2</b>",
+          "answer": "$n^2$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">{n(n+1)(2n+1)\\over 6}</b>",
+          "answer": "${n(n+1)(2n+1)\\over 6}$",
           "correct": true
         },
         {
-          "answer": "<b lang=\"eq.latex\">{n(n+1)\\over 2}</b>",
+          "answer": "${n(n+1)\\over 2}$",
           "correct": false
         }
       ],
       "comments": []
     },
     {
-      "question": "Ciąg <b lang=\"eq.latex\">a_n</b> jest określony następująco:<b lang=\"eq.latex\">a_1=1,a_n=2a_{n-1}+1.</b> Czy następującestwierdzenia są prawdziwe?",
+      "question": "Ciąg $a_n$ jest określony następująco:$a_1=1,a_n=2a_{n-1}+1.$ Czy następującestwierdzenia są prawdziwe?",
       "id": 979,
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<b lang=\"eq.latex\">a_n=2^n+1</b>",
+          "answer": "$a_n=2^n+1$",
           "correct": false
         },
         {
-          "answer": "<b lang=\"eq.latex\">\\forall n &gt; 0: a_n &lt; n</b>",
+          "answer": "$\\forall n &gt; 0: a_n &lt; n$",
           "correct": false
         }
       ],
@@ -2469,19 +2469,19 @@
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "Odpowiedź 1<img src=\"https://edu.pjwstk.edu.pl/mat/6066/tex/opc20150_1.gif\" alt=\"\" border=\"0\">",
+          "answer": "Odpowiedź 1",
           "correct": true
         },
         {
-          "answer": "Odpowiedź 2<img src=\"https://edu.pjwstk.edu.pl/mat/6066/tex/opc20154_1.gif\" alt=\"\" border=\"0\"><span>&nbsp;jest liczbą parzystą</span>",
+          "answer": "Odpowiedź 2<span>&nbsp;jest liczbą parzystą</span>",
           "correct": true
         },
         {
-          "answer": "Odpowiedź 3<img src=\"https://edu.pjwstk.edu.pl/mat/6066/tex/opc20152_1.gif\" alt=\"\" border=\"0\"><span>&nbsp;dla dowolnego wierzchołka v grafu G.</span>",
+          "answer": "Odpowiedź 3<span>&nbsp;dla dowolnego wierzchołka v grafu G.</span>",
           "correct": false
         },
         {
-          "answer": "Odpowiedź 4<img src=\"https://edu.pjwstk.edu.pl/mat/6066/tex/opc20153_1.gif\" alt=\"\" border=\"0\"><span>&nbsp;dla dowolnego wierzcholka v grafu G.</span>",
+          "answer": "Odpowiedź 4<span>&nbsp;dla dowolnego wierzcholka v grafu G.</span>",
           "correct": false
         }
       ],
@@ -2772,7 +2772,7 @@
       "comments": []
     },
     {
-      "question": "Czy suma <a href=\"https://imgur.com/7dWAkd4\"><img title=\"source: imgur.com\" src=\"https://i.imgur.com/7dWAkd4.png\" alt=\"\"></a> jest równa",
+      "question": "Czy suma <a href=\"https://imgur.com/7dWAkd4\"><img title=\"source: imgur.com\" src=\"73f4baa0-f23a-5778-80d1-39ed52790b14.png\" alt=\"\" data-zdaj-se=\"true\"></a> jest równa",
       "id": 3142,
       "numberOfComments": 0,
       "answers": [
@@ -2957,15 +2957,15 @@
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<a href=\"https://imgur.com/LAXp3lw\"><img title=\"source: imgur.com\" src=\"https://i.imgur.com/LAXp3lw.png\" alt=\"\"></a>",
+          "answer": "<a href=\"https://imgur.com/LAXp3lw\"><img title=\"source: imgur.com\" src=\"97d95cd4-21e5-5aa7-a240-b52cf59c59e5.png\" alt=\"\" data-zdaj-se=\"true\"></a>",
           "correct": false
         },
         {
-          "answer": "<a href=\"https://imgur.com/rN0MzpT\"><img title=\"source: imgur.com\" src=\"https://i.imgur.com/rN0MzpT.png\" alt=\"\"></a>",
+          "answer": "<a href=\"https://imgur.com/rN0MzpT\"><img title=\"source: imgur.com\" src=\"ecb74c60-3c61-53f3-b524-3a58b9ce42a8.png\" alt=\"\" data-zdaj-se=\"true\"></a>",
           "correct": false
         },
         {
-          "answer": "<a href=\"https://imgur.com/W61XxPF\"><img title=\"source: imgur.com\" src=\"https://i.imgur.com/W61XxPF.png\" alt=\"\"></a>",
+          "answer": "<a href=\"https://imgur.com/W61XxPF\"><img title=\"source: imgur.com\" src=\"f473b889-7d74-59a4-b04e-7d9502ce807d.png\" alt=\"\" data-zdaj-se=\"true\"></a>",
           "correct": false
         }
       ],
@@ -2992,7 +2992,7 @@
       "comments": []
     },
     {
-      "question": "Czy relacja&nbsp;&nbsp;<p></p>\n<p><a href=\"https://imgur.com/thUbgGI\"><img title=\"source: imgur.com\" src=\"https://i.imgur.com/thUbgGI.png\" alt=\"\"></a>\n          </p>",
+      "question": "Czy relacja&nbsp;&nbsp;<p></p>\n<p><a href=\"https://imgur.com/thUbgGI\"><img title=\"source: imgur.com\" src=\"0fb048a2-b99d-547e-b4d6-fe3fe1542f91.png\" alt=\"\" data-zdaj-se=\"true\"></a>\n          </p>",
       "id": 3153,
       "numberOfComments": 0,
       "answers": [
@@ -3076,7 +3076,7 @@
       "comments": []
     },
     {
-      "question": "<p><span>Niech <strong><img src=\"blob:https://pja.mykhi.org/be7ec8b5-8dc4-474a-a7d3-2d9c7d6c8626\" alt=\"pastedGraphic.png\"></strong>. Relację <strong><img src=\"blob:https://pja.mykhi.org/71cbe83c-e9f2-4fc0-9ccc-e5087b078521\" alt=\"pastedGraphic_1.png\"></strong> określamy wzorem: <strong><img src=\"blob:https://pja.mykhi.org/f8b2b16d-6ea3-4c87-8dfc-946c95c6ec2c\" alt=\"pastedGraphic_2.png\"></strong> wtedy i tylko wtedy gdy <strong><img src=\"blob:https://pja.mykhi.org/416a8ec2-fd33-4644-8d85-f4dc3c4effdb\" alt=\"pastedGraphic_3.png\"></strong>. Czy następujące stwierdzenia są prawdziwe?</span></p>",
+      "question": "<p><span>Niech <strong></strong>. Relację <strong></strong> określamy wzorem: <strong></strong> wtedy i tylko wtedy gdy <strong></strong>. Czy następujące stwierdzenia są prawdziwe?</span></p>",
       "id": 3212,
       "numberOfComments": 0,
       "answers": [
@@ -3672,5 +3672,5 @@
       "comments": []
     }
   ],
-  "updatedAt": 1717544228802
+  "updatedAt": 1717800145540
 }

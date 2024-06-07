@@ -2837,36 +2837,36 @@
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<table width=\"100%\">\n<tbody>\n<tr bgcolor=\"#dddddd\">\n<td>Miało na celu głównie przyspieszenie operacji logicznych<br><br></td>\n</tr>\n</tbody>\n</table>",
+          "answer": "Miało na celu głównie przyspieszenie operacji logicznych",
           "correct": false
         },
         {
-          "answer": "<table width=\"100%\">\n<tbody>\n<tr bgcolor=\"#dddddd\">\n<td>Miało miejsce w latach 60. XX wieku<br><br></td>\n</tr>\n</tbody>\n</table>",
+          "answer": "Miało miejsce w latach 60. XX wieku",
           "correct": false
         },
         {
-          "answer": "<table width=\"100%\">\n<tbody>\n<tr bgcolor=\"#dddddd\">\n<td>Wiązało się z powstaniem nowych modeli procesorów<br><br></td>\n</tr>\n</tbody>\n</table>",
-          "correct": false
+          "answer": "Wiązało się z powstaniem nowych modeli procesorów",
+          "correct": true
         }
       ],
       "comments": []
     },
     {
-      "question": "<table width=\"100%\">\n<tbody>\n<tr bgcolor=\"#ffffdd\">\n<td colspan=\"4\">Niezmiennik w metodzie Hoare'a:</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>",
+      "question": "Niezmiennik w metodzie Hoare'a:\n\n\n\n&nbsp;",
       "id": 3063,
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<table width=\"100%\">\n<tbody>\n<tr bgcolor=\"#dddddd\">\n<td>Może być sprawdzony przy pomocy systemów automatycznej weryfikacji<br><br></td>\n</tr>\n</tbody>\n</table>",
+          "answer": "Może być sprawdzony przy pomocy systemów automatycznej weryfikacji",
+          "correct": true
+        },
+        {
+          "answer": "Musi być spełniony w dowolnym momencie wykonania programu",
           "correct": false
         },
         {
-          "answer": "<table width=\"100%\">\n<tbody>\n<tr bgcolor=\"#dddddd\">\n<td>Musi być spełniony w dowolnym momencie wykonania programu<br><br></td>\n</tr>\n</tbody>\n</table>",
-          "correct": false
-        },
-        {
-          "answer": "<table width=\"100%\">\n<tbody>\n<tr bgcolor=\"#dddddd\">\n<td>Musi być spełniony zawsze, gdy program dociera do linii kodu opisanej przez niezmiennik<br><br></td>\n</tr>\n</tbody>\n</table>",
-          "correct": false
+          "answer": "Musi być spełniony zawsze, gdy program dociera do linii kodu opisanej przez niezmiennik",
+          "correct": true
         }
       ],
       "comments": []
@@ -2877,36 +2877,36 @@
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<table width=\"100%\">\n<tbody>\n<tr bgcolor=\"#dddddd\">\n<td>10 - 100<br><br></td>\n</tr>\n</tbody>\n</table>",
+          "answer": "10 - 100",
           "correct": false
         },
         {
-          "answer": "<table width=\"100%\">\n<tbody>\n<tr bgcolor=\"#dddddd\">\n<td>127 + 127<br><br></td>\n</tr>\n</tbody>\n</table>",
-          "correct": false
+          "answer": "127 + 127",
+          "correct": true
         },
         {
-          "answer": "<table width=\"100%\">\n<tbody>\n<tr bgcolor=\"#dddddd\">\n<td>50 + 50<br><br></td>\n</tr>\n</tbody>\n</table>",
+          "answer": "50 + 50",
           "correct": false
         }
       ],
       "comments": []
     },
     {
-      "question": "<table width=\"100%\">\n<tbody>\n<tr bgcolor=\"#ffffdd\">\n<td colspan=\"4\">Układy logiczne sekwencyjne (z pamięcią stanu):</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>",
+      "question": "Układy logiczne sekwencyjne (z pamięcią stanu):\n\n\n\n&nbsp;",
       "id": 3065,
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<table width=\"100%\">\n<tbody>\n<tr bgcolor=\"#dddddd\">\n<td>Powstają przez odpowiednie połączenie bramek logicznych<br><br></td>\n</tr>\n</tbody>\n</table>",
-          "correct": false
+          "answer": "Powstają przez odpowiednie połączenie bramek logicznych",
+          "correct": true
         },
         {
-          "answer": "<table width=\"100%\">\n<tbody>\n<tr bgcolor=\"#dddddd\">\n<td>Występują w procesorze<br><br></td>\n</tr>\n</tbody>\n</table>",
-          "correct": false
+          "answer": "Występują w procesorze",
+          "correct": true
         },
         {
-          "answer": "<table width=\"100%\">\n<tbody>\n<tr bgcolor=\"#dddddd\">\n<td>Pozwalają na zapamiętanie informacji przez czas dłuższy niż 20 cykli zegarowych<br><br></td>\n</tr>\n</tbody>\n</table>",
-          "correct": false
+          "answer": "Pozwalają na zapamiętanie informacji przez czas dłuższy niż 20 cykli zegarowych",
+          "correct": true
         }
       ],
       "comments": []
@@ -3897,12 +3897,12 @@
           "correct": true
         },
         {
-          "answer": "<p>&nbsp;</p>\n<table width=\"100%\">\n<tbody>\n<tr bgcolor=\"#dddddd\">\n<td>zamiany każdego napotkanego znaku, za wyjątkiem znaku # na pozycji startowej, na wartość znaku znajdującego się na pozycji startowej.</td>\n</tr>\n</tbody>\n</table>",
-          "correct": false
+          "answer": "zamiany każdego napotkanego znaku, za wyjątkiem znaku # na pozycji startowej, na wartość znaku znajdującego się na pozycji startowej.",
+          "correct": true
         },
         {
-          "answer": "<p>&nbsp;</p>\n<table width=\"100%\">\n<tbody>\n<tr bgcolor=\"#dddddd\">\n<td>które w skończonej liczbie przypadków jest skończone.</td>\n</tr>\n</tbody>\n</table>",
-          "correct": false
+          "answer": "które w skończonej liczbie przypadków jest skończone.",
+          "correct": true
         }
       ],
       "comments": []
@@ -3988,20 +3988,20 @@
       "comments": []
     },
     {
-      "question": "Rozważmy algorytm Kruskala w wersji:<p></p>\n<ul>\n<li>z pomocniczą kolejką priorytetową zaimplementowaną w kopcu-drzewie binarnym,</li>\n<li>operacją budowy kolejki priorytetowej PQConstruct zgodną z szybkim algorytmem konstrukcji kopca-drzewa binarnego HeapFastConstruct,</li>\n<li>z pomocniczą strukturą Find-Union zaimplementowaną w drzewie n-arnym z balansowaniem i kompresją ścieżek,</li>\n</ul>\n<p>postaci:</p>\n<p>&nbsp;</p>\n<p><img src=\"https://gakko.pjwstk.edu.pl/public/2271//ASD/Zima1516/TestyPseudokody/Kruskal.gif\" alt=\"\"></p>\n<p>dla grafu <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+G%3d(V%2cE)+%24\" alt=\"\">:</p>\n<ul>\n<li>zbiór wierzchołków grafu <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+V%3d%5c%7b+0%2c1%2c...%2c7+%5c%7d+%24\" alt=\"\">,</li>\n<li>zbiór krawędzi grafu <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+E+%24\" alt=\"\">zadany tablicą list incydencji:\n<ul>\n<li><img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+%5b0%5d%3d((2%2c5)%2c(4%2c5))+%24\" alt=\"\"></li>\n<li><img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+%5b1%5d%3d((2%2c2)%2c(3%2c4)%2c(4%2c4)%2c(6%2c1))+%24\" alt=\"\"></li>\n<li><img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+%5b2%5d%3d((0%2c5)%2c(1%2c2)%2c(4%2c1)%2c(5%2c5)%2c(7%2c5))+%24\" alt=\"\"></li>\n<li><img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+%5b3%5d%3d((1%2c4))+%24\" alt=\"\"></li>\n<li><img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+%5b4%5d%3d((0%2c5)%2c(1%2c4)%2c(2%2c1)%2c(5%2c1))+%24\" alt=\"\"></li>\n<li><img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+%5b5%5d%3d((2%2c5)%2c(4%2c1)%2c(6%2c1)%2c(7%2c5))+%24\" alt=\"\"></li>\n<li><img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+%5b6%5d%3d((1%2c1)%2c(5%2c1)%2c(7%2c4))+%24\" alt=\"\"></li>\n<li><img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+%5b7%5d%3d((2%2c5)%2c(5%2c5)%2c(6%2c4))+%24\" alt=\"\"></li>\n</ul>\n</li>\n</ul>\n<p>przedstawionego na poniższym rysunku.</p>\n<p>&nbsp;</p>\n<p><img src=\"https://gakko.pjwstk.edu.pl/public/2271//ASD/Zima1516/TestyRysunki/Kruskal/Kruskal_22.gif\" alt=\"\"></p>\n<p>Które z poniższych zdań jest prawdziwe? Uwaga! W przypadku niejednoznacznej możliwości wyboru krawędzi, jako pierwszą wybieramy krawędź, której etykiety wierzchołków krańcowych w kolejności niemalejącej tworzą mniejszą liczbę naturalną.\n          </p>",
+      "question": "Rozważmy algorytm Kruskala w wersji:<p></p>\n<ul>\n<li>z pomocniczą kolejką priorytetową zaimplementowaną w kopcu-drzewie binarnym,</li>\n<li>operacją budowy kolejki priorytetowej PQConstruct zgodną z szybkim algorytmem konstrukcji kopca-drzewa binarnego HeapFastConstruct,</li>\n<li>z pomocniczą strukturą Find-Union zaimplementowaną w drzewie n-arnym z balansowaniem i kompresją ścieżek,</li>\n</ul>\n<p>postaci:</p>\n<p>&nbsp;</p>\n<p><img src=\"d4fe4e69-8cc2-5ee6-8de0-14a4259febba.gif\" alt=\"\" data-zdaj-se=\"true\"></p>\n<p>dla grafu :</p>\n<ul>\n<li>zbiór wierzchołków grafu ,</li>\n<li>zbiór krawędzi grafu zadany tablicą list incydencji:\n<ul>\n<li></li>\n<li></li>\n<li></li>\n<li></li>\n<li></li>\n<li></li>\n<li></li>\n<li></li>\n</ul>\n</li>\n</ul>\n<p>przedstawionego na poniższym rysunku.</p>\n<p>&nbsp;</p>\n<p><img src=\"ae276246-ccba-50af-b6ef-7d62133f455c.gif\" alt=\"\" data-zdaj-se=\"true\"></p>\n<p>Które z poniższych zdań jest prawdziwe? Uwaga! W przypadku niejednoznacznej możliwości wyboru krawędzi, jako pierwszą wybieramy krawędź, której etykiety wierzchołków krańcowych w kolejności niemalejącej tworzą mniejszą liczbę naturalną.\n          </p>",
       "id": 3498,
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "Maksymalna waga krawędzi tworzącej otrzymane drzewo rozpinające grafu <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+G+%24\" alt=\"\"> jest równa co najwyżej <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+3+%24\" alt=\"\">",
+          "answer": "Maksymalna waga krawędzi tworzącej otrzymane drzewo rozpinające grafu  jest równa co najwyżej",
           "correct": false
         },
         {
-          "answer": "Kolejność akceptowania krawędzi grafu do drzewa rozpinającego w trakcie wykonania rozważanego algorytmu jest następująca: <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+(1%2c6)%2c(2%2c4)%2c(4%2c5)%2c(5%2c6)%2c(1%2c3)%2c(6%2c7)%2c(0%2c2)+%24\" alt=\"\">",
+          "answer": "Kolejność akceptowania krawędzi grafu do drzewa rozpinającego w trakcie wykonania rozważanego algorytmu jest następująca:",
           "correct": true
         },
         {
-          "answer": "Liczba krawędzi grafu odrzuconych (ze względu na możliwość utworzenia cyklu) w trakcie konstrukcji drzewa rozpinającego, tuż po ustaleniu jego finalnej postaci, jest równa dokładnie <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+4+%24\" alt=\"\">",
+          "answer": "Liczba krawędzi grafu odrzuconych (ze względu na możliwość utworzenia cyklu) w trakcie konstrukcji drzewa rozpinającego, tuż po ustaleniu jego finalnej postaci, jest równa dokładnie",
           "correct": true
         }
       ],
@@ -4248,20 +4248,20 @@
       "comments": []
     },
     {
-      "question": "Rozważmy algorytm AVLConstruct postaci:<p></p>\n<p>&nbsp;</p>\n<p><img src=\"https://gakko.pjwstk.edu.pl/public/2271//ASD/Zima1516/TestyPseudokody/AVLConstruct.gif\" alt=\"\"></p>\n<p>Niech drzewo <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+T+%24\" alt=\"\"> będzie rezultatem działania algorytmu AVLConstruct dla danych wejściowych:</p>\n<ul>\n<li>tablica elementów <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+E%3d%5c%5b+13%2c9%2c7%2c12%2c10%2c4%2c3%2c6%2c11%2c17+%5c%5d+%24\" alt=\"\">.</li>\n</ul>\n<p>Które z poniższych zdań jest prawdziwe?\n          </p>",
+      "question": "Rozważmy algorytm AVLConstruct postaci:<p></p>\n<p>&nbsp;</p>\n<p><img src=\"c039f2c1-84d8-584f-ac4d-e83cb209ea1f.gif\" alt=\"\" data-zdaj-se=\"true\"></p>\n<p>Niech drzewo  będzie rezultatem działania algorytmu AVLConstruct dla danych wejściowych:</p>\n<ul>\n<li>tablica elementów .</li>\n</ul>\n<p>Które z poniższych zdań jest prawdziwe?\n          </p>",
       "id": 3499,
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "Łączna liczba rotacji pojedynczych w lewo wykonanych w trakcie budowy drzewa <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+T+%24\" alt=\"\"> jest równa dokładnie <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+0+%24\" alt=\"\">",
+          "answer": "Łączna liczba rotacji pojedynczych w lewo wykonanych w trakcie budowy drzewa  jest równa dokładnie",
           "correct": true
         },
         {
-          "answer": "Etykiety wierzchołków drzewa <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+T+%24\" alt=\"\"> wypisane w kolejności PostOrder tworzą ciąg: <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+3%2c6%2c7%2c4%2c11%2c10%2c17%2c13%2c12%2c9+%24\" alt=\"\">",
+          "answer": "Etykiety wierzchołków drzewa  wypisane w kolejności PostOrder tworzą ciąg:",
           "correct": true
         },
         {
-          "answer": "Liczba wierzchołków zewnętrznych drzewa <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+T+%24\" alt=\"\"> jest równa dokładnie <img src=\"https://chart.googleapis.com/chart?cht=tx&amp;chf=bg,s,65432100&amp;chl=%24+4+%24\" alt=\"\">",
+          "answer": "Liczba wierzchołków zewnętrznych drzewa  jest równa dokładnie",
           "correct": true
         }
       ],
@@ -4884,5 +4884,5 @@
       "comments": []
     }
   ],
-  "updatedAt": 1717544228802
+  "updatedAt": 1717800145540
 }

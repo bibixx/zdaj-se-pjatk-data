@@ -5025,19 +5025,19 @@
       "numberOfComments": 0,
       "answers": [
         {
-          "answer": "<img src=\"https://i.ibb.co/Lr7sG2t/WSI-PJA-01a.jpg\" alt=\"\" width=\"428\" height=\"158\">",
+          "answer": "<img src=\"85cda813-a9bf-56ff-955e-7f789c24be2b.jpg\" alt=\"\" width=\"428\" height=\"158\" data-zdaj-se=\"true\">",
           "correct": false
         },
         {
-          "answer": "<img src=\"https://i.ibb.co/VJRqnm3/WSI-PJA-02a.jpg\" alt=\"\" width=\"421\" height=\"134\">",
+          "answer": "<img src=\"2ebdf1c9-23ce-527e-88bb-0f614815113d.jpg\" alt=\"\" width=\"421\" height=\"134\" data-zdaj-se=\"true\">",
           "correct": true
         },
         {
-          "answer": "<img src=\"https://i.ibb.co/0QdtmNh/WSI-PJA-03a.jpg\" alt=\"\" width=\"421\" height=\"158\">",
+          "answer": "<img src=\"a33a1959-8f37-5188-815c-005c65c1fea0.jpg\" alt=\"\" width=\"421\" height=\"158\" data-zdaj-se=\"true\">",
           "correct": false
         },
         {
-          "answer": "<img src=\"https://i.ibb.co/sjgkBkv/WSI-PJA-04a.jpg\" alt=\"\" width=\"181\" height=\"174\">",
+          "answer": "<img src=\"4205f847-6520-5a86-955f-e38585abe79d.jpg\" alt=\"\" width=\"181\" height=\"174\" data-zdaj-se=\"true\">",
           "correct": false
         }
       ],
@@ -5116,5 +5116,5 @@
       "comments": []
     }
   ],
-  "updatedAt": 1717544228802
+  "updatedAt": 1717800145540
 }
