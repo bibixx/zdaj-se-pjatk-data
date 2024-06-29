@@ -1,7 +1,7 @@
 {
   "$schema": "../schemas/subject-override.json",
   "id": "rbd",
-  "updatedAt": 1676489317350,
+  "updatedAt": 1719674024112,
   "data": [
     {
       "id": 3281,
@@ -28,6 +28,32 @@
           "answer": "`SELECT Osoby.Nazwisko, Osoby.Imię, Osoby.Id_działu WHERE Działy.Nazwa = 'PRAWNY';`",
           "correct": false,
           "isMarkdown": true
+        }
+      ]
+    },
+    {
+      "question": "Jaka jest wartość wyrażenia logiczna TRUE OR Null OR FALSE:",
+      "isMarkdown": false,
+      "answers": [
+        {
+          "answer": "True",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "Null",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "0",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "False",
+          "correct": false,
+          "isMarkdown": false
         }
       ]
     }
