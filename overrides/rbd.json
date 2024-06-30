@@ -1,7 +1,7 @@
 {
   "$schema": "../schemas/subject-override.json",
   "id": "rbd",
-  "updatedAt": 1719739066544,
+  "updatedAt": 1719772441174,
   "data": [
     {
       "id": 3281,
@@ -32,53 +32,27 @@
       ]
     },
     {
-      "question": "Jaka jest wartość wyrażenia logiczna TRUE OR Null OR FALSE:",
+      "question": "Jeśli w zapytaniu występuje klauzula GROUP BY, wówczas po HAVING może być:",
       "isMarkdown": false,
       "answers": [
         {
-          "answer": "True",
+          "answer": "kolumna występująca po GROUP BY",
           "correct": true,
           "isMarkdown": false
         },
         {
-          "answer": "Null",
+          "answer": "dowolna kolumna",
           "correct": false,
           "isMarkdown": false
         },
         {
-          "answer": "0",
+          "answer": "funkcja sumaryczna",
           "correct": false,
           "isMarkdown": false
         },
         {
-          "answer": "False",
-          "correct": false,
-          "isMarkdown": false
-        }
-      ]
-    },
-    {
-      "question": "Funkcja IIf umożliwia:",
-      "isMarkdown": false,
-      "answers": [
-        {
-          "answer": "obliczenie liczby stron z jakich składa się raport",
-          "correct": false,
-          "isMarkdown": false
-        },
-        {
-          "answer": "zinterpretowanie Null jako napisu pustego",
+          "answer": "stała",
           "correct": true,
-          "isMarkdown": false
-        },
-        {
-          "answer": "zapisanie warunku w kodzie",
-          "correct": true,
-          "isMarkdown": false
-        },
-        {
-          "answer": "wywołanie kodu z makra",
-          "correct": false,
           "isMarkdown": false
         }
       ]
