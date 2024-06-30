@@ -1,7 +1,7 @@
 {
   "$schema": "../schemas/subject-override.json",
   "id": "rbd",
-  "updatedAt": 1719674024112,
+  "updatedAt": 1719739066544,
   "data": [
     {
       "id": 3281,
@@ -52,6 +52,32 @@
         },
         {
           "answer": "False",
+          "correct": false,
+          "isMarkdown": false
+        }
+      ]
+    },
+    {
+      "question": "Funkcja IIf umożliwia:",
+      "isMarkdown": false,
+      "answers": [
+        {
+          "answer": "obliczenie liczby stron z jakich składa się raport",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "zinterpretowanie Null jako napisu pustego",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "zapisanie warunku w kodzie",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "wywołanie kodu z makra",
           "correct": false,
           "isMarkdown": false
         }
