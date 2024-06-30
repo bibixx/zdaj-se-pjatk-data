@@ -1,7 +1,7 @@
 {
   "$schema": "../schemas/subject-override.json",
   "id": "rbd",
-  "updatedAt": 1719739066544,
+  "updatedAt": 1719773137676,
   "data": [
     {
       "id": 3281,
@@ -32,53 +32,27 @@
       ]
     },
     {
-      "question": "Jaka jest wartość wyrażenia logiczna TRUE OR Null OR FALSE:",
+      "question": "Diagram związków encji:",
       "isMarkdown": false,
       "answers": [
         {
-          "answer": "True",
+          "answer": "jest używany przez programistów aplikacji",
           "correct": true,
           "isMarkdown": false
         },
         {
-          "answer": "Null",
-          "correct": false,
-          "isMarkdown": false
-        },
-        {
-          "answer": "0",
-          "correct": false,
-          "isMarkdown": false
-        },
-        {
-          "answer": "False",
-          "correct": false,
-          "isMarkdown": false
-        }
-      ]
-    },
-    {
-      "question": "Funkcja IIf umożliwia:",
-      "isMarkdown": false,
-      "answers": [
-        {
-          "answer": "obliczenie liczby stron z jakich składa się raport",
-          "correct": false,
-          "isMarkdown": false
-        },
-        {
-          "answer": "zinterpretowanie Null jako napisu pustego",
+          "answer": "jest używany przez analityków",
           "correct": true,
           "isMarkdown": false
         },
         {
-          "answer": "zapisanie warunku w kodzie",
+          "answer": "abstrahuje od szczegółów implementacyjnych bazy danych",
           "correct": true,
           "isMarkdown": false
         },
         {
-          "answer": "wywołanie kodu z makra",
-          "correct": false,
+          "answer": "służy do określenia wymagań użytkowników",
+          "correct": true,
           "isMarkdown": false
         }
       ]
