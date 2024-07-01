@@ -38,6 +38,7 @@ jobs:
         run: bun run validate
 
       - name: Validate schema
+        working-directory: scripts
         run: bun run validate
 
       - name: Push to gh-pages branch
