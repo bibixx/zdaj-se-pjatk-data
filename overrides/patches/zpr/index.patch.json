@@ -1,0 +1,6 @@
+{
+  "$schema": "../../../schemas/subject-index-patch.json",
+  "id": "zpr",
+  "title": "Zarządzanie projektem informatycznym",
+  "updatedAt": 1659139863868
+}

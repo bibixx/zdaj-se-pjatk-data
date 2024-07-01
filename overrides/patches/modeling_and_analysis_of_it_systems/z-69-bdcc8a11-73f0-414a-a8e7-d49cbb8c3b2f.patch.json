@@ -1,0 +1,27 @@
+{
+  "question": "Implementing {unique} with the class attribute Set will improve performance at the expense of memory.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": true
+    },
+    {
+      "answer": "No",
+      "correct": false
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "The Set container will speed up the search, but of course it will take extra memory.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "z-69-bdcc8a11-73f0-414a-a8e7-d49cbb8c3b2f",
+  "createdAt": 1691363367006,
+  "$schema": "../../../schemas/subject-patch.json"
+}

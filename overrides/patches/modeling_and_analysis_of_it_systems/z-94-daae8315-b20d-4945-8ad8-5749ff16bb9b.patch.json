@@ -1,0 +1,27 @@
+{
+  "question": "The manadatory attributes are implemented as a column allowing NULL value.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": false
+    },
+    {
+      "answer": "No",
+      "correct": true
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "The required attributes are implemented as a column that does not allow null (and not vice versa).",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "z-94-daae8315-b20d-4945-8ad8-5749ff16bb9b",
+  "createdAt": 1691363367006,
+  "$schema": "../../../schemas/subject-patch.json"
+}

@@ -1,0 +1,27 @@
+{
+  "question": "Implementing {unique} using the extent reduces memory consumption at the expense of performance.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": true
+    },
+    {
+      "answer": "No",
+      "correct": false
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "The second approach will work (significantly) slower, but without consuming extra memory.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "z-70-d117018a-e7f8-4494-b9e6-e3405661b347",
+  "createdAt": 1691363367006,
+  "$schema": "../../../schemas/subject-patch.json"
+}

@@ -1,0 +1,24 @@
+{
+  "question": "Nieulotność w definicji hurtowni danych oznacza, że",
+  "answers": [
+    {
+      "answer": "gromadzone są dane historyczne i każdy fakt opatrzony jest stemplem czasowym",
+      "correct": false
+    },
+    {
+      "answer": "zbierane dane dotyczą tematu, a nie działań",
+      "correct": false
+    },
+    {
+      "answer": "dane, raz umieszczone w hurtowni, zazwyczaj pozostają nie zmienione",
+      "correct": true
+    },
+    {
+      "answer": "dane są jednolite",
+      "correct": false
+    }
+  ],
+  "id": "z-04-ac9025df-5603-43ac-b073-c63f3048fa02",
+  "createdAt": 1707647448640,
+  "$schema": "../../../schemas/subject-patch.json"
+}

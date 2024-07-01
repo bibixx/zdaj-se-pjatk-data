@@ -1,0 +1,26 @@
+{
+  "question": "Które stwierdzenia są prawdziwe w kontekście indeksów w MS SQL Server?",
+  "isMarkdown": true,
+  "comments": [],
+  "answers": [
+    {
+      "answer": "Gdy zastosujemy strategię \"tylko indeks\", serwer musi odczytać dane ze stron z danymi tabeli.",
+      "correct": false
+    },
+    {
+      "answer": "Strategia \"tylko indeks\" może być osiągnięta jednym indeksem",
+      "correct": false
+    },
+    {
+      "answer": "Jeden indeks może być założony na więcej niż jedną kolumnę.",
+      "correct": false
+    },
+    {
+      "answer": "Dołączone kolumny \"included columns\" ułatwiają użycie strategii \"tylko indeks\".",
+      "correct": false
+    }
+  ],
+  "id": "z-08-cdb56fae-7093-4747-907e-92c8fbd8ad7c",
+  "createdAt": 1657199812909,
+  "$schema": "../../../schemas/subject-patch.json"
+}

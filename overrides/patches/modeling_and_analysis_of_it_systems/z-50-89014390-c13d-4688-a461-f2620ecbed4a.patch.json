@@ -1,0 +1,27 @@
+{
+  "question": "The method override may exist without the polymorphic method call.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": true
+    },
+    {
+      "answer": "No",
+      "correct": false
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "Theoretically, the overriding may exist without a polymorphic call, but its usefulness would be rather limited.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "z-50-89014390-c13d-4688-a461-f2620ecbed4a",
+  "createdAt": 1691363367006,
+  "$schema": "../../../schemas/subject-patch.json"
+}

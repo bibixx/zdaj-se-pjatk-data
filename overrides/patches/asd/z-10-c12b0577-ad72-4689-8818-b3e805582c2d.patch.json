@@ -1,0 +1,22 @@
+{
+  "question": "Za pomocą algorytmu Euklides2 możemy",
+  "contributor": "ClipLee",
+  "comments": [],
+  "answers": [
+    {
+      "answer": "w czasie kwadratowym względem długości zapisu większej z dwóch liczb obliczyć ich największy wspólny dzielnik",
+      "correct": false
+    },
+    {
+      "answer": "w czasie kwadratowym względem długości zapisu większej z dwóch liczb  obliczyć najmniejszą ich wspólną wielokrotność",
+      "correct": false
+    },
+    {
+      "answer": "wyznaczyć wszystkie liczby pierwsze mniejsze od n używając dodatkowej pamięci wykładniczej względem rozmiaru liczby n",
+      "correct": false
+    }
+  ],
+  "id": "z-10-c12b0577-ad72-4689-8818-b3e805582c2d",
+  "createdAt": 1644512679798,
+  "$schema": "../../../schemas/subject-patch.json"
+}

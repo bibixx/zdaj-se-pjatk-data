@@ -1,0 +1,29 @@
+{
+  "question": "Wyrażenie w języku Ruby&nbsp;<strong>:xyz.class</strong> zwróci:",
+  "isMarkdown": false,
+  "answers": [
+    {
+      "answer": "klasę Method",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "klasę Symbol",
+      "correct": true,
+      "isMarkdown": false
+    },
+    {
+      "answer": "błąd - literały w języku Ruby nie implementują metod",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "błąd - wyrażenie rozpoczęte dwukropkiem niezgodne ze składnią języka",
+      "correct": false,
+      "isMarkdown": false
+    }
+  ],
+  "id": "z-01-8af1b2c6-bf34-4983-af09-bb06c1632c78",
+  "createdAt": 1707434565194,
+  "$schema": "../../../schemas/subject-patch.json"
+}

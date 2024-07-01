@@ -1,7 +1,7 @@
 {
   "definitions": {},
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "https://example.com/object1659129904.json",
+  "$id": "subject-override",
   "title": "Root",
   "type": "object",
   "required": ["data", "updatedAt"],
@@ -37,7 +37,7 @@
           "id": {
             "$id": "#root/data/items/id",
             "title": "Id",
-            "type": "integer",
+            "type": "string",
             "default": 0
           },
           "numberOfComments": {

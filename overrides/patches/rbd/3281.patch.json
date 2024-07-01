@@ -1,0 +1,30 @@
+{
+  "id": "3281",
+  "question": "Dane są dwie tabele `Osoby(Imię, Nazwisko, Zarobki, Id_działu)` oraz `Działy(Id_działu, Nazwa)`. Które z następujących instrukcji są poprawnymi instrukcjami SQL w dialekcie ORACLE?",
+  "isMarkdown": true,
+  "comments": [],
+  "answers": [
+    {
+      "answer": "`INSERT INTO Osoby (Imię, Nazwisko, Zarobki) VALUES ('Jan', 'Kowalski', 2000);`",
+      "correct": true,
+      "isMarkdown": true
+    },
+    {
+      "answer": "`DELETE FROM Osoby WHERE Id_działu = 10;`",
+      "correct": true,
+      "isMarkdown": true
+    },
+    {
+      "answer": "`UPDATE Osoby DELETE Nazwisko = 'KOWALSKI';`",
+      "correct": false,
+      "isMarkdown": true
+    },
+    {
+      "answer": "`SELECT Osoby.Nazwisko, Osoby.Imię, Osoby.Id_działu WHERE Działy.Nazwa = 'PRAWNY';`",
+      "correct": false,
+      "isMarkdown": true
+    }
+  ],
+  "createdAt": 1719739066544,
+  "$schema": "../../../schemas/subject-patch.json"
+}

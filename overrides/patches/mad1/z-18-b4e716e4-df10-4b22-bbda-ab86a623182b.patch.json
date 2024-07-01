@@ -1,0 +1,22 @@
+{
+  "question": "Zaznacz zdanie prawdziwe.",
+  "contributor": "xarturo99",
+  "answers": [
+    {
+      "answer": "W porządku produktowym w zbiorze {0,1}x{0,1}x{0,1}x{0,1} element (0,0,1,1) poprzedza element (1,1,0,0).",
+      "correct": false
+    },
+    {
+      "answer": "Niech r będzie porządkiem leksykograficznym w zbiorze słów nad alfabetem {a,b,c} uporządkowanym liniowo, tak że c poprzedza b i b poprzedza a. Wtedy (caba)r(abac).",
+      "correct": true
+    },
+    {
+      "answer": "Zbiór X jest dobrze uporządkowany wttw każdy jego skończony podzbiór ma element pierwszy",
+      "correct": false
+    }
+  ],
+  "comments": [],
+  "id": "z-18-b4e716e4-df10-4b22-bbda-ab86a623182b",
+  "createdAt": 1644500612396,
+  "$schema": "../../../schemas/subject-patch.json"
+}

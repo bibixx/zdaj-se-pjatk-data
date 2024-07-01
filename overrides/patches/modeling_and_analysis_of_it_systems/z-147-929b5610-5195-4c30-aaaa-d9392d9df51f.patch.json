@@ -1,0 +1,27 @@
+{
+  "question": "The SWT library is always faster than Swing.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": false
+    },
+    {
+      "answer": "No",
+      "correct": true
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "In some situations the SWT library is faster than the Swing ('drawing' component), but in others the slower ('converting' the data to a form acceptable by native controls).",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "z-147-929b5610-5195-4c30-aaaa-d9392d9df51f",
+  "createdAt": 1691363367006,
+  "$schema": "../../../schemas/subject-patch.json"
+}

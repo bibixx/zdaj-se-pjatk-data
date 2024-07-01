@@ -1,0 +1,26 @@
+{
+  "question": "Zaznacz poprawne stwierdzenia na temat indeksów",
+  "isMarkdown": true,
+  "comments": [],
+  "answers": [
+    {
+      "answer": "Indeksy mogą negatywnie odbić się na czasie wykonania operacji związanych z modyfikacją danych w tabeli (INSERT, UPDATE, DELETE).",
+      "correct": false
+    },
+    {
+      "answer": "Rozmiar indeksu/indeksów może czasem przekroczyć rozmiar tabeli na której jest założony",
+      "correct": false
+    },
+    {
+      "answer": "Na tabeli w PostgreSQL możemy założyć wyłącznie jeden indeks na każdej tabeli",
+      "correct": false
+    },
+    {
+      "answer": "W PostgreSQL nie występują indeksu pogrupowane (clustered).",
+      "correct": false
+    }
+  ],
+  "id": "z-02-eb5c0e30-2b00-4789-9578-48fa9437a643",
+  "createdAt": 1657199812909,
+  "$schema": "../../../schemas/subject-patch.json"
+}

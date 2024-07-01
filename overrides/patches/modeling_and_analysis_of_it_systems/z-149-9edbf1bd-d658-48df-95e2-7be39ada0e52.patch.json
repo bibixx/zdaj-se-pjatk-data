@@ -1,0 +1,27 @@
+{
+  "question": "Creating your own GUI library requires first of all the ability to work at a high level of abstraction.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": false
+    },
+    {
+      "answer": "No",
+      "correct": true
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "Creating your own GUI library requires working on a fairly low level of abstraction (operating system events).",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "z-149-9edbf1bd-d658-48df-95e2-7be39ada0e52",
+  "createdAt": 1691363367006,
+  "$schema": "../../../schemas/subject-patch.json"
+}

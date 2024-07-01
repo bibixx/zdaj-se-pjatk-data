@@ -1,0 +1,27 @@
+{
+  "question": "The {ordered} implementation requires a method to check for the existence of a given link.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": false
+    },
+    {
+      "answer": "No",
+      "correct": true
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "Implementation {ordered} does not require checking the existence of the specified link.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "z-73-53868443-3e0d-4d83-8fc0-fe95dd1001b2",
+  "createdAt": 1691363367006,
+  "$schema": "../../../schemas/subject-patch.json"
+}

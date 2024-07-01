@@ -1,0 +1,27 @@
+{
+  "question": "Multi-aspect inheritance occurs in all popular programming languages.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": false
+    },
+    {
+      "answer": "No",
+      "correct": true
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "Multi-aspect inheritance does not occur in any of the popular programming languages.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "z-58-7bb56995-44cf-48cc-89d1-d53428cb53f0",
+  "createdAt": 1691363367006,
+  "$schema": "../../../schemas/subject-patch.json"
+}

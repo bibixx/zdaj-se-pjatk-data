@@ -1,0 +1,27 @@
+{
+  "question": "When working with Hibernate, you need to create and update the DB schema manually.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": false
+    },
+    {
+      "answer": "No",
+      "correct": true
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "Fortunately, Hibernate manages the database schema itself by creating the appropriate tables and connections.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "z-121-cf1c2abf-4d33-4b59-acec-4015d379d952",
+  "createdAt": 1691363367006,
+  "$schema": "../../../schemas/subject-patch.json"
+}
