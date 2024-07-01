@@ -58,6 +58,7 @@ async function processSubject(subjectId: string) {
 
     const fileContents = await file.json();
     delete fileContents.createdAt;
+    delete fileContents.$schema;
 
     outData.data.push(fileContents);
   }
