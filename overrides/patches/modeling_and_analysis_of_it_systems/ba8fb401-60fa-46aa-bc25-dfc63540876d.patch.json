@@ -1,0 +1,26 @@
+{
+  "question": "In the classical relational model there are all kinds of inheritance except overlapping.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": false
+    },
+    {
+      "answer": "No",
+      "correct": true
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "In the classical relational model, inheritance does not occur.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "ba8fb401-60fa-46aa-bc25-dfc63540876d",
+  "createdAt": 1691363367006
+}

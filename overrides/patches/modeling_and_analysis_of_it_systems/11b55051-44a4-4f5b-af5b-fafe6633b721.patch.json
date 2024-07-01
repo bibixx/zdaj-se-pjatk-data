@@ -1,0 +1,26 @@
+{
+  "question": "By inheriting from ObjectPlus, business classes will receive extent management.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": true
+    },
+    {
+      "answer": "No",
+      "correct": false
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "Inheritance from the ObjectPlus, provides all functionality implemented here, including extent management.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "11b55051-44a4-4f5b-af5b-fafe6633b721",
+  "createdAt": 1691363367006
+}

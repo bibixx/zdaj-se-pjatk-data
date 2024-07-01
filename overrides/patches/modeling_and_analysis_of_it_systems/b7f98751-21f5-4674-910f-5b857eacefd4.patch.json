@@ -1,0 +1,26 @@
+{
+  "question": "Hashtable is a mapping container.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": true
+    },
+    {
+      "answer": "No",
+      "correct": false
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "One of the maps provided by Java is Hashtable.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "b7f98751-21f5-4674-910f-5b857eacefd4",
+  "createdAt": 1691363367006
+}

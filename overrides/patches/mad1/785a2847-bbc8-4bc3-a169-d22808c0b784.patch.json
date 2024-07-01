@@ -1,0 +1,21 @@
+{
+  "question": "W zbiorze wierzchołków V pewnego drzewa G z wyróżnionym korzeniem P określono relację r następująco: x r y wttw w grafie G, każda droga prowadząca od P do y przechodzi przez x. Wskaż zdania prawdziwe.",
+  "contributor": "xarturo99",
+  "answers": [
+    {
+      "answer": "<V, r> jest zbiorem liniowo uporządkowanym.",
+      "correct": false
+    },
+    {
+      "answer": "Każdy liść drzewa G jest elementem maksymalnym w zbiorze V uporządkowanym przez relację r.",
+      "correct": true
+    },
+    {
+      "answer": "Każdy wierzchołek leżący na drodze od korzenia do y jest w relacji r z wierzchołkiem y.",
+      "correct": true
+    }
+  ],
+  "comments": [],
+  "id": "785a2847-bbc8-4bc3-a169-d22808c0b784",
+  "createdAt": 1644500612396
+}

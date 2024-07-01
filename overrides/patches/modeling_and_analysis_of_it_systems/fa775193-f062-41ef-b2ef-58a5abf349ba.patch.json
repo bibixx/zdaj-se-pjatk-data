@@ -1,0 +1,26 @@
+{
+  "question": "Introducing an intermediary table facilitates understanding of business rules.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": false
+    },
+    {
+      "answer": "No",
+      "correct": true
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "Unfortunately, the introduction of the 'obfuscate' intermediate table: we have an extra table on a diagram that looks identical to the other tables, making it difficult to analyze the model.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "fa775193-f062-41ef-b2ef-58a5abf349ba",
+  "createdAt": 1691363367006
+}

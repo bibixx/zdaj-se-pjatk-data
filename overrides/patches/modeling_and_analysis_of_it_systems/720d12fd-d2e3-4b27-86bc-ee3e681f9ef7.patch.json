@@ -1,0 +1,26 @@
+{
+  "question": "The repetitive attribute can be implemented using ArrayList.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": true
+    },
+    {
+      "answer": "No",
+      "correct": false
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "Repeated attributes can be implemented using a collection, for example. ArrayList.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "720d12fd-d2e3-4b27-86bc-ee3e681f9ef7",
+  "createdAt": 1691363367006
+}

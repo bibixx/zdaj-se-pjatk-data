@@ -1,0 +1,26 @@
+{
+  "question": "To create a class method in Java, use the class keyword.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": false
+    },
+    {
+      "answer": "No",
+      "correct": true
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "In Java, class methods are created using the static keyword.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "6e0e01a7-9fcf-4170-bfbb-5602b420e7ce",
+  "createdAt": 1691363367006
+}

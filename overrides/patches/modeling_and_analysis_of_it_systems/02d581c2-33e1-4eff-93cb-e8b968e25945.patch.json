@@ -1,0 +1,26 @@
+{
+  "question": "Implementation of an object attribute must use only simple types",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": false
+    },
+    {
+      "answer": "No",
+      "correct": true
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "An attribute of an object can be, for example, a complex one and in that case its implementation may use a dedicated class.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "02d581c2-33e1-4eff-93cb-e8b968e25945",
+  "createdAt": 1691363367006
+}

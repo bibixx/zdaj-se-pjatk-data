@@ -1,0 +1,26 @@
+{
+  "question": "Checklists should be included with each interface project.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": true
+    },
+    {
+      "answer": "No",
+      "correct": false
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "Checklists allow you to avoid common mistakes and therefore should be used when designing.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "5475f27b-3fe2-40f6-be41-baed3e44d509",
+  "createdAt": 1691363367006
+}

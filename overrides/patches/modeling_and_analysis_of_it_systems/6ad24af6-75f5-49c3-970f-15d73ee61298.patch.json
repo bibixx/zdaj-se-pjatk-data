@@ -1,0 +1,26 @@
+{
+  "question": "Implementing an association with IDs provides better performance than using references.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": false
+    },
+    {
+      "answer": "No",
+      "correct": true
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "Using identifiers reduces performance because we have to search an extent.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "6ad24af6-75f5-49c3-970f-15d73ee61298",
+  "createdAt": 1691363367006
+}

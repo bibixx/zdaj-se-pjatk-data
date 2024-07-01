@@ -1,0 +1,26 @@
+{
+  "question": "You do not have to watch your users during the usability tests - just listen to their comments.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": false
+    },
+    {
+      "answer": "No",
+      "correct": true
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "User comments may be misleading. Therefore, it is important to observe their behavior.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "ee15d974-7da2-43d2-a474-c5c73e9a04f6",
+  "createdAt": 1691363367006
+}

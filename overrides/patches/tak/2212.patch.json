@@ -1,0 +1,19 @@
+{
+  "question": "Aby określić złożoność pesymistyczną algorytmu musimy odnieść ją do:",
+  "id": 2212,
+  "answers": [
+    {
+      "answer": "konkretnych danych",
+      "correct": true
+    },
+    {
+      "answer": "wszystkich możliwych do wyobrażenia algorytmów",
+      "correct": false
+    },
+    {
+      "answer": "konkretnego rozkładu pewnej zmiennej losowej",
+      "correct": false
+    }
+  ],
+  "createdAt": 1673385234728
+}

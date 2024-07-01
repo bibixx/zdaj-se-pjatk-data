@@ -1,0 +1,26 @@
+{
+  "question": "One way to improve the performance of a qualified association is to replace ArrayList with Hashtable.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": true
+    },
+    {
+      "answer": "No",
+      "correct": false
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "Therefore, after using Hashtable, we can expect better performance.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "6ab58bc0-4e6c-4619-b423-df09bb97ada1",
+  "createdAt": 1691363367006
+}

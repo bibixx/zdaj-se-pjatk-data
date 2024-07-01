@@ -1,0 +1,28 @@
+{
+  "question": "Wskazać poprawne zapytanie SQL (w Oracle) znajdujące stanowiska, na których średni zarobek wynosi 3000 lub więcej.",
+  "id": 2384,
+  "isMarkdown": false,
+  "answers": [
+    {
+      "answer": "```sql\nSELECT job, AVG(sal) FROM emp HAVING AVG (sal) >= 3000 GROUP BY job\n```",
+      "correct": true,
+      "isMarkdown": true
+    },
+    {
+      "answer": "```sql\nSELECT job, AVG(sal) FROM emp GROUP BY job WHERE AVG (sal) >= 3000\n```",
+      "correct": false,
+      "isMarkdown": true
+    },
+    {
+      "answer": "```sql\nSELECT job, AVG(sal) FROM emp WHERE AVG (sal) >= 3000 GROUP BY job\n```",
+      "correct": false,
+      "isMarkdown": true
+    },
+    {
+      "answer": "```sql\nSELECT job, AVG(sal) FROM emp GROUP BY job HAVING AVG (sal) >= 3000\n```",
+      "correct": true,
+      "isMarkdown": true
+    }
+  ],
+  "createdAt": 1707647448640
+}

@@ -1,0 +1,26 @@
+{
+  "question": "In inheritance overalpping object can belong to several classes at once.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": true
+    },
+    {
+      "answer": "No",
+      "correct": false
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "As defined, the overalpping inheritance can belong to several classes at once.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "b96ad23a-35d7-4e84-9f02-e0e98026af71",
+  "createdAt": 1691363367006
+}

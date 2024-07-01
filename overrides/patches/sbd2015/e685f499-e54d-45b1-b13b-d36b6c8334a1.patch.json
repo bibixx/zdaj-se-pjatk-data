@@ -1,0 +1,28 @@
+{
+  "question": "W funkcji (FUNCTION) PL/SQL:",
+  "isMarkdown": true,
+  "answers": [
+    {
+      "answer": "Nie można zadeklarować parametru typu `OUT`",
+      "correct": false,
+      "isMarkdown": true
+    },
+    {
+      "answer": "Wywołanie funkcji odbywa się przez jej nazwę",
+      "correct": true,
+      "isMarkdown": false
+    },
+    {
+      "answer": "Nazwa funkcji może zostać przeciążona",
+      "correct": true,
+      "isMarkdown": false
+    },
+    {
+      "answer": "Funkcji definiowane w bazie danych mogą być użyte w poleceniach SQL",
+      "correct": true,
+      "isMarkdown": false
+    }
+  ],
+  "id": "e685f499-e54d-45b1-b13b-d36b6c8334a1",
+  "createdAt": 1707679176310
+}

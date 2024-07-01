@@ -1,0 +1,26 @@
+{
+  "question": "The impedance mismatch is due to the poor performance of databases",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": false
+    },
+    {
+      "answer": "No",
+      "correct": true
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "Impedance mismatch is not related to performance.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "12ff30e5-aed7-4a58-bda2-77010be21d93",
+  "createdAt": 1691363367006
+}

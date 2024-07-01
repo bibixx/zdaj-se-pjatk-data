@@ -1,0 +1,21 @@
+{
+  "question": "Niech A będzie pewnym alfabetem zawierającym więcej niz jeden element. Dla dowolnych słów w, w' należących do A* niech w r w' wttw, gdy długość(w) ≤ długość(w'). Zaznacz zdania prawdziwe.",
+  "comments": [],
+  "contributor": "xarturo99",
+  "answers": [
+    {
+      "answer": "r jest relacją liniowego porządku.",
+      "correct": false
+    },
+    {
+      "answer": "r nie jest relacją antysymetryczną.",
+      "correct": true
+    },
+    {
+      "answer": "r jest relacją przechodnią.",
+      "correct": true
+    }
+  ],
+  "id": "b62cc5d7-53e3-4df5-8cee-e57434cbe38e",
+  "createdAt": 1644500612396
+}

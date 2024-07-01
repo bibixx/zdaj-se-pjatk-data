@@ -1,0 +1,26 @@
+{
+  "question": "Class extent and object mean the same thing.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": false
+    },
+    {
+      "answer": "No",
+      "correct": true
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "Class extent is a collection of all objects.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "2444dd2c-f16d-4a52-8891-fbe2ae874ab8",
+  "createdAt": 1691363367006
+}

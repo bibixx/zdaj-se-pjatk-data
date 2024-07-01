@@ -1,0 +1,21 @@
+{
+  "question": "Która z wymienionych relacji jest porządkiem częściowym?",
+  "comments": [],
+  "contributor": "xarturo99",
+  "answers": [
+    {
+      "answer": "x r y wttw x² = y² dla dowolnych liczb naturalnych x, y",
+      "correct": true
+    },
+    {
+      "answer": "x r y wttw x mod 4 = y mod 8, did dowolnych liczb naturalnych x, y",
+      "correct": false
+    },
+    {
+      "answer": "x r y wttw x | y, dla dowolnych liczb naturalnych x, y różnych od zera",
+      "correct": true
+    }
+  ],
+  "id": "bb92ec6e-c9f7-4ac8-8b4b-c02f33688eb2",
+  "createdAt": 1644500612396
+}

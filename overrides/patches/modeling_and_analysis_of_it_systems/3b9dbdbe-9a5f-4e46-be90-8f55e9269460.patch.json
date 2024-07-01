@@ -1,0 +1,26 @@
+{
+  "question": "Associations *:* can be accomplished using an intermediary table.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": true
+    },
+    {
+      "answer": "No",
+      "correct": false
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "The only way to accomplish card. * - * is to use an intermediary table.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "3b9dbdbe-9a5f-4e46-be90-8f55e9269460",
+  "createdAt": 1691363367006
+}

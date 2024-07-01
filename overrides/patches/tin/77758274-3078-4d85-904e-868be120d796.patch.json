@@ -1,0 +1,28 @@
+{
+  "question": "Do technologii dynamicznych stron WWW zaliczamy:",
+  "isMarkdown": false,
+  "answers": [
+    {
+      "answer": "aplety Javy",
+      "correct": true,
+      "isMarkdown": false
+    },
+    {
+      "answer": "JSF",
+      "correct": true,
+      "isMarkdown": false
+    },
+    {
+      "answer": "ActiveX",
+      "correct": true,
+      "isMarkdown": false
+    },
+    {
+      "answer": "XPath",
+      "correct": false,
+      "isMarkdown": false
+    }
+  ],
+  "id": "77758274-3078-4d85-904e-868be120d796",
+  "createdAt": 1707434565194
+}

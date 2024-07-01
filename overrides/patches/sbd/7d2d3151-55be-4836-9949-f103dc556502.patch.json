@@ -1,0 +1,28 @@
+{
+  "question": "Jaką wartość dla kolumny `Salary` zwróci to zapytanie?\n```sql\nSELECT ename, NVL(sal, 0) \"Salary\" FROM Emp WHERE Sal IS NULL ORDER BY ename;```",
+  "isMarkdown": true,
+  "answers": [
+    {
+      "answer": "`0`",
+      "correct": true,
+      "isMarkdown": true
+    },
+    {
+      "answer": "spację",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "nic nie zwróci",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "`null`",
+      "correct": false,
+      "isMarkdown": true
+    }
+  ],
+  "id": "7d2d3151-55be-4836-9949-f103dc556502",
+  "createdAt": 1707647448640
+}

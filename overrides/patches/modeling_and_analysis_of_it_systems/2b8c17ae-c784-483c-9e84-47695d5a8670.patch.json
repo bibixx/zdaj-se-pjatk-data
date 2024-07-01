@@ -1,0 +1,26 @@
+{
+  "question": "The constraints in Java use the special constraint keyword.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": false
+    },
+    {
+      "answer": "No",
+      "correct": true
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "There is no constraint keyword in Java.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "2b8c17ae-c784-483c-9e84-47695d5a8670",
+  "createdAt": 1691363367006
+}

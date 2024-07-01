@@ -1,0 +1,25 @@
+{
+  "question": "Które z uprawnień są najsilniejsze w MS SQL Server?",
+  "isMarkdown": true,
+  "comments": [],
+  "answers": [
+    {
+      "answer": "żadne z wymienionych nie są silniejsze od pozostałych",
+      "correct": false
+    },
+    {
+      "answer": "na poziomie bazy danych (database level permissions)",
+      "correct": false
+    },
+    {
+      "answer": "na poziomie tabeli (object level permissions)",
+      "correct": false
+    },
+    {
+      "answer": "na poziomie schematu (schemat permissions)",
+      "correct": false
+    }
+  ],
+  "id": "0cb8b64f-a731-405e-8756-0d7d23803c8d",
+  "createdAt": 1657199812909
+}

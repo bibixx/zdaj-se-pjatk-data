@@ -1,0 +1,25 @@
+{
+  "question": "Jaka jest różnica między użytkownikami i rolami w PostgreSQL?",
+  "isMarkdown": true,
+  "comments": [],
+  "answers": [
+    {
+      "answer": "Użytkownicy i role to ten sam rodzaj obiektu w PostgreSQL. Podstawowa różnica polega na tym, że użytkownicy w przeciwieństwie do ról, posiadają uprawnienia do logowania.",
+      "correct": false
+    },
+    {
+      "answer": "Nie ma między nimi różnic",
+      "correct": false
+    },
+    {
+      "answer": "Role to nowszy mechanizm, który zastąpił użytkowników",
+      "correct": false
+    },
+    {
+      "answer": "Zarówno użytkownicy jak i role nie są dostępne w PostgreSQL",
+      "correct": false
+    }
+  ],
+  "id": "f508ab5e-2bf6-4654-a5a2-b3924b28ac49",
+  "createdAt": 1657199812909
+}

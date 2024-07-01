@@ -1,0 +1,26 @@
+{
+  "question": "The usability level presented by the application has no impact on user productivity.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": false
+    },
+    {
+      "answer": "No",
+      "correct": true
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "Of course, the usability of the interface has a huge impact on users.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "0c499a33-1869-484a-9e64-aac83c9cb7c4",
+  "createdAt": 1691363367006
+}

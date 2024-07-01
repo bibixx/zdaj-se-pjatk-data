@@ -1,0 +1,26 @@
+{
+  "question": "In the abstract class there can be both abstract and concrete methods",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": true
+    },
+    {
+      "answer": "No",
+      "correct": false
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "In the abstract class there can be both abstract and concrete methods.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "e6da0a9e-e3ff-4a64-9de4-700f364f1158",
+  "createdAt": 1691363367006
+}

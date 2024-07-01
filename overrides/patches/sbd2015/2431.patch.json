@@ -1,0 +1,24 @@
+{
+  "id": 2431,
+  "question": "Wskazać poprawne zapytanie SQL (dialekt ORACLE) znajdujące średnie zarobki tylko tych departamentów, które zatrudniają wiecej, niż trzech pracowników:",
+  "isMarkdown": false,
+  "comments": [],
+  "answers": [
+    {
+      "answer": "SELECT deptno, AVG(sal) FROM emp GROUP BY deptno WHERE COUNT(*) &gt; 3;",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "SELECT deptno, AVG(sal) FROM emp HAVING COUNT (*) &gt; 3;GROUP BY deptno;",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "SELECT deptno, AVG(sal) as avg_sal FROM emp GROUP BY deptno HAVING COUNT(*) > 3;",
+      "correct": true,
+      "isMarkdown": false
+    }
+  ],
+  "createdAt": 1707679176310
+}

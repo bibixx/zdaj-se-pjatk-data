@@ -1,0 +1,26 @@
+{
+  "question": "Implementation of cardinalities * - * enforces use of two containers (eg. ArrayList).",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": true
+    },
+    {
+      "answer": "No",
+      "correct": false
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "The cardinality * - * is implemented by two collections (one on each side).",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "692dd6b3-2fb8-4317-b1ad-0ffe3e2b8a96",
+  "createdAt": 1691363367006
+}

@@ -1,0 +1,26 @@
+{
+  "question": "The simplest way to implement multi-aspect inheritance is to flatten the hierarchy.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": true
+    },
+    {
+      "answer": "No",
+      "correct": false
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "Flattening of the hierarchy is the easiest way to implement any kind of inheritance (including multi-aspect).",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "579bc4c4-99dd-4ea1-b8cc-98e052dc1d3d",
+  "createdAt": 1691363367006
+}

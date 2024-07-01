@@ -1,0 +1,26 @@
+{
+  "question": "Classes in Java are presented directly.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": true
+    },
+    {
+      "answer": "No",
+      "correct": false
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "In Java, we have a special class keyword that allows direct creation of classes.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "4d0ca17a-7156-4b27-8c43-5b2afa5cba90",
+  "createdAt": 1691363367006
+}

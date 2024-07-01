@@ -1,0 +1,23 @@
+{
+  "question": "Zróżnicowanie czasowe w definicji hurtowni danych oznacza, że",
+  "answers": [
+    {
+      "answer": "zbierane dane dotyczą tematu, a nie działań",
+      "correct": false
+    },
+    {
+      "answer": "dane, raz umieszczone w hurtowni, zazwyczaj pozostają niezmienione",
+      "correct": false
+    },
+    {
+      "answer": "dane są jednolite",
+      "correct": false
+    },
+    {
+      "answer": "gromadzone są dane historyczne i każdy fakt opatrzony jest stemplem czasowym",
+      "correct": true
+    }
+  ],
+  "id": "9a8053dd-0d16-4436-98b0-23745d07bfe0",
+  "createdAt": 1707647448640
+}

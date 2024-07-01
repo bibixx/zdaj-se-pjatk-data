@@ -1,0 +1,26 @@
+{
+  "question": "The object method can only modify the attributes of the instance to which it was invoked.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": false
+    },
+    {
+      "answer": "No",
+      "correct": true
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "The object method has access only to the instance to which it was called.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "6b281c78-8874-4805-a4b2-1b9f8c4843c8",
+  "createdAt": 1691363367006
+}

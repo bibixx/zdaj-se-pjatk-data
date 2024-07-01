@@ -1,0 +1,26 @@
+{
+  "question": "Class instance is an object.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": true
+    },
+    {
+      "answer": "No",
+      "correct": false
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "By definition, an instance of a class can be called an object.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "f68ce42e-9379-4b40-83de-5fcec48bc274",
+  "createdAt": 1691363367006
+}

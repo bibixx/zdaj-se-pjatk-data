@@ -1,0 +1,26 @@
+{
+  "question": "Spiralny model cyklu życia oprogramowania:",
+  "id": 3202,
+  "numberOfComments": 0,
+  "contributor": "Kacper",
+  "answers": [
+    {
+      "answer": "W praktyce każda jego faza jest realizowana zgodnie z podejściem iteracyjnym",
+      "correct": true
+    },
+    {
+      "answer": "Utrudnia klientowi walidacje produktu na etapie wytwarzania",
+      "correct": false
+    },
+    {
+      "answer": "W praktyce każda jego faza jest realizowana zgodnie z podejściem kaskadowym",
+      "correct": false
+    },
+    {
+      "answer": "Utrudnia sporządzenie harmonogramu projektu",
+      "correct": false
+    }
+  ],
+  "comments": [],
+  "createdAt": 1675678458235
+}

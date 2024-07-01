@@ -1,0 +1,29 @@
+{
+  "question": "Rozważ następujące zapytanie SQL:\n```sql\nselect idperson, fname, lname, birthdate from person\nwhere fname='Anna' and birthdate='01-01-2001';\n```\nKtóry z poniższych indeksów realizuję strategię \"tylko indeks\"?",
+  "isMarkdown": true,
+  "comments": [],
+  "id": 3339,
+  "answers": [
+    {
+      "answer": "`create index index1 on person(fname, birthdate, idperson, lname);`",
+      "correct": false,
+      "isMarkdown": true
+    },
+    {
+      "answer": "`create index index1 on person(birthdate, fname, idperson);`",
+      "correct": true,
+      "isMarkdown": true
+    },
+    {
+      "answer": "```\ncreate index index1 on person(fname);\ncreate index index2 on person(birthdate);\n```",
+      "correct": false,
+      "isMarkdown": true
+    },
+    {
+      "answer": "```\ncreate index index1 ON person using gin(birthdate);\ncreate index index2 ON person using btree (fname);\n```",
+      "correct": false,
+      "isMarkdown": true
+    }
+  ],
+  "createdAt": 1657199812909
+}

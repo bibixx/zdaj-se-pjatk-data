@@ -1,0 +1,29 @@
+{
+  "id": 2565,
+  "question": "Ile ma warstw model internetowy?",
+  "isMarkdown": false,
+  "comments": [],
+  "answers": [
+    {
+      "answer": "3",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "4",
+      "correct": true,
+      "isMarkdown": false
+    },
+    {
+      "answer": "5",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "7",
+      "correct": false,
+      "isMarkdown": false
+    }
+  ],
+  "createdAt": 1707393065568
+}

@@ -1,0 +1,22 @@
+{
+  "question": "Rozważmy algorytm sortowania RadixSort, zaimplementowany przy użyciu struktur pomocniczych kolejek, postaci:\n\n```\n// elem liczba możliwych wartości składowych elementu tablicy wejściowej (obiektu)\n// elem_value(o, i) wartość i-tej składowej obiektu o\n\nvoid RadixSort(object E[], int d) {\n  // E - tablica obiektow\n  // d - liczba pozycji składowych obiektu\n\n  int i, j, k;\n  Queue Q[elem]; // tablica kolejek pomocniczych rozmiaru elem\n\n  for (i:=d; i>0; i:=i-1) do {\n    for (j:=0; j<size (E); j:=j+1) // wstawianie obiektów do kolejek względem wartości i-tej składowej\n      IN(Q[elem value (E[j], i)],E[j]);\n\n    k:=0;\n    for (j:=0; j‹elem; j:=j+1) do { // przepisywanie obiektów do tablicy\n                                    // z zachowaniem wlaściwego porzadku\n      while (EMPTY (Q[j])=FALSE) {\n        E[k] : =FIRST (Q[j]);\n        OUT(Q[j]);\n        k:=k+1;\n      }\n    }\n  }\n}\n```\n\ndla danych wejściowych:\n* tablica elementów: $E = \\\\{287,552,104,599,632,428,150,524,723,384,110\\\\}$\n* liczba pozycji składowych elementów tablicy $E$: $d=3$,\n\nKtóre z poniższych zdań jest prawdziwe?\n",
+  "contributor": "ClipLee",
+  "isMarkdown": true,
+  "comments": [],
+  "answers": [
+    {
+      "answer": "Maksymalna długość dowolnej kolejki (tj. maksymalna liczba jednocześnie przechowywanych elementów) w trakcie wykonania rozważanego algorytmu jest równa dokładnie $3$",
+      "correct": false
+    },
+    {
+      "answer": "Maksymalna długość dowolnej kolejki (tj. maksymalna liczba jednocześnie przechowywanych elementów) w trakcie wykonania rozważanego algorytmu jest równa dokładnie $5$",
+      "correct": false
+    },
+    {
+      "answer": "Tuż po sortowaniu obiektów względem $3$-ej pozycji składowej (liczonej od prawej do lewej strony), zawartość tablicy $E$ jest następująca: $\\\\{104,110,150,287,384,428,524,552,599,632,723\\\\}$",
+      "correct": false
+    }
+  ],
+  "id": "fa1d53c4-fe1a-4979-979e-ea59390993ae",
+  "createdAt": 1644512679798
+}

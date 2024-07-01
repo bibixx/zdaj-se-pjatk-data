@@ -1,0 +1,22 @@
+{
+  "question": "Rozważmy algorytm AVLConstruct postaci:\n\n```\nAVLTree AVLConstruct (element E[]) {\n  // E - tablica elementów\n  AVLTree T; // drzewo typu AVL początkowo puste\n  int i;\n\n  for (i:=0; i<size (E) ; i++) do\n    INSERT (T,E[i]);\n\n  return T;\n}\n```\n\nNiech drzewo $T$ będzie rezultatem działania algorytmu AVLConstruct dla danych wejściowych:\n* tablica elementów $E=\\\\{8,2,15,6,3,13,1,16,11,9\\\\}$\n\nKtóre z poniższych zdań jest prawdziwe?",
+  "contributor": "ClipLee",
+  "isMarkdown": true,
+  "comments": [],
+  "answers": [
+    {
+      "answer": "Etykiety wierzchołków drzewa $T$ wypisane w kolejności InOrder tworzą ciąg: $8,3,2,1,6,15,11,9,13,16$",
+      "correct": false
+    },
+    {
+      "answer": "Łączna liczba rotacji pojedynczych w prawo wykonanych w trakcie budowy drzewa $T$ jest równa dokładnie $1$",
+      "correct": false
+    },
+    {
+      "answer": "Liczba wierzchołków zewnętrznych drzewa $T$ jest równa dokładnie $6$",
+      "correct": false
+    }
+  ],
+  "id": "ddcc465c-d385-4ef1-96b1-68fc17d672e5",
+  "createdAt": 1644512679798
+}

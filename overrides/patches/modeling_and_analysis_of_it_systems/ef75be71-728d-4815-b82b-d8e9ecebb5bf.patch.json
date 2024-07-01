@@ -1,0 +1,26 @@
+{
+  "question": "An optional and repetitive attribute may use ArrayList.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": true
+    },
+    {
+      "answer": "No",
+      "correct": false
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "The ArrayList collection may not have any elements, so it is suitable for implementation of the optional attribute.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "ef75be71-728d-4815-b82b-d8e9ecebb5bf",
+  "createdAt": 1691363367006
+}

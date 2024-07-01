@@ -1,0 +1,26 @@
+{
+  "question": "The {subset} implementation requires a method to check for the existence of a given link.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": true
+    },
+    {
+      "answer": "No",
+      "correct": false
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "One of the basic activities that needs to be done is to check the existence of a particular link.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "4daf46a3-94a9-4f49-bee2-b5dee61ad1d5",
+  "createdAt": 1691363367006
+}

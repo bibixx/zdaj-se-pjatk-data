@@ -1,0 +1,25 @@
+{
+  "question": "Wybierz prawdziwe stwierdzenia dotyczące kopii zapasowych w MS SQL Server:",
+  "isMarkdown": true,
+  "comments": [],
+  "answers": [
+    {
+      "answer": "Pojedyncza kopia zapasowa dotyczy zawsze jednej bazy danych.",
+      "correct": false
+    },
+    {
+      "answer": "Jeden plik może zawierać wiele kopii zapasowych różnych baz danych.",
+      "correct": false
+    },
+    {
+      "answer": "Kopia zapasowa bazy danych użytkownika nie zawiera uprawnień na poziomie obiektów",
+      "correct": false
+    },
+    {
+      "answer": "Kopia zapasowa zawiera również obiekty takie jak procedury składowane czy wyzwalacze.",
+      "correct": false
+    }
+  ],
+  "id": "5a548a58-fc5c-4bb6-9dad-eff707cbc510",
+  "createdAt": 1657199812909
+}

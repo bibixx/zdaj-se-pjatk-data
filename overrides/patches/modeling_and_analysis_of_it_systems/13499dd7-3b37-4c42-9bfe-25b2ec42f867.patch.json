@@ -1,0 +1,26 @@
+{
+  "question": "The programmer, in all circumstances, should use only one distribution manager.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": false
+    },
+    {
+      "answer": "No",
+      "correct": true
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "Layout managers should be selected according to needs. Moreover, it often happens that in the same window, we use several different layouts.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "13499dd7-3b37-4c42-9bfe-25b2ec42f867",
+  "createdAt": 1691363367006
+}

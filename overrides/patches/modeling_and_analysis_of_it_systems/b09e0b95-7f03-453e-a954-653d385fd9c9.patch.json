@@ -1,0 +1,26 @@
+{
+  "question": "The @OneToMany annotation is used to map the association.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": true
+    },
+    {
+      "answer": "No",
+      "correct": false
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "Indeed, the @OneToMany annotation is used to map the association.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "b09e0b95-7f03-453e-a954-653d385fd9c9",
+  "createdAt": 1691363367006
+}

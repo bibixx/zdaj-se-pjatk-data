@@ -1,0 +1,26 @@
+{
+  "question": "Simple attributes are directly mapped to columns in the table.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": true
+    },
+    {
+      "answer": "No",
+      "correct": false
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "Simple attributes are directly mapped to columns in the table.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "ee2dca43-db96-409b-8049-81930baa8cd6",
+  "createdAt": 1691363367006
+}

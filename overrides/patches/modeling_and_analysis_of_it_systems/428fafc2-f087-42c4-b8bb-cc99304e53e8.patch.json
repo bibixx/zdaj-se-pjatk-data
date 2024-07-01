@@ -1,0 +1,26 @@
+{
+  "question": "The best way to implement a class attribute is to define it on the programming language side without worrying about data persistency.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": false
+    },
+    {
+      "answer": "No",
+      "correct": true
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "This approach is incorrect because it does not ensure the sustainability of business data (the value can change).",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "428fafc2-f087-42c4-b8bb-cc99304e53e8",
+  "createdAt": 1691363367006
+}

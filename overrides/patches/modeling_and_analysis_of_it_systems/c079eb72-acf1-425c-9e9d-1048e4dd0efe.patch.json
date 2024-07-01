@@ -1,0 +1,26 @@
+{
+  "question": "One way to implement repetitive attributes is to store values ​​in a separate table.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": true
+    },
+    {
+      "answer": "No",
+      "correct": false
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "Thanks to this solution we have convenient access to individual values.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "c079eb72-acf1-425c-9e9d-1048e4dd0efe",
+  "createdAt": 1691363367006
+}

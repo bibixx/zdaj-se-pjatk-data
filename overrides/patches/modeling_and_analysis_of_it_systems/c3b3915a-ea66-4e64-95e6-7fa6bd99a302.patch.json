@@ -1,0 +1,26 @@
+{
+  "question": "The workload needed to create your own GUI library is comparable to that required for existing modification.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": false
+    },
+    {
+      "answer": "No",
+      "correct": true
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "Modifying an existing library is a lot simpler than creating your own from scratch.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "c3b3915a-ea66-4e64-95e6-7fa6bd99a302",
+  "createdAt": 1691363367006
+}

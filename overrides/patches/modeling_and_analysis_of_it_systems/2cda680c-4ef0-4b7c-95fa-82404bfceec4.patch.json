@@ -1,0 +1,26 @@
+{
+  "question": "Relational model uses the concept of object identity.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": false
+    },
+    {
+      "answer": "No",
+      "correct": true
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "The identity concept of an object exists in an object model, not a relational one.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "2cda680c-4ef0-4b7c-95fa-82404bfceec4",
+  "createdAt": 1691363367006
+}

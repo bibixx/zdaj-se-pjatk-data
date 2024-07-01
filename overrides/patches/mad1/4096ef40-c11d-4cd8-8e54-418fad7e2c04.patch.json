@@ -1,0 +1,21 @@
+{
+  "question": "Wskaz relacje, które są częściowym porządkiem.",
+  "comments": [],
+  "contributor": "xarturo99",
+  "answers": [
+    {
+      "answer": "Relacja r= {(x,y): x*x = y*y oraz x,y są liczbami rzeczywistymi}",
+      "correct": false
+    },
+    {
+      "answer": "Relacja r w zbiorze P(x), taka ze A r B wttw A+B =B dla dowolnych podzbiorów A, B zbioru X.",
+      "correct": true
+    },
+    {
+      "answer": "Relacja r w zbiorze liczb całkowitych, taka że x r y wttw (x+y) mod 2 =0.",
+      "correct": false
+    }
+  ],
+  "id": "4096ef40-c11d-4cd8-8e54-418fad7e2c04",
+  "createdAt": 1644500612396
+}

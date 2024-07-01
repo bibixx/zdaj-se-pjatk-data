@@ -1,0 +1,26 @@
+{
+  "question": "A class is just a bigger object.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": false
+    },
+    {
+      "answer": "No",
+      "correct": true
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "The class describes the object, but it is not an object.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "53d5214f-8bad-4f4b-a8cd-12e8940e4da9",
+  "createdAt": 1691363367006
+}

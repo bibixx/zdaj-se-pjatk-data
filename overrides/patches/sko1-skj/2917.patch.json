@@ -1,0 +1,29 @@
+{
+  "id": 2917,
+  "question": "Światłowód to",
+  "isMarkdown": false,
+  "comments": [],
+  "answers": [
+    {
+      "answer": "medium ograniczone",
+      "correct": true,
+      "isMarkdown": false
+    },
+    {
+      "answer": "kabel koncentryczny",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "skrętka UTP",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "medium nieograniczone",
+      "correct": false,
+      "isMarkdown": false
+    }
+  ],
+  "createdAt": 1707393065568
+}

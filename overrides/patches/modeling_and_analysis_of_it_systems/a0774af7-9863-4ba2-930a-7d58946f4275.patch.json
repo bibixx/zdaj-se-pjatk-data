@@ -1,0 +1,26 @@
+{
+  "question": "Hashtable is one of several possible classes that can store a lot of extents in Java.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": true
+    },
+    {
+      "answer": "No",
+      "correct": false
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "Hashtable is one of the Map interface implementations that is convenient for storing multiple extents.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "a0774af7-9863-4ba2-930a-7d58946f4275",
+  "createdAt": 1691363367006
+}

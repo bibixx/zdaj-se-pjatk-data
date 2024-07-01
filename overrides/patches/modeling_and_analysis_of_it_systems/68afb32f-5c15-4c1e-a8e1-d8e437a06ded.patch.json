@@ -1,0 +1,26 @@
+{
+  "question": "Relational model is popular because of the richness of its structure.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": false
+    },
+    {
+      "answer": "No",
+      "correct": true
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "There are not many constructs in the relational model.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "68afb32f-5c15-4c1e-a8e1-d8e437a06ded",
+  "createdAt": 1691363367006
+}
