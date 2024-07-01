@@ -1,0 +1,29 @@
+{
+  "id": "463",
+  "question": "Diagram związków encji:",
+  "isMarkdown": false,
+  "answers": [
+    {
+      "answer": "jest używany przez programistów aplikacji",
+      "correct": true,
+      "isMarkdown": false
+    },
+    {
+      "answer": "jest używany przez analityków",
+      "correct": true,
+      "isMarkdown": false
+    },
+    {
+      "answer": "abstrahuje od szczegółów implementacyjnych bazy danych",
+      "correct": true,
+      "isMarkdown": false
+    },
+    {
+      "answer": "służy do określenia wymagań użytkowników",
+      "correct": true,
+      "isMarkdown": false
+    }
+  ],
+  "createdAt": 1719773137676,
+  "$schema": "../../../schemas/subject-patch.json"
+}
