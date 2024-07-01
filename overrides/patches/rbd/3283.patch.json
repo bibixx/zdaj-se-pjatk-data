@@ -1,0 +1,29 @@
+{
+  "id": "3283",
+  "question": "Jeśli w zapytaniu występuje klauzula GROUP BY, wówczas po HAVING może być:",
+  "isMarkdown": false,
+  "answers": [
+    {
+      "answer": "kolumna występująca po GROUP BY",
+      "correct": true,
+      "isMarkdown": false
+    },
+    {
+      "answer": "dowolna kolumna",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "funkcja sumaryczna",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "stała",
+      "correct": true,
+      "isMarkdown": false
+    }
+  ],
+  "createdAt": 1719772441174,
+  "$schema": "../../../schemas/subject-patch.json"
+}
