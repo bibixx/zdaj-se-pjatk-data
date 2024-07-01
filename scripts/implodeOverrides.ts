@@ -62,8 +62,7 @@ async function processSubject(subjectId: string) {
     outData.data.push(fileContents);
   }
 
-  const { base: schemaFileName } = parse(outData.$schema);
-  const schemaAbsolutePath = join(schemasJSONFolder, schemaFileName);
+  const schemaAbsolutePath = join(schemasJSONFolder, "subject-override.json");
   const schemaPath = relative(overridesPath, schemaAbsolutePath);
   outData.$schema = schemaPath;
 

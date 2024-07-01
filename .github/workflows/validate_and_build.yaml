@@ -41,6 +41,10 @@ jobs:
         working-directory: scripts
         run: bun run validate
 
+      - name: Update .gitignore
+        working-directory: scripts
+        run: echo '!overrides/*' >> .gitignore
+
       - name: Push to gh-pages branch
         uses: JamesIves/github-pages-deploy-action@v4
         with:
