@@ -1,0 +1,26 @@
+{
+  "question": "Adding String instead of objects to the control decreases the performance of the application and increases the required developer workload.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": true
+    },
+    {
+      "answer": "No",
+      "correct": false
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "Of course, adding String instead of objects to the control decreases application performance and increases the developer's workload. This is because the object needs to be converted to text and subsequently searched for in the extent.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "8ae83c47-ce78-4b9a-922c-5ccdba5e5857",
+  "createdAt": 1691363367006
+}

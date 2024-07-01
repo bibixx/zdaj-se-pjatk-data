@@ -1,0 +1,26 @@
+{
+  "question": "Every database makes it easy to define methods in tables.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": false
+    },
+    {
+      "answer": "No",
+      "correct": true
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "Defining methods in tables is not a standard feature of a relational model.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "7e4b63a3-b7ce-42e0-9892-268ef1fc68fc",
+  "createdAt": 1691363367006
+}

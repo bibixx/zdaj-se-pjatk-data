@@ -1,0 +1,26 @@
+{
+  "question": "One way to implement an association attribute is to add it to one of the classes.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": false
+    },
+    {
+      "answer": "No",
+      "correct": true
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "In the case of * - *, it is impossible to store the required information in one of the classes.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "3d2625a5-fd7b-44f3-94f6-a8fa99fae94b",
+  "createdAt": 1691363367006
+}

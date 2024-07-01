@@ -1,0 +1,26 @@
+{
+  "question": "One of the most important aspects of usability is the practical usefulness of the thing/service.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": true
+    },
+    {
+      "answer": "No",
+      "correct": false
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "Practical application is an important assessment factor.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "4e85fe3a-e935-4b72-b0fd-542e955bfe4e",
+  "createdAt": 1691363367006
+}

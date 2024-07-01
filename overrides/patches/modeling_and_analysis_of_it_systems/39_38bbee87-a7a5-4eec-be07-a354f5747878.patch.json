@@ -1,0 +1,26 @@
+{
+  "question": "Correctly defined cardinalities reduce the risk of making an error.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": true
+    },
+    {
+      "answer": "No",
+      "correct": false
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "One of the reasons for defining cardinalities is the ability to control them by implementing business rules.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "38bbee87-a7a5-4eec-be07-a354f5747878",
+  "createdAt": 1691363367006
+}

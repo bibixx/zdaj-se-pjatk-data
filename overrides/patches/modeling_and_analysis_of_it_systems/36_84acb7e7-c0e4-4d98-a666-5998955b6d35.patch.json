@@ -1,0 +1,26 @@
+{
+  "question": "Association is an instance of a link.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": false
+    },
+    {
+      "answer": "No",
+      "correct": true
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "Link is an instance of an association (the same as an object is an instance of a class).",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "84acb7e7-c0e4-4d98-a666-5998955b6d35",
+  "createdAt": 1691363367006
+}

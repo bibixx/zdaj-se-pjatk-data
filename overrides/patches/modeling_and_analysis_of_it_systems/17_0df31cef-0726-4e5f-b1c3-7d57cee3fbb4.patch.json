@@ -1,0 +1,26 @@
+{
+  "question": "Implementing a derived attribute may require calculating and storing its value.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": true
+    },
+    {
+      "answer": "No",
+      "correct": false
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "A derived attribute can be implemented as a method. In some cases, to increase the performance, we may want to store the result as a real attribute (as in memory) cache).",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "0df31cef-0726-4e5f-b1c3-7d57cee3fbb4",
+  "createdAt": 1691363367006
+}

@@ -1,0 +1,26 @@
+{
+  "question": "Implementing multi-valued attributes with Hibernate is no different than the implementation of the association.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": false
+    },
+    {
+      "answer": "No",
+      "correct": true
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "The Hibernate library provides a special tag (element) to implement multi-valued attributes.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "99e9a057-5e98-40bd-93c7-95736bb0f50f",
+  "createdAt": 1691363367006
+}

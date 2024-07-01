@@ -1,0 +1,26 @@
+{
+  "question": "One of the basic relational model concepts is the primary key and the foreign key.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": true
+    },
+    {
+      "answer": "No",
+      "correct": false
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "Indeed, one of the basic relational model concepts is the primary key and the foreign key used to model the connection.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "e51b2529-612c-44b9-82de-ada5e57866ed",
+  "createdAt": 1691363367006
+}

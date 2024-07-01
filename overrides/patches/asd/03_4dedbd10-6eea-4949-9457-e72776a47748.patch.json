@@ -1,0 +1,22 @@
+{
+  "question": "Rozważmy algorytm HashTableConstruct postaci:\n```\nHashTable HashTableConstruct (element E[], int k, function f) {\n  // E - tablica elementów\n  // k - rozmiar tablicy haszującej\n  // f - funkcja haszująca\n\n  HashTable HT:=create empty(k,f); // tablica haszująca początow pusta\n\n  int i:\n    for (i: =0; i<size(E); i++) do\n      INSERT (HT, E[i]);\n\n  return HT:\n}\n```\n\nNiech tablica haszująca $HT$ będzie rezultatem działania algorytmu HashTableConstruct dla danych wejściowych:\n* tablica elementów $E=\\\\{0,11,16,5,8,18,19,14,6,4\\\\}$,\n* rozmiar tablicy haszującej $k=4$,\n* funkcja haszująca $f: \\mathbb{N} \\rightarrow \\\\{0,1,...,3\\\\}$ postaci $f(x)=x \\bmod{4}$.\n\nKtóre z poniższych zdań jest prawdziwe? Uwaga! Problem kolizji w strukturze $HT$ rozwiązany jest za pomocą list zorganizowanych w trybie FIFO.",
+  "contributor": "ClipLee",
+  "isMarkdown": true,
+  "comments": [],
+  "answers": [
+    {
+      "answer": "Postać tablicy $HT$ jest następująca $[0] \\rightarrow 0,18,6$, $[1] \\rightarrow 19$, $[2] \\rightarrow 8,14$, $[3] \\rightarrow$, $[4] \\rightarrow 16,4$, $[5] \\rightarrow 11,5$",
+      "correct": false
+    },
+    {
+      "answer": "Postać tablicy $HT$ jest następująca $[0] \\rightarrow 18,14,6$, $[1] \\rightarrow 5$, $[2] \\rightarrow 0,16,8,4$, $[3] \\rightarrow 11,19$",
+      "correct": false
+    },
+    {
+      "answer": "Łączna liczba kolizji elementów, które wystąpiły w trakcie budowy tablicy haszującej $HT$ jest równa dokładnie $6$",
+      "correct": false
+    }
+  ],
+  "id": "4dedbd10-6eea-4949-9457-e72776a47748",
+  "createdAt": 1644512679798
+}

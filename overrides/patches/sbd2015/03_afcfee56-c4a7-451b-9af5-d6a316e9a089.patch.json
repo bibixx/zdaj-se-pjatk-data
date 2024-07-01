@@ -1,0 +1,28 @@
+{
+  "question": "Zintegrowanie w definicji hurtowni danych oznacza, że:",
+  "isMarkdown": false,
+  "answers": [
+    {
+      "answer": "Dane, raz umieszczone w hurtowni, zazwyczaj zostają nie zmienione.",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "Gromadzone są dane historyczne i każdy fakt oznaczony jest stemplem czasowym.",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "Dane są jednolite.",
+      "correct": true,
+      "isMarkdown": false
+    },
+    {
+      "answer": "Zbierane dane dotyczą tematu, a nie działań.",
+      "correct": false,
+      "isMarkdown": false
+    }
+  ],
+  "id": "afcfee56-c4a7-451b-9af5-d6a316e9a089",
+  "createdAt": 1707679176310
+}

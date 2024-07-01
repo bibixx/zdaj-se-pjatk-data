@@ -1,0 +1,26 @@
+{
+  "question": "API libraries were designed exclusively for working with DB.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": false
+    },
+    {
+      "answer": "No",
+      "correct": true
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "API (Application Programming Interface) means any application programming interface, such as database, GUI, graphics.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "110fec27-6cdc-485d-b620-f6f05780e5d4",
+  "createdAt": 1691363367006
+}

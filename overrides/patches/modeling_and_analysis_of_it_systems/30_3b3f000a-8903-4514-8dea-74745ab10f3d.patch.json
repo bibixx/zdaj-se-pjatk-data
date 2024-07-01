@@ -1,0 +1,26 @@
+{
+  "question": "In order to use serialization, you just need to implement the Serializable interface.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": true
+    },
+    {
+      "answer": "No",
+      "correct": false
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "In order to use serialization, you just need to implement the Serializable interface.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "3b3f000a-8903-4514-8dea-74745ab10f3d",
+  "createdAt": 1691363367006
+}

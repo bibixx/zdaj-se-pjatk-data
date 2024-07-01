@@ -1,0 +1,26 @@
+{
+  "question": "Before you start your own design work, you should test your competitor solutions.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": true
+    },
+    {
+      "answer": "No",
+      "correct": false
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "By testing competitive solutions, we can avoid making mistakes.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "0bddb04b-a29c-4d0e-a2b5-79e76646035c",
+  "createdAt": 1691363367006
+}

@@ -1,0 +1,21 @@
+{
+  "question": "Za pomocą drzew lewicowych można",
+  "contributor": "ClipLee",
+  "comments": [],
+  "answers": [
+    {
+      "answer": "zbudować kopiec w czasie liniowo-logarytmicznym",
+      "correct": false
+    },
+    {
+      "answer": "z dwóch kopców zrobić jeden w czasie logarytmicznym",
+      "correct": false
+    },
+    {
+      "answer": "drzewa lewicowe nie mają nic wspólnego z kopcami",
+      "correct": false
+    }
+  ],
+  "id": "b16a1a06-59ec-4cbe-8b86-1858e99c6b5a",
+  "createdAt": 1644512679798
+}

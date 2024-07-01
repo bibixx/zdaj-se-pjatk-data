@@ -1,0 +1,21 @@
+{
+  "question": "Niech d(n) będzie liczbą różnych dzielników pierwszych liczby naturalnej n. W zbiorze N \\ (0,1} określamy relację r wzorem: x r y wttw, gdy (d(x) < d(y)) lub (d(x)=d(y) i x≤y). Wskaż zdania prawdziwe.",
+  "comments": [],
+  "contributor": "xarturo99",
+  "answers": [
+    {
+      "answer": "Relacja r liniowo porządkuje zbiór N \\ {0.1}.",
+      "correct": true
+    },
+    {
+      "answer": "Elementem najmniejszym w zbiorze N \\ {O,1} uporządkowanym przez relację r jest liczba 2.",
+      "correct": true
+    },
+    {
+      "answer": "W zbiorze N \\ {0,1} uporządkowanym przez relację r są 3 elementy maksymalne.",
+      "correct": false
+    }
+  ],
+  "id": "587819ec-c44a-4854-8c13-db448e53d1c8",
+  "createdAt": 1644500612396
+}

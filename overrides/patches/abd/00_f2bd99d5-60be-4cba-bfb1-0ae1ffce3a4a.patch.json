@@ -1,0 +1,25 @@
+{
+  "question": "Załóżmy, że w bazie danych PostgreSQL mamy tabelkę wykorzystującą typ danych jsonb. Czy możemy założyć indeks, który przyspieszyłby zapytanie pokazane poniżej (zakładając , że tabelka ma odpowiednią ilość danych i zapytanie jest selektywne):\n`SELECT * FROM books WHERE data->'published' = 'false';`",
+  "isMarkdown": true,
+  "comments": [],
+  "answers": [
+    {
+      "answer": "Indeks B+ drzewo na kolumnie data",
+      "correct": false
+    },
+    {
+      "answer": "Indeks GIN na kolumnie data",
+      "correct": false
+    },
+    {
+      "answer": "Indekst GIST na kolumnie data",
+      "correct": false
+    },
+    {
+      "answer": "Indeks B+ drzewo na wyrażeniu ((data->'published'))",
+      "correct": false
+    }
+  ],
+  "id": "f2bd99d5-60be-4cba-bfb1-0ae1ffce3a4a",
+  "createdAt": 1657199812909
+}

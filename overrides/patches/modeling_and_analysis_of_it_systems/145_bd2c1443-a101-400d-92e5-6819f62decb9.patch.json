@@ -1,0 +1,26 @@
+{
+  "question": "The criterion of cross-platform is not always relevant.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": true
+    },
+    {
+      "answer": "No",
+      "correct": false
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "If we do the system on one platform, the cross-platform criterion may be omitted.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "bd2c1443-a101-400d-92e5-6819f62decb9",
+  "createdAt": 1691363367006
+}

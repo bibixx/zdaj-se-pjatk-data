@@ -1,0 +1,26 @@
+{
+  "question": "The impedance mismatch does not occur when you create a system entirely on the database side.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": true
+    },
+    {
+      "answer": "No",
+      "correct": false
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "Actually, when dealing with only one model, there is no impedance mismatch.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "03ad1c42-ecd9-4c13-8353-e89f25a36c20",
+  "createdAt": 1691363367006
+}

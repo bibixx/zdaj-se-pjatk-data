@@ -1,0 +1,30 @@
+{
+  "question": "<strong>Które z wymienionych mechanizmów są metodami zarządzania współbieżnością?</strong>",
+  "id": "3473",
+  "comments": [
+    {
+      "author": "Ola",
+      "comment": "Uzasadnienie\n(z wykładu  https://edu.pjwstk.edu.pl/wyklady/sbd/scb/w12.htm)\nMechanizmy współdzielenia zasobów bazy danych\nSZBD stosuje następujące mechanizmy służące do zapewnienia aksjomatów ACID:\n\nblokady (zamki) (ang. lock) zakładane na obiekty – ograniczające albo wręcz uniemożliwiające działanie innych transakcji na zablokowanym obiekcie,\ndziennik (ang. log) - zapisywanie wszystkich zmian w bazie danych do specjalnego dziennika (logu), aby w razie potrzeby móc:\ndla nie zatwierdzonej transakcji wycofać wprowadzone przez nią zmiany,\nw przypadku awarii odtworzyć spójny stan bazy danych.\nkopia zabezpieczająca bazy danych (backup) - wykonywana w regularnych odstępach czasu, na przykład raz na dzień; w przypadku awarii danych na dysku pozwala przywrócić spójny stan bazy danych.\nwielowersyjność - możliwość odczytywania danych zmienianych równocześnie przez inne transakcje w takiej postaci w jakiej istniały w pewnych chwilach w przeszłości (np. w chwili rozpoczynania się danego zapytania lub danej transakcji).",
+      "date": "29-07-2021 13:06:00"
+    }
+  ],
+  "answers": [
+    {
+      "answer": "blokady",
+      "correct": true
+    },
+    {
+      "answer": "denormalizacja",
+      "correct": false
+    },
+    {
+      "answer": "role",
+      "correct": false
+    },
+    {
+      "answer": "wielowersyjność",
+      "correct": true
+    }
+  ],
+  "createdAt": 1707647448640
+}

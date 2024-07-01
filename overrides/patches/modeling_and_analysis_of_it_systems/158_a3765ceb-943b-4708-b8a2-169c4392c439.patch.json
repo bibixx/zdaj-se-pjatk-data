@@ -1,0 +1,26 @@
+{
+  "question": "The ProgressWorker class just like SwingWorker supports interrupting the operation.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": true
+    },
+    {
+      "answer": "No",
+      "correct": false
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "Both classes: ProgressWorker and SwingWorker have support for interrupting the operation.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "a3765ceb-943b-4708-b8a2-169c4392c439",
+  "createdAt": 1691363367006
+}

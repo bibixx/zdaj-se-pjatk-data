@@ -1,0 +1,26 @@
+{
+  "question": "It is worth doing usability tests for very large user groups.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": false
+    },
+    {
+      "answer": "No",
+      "correct": true
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "Large user groups repeatedly report the same errors. For this reason, it is better to conduct more frequent tests with smaller teams.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "4d85cf33-5963-4608-89e1-672a2ca970a2",
+  "createdAt": 1691363367006
+}

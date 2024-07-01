@@ -1,0 +1,26 @@
+{
+  "question": "When implementing class extent within the same business class, the collection must be declared as static.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": true
+    },
+    {
+      "answer": "No",
+      "correct": false
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "Implementing class extent within the same business class, the collection must be declared as static because it must be shared by all objects.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "23be3785-f3e6-4a79-8037-e583081f7020",
+  "createdAt": 1691363367006
+}

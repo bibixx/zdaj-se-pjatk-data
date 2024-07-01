@@ -1,0 +1,26 @@
+{
+  "question": "By using {ordered}, we can store duplicate links.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": false
+    },
+    {
+      "answer": "No",
+      "correct": true
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "Constraint {ordered} does not affect the ability to store duplicates.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "ee31fdc9-ecfc-459e-949f-3771c387787d",
+  "createdAt": 1691363367006
+}

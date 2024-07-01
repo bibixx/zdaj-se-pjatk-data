@@ -1,0 +1,26 @@
+{
+  "question": "The primary key is used to identify a specific tuple.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": true
+    },
+    {
+      "answer": "No",
+      "correct": false
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "According to the assumptions of the relational model, the primary key is used to identify a particular tuple.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "b358e650-9a5b-4a0e-b2e8-cb696789546c",
+  "createdAt": 1691363367006
+}

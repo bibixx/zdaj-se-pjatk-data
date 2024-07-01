@@ -12,6 +12,10 @@ const dirents = await readdir(overridesPath, { withFileTypes: true });
 
 const schemasJSONFolder = join(import.meta.dir, "..", "schemas");
 
+function stringify(data: unknown) {
+  return JSON.stringify(data, null, 2) + "\n";
+}
+
 for (const dirent of dirents) {
   if (!dirent.isFile()) {
     continue;
@@ -30,18 +34,29 @@ for (const dirent of dirents) {
     const schemaPath = relative(overridesPatchesPath, schemaAbsolutePath);
     contents.$schema = schemaPath;
 
-    await Bun.write(indexPatchFile, JSON.stringify(contents, null, 2));
+    await Bun.write(indexPatchFile, stringify(contents));
 
     continue;
   }
 
+  let i = 0;
   for (const answer of contents.data) {
     const answerId = answer.id ?? crypto.randomUUID();
-    answer.id = answerId as number;
+    answer.id = String(answerId);
     answer.createdAt = contents.updatedAt;
 
     // TODO: Add schema validation here
-    const answerPatchFile = Bun.file(join(rootPath, `${answerId}.patch.json`));
-    await Bun.write(answerPatchFile, JSON.stringify(answer, null, 2));
+    const answerPatchFile = Bun.file(join(rootPath, `${String(i++).padStart(2, "0")}_${answerId}.patch.json`));
+    await Bun.write(answerPatchFile, stringify(answer));
   }
+
+  const answerIndexPatchFile = Bun.file(join(rootPath, `index.patch.json`));
+  const { data, ...indexData } = contents;
+
+  const { base: schemaFileName } = parse(indexData.$schema);
+  const schemaAbsolutePath = join(schemasJSONFolder, schemaFileName);
+  const schemaPath = relative(rootPath, schemaAbsolutePath);
+  indexData.$schema = schemaPath;
+
+  await Bun.write(answerIndexPatchFile, stringify(indexData));
 }

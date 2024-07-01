@@ -1,0 +1,26 @@
+{
+  "question": "The problem of extent persistence related to links is due to the poor performance of the Java platform.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": false
+    },
+    {
+      "answer": "No",
+      "correct": true
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "The problem of extent persistence, related to relationships, is caused by potential multiple retention of the same data.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "e3c3a77c-05a1-49f9-adf6-6a13447946db",
+  "createdAt": 1691363367006
+}

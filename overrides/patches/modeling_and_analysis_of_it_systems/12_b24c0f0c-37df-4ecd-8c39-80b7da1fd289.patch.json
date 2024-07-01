@@ -1,0 +1,26 @@
+{
+  "question": "Always use Java arrays to implement repetitive attributes.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": false
+    },
+    {
+      "answer": "No",
+      "correct": true
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "When implementing repetitive attributes, we avoid using of ordinary arrays (due to their constant size).",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "b24c0f0c-37df-4ecd-8c39-80b7da1fd289",
+  "createdAt": 1691363367006
+}

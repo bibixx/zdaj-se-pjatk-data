@@ -1,0 +1,26 @@
+{
+  "question": "One version of LINQ allows you to work with native .NET collections.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": true
+    },
+    {
+      "answer": "No",
+      "correct": false
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "Indeed, there is LINQ2Objects, created for working with native .NET collections.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "f292c516-9679-46ab-af67-50baa316d4c4",
+  "createdAt": 1691363367006
+}

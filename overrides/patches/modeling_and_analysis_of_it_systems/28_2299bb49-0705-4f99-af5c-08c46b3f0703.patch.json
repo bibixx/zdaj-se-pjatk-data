@@ -1,0 +1,26 @@
+{
+  "question": "One of the ways to effectively maintain links between objects is to use references.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": false
+    },
+    {
+      "answer": "No",
+      "correct": true
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "For effective persistence, variable references should be replaced with fixed identifiers.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "2299bb49-0705-4f99-af5c-08c46b3f0703",
+  "createdAt": 1691363367006
+}

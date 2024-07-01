@@ -1,0 +1,26 @@
+{
+  "question": "JDBC technology makes it easy to write portable (between different BDs) applications.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": true
+    },
+    {
+      "answer": "No",
+      "correct": false
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "One of the basic assumptions of JDBC is to provide a unified way of working with any DB.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "245df5dd-461e-4504-b9c5-61d08d43740f",
+  "createdAt": 1691363367006
+}

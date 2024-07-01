@@ -1,0 +1,26 @@
+{
+  "question": "The main reason for using ORM tools is to improve the performance of BD access.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": false
+    },
+    {
+      "answer": "No",
+      "correct": true
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "The basic premise of ORM is to make it easier (transparent) to work with any data source.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "065762f2-087c-486b-9c93-afa62a514e71",
+  "createdAt": 1691363367006
+}

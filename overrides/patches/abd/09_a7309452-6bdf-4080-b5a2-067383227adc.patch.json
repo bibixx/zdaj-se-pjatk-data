@@ -1,0 +1,25 @@
+{
+  "question": "Zaznacz poprawne stwierdzenia dotyczące poziomów izolacji transakcji w MS SQL Server:",
+  "isMarkdown": true,
+  "comments": [],
+  "answers": [
+    {
+      "answer": "Im wyższy ustawimy poziom izolacji (np. serializable) tym lepsza jest wydajność bazy danych.",
+      "correct": false
+    },
+    {
+      "answer": "Domyślnym poziomem izolacji jest READ UNCOMMITTED.",
+      "correct": false
+    },
+    {
+      "answer": "Problem niepowtarzalnego odczytu może wystąpić na domyślnym poziomie izolacji,",
+      "correct": false
+    },
+    {
+      "answer": "Problem fantomów może wystąpić na poziomie READ COMMITTED.",
+      "correct": false
+    }
+  ],
+  "id": "a7309452-6bdf-4080-b5a2-067383227adc",
+  "createdAt": 1657199812909
+}

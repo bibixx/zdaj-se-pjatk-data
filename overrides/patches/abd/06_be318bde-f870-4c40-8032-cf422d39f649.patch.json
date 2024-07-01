@@ -1,0 +1,25 @@
+{
+  "question": "Czy PostgreSQL obsługuje następujące indeksy?",
+  "isMarkdown": true,
+  "comments": [],
+  "answers": [
+    {
+      "answer": "Indeks oparty na B+ drzewie (niepogrupowany)",
+      "correct": false
+    },
+    {
+      "answer": "Indeksy oparty na B+ drzewie (pogrupowany)",
+      "correct": false
+    },
+    {
+      "answer": "Indeks typu hash",
+      "correct": false
+    },
+    {
+      "answer": "Indeks typu WDS",
+      "correct": false
+    }
+  ],
+  "id": "be318bde-f870-4c40-8032-cf422d39f649",
+  "createdAt": 1657199812909
+}

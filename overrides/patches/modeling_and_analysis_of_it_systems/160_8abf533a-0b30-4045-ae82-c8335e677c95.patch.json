@@ -1,0 +1,26 @@
+{
+  "question": "Semantic declarations make it possible to work on a higher level of abstraction than a component.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": true
+    },
+    {
+      "answer": "No",
+      "correct": false
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "Semantic declarations use a data model, not GUI controls. For this reason, we can talk about a higher level of abstraction.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "8abf533a-0b30-4045-ae82-c8335e677c95",
+  "createdAt": 1691363367006
+}

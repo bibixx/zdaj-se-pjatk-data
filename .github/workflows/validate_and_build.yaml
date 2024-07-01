@@ -15,18 +15,30 @@ concurrency:
 
 jobs:
   validate-and-deploy:
-    runs-on: ${{ fromJSON('["ubuntu-latest", "self-hosted"]')[github.repository == 'github/docs-internal'] }}
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Setup node
-        uses: actions/setup-node@v3
+      - name: Setup bun
+        uses: oven-sh/setup-bun@v1
         with:
-          node-version: 16.13.x
+          bun-version: 1.1.17
+
+      - name: Install dependencies
+        working-directory: scripts
+        run: bun install
+
+      - name: Implode overrides
+        working-directory: scripts
+        run: bun run implodeOverrides
+
+      - name: Implode overrides
+        working-directory: scripts
+        run: bun run validate
 
       - name: Validate schema
-        run: ./validate.sh
+        run: bun run validate
 
       - name: Push to gh-pages branch
         uses: JamesIves/github-pages-deploy-action@v4

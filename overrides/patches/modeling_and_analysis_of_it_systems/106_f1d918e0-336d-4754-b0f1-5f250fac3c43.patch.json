@@ -1,0 +1,26 @@
+{
+  "question": "You can add two primary keys and 4 foreign keys to avoid entering the intermediate table.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": false
+    },
+    {
+      "answer": "No",
+      "correct": true
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "Of course, the only way to achieve an association with an attribute is to introduce an intermediary table.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "f1d918e0-336d-4754-b0f1-5f250fac3c43",
+  "createdAt": 1691363367006
+}

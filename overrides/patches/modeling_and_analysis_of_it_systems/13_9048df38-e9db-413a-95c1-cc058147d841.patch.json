@@ -1,0 +1,26 @@
+{
+  "question": "The ArrayList collection may not have any elements, so it is suitable for implementing the optional attribute double.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": false
+    },
+    {
+      "answer": "No",
+      "correct": true
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "Simple attributes always have some value. For this reason, they are not suitable for implementing optional attributes (use the wrapper class, e.g. Double).",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "9048df38-e9db-413a-95c1-cc058147d841",
+  "createdAt": 1691363367006
+}

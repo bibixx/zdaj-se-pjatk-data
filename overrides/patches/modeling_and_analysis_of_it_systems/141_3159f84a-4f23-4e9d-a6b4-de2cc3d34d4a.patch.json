@@ -1,0 +1,26 @@
+{
+  "question": "The interface design may contain information about the type of controls.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": true
+    },
+    {
+      "answer": "No",
+      "correct": false
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "Of course, the designer should also include the types of controls for displaying different types of data.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "3159f84a-4f23-4e9d-a6b4-de2cc3d34d4a",
+  "createdAt": 1691363367006
+}

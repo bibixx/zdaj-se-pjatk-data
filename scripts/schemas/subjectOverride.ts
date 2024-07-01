@@ -1,7 +1,7 @@
 export type Title = string;
 export type Id = string;
 export type Question = string;
-export type Id1 = number;
+export type Id1 = string;
 export type Numberofcomments = number;
 export type Answer = string;
 export type Correct = boolean;

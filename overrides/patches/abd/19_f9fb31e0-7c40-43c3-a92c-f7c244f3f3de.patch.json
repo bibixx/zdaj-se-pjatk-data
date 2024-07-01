@@ -1,0 +1,25 @@
+{
+  "question": "W MS SQL Server nadano użytkownikowi prawo SELECT i INSERT do schematu \"abd\". W schemacie znajduje się obiekt \"emp\". Użytkownik należy do roli, która ma prawo SELECT i UPDATE na obiekcie abd.emp. Użytkownik ma DENY na INSERT na poziomie bazy danych. Jakie instrukcje będzie mógł wykonać użytkownik na tabeli abd.emp?",
+  "isMarkdown": true,
+  "comments": [],
+  "answers": [
+    {
+      "answer": "SELECT",
+      "correct": false
+    },
+    {
+      "answer": "INSERT",
+      "correct": false
+    },
+    {
+      "answer": "UPDATE",
+      "correct": false
+    },
+    {
+      "answer": "DELETE",
+      "correct": false
+    }
+  ],
+  "id": "f9fb31e0-7c40-43c3-a92c-f7c244f3f3de",
+  "createdAt": 1657199812909
+}

@@ -1,0 +1,26 @@
+{
+  "question": "Implementation of aggregation and composition in RM is based on similar assumptions as for Java.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": true
+    },
+    {
+      "answer": "No",
+      "correct": false
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "As in the case of Java, the implementation of aggregation consists in providing a link (association) and a composition on the completion of specific rules.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "85d7b335-e87e-453c-92bd-b90e824d5e90",
+  "createdAt": 1691363367006
+}

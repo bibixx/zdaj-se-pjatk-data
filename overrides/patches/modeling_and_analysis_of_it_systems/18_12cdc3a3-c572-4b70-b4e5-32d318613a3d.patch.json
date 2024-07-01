@@ -1,0 +1,26 @@
+{
+  "question": "Implementing a derived attribute always means creating both setters and getters methods.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": false
+    },
+    {
+      "answer": "No",
+      "correct": true
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "Implementing a derived attribute usually means that we need to create getXXX methods. In rare cases also setXXX.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "12cdc3a3-c572-4b70-b4e5-32d318613a3d",
+  "createdAt": 1691363367006
+}

@@ -1,0 +1,26 @@
+{
+  "question": "Moving calculations to a separate thread can improve user interface performance.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": true
+    },
+    {
+      "answer": "No",
+      "correct": false
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "The best way to solve this problem is to move the calculation to a separate thread.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "8d23659b-aded-41a3-9cb1-138bc26e1a57",
+  "createdAt": 1691363367006
+}

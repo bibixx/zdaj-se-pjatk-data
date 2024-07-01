@@ -1,0 +1,26 @@
+{
+  "question": "All platforms have identical interface requirements.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": false
+    },
+    {
+      "answer": "No",
+      "correct": true
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "Each platform has its own interface requirements. Their inclusion will make it easier for users to use applications.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "0fa6529a-2233-4671-812c-bb832d8dba35",
+  "createdAt": 1691363367006
+}

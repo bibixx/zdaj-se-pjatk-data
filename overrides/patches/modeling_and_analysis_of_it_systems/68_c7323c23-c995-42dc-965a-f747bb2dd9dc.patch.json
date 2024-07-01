@@ -1,0 +1,26 @@
+{
+  "question": "Declaring constants in constraints is a good practice.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": true
+    },
+    {
+      "answer": "No",
+      "correct": false
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "By using the declared constants, we can easily change them in one place in the future.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "c7323c23-c995-42dc-965a-f747bb2dd9dc",
+  "createdAt": 1691363367006
+}

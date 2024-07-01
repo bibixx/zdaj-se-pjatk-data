@@ -1,0 +1,26 @@
+{
+  "question": "The biggest advantage of LINQ is the efficiency of accessing databases.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": false
+    },
+    {
+      "answer": "No",
+      "correct": true
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "The main purpose of LINQ is not to improve performance, but to facilitate working with data sources (collections, DB, XML, JSON, etc.).",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "00ca14f4-aea6-4d72-8b71-bcc3c47d8a95",
+  "createdAt": 1691363367006
+}

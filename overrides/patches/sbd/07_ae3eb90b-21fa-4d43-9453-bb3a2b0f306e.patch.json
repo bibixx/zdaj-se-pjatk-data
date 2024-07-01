@@ -1,0 +1,23 @@
+{
+  "question": "Nieulotność w definicji hurtowni danych oznacza, że",
+  "answers": [
+    {
+      "answer": "gromadzone są dane historyczne i każdy fakt opatrzony jest stemplem czasowym",
+      "correct": false
+    },
+    {
+      "answer": "zbierane dane dotyczą tematu, a nie działań",
+      "correct": false
+    },
+    {
+      "answer": "dane, raz umieszczone w hurtowni, zazwyczaj pozostają nie zmienione",
+      "correct": true
+    },
+    {
+      "answer": "dane są jednolite",
+      "correct": false
+    }
+  ],
+  "id": "ae3eb90b-21fa-4d43-9453-bb3a2b0f306e",
+  "createdAt": 1707647448640
+}

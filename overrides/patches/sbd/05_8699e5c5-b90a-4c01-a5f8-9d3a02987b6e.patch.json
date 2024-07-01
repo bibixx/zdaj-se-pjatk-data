@@ -1,0 +1,35 @@
+{
+  "question": "Hurtownia danych jest:",
+  "answers": [
+    {
+      "answer": "zróżnicowana czasowo",
+      "correct": true
+    },
+    {
+      "answer": "zorientowana na działanie",
+      "correct": false
+    },
+    {
+      "answer": "zorientowana na temat",
+      "correct": true
+    },
+    {
+      "answer": "ulotna",
+      "correct": false
+    },
+    {
+      "answer": "znormalizowana",
+      "correct": false
+    },
+    {
+      "answer": "zintegrowana",
+      "correct": true
+    },
+    {
+      "answer": "nieulotna",
+      "correct": true
+    }
+  ],
+  "id": "8699e5c5-b90a-4c01-a5f8-9d3a02987b6e",
+  "createdAt": 1707647448640
+}

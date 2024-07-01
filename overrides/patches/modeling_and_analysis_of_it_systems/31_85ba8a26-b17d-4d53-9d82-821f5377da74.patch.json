@@ -1,0 +1,26 @@
+{
+  "question": "Our own implementation of extent management is due to the fact that native Java mechanisms have poor performance.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": false
+    },
+    {
+      "answer": "No",
+      "correct": true
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "Our own implementation of extent management is due to the fact that Java does not provide such functionality.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "85ba8a26-b17d-4d53-9d82-821f5377da74",
+  "createdAt": 1691363367006
+}

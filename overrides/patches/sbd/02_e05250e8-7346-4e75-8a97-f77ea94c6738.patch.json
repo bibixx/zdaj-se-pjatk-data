@@ -1,0 +1,28 @@
+{
+  "question": "<strong>W których z wymienionych sytuacji mówimy o problemie fantomów?</strong>",
+  "isMarkdown": false,
+  "answers": [
+    {
+      "answer": "Użytkownik zobaczył rekord wprowadzony przez innego użytkownika, który nie został zatwierdzony przez COMMIT",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "Rekord został w obrębie jednej transakcji wprowadzony (INSERT) i od razu usunięty (DELETE)",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "W trakcie działania transakcji inna transakcja wykonała INSERT",
+      "correct": true,
+      "isMarkdown": false
+    },
+    {
+      "answer": "W trakcie działania transakcji inna transakcja wykonała DELETE",
+      "correct": false,
+      "isMarkdown": false
+    }
+  ],
+  "id": "e05250e8-7346-4e75-8a97-f77ea94c6738",
+  "createdAt": 1707647448640
+}
