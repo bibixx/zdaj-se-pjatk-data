@@ -1,0 +1,27 @@
+{
+  "question": "Modern monitors are large, so you do not have to worry about proper window space management.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": false
+    },
+    {
+      "answer": "No",
+      "correct": true
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "Precisely because of the varying screen sizes, scaling techniques should be considered.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "z-137-6211e4ac-4a96-4714-852d-55e2c1b59fac",
+  "createdAt": 1691363367006,
+  "$schema": "../../../schemas/subject-patch.json"
+}

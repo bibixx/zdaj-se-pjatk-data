@@ -1,0 +1,26 @@
+{
+  "question": "Wskaż poprawne stwierdzenia dotyczące kont logowania (logins) i użytkowników (users) w MS SQL Server:",
+  "isMarkdown": true,
+  "comments": [],
+  "answers": [
+    {
+      "answer": "Dla konta logowania (login) możemy bezpośrednio przypisać prawo SELECT do tabeli.",
+      "correct": false
+    },
+    {
+      "answer": "Dla użytkownika (user) możemy bezpośrednio przypisać prawo SELECT do tabeli",
+      "correct": false
+    },
+    {
+      "answer": "Konto logowania (login) jest zawsze tworzone dla jednej bazy danych",
+      "correct": false
+    },
+    {
+      "answer": "Użytkownik (user) jest zawsze tworzony dla jednej bazy danych",
+      "correct": false
+    }
+  ],
+  "id": "z-04-e464ab22-fdee-4794-bd62-2458e3320e86",
+  "createdAt": 1657199812909,
+  "$schema": "../../../schemas/subject-patch.json"
+}

@@ -1,0 +1,27 @@
+{
+  "question": "In order to improve performance, each extent should be serialized into a separate file.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": false
+    },
+    {
+      "answer": "No",
+      "correct": true
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "In order to improve performance, each extent should be serialized into a separate file.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "z-29-21a29c3a-2bf8-4b06-b4c6-2a9de4a9bb78",
+  "createdAt": 1691363367006,
+  "$schema": "../../../schemas/subject-patch.json"
+}

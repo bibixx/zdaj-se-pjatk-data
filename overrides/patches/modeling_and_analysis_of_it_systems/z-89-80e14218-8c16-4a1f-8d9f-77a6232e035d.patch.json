@@ -1,0 +1,27 @@
+{
+  "question": "The primary key is a combination of several columns of text type that provides better performance than a single-column numeric key.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": false
+    },
+    {
+      "answer": "No",
+      "correct": true
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "In most cases, the greatest performance is provided by a single (large) number key.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "z-89-80e14218-8c16-4a1f-8d9f-77a6232e035d",
+  "createdAt": 1691363367006,
+  "$schema": "../../../schemas/subject-patch.json"
+}

@@ -1,0 +1,22 @@
+{
+  "question": "Wskaż zdania prawdziwe (elementy wyróżnione, int, sup)",
+  "comments": [],
+  "contributor": "xarturo99",
+  "answers": [
+    {
+      "answer": "r jest relacją określaną w zbiorze X = {2, 5, 10, 15, 20, 25, 30}, taką że x r y wttw x | y. Wówczas sup{2, 5, 15} = 30.",
+      "correct": true
+    },
+    {
+      "answer": "r jest relacją określoną w zbiorze X = {2, 5, 10, 15, 20, 25, 30}, taką że x r y wttw x | y. Wówczas sup{2, 5} = 30.",
+      "correct": false
+    },
+    {
+      "answer": "Niech r będzie relacją porządku określoną w zbiorze liczb naturalnych dodatnich następująco: x r y wttw x jest dzielnikiem y. Wówczas elementem maksymalnym zbioru { 3, 5, 6, 9, 15, 30} jest liczba 9",
+      "correct": true
+    }
+  ],
+  "id": "z-12-6c520679-e2d6-43a5-a77c-b6296ab7d8c3",
+  "createdAt": 1644500612396,
+  "$schema": "../../../schemas/subject-patch.json"
+}

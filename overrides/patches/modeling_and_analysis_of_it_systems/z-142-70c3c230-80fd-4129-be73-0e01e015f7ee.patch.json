@@ -1,0 +1,27 @@
+{
+  "question": "Manual GUI implementation is the fastest way to implement it.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": false
+    },
+    {
+      "answer": "No",
+      "correct": true
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "Manually implementing a GUI usually gives you the best results, but it's not the fastest way to accomplish it.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "z-142-70c3c230-80fd-4129-be73-0e01e015f7ee",
+  "createdAt": 1691363367006,
+  "$schema": "../../../schemas/subject-patch.json"
+}

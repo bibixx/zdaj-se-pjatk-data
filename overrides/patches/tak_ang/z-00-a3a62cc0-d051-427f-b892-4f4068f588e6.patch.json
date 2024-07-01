@@ -1,0 +1,24 @@
+{
+  "question": "<span lang=\"EN-US\">In 8-bit code the signed number representation</span>",
+  "isMarkdown": false,
+  "answers": [
+    {
+      "answer": "<span lang=\"EN-US\">11111111 represents value 0</span>",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "<span lang=\"EN-US\">11110000 represents value -16</span>",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "<span lang=\"EN-US\">11110000 represents value -15</span>",
+      "correct": false,
+      "isMarkdown": false
+    }
+  ],
+  "id": "z-00-a3a62cc0-d051-427f-b892-4f4068f588e6",
+  "createdAt": 1676212387535,
+  "$schema": "../../../schemas/subject-patch.json"
+}

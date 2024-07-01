@@ -1,0 +1,26 @@
+{
+  "question": "Wybierz prawdziwe stwierdzenia dotyczące kopii zapasowych w MS SQL Server:",
+  "isMarkdown": true,
+  "comments": [],
+  "answers": [
+    {
+      "answer": "Kopia różnicowa (differential backup) zawiera wszystkie zmiany, które zaszły w bazie danych od czasu wykonania ostatniej kopii pełnej.",
+      "correct": false
+    },
+    {
+      "answer": "Kopia różnicowa (differential backup) zawiera wszystkie zmiany, które zaszły w bazie danych od czasu wykonania ostatniej jakiejkolwiek kopii zapasowej.",
+      "correct": false
+    },
+    {
+      "answer": "Kopia dziennika transakcji (transaction log backup) zawiera wszystkie zmiany, które zaszły w bazie danych od czasu wykonania ostatniej kopii dziennika transakcji.",
+      "correct": false
+    },
+    {
+      "answer": "Kopia dziennika transakcji (transaction log backup) zawiera zawsze wszystkie zmiany, które zaszły w bazie danych od czasu wykonania ostatniej kopii pełnej lub różnicowej.",
+      "correct": false
+    }
+  ],
+  "id": "z-14-05faaeb4-49ca-42bf-9750-1b794d78b283",
+  "createdAt": 1657199812909,
+  "$schema": "../../../schemas/subject-patch.json"
+}

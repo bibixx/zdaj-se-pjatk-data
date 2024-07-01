@@ -1,0 +1,27 @@
+{
+  "question": "Polymorphic calls to methods can exist without overriding methods.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": false
+    },
+    {
+      "answer": "No",
+      "correct": true
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "Conversely, the polymorphic call of the method can not exist without overriding (because there would be no alternative method to call).",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "z-51-52974caa-474f-417a-ae3e-4623ede0ded5",
+  "createdAt": 1691363367006,
+  "$schema": "../../../schemas/subject-patch.json"
+}

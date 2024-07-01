@@ -1,0 +1,27 @@
+{
+  "question": "All the controls we refer to in the code should have the correct names given.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": true
+    },
+    {
+      "answer": "No",
+      "correct": false
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "Of course, in order for the program to be readable, references in the source code to controls should have meaningful names - often with a specific convention.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "z-153-16998baa-ac54-4d47-94b2-d6c92d386388",
+  "createdAt": 1691363367006,
+  "$schema": "../../../schemas/subject-patch.json"
+}
