@@ -17,5 +17,6 @@
   ],
   "comments": [],
   "id": "z-17-dfbadb26-4b6e-4168-982f-7dff393130b4",
-  "createdAt": 1644500612396
+  "createdAt": 1644500612396,
+  "$schema": "../../../schemas/subject-patch.json"
 }

@@ -21,5 +21,6 @@
     }
   ],
   "id": "z-13-316a3e87-45b8-4a87-be3d-9b9f83cb63ce",
-  "createdAt": 1657199812909
+  "createdAt": 1657199812909,
+  "$schema": "../../../schemas/subject-patch.json"
 }

@@ -15,5 +15,6 @@
       "correct": false
     }
   ],
-  "createdAt": 1673385234728
+  "createdAt": 1673385234728,
+  "$schema": "../../../schemas/subject-patch.json"
 }

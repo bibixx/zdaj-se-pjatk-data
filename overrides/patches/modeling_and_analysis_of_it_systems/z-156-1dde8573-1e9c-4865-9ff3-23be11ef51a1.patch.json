@@ -22,5 +22,6 @@
     "Samuele Milan"
   ],
   "id": "z-156-1dde8573-1e9c-4865-9ff3-23be11ef51a1",
-  "createdAt": 1691363367006
+  "createdAt": 1691363367006,
+  "$schema": "../../../schemas/subject-patch.json"
 }

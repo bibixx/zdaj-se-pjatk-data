@@ -25,5 +25,6 @@
       "isMarkdown": true
     }
   ],
-  "createdAt": 1719739066544
+  "createdAt": 1719739066544,
+  "$schema": "../../../schemas/subject-patch.json"
 }

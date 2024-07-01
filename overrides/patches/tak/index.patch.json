@@ -1,5 +1,5 @@
 {
-  "$schema": "../../../schemas/subject-override.json",
+  "$schema": "../../../schemas/subject-index-patch.json",
   "title": "Technika i Architektura Komputerów",
   "id": "tak",
   "updatedAt": 1673385234728

@@ -1,5 +1,5 @@
 {
-  "$schema": "../../../schemas/subject-override.json",
+  "$schema": "../../../schemas/subject-index-patch.json",
   "id": "sko1-skj",
   "updatedAt": 1707393065568
 }

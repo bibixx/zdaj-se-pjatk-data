@@ -1,5 +1,5 @@
 {
-  "$schema": "../../../schemas/subject-override.json",
+  "$schema": "../../../schemas/subject-index-patch.json",
   "title": "Bezpieczeństwo Systemów Informatycznych - 2012 [ENG]",
   "id": "bsi_ang_2012",
   "updatedAt": 1659139863868

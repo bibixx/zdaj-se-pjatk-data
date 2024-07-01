@@ -39,47 +39,46 @@ async function validate(filePath: string): Promise<ValidationResult> {
 }
 
 const glob = new Glob("*.json");
+const patchesGlob = new Glob("patches/**/*.json");
 
-const subjectsScanResult = Array.from(glob.scanSync(subjectsScanPath));
-const overridesScanResult = Array.from(glob.scanSync(overridesScanPath));
+const subjectsScanResult = Array.from(glob.scanSync({ cwd: subjectsScanPath, absolute: true }));
+const overridesScanResult = Array.from(glob.scanSync({ cwd: overridesScanPath, absolute: true }));
+const patchesScanResult = Array.from(patchesGlob.scanSync({ cwd: overridesScanPath, absolute: true }));
 
-const subjectsValidationResultsPromises = subjectsScanResult.map(async (file) => {
-  const path = join(subjectsScanPath, file);
-  return { path, result: await validate(path) };
-});
-const overridesValidationResultsPromises = overridesScanResult.map(async (file) => {
-  const path = join(overridesScanPath, file);
-  return { path, result: await validate(path) };
-});
+const resultsPromises = [subjectsScanResult, patchesScanResult, overridesScanResult].map((scanResult) =>
+  Promise.all(scanResult.map(async (path) => ({ path, result: await validate(path) })))
+);
 
-const [subjectsValidationResults, overridesValidationResults] = await Promise.all([
-  Promise.all(subjectsValidationResultsPromises),
-  Promise.all(overridesValidationResultsPromises),
-]);
+const [subjectsValidationResults, patchesScanResults, overridesValidationResults] = await Promise.all(resultsPromises);
 
 let didAnythingFail = false;
-console.log(chalk.cyan.bold.underline("Subjects & Index"));
-for (const validationResult of subjectsValidationResults) {
-  if (validationResult.result.valid) {
-    console.log(chalk.green(`✅ ${relative(rootFilesPath, validationResult.path)} valid`));
-  } else {
-    console.error(chalk.red(`❌ ${relative(rootFilesPath, validationResult.path)} invalid`));
-    console.error(validationResult.result.errors);
-    didAnythingFail = true;
+const logValidationResults = (
+  validationResults: {
+    path: string;
+    result: ValidationResult;
+  }[]
+) => {
+  for (const validationResult of validationResults) {
+    if (validationResult.result.valid) {
+      console.log(chalk.green(`✅ ${relative(rootFilesPath, validationResult.path)} valid`));
+    } else {
+      console.error(chalk.red(`❌ ${relative(rootFilesPath, validationResult.path)} invalid`));
+      console.error(validationResult.result.errors);
+      didAnythingFail = true;
+    }
   }
-}
+};
+
+console.log(chalk.cyan.bold.underline("Subjects & Index"));
+logValidationResults(subjectsValidationResults);
+
+console.log("");
+console.log(chalk.cyan.bold.underline("Patches"));
+logValidationResults(patchesScanResults);
 
 console.log("");
 console.log(chalk.cyan.bold.underline("Overrides"));
-for (const validationResult of overridesValidationResults) {
-  if (validationResult.result.valid) {
-    console.log(chalk.green(`✅ ${relative(rootFilesPath, validationResult.path)} valid`));
-  } else {
-    console.error(chalk.red(`❌ ${relative(rootFilesPath, validationResult.path)} invalid`));
-    console.error(validationResult.result.errors);
-    didAnythingFail = true;
-  }
-}
+logValidationResults(overridesValidationResults);
 
 console.log("");
 if (didAnythingFail) {

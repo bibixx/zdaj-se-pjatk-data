@@ -45,7 +45,10 @@ for (const dirent of dirents) {
     answer.id = String(answerId);
     answer.createdAt = contents.updatedAt;
 
-    // TODO: Add schema validation here
+    const schemaAbsolutePath = join(schemasJSONFolder, "subject-patch.json");
+    const schemaPath = relative(rootPath, schemaAbsolutePath);
+    answer.$schema = schemaPath;
+
     const answerPatchFile = Bun.file(join(rootPath, `${answerId}.patch.json`));
     await Bun.write(answerPatchFile, stringify(answer));
   }
@@ -53,8 +56,7 @@ for (const dirent of dirents) {
   const answerIndexPatchFile = Bun.file(join(rootPath, `index.patch.json`));
   const { data, ...indexData } = contents;
 
-  const { base: schemaFileName } = parse(indexData.$schema);
-  const schemaAbsolutePath = join(schemasJSONFolder, schemaFileName);
+  const schemaAbsolutePath = join(schemasJSONFolder, "subject-index-patch.json");
   const schemaPath = relative(rootPath, schemaAbsolutePath);
   indexData.$schema = schemaPath;
 
