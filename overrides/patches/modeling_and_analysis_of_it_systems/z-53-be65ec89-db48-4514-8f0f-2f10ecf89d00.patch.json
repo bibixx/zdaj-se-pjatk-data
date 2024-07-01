@@ -1,0 +1,26 @@
+{
+  "question": "Thanks to the use of composition instead of inheritance we have easy access to inherited invariants.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": false
+    },
+    {
+      "answer": "No",
+      "correct": true
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "Unfortunately, the introduction of compositions made it difficult to access invariants (because they are not 'automatically' inherited).",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "z-53-be65ec89-db48-4514-8f0f-2f10ecf89d00",
+  "createdAt": 1691363367006
+}

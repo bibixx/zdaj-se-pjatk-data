@@ -1,0 +1,26 @@
+{
+  "question": "Instead of creating a consistent GUI design, it is better to include a comprehensive manual.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": false
+    },
+    {
+      "answer": "No",
+      "correct": true
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "Users do not like to read manuals. Therefore, let's try to design a GUI so that it is not needed.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "z-136-715f8c98-3efb-4250-96e9-d0f0f6403e9d",
+  "createdAt": 1691363367006
+}

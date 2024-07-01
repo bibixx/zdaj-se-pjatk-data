@@ -1,0 +1,26 @@
+{
+  "question": "The @ElementCollection annotation is used for the implementation of multi-valued attributes.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": true
+    },
+    {
+      "answer": "No",
+      "correct": false
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "The @ElementCollection annotation is used for the implementation of multi-valued attributes.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "z-125-e4d2de2f-86b8-4dfb-acca-f9d8326676c8",
+  "createdAt": 1691363367006
+}

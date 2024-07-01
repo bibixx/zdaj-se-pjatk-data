@@ -1,0 +1,21 @@
+{
+  "question": "Średnią złożoność czasową algorytmów",
+  "contributor": "ClipLee",
+  "comments": [],
+  "answers": [
+    {
+      "answer": "uzależniamy od prędkości zegara procesora",
+      "correct": false
+    },
+    {
+      "answer": "wyrażamy w liczbie wykonań instrukcji dominującej",
+      "correct": true
+    },
+    {
+      "answer": "odnosimy do rozmiaru najbardziej złośliwych danych",
+      "correct": false
+    }
+  ],
+  "id": "z-07-87f9691f-4bac-44b3-aa0f-f77f59b40b08",
+  "createdAt": 1644512679798
+}

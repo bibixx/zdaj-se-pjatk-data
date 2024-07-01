@@ -1,0 +1,26 @@
+{
+  "question": "Using graphical editors accelerates the GUI creation process.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": true
+    },
+    {
+      "answer": "No",
+      "correct": false
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "The graphical editor allows you to design and test the interface quickly.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "z-143-29925a51-d920-4adc-a95f-93ea6cdc437c",
+  "createdAt": 1691363367006
+}

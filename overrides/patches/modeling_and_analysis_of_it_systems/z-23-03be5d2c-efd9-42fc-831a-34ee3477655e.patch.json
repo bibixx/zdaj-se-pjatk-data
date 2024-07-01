@@ -1,0 +1,26 @@
+{
+  "question": "One way to achieve extent persistence is to save it to a file.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": true
+    },
+    {
+      "answer": "No",
+      "correct": false
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "Class extent can be persisted eg in a disk file.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "z-23-03be5d2c-efd9-42fc-831a-34ee3477655e",
+  "createdAt": 1691363367006
+}

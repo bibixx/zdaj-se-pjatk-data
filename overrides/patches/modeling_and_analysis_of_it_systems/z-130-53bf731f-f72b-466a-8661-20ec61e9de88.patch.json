@@ -1,0 +1,26 @@
+{
+  "question": "One of the basic elements facilitating shaping usability is frequent contacts with users.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": true
+    },
+    {
+      "answer": "No",
+      "correct": false
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "Contacts with your users let you know their GUI feedback and, accordingly, make corrections.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "z-130-53bf731f-f72b-466a-8661-20ec61e9de88",
+  "createdAt": 1691363367006
+}

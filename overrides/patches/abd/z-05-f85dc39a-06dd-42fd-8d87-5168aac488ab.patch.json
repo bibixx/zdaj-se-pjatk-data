@@ -1,0 +1,25 @@
+{
+  "question": "W MS SQL Server wykonano następujące instrukcje z włączonym automatycznym zatwierdzaniem transakcji: \n```sql\nINSERT INTO tabela (a) VALUES (1)\nCOMMIT\nINSERT INTO tabela (a) VALUES (2)\nROLLBACK\n```\nPodaj ile rekordów będzie zawierała tabela przy założeniu, że na początku była pusta?",
+  "isMarkdown": true,
+  "comments": [],
+  "answers": [
+    {
+      "answer": "0",
+      "correct": false
+    },
+    {
+      "answer": "1",
+      "correct": false
+    },
+    {
+      "answer": "2",
+      "correct": true
+    },
+    {
+      "answer": "3",
+      "correct": false
+    }
+  ],
+  "id": "z-05-f85dc39a-06dd-42fd-8d87-5168aac488ab",
+  "createdAt": 1657199812909
+}

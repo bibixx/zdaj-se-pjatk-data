@@ -1,0 +1,26 @@
+{
+  "question": "The data schema for the directed and bidirectional association is identical.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": true
+    },
+    {
+      "answer": "No",
+      "correct": false
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "Indeed, the data scheme for directed and bidirectional association is identical.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "z-123-ea809f30-25ba-4ede-a448-ab6fd9630c87",
+  "createdAt": 1691363367006
+}

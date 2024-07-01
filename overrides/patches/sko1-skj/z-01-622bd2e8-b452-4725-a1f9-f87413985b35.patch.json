@@ -1,0 +1,28 @@
+{
+  "question": "Jakie są źródła opóźnienia pakietów w warstwie trzeciej?",
+  "isMarkdown": false,
+  "answers": [
+    {
+      "answer": "retransmisje",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "sprawdzanie sumy kontrolnej",
+      "correct": true,
+      "isMarkdown": false
+    },
+    {
+      "answer": "oczekiwanie w kolejce",
+      "correct": true,
+      "isMarkdown": false
+    },
+    {
+      "answer": "opóźnienie transmisji",
+      "correct": true,
+      "isMarkdown": false
+    }
+  ],
+  "id": "z-01-622bd2e8-b452-4725-a1f9-f87413985b35",
+  "createdAt": 1707393065568
+}

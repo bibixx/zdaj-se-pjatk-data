@@ -1,0 +1,26 @@
+{
+  "question": "Derived attributes can be implemented as a special type of column in a regular table.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": false
+    },
+    {
+      "answer": "No",
+      "correct": true
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "Relational model does not give such an opportunity.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "z-99-2ed013c7-e330-4bbf-9600-c24ad088d6a4",
+  "createdAt": 1691363367006
+}

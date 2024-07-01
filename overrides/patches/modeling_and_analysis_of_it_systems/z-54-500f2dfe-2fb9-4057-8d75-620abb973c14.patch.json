@@ -1,0 +1,26 @@
+{
+  "question": "When replacing the overlapping inheritance with a composition, we need to implement it with inner classes.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": false
+    },
+    {
+      "answer": "No",
+      "correct": true
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "The composition can be implemented in any way - it does not always mean using inner classes.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "z-54-500f2dfe-2fb9-4057-8d75-620abb973c14",
+  "createdAt": 1691363367006
+}

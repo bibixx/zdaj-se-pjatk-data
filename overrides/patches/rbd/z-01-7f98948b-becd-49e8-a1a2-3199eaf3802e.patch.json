@@ -1,0 +1,28 @@
+{
+  "question": "Funkcja IIf umożliwia:",
+  "isMarkdown": false,
+  "answers": [
+    {
+      "answer": "obliczenie liczby stron z jakich składa się raport",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "zinterpretowanie Null jako napisu pustego",
+      "correct": true,
+      "isMarkdown": false
+    },
+    {
+      "answer": "zapisanie warunku w kodzie",
+      "correct": true,
+      "isMarkdown": false
+    },
+    {
+      "answer": "wywołanie kodu z makra",
+      "correct": false,
+      "isMarkdown": false
+    }
+  ],
+  "id": "z-01-7f98948b-becd-49e8-a1a2-3199eaf3802e",
+  "createdAt": 1719739066544
+}

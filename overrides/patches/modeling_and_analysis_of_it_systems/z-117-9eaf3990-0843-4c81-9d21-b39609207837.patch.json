@@ -1,0 +1,26 @@
+{
+  "question": "ORMs, to some extent, suppress the impedance mismatch.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": true
+    },
+    {
+      "answer": "No",
+      "correct": false
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "ORMs do not completely eliminate impedance mismatches but significantly reduce them.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "z-117-9eaf3990-0843-4c81-9d21-b39609207837",
+  "createdAt": 1691363367006
+}

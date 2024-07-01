@@ -1,0 +1,26 @@
+{
+  "question": "Relational databases for sure will be replaced by object-oriented.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": false
+    },
+    {
+      "answer": "No",
+      "correct": true
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "At the moment it is difficult to judge which technology/concept will replace the relational solutions.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "z-80-88d6bdf0-ce60-4699-98e7-8f1a400fca75",
+  "createdAt": 1691363367006
+}

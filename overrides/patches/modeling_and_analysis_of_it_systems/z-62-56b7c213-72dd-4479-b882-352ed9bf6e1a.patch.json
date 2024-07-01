@@ -1,0 +1,26 @@
+{
+  "question": "Flattening of the hierarchy should be combined with the addition of the discriminator.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": true
+    },
+    {
+      "answer": "No",
+      "correct": false
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "Adding a discriminator is a necessary requirement when flattening the hierarchy (so we know the 'type' of an object).",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "z-62-56b7c213-72dd-4479-b882-352ed9bf6e1a",
+  "createdAt": 1691363367006
+}

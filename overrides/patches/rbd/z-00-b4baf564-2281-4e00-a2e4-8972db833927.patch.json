@@ -1,0 +1,28 @@
+{
+  "question": "Jaka jest wartość wyrażenia logiczna TRUE OR Null OR FALSE:",
+  "isMarkdown": false,
+  "answers": [
+    {
+      "answer": "True",
+      "correct": true,
+      "isMarkdown": false
+    },
+    {
+      "answer": "Null",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "0",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "False",
+      "correct": false,
+      "isMarkdown": false
+    }
+  ],
+  "id": "z-00-b4baf564-2281-4e00-a2e4-8972db833927",
+  "createdAt": 1719739066544
+}

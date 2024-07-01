@@ -1,0 +1,26 @@
+{
+  "question": "An example of a simple attribute is Address.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": false
+    },
+    {
+      "answer": "No",
+      "correct": true
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "Address is an example of a complex attribute.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "z-07-7be6f7f7-e297-47cf-9658-f7fad30ed54d",
+  "createdAt": 1691363367006
+}

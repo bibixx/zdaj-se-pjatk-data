@@ -1,0 +1,26 @@
+{
+  "question": "Complex attributes can be implemented in RM as a separate table with a foreign key.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": true
+    },
+    {
+      "answer": "No",
+      "correct": false
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "One way to implement complex attributes is to use an external table with the foreign key.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "z-92-d4cb3081-681f-4923-bafe-75b006aed3b7",
+  "createdAt": 1691363367006
+}

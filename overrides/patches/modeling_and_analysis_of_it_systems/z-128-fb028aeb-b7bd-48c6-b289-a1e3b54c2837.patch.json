@@ -1,0 +1,26 @@
+{
+  "question": "Usability of interfaces is an interdisciplinary issue.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": true
+    },
+    {
+      "answer": "No",
+      "correct": false
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "Interdisciplinary is a term that concerns several disciplines. Of course the GUI belongs to this category.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "z-128-fb028aeb-b7bd-48c6-b289-a1e3b54c2837",
+  "createdAt": 1691363367006
+}

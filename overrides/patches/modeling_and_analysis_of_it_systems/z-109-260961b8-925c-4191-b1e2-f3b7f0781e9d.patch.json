@@ -1,0 +1,26 @@
+{
+  "question": "The primary purpose of using a qualified association is to speed up the search for connected objects.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": true
+    },
+    {
+      "answer": "No",
+      "correct": false
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "Indeed, the primary task of a qualified association is to speed up the search for connected objects.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "z-109-260961b8-925c-4191-b1e2-f3b7f0781e9d",
+  "createdAt": 1691363367006
+}

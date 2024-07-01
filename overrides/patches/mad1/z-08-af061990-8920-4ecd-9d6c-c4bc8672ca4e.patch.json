@@ -1,0 +1,21 @@
+{
+  "question": "Niech r będzie relacją liniowego porządku w zbiorze X. Zaznacz te własności, które przysługują relacji r.",
+  "comments": [],
+  "contributor": "xarturo99",
+  "answers": [
+    {
+      "answer": "Dla dowolnych różnych elementów x, y ze zbioru X, x r y lub y r x.",
+      "correct": true
+    },
+    {
+      "answer": "Jeżeli x r y, to y r x, dla dowolnych elementów x, y ze zbioru X.",
+      "correct": false
+    },
+    {
+      "answer": "Jeżeli pary (x,y) i (y,z) nalezą do r, to należy do r również para (x,z), dla dowolnych x, y, z ze zbioru X.",
+      "correct": true
+    }
+  ],
+  "id": "z-08-af061990-8920-4ecd-9d6c-c4bc8672ca4e",
+  "createdAt": 1644500612396
+}

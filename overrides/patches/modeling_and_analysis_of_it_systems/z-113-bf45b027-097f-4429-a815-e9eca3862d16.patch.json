@@ -1,0 +1,26 @@
+{
+  "question": "One way to implement inheritance in RM is to flatten the hierarchy.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": true
+    },
+    {
+      "answer": "No",
+      "correct": false
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "Flattening the heirarchy is one way to accomplish any kind of inheritance.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "z-113-bf45b027-097f-4429-a815-e9eca3862d16",
+  "createdAt": 1691363367006
+}

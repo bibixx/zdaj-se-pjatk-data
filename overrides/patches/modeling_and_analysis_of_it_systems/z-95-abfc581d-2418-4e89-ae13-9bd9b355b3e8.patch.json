@@ -1,0 +1,26 @@
+{
+  "question": "One way to implement a repetitive attribute is to store its value in a text field.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": true
+    },
+    {
+      "answer": "No",
+      "correct": false
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "This is a acceptable solution, but not very good.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "z-95-abfc581d-2418-4e89-ae13-9bd9b355b3e8",
+  "createdAt": 1691363367006
+}

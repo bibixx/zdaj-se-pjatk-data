@@ -1,0 +1,26 @@
+{
+  "question": "In order to create an object method in Java, you must use the keyword object.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": false
+    },
+    {
+      "answer": "No",
+      "correct": true
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "In Java, there is no object keyword.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "z-19-b716d581-19e8-43f5-9420-25772ced80d1",
+  "createdAt": 1691363367006
+}

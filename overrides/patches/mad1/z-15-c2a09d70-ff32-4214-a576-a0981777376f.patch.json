@@ -1,0 +1,21 @@
+{
+  "question": "Wskaż zdania prawdziwe (elementy wyróżnione, inf, sup).",
+  "contributor": "xarturo99",
+  "answers": [
+    {
+      "answer": "r jest relacją określoną w zbiorze X = {{2}, {3, 4}, {4, 5}, {5, 6}, {4, 5, 6}, {5, 6, 7}, {3, 4, 5, 6}, {4, 5, 6, 7} }, taką że X r Y wttw X jest podzbiorem Y. Wówczas inf{ {4, 5, 6}, {5, 6, 7} }={5, 6}.",
+      "correct": true
+    },
+    {
+      "answer": "Jeżeli zbiór X jest dobrze uporządkowany to każdy jego skończony podzbiór ma element pierwszy. ",
+      "correct": true
+    },
+    {
+      "answer": "Jeżeli zbiór X jest dobrze uporządkowany to każdy jego skończony podzbiór ma element minimalny. ",
+      "correct": true
+    }
+  ],
+  "comments": [],
+  "id": "z-15-c2a09d70-ff32-4214-a576-a0981777376f",
+  "createdAt": 1644500612396
+}

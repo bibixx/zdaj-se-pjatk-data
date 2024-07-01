@@ -1,0 +1,26 @@
+{
+  "question": "Implementing {bag} requires a method that checks for the existence of a given link.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": false
+    },
+    {
+      "answer": "No",
+      "correct": true
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "The {bag} constraint allows you to store any object, so you do not need to check for the existence of any links.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "z-75-aa7168e7-1fb8-43d9-8ff0-37cbb0724334",
+  "createdAt": 1691363367006
+}

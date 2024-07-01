@@ -1,0 +1,26 @@
+{
+  "question": "Associations of 1:1 cardinality can be realized with a foreign key.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": true
+    },
+    {
+      "answer": "No",
+      "correct": false
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "Associations of 1:1 cardinality can be created with a foreign key. On the other hand, for such values, you might want to consider merging two tables.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "z-103-41e8bbf1-a1b0-4373-8c9a-83503a7e938b",
+  "createdAt": 1691363367006
+}

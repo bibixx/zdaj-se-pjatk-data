@@ -1,0 +1,26 @@
+{
+  "question": "Transforming a directed association into a bidirectional one requires, among other things, adding dedicated constructs on the Java side.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": true
+    },
+    {
+      "answer": "No",
+      "correct": false
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "In order to convert the association to bidirectional, we actually need to add the appropriate collection on the Java side.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "z-122-d0cecb5f-3602-4f8c-971d-feb632ab9a99",
+  "createdAt": 1691363367006
+}

@@ -1,0 +1,26 @@
+{
+  "question": "A compound attribute can be implemented as a class object.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": true
+    },
+    {
+      "answer": "No",
+      "correct": false
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "One way to implement a complex attribute is to create a dedicated class to store it.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "z-10-4ad820be-b19d-4bb2-8a23-8fd691076d95",
+  "createdAt": 1691363367006
+}

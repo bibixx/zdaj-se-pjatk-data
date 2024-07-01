@@ -1,0 +1,25 @@
+{
+  "question": "Zaznacz poprawne stwierdzenia dotyczące opcji \"shrink\" w MS SQL Server",
+  "isMarkdown": true,
+  "comments": [],
+  "answers": [
+    {
+      "answer": "Może zmniejszyć fizyczny rozmiar pliku z danymi",
+      "correct": false
+    },
+    {
+      "answer": "Może zmniejszyć fizyczny rozmiar pliku z dziennikiem transakcji",
+      "correct": false
+    },
+    {
+      "answer": "Usuwa nieaktywne transakcje z dziennika transakcji",
+      "correct": false
+    },
+    {
+      "answer": "Dokonuje kompresji danych w plikach *.mdf podobnej do tej stosowanej w narzędziach do archiwizacji (np. ZIP lub RAR)",
+      "correct": false
+    }
+  ],
+  "id": "z-09-628d20e0-e5b4-4c3b-8d35-f33535585fda",
+  "createdAt": 1657199812909
+}

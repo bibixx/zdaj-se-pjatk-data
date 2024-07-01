@@ -1,0 +1,26 @@
+{
+  "question": "The method storing all extents should accept the file name as a parameter.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": true
+    },
+    {
+      "answer": "No",
+      "correct": false
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "The method storing all extents should accept the file name as a parameter. This will allow them to be stored in a single file.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "z-26-c17b3729-c6d7-4cb2-86c2-de634aa5f581",
+  "createdAt": 1691363367006
+}

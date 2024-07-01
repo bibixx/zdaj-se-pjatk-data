@@ -1,0 +1,26 @@
+{
+  "question": "The simplest way to implement dynamic inheritance is to flatten the hierarchy.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": true
+    },
+    {
+      "answer": "No",
+      "correct": false
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "Flattening of hierarchy is the easiest way to implement any kind of inheritance (including dynamic).",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "z-61-b017f415-cb42-455d-8339-ffa63aa9cdbf",
+  "createdAt": 1691363367006
+}

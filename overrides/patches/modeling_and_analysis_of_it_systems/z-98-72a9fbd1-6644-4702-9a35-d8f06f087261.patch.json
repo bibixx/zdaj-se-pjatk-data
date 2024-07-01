@@ -1,0 +1,26 @@
+{
+  "question": "The class attribute can be written to a dedicated table.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": true
+    },
+    {
+      "answer": "No",
+      "correct": false
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "This is one possible solution.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "z-98-72a9fbd1-6644-4702-9a35-d8f06f087261",
+  "createdAt": 1691363367006
+}

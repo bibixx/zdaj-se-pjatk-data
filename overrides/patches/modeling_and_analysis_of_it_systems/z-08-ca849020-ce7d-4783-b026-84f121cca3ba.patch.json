@@ -1,0 +1,26 @@
+{
+  "question": "In Java, simple attributes are implemented with the simple keyword.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": false
+    },
+    {
+      "answer": "No",
+      "correct": true
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "There is no simple keyword in Java.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "z-08-ca849020-ce7d-4783-b026-84f121cca3ba",
+  "createdAt": 1691363367006
+}

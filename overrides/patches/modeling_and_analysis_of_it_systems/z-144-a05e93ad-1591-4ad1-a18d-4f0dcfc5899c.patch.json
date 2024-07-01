@@ -1,0 +1,26 @@
+{
+  "question": "The only significant criterion for choosing a GUI library is its price.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": false
+    },
+    {
+      "answer": "No",
+      "correct": true
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "Of course there are many important criteria (eg performance, portability, price, capabilities) of library selection for GUI creation.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "z-144-a05e93ad-1591-4ad1-a18d-4f0dcfc5899c",
+  "createdAt": 1691363367006
+}

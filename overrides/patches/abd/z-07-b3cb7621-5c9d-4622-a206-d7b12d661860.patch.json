@@ -1,0 +1,25 @@
+{
+  "question": "Kiedy wskazane jest użycie indeksu pogrupowanego zamiast niepogrupowanego w MS SQL Server",
+  "isMarkdown": true,
+  "comments": [],
+  "answers": [
+    {
+      "answer": "Zapytania zakresowe (np. warunek z BETWEEN)",
+      "correct": false
+    },
+    {
+      "answer": "Zapytania zwracające pojedyncze wartości",
+      "correct": false
+    },
+    {
+      "answer": "Zapytania zawierające ORDER BY",
+      "correct": false
+    },
+    {
+      "answer": "Zapytania z użyciem LIKE",
+      "correct": false
+    }
+  ],
+  "id": "z-07-b3cb7621-5c9d-4622-a206-d7b12d661860",
+  "createdAt": 1657199812909
+}

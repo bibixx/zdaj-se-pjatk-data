@@ -1,0 +1,26 @@
+{
+  "question": "The Swing library is currently (still) the most popular desktop application development solution for Java.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": true
+    },
+    {
+      "answer": "No",
+      "correct": false
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "In fact, Swing is currently the most popular desktop application development solution for Java. This is because it is integrated with the platform.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "z-146-9ae88731-8d0d-49a0-bdc5-784c4357fe0a",
+  "createdAt": 1691363367006
+}

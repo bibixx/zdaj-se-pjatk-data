@@ -1,0 +1,26 @@
+{
+  "question": "Declarative GUI creation is an absolute novelty and no commercial company provides such capabilities.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": false
+    },
+    {
+      "answer": "No",
+      "correct": true
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "There are several commercial implementations of declarative GUIs, such as XAML.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "z-159-f80d170b-0a8c-422c-b50d-221a35e55a40",
+  "createdAt": 1691363367006
+}

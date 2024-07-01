@@ -1,0 +1,21 @@
+{
+  "question": "Istnieje drzewo AVL",
+  "contributor": "ClipLee",
+  "comments": [],
+  "answers": [
+    {
+      "answer": "o 12 węzłach i wysokości 4",
+      "correct": true
+    },
+    {
+      "answer": "o 5 węzłach i 2 liściach",
+      "correct": true
+    },
+    {
+      "answer": "o 15 węzłach i wysokości 3",
+      "correct": false
+    }
+  ],
+  "id": "z-13-12ef8161-d2f6-4642-84ed-24455ac0c956",
+  "createdAt": 1644512679798
+}

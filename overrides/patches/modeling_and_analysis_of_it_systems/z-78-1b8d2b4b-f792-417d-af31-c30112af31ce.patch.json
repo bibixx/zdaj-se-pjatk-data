@@ -1,0 +1,26 @@
+{
+  "question": "By using {xor} we can store duplicate links.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": false
+    },
+    {
+      "answer": "No",
+      "correct": true
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "The constraint {xor} does not specify the uniqueness of the related objects.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "z-78-1b8d2b4b-f792-417d-af31-c30112af31ce",
+  "createdAt": 1691363367006
+}

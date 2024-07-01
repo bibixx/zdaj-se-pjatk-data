@@ -1,0 +1,26 @@
+{
+  "question": "A design that is close to a qualified association can be implemented by selecting the correct primary and the foreign keys.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": true
+    },
+    {
+      "answer": "No",
+      "correct": false
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "One way to 'simulate' a qualified association is to use a qualifier as a key.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "z-108-2368b0f3-2183-4477-9f9e-87af37b755ec",
+  "createdAt": 1691363367006
+}

@@ -1,0 +1,26 @@
+{
+  "question": "The most efficient way to implement a qualified association is to replace ArrayList with Vector.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": false
+    },
+    {
+      "answer": "No",
+      "correct": true
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "Search performance can be improved using a map, not a simple collection e.g. Vector.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "z-44-3506783e-440b-41c5-98a6-400436499bd1",
+  "createdAt": 1691363367006
+}

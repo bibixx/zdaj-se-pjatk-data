@@ -41,12 +41,12 @@ for (const dirent of dirents) {
 
   let i = 0;
   for (const answer of contents.data) {
-    const answerId = answer.id ?? crypto.randomUUID();
+    const answerId = answer.id ?? `z-${String(i++).padStart(2, "0")}-${crypto.randomUUID()}`;
     answer.id = String(answerId);
     answer.createdAt = contents.updatedAt;
 
     // TODO: Add schema validation here
-    const answerPatchFile = Bun.file(join(rootPath, `${String(i++).padStart(2, "0")}_${answerId}.patch.json`));
+    const answerPatchFile = Bun.file(join(rootPath, `${answerId}.patch.json`));
     await Bun.write(answerPatchFile, stringify(answer));
   }
 

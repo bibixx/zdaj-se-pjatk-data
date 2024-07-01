@@ -1,0 +1,26 @@
+{
+  "question": "The operation propagation causes the business code of the method to be in a single place.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": true
+    },
+    {
+      "answer": "No",
+      "correct": false
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "Thanks to the propagation of the operation, the business code is located in one method, and the rest of the code only calls it.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "z-56-277b3a7a-d276-4988-a2fc-adbc9a4685bc",
+  "createdAt": 1691363367006
+}

@@ -1,0 +1,26 @@
+{
+  "question": "Introducing an intermediary class makes it difficult to access information stored in a combined class.",
+  "numberOfComments": 1,
+  "answers": [
+    {
+      "answer": "Yes",
+      "correct": true
+    },
+    {
+      "answer": "No",
+      "correct": false
+    }
+  ],
+  "comments": [
+    {
+      "author": "Samuele Milan",
+      "comment": "Adding another structure between classes (the intermediate class) obviously impedes navigation and access to the associated object.",
+      "date": "02-09-2023 00:00:00"
+    }
+  ],
+  "contributors": [
+    "Samuele Milan"
+  ],
+  "id": "z-43-3fd73ba4-7754-4e5e-bd62-187e326ff1f4",
+  "createdAt": 1691363367006
+}

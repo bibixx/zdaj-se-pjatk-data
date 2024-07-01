@@ -1,0 +1,25 @@
+{
+  "question": "Wybierz poprawne stwierdzenia dotyczące konfiguracji typu \"log shipping\" w MS SQL Server:",
+  "isMarkdown": true,
+  "comments": [],
+  "answers": [
+    {
+      "answer": "W konfiguracji typu \"log shipping\" może istnieć tylko jeden serwer zapasowy powiązany z jednym serwerem głównym.",
+      "correct": false
+    },
+    {
+      "answer": "W konfiguracji typu \"log shipping\" możliwa jest praca z zapasową bazą danych, ale tylko do odczytu.",
+      "correct": false
+    },
+    {
+      "answer": "W konfiguracji typu \"log shipping\" możliwa jest praca z zapasową bazą danych włącznie z wprowadzaniem do niej zmian.",
+      "correct": false
+    },
+    {
+      "answer": "W konfiguracji typu \"log shipping\", gdy wprowadzimy modyfikację do tabeli na serwerze zapasowym, to ta modyfikacja zostanie automatycznie przeniesiona na serwer główny przy pomocy rozproszonej transakcji.",
+      "correct": false
+    }
+  ],
+  "id": "z-11-3cf02271-1613-4823-8992-72325d10755d",
+  "createdAt": 1657199812909
+}

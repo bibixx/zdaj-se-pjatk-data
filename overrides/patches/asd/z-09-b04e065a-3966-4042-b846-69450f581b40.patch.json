@@ -1,0 +1,21 @@
+{
+  "question": "Notacja $\\Theta$ (duże Theta)",
+  "contributor": "ClipLee",
+  "comments": [],
+  "answers": [
+    {
+      "answer": "pozwala uprościć obliczenia złożoności przez podanie asymptotycznego ograniczenia zarówno górnego, jak i dolnego",
+      "correct": true
+    },
+    {
+      "answer": "pozwala uprościć obliczenia złożoności przez podanie asymptotycznego ograniczenia dolnego",
+      "correct": true
+    },
+    {
+      "answer": "definiuje konkretną funkcję ze zbioru liczb naturalnych w zbiór liczb rzeczywistych nieujemnych.",
+      "correct": false
+    }
+  ],
+  "id": "z-09-b04e065a-3966-4042-b846-69450f581b40",
+  "createdAt": 1644512679798
+}
