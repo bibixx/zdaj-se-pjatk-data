@@ -57,8 +57,6 @@ async function processSubject(subjectId: string) {
     }
 
     const fileContents = await file.json();
-    delete fileContents.createdAt;
-    delete fileContents.$schema;
 
     outData.data.push(fileContents);
   }
@@ -66,6 +64,18 @@ async function processSubject(subjectId: string) {
   const schemaAbsolutePath = join(schemasJSONFolder, "subject-override.json");
   const schemaPath = relative(overridesPath, schemaAbsolutePath);
   outData.$schema = schemaPath;
+
+  let updatedAt = outData.updatedAt;
+  for (const data of outData.data) {
+    const createdAt = data.createdAt;
+
+    delete data.createdAt;
+    delete data.$schema;
+
+    updatedAt = Math.max(data.updatedAt ?? 0, createdAt ?? 0);
+  }
+
+  outData.updatedAt = updatedAt;
 
   const outFile = Bun.file(join(overridesPath, `${subjectId}.json`));
   await Bun.write(outFile, stringify(outData));
