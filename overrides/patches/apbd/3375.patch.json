@@ -1,0 +1,24 @@
+{
+  "id": "3375",
+  "question": "Token JWT",
+  "isMarkdown": false,
+  "answers": [
+    {
+      "answer": "jest jedynym rodzajem tokena, o który może opierać się uwierzytelnianie w projekcie .NET",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "może zostać wydany na czas nieokreślony",
+      "correct": true,
+      "isMarkdown": false
+    },
+    {
+      "answer": "składa się z trzech części: nagłówka, zawartości i części do weryfikowania podpisu",
+      "correct": true,
+      "isMarkdown": false
+    }
+  ],
+  "createdAt": 1720111185849,
+  "$schema": "../../../schemas/subject-patch.json"
+}
