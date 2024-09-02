@@ -1,0 +1,29 @@
+{
+  "id": "2960",
+  "question": "Które z poniższych stwierdzeń jest prawdziwe w T-SQL",
+  "isMarkdown": false,
+  "answers": [
+    {
+      "answer": "W procedurze mogą być wykonywane polecenia DQL",
+      "correct": true,
+      "isMarkdown": false
+    },
+    {
+      "answer": "W procedurze mogą być wykonywane polecenia DDL",
+      "correct": true,
+      "isMarkdown": false
+    },
+    {
+      "answer": "W procedurze mogą być wykonywane polecenia DML",
+      "correct": true,
+      "isMarkdown": false
+    },
+    {
+      "answer": "W procedurach T-SQL można używać parametrów",
+      "correct": true,
+      "isMarkdown": false
+    }
+  ],
+  "createdAt": 1725264745813,
+  "$schema": "../../../schemas/subject-patch.json"
+}
