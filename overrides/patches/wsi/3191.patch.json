@@ -1,0 +1,29 @@
+{
+  "id": "3191",
+  "question": "<span>Które z poniższych stwierdzeń są prawdziwe:</span>",
+  "isMarkdown": false,
+  "answers": [
+    {
+      "answer": "<p class=\"MsoNormal\">Instrukcja DELETE języka SQL, służy do modyfikacji danych w bazie danych</p>",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "<p class=\"MsoNormal\">Instrukcja DELETE języka SQL, służy do usunięcia danych z bazy danych</p>",
+      "correct": true,
+      "isMarkdown": false
+    },
+    {
+      "answer": "<p class=\"MsoNormal\">Instrukcja DELETE języka SQL, służy do wstawienia danych do bazy danych</p>",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "<p class=\"MsoNormal\">Instrukcja DELETE języka SQL, służy do odczytania danych z bazy danych</p>",
+      "correct": false,
+      "isMarkdown": false
+    }
+  ],
+  "createdAt": 1733586889556,
+  "$schema": "../../../schemas/subject-patch.json"
+}
