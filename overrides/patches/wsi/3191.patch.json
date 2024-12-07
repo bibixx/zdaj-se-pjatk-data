@@ -1,27 +1,27 @@
 {
   "id": "3191",
-  "question": "<span>Które z poniższych stwierdzeń są prawdziwe:</span>",
+  "question": "Które z poniższych stwierdzeń są prawdziwe:",
   "isMarkdown": false,
   "answers": [
     {
-      "answer": "<p class=\"MsoNormal\">Instrukcja DELETE języka SQL, służy do modyfikacji danych w bazie danych</p>",
+      "answer": "Instrukcja `DELETE` języka SQL, służy do modyfikacji danych w bazie danych",
       "correct": false,
-      "isMarkdown": false
+      "isMarkdown": true
     },
     {
-      "answer": "<p class=\"MsoNormal\">Instrukcja DELETE języka SQL, służy do usunięcia danych z bazy danych</p>",
+      "answer": "Instrukcja `DELETE` języka SQL, służy do usunięcia danych z bazy danych",
       "correct": true,
-      "isMarkdown": false
+      "isMarkdown": true
     },
     {
-      "answer": "<p class=\"MsoNormal\">Instrukcja DELETE języka SQL, służy do wstawienia danych do bazy danych</p>",
+      "answer": "Instrukcja `DELETE` języka SQL, służy do wstawienia danych do bazy danych",
       "correct": false,
-      "isMarkdown": false
+      "isMarkdown": true
     },
     {
-      "answer": "<p class=\"MsoNormal\">Instrukcja DELETE języka SQL, służy do odczytania danych z bazy danych</p>",
+      "answer": "Instrukcja `DELETE` języka SQL, służy do odczytania danych z bazy danych",
       "correct": false,
-      "isMarkdown": false
+      "isMarkdown": true
     }
   ],
   "createdAt": 1733586889556,
