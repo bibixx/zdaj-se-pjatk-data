@@ -1,0 +1,29 @@
+{
+  "id": "3191",
+  "question": "Które z poniższych stwierdzeń są prawdziwe:",
+  "isMarkdown": false,
+  "answers": [
+    {
+      "answer": "Instrukcja `DELETE` języka SQL, służy do modyfikacji danych w bazie danych",
+      "correct": false,
+      "isMarkdown": true
+    },
+    {
+      "answer": "Instrukcja `DELETE` języka SQL, służy do usunięcia danych z bazy danych",
+      "correct": true,
+      "isMarkdown": true
+    },
+    {
+      "answer": "Instrukcja `DELETE` języka SQL, służy do wstawienia danych do bazy danych",
+      "correct": false,
+      "isMarkdown": true
+    },
+    {
+      "answer": "Instrukcja `DELETE` języka SQL, służy do odczytania danych z bazy danych",
+      "correct": false,
+      "isMarkdown": true
+    }
+  ],
+  "createdAt": 1733586889556,
+  "$schema": "../../../schemas/subject-patch.json"
+}
