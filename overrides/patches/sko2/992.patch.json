@@ -1,0 +1,29 @@
+{
+  "id": "992",
+  "question": "Które protokoły multipleksacji wymagają synchronizacji zegarów węzłów sieci?",
+  "isMarkdown": false,
+  "answers": [
+    {
+      "answer": "Protokół 802.11 z rezerwacjami (DFWMAC-DCF z RTS/CTS)",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "CSMA/CA",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "CSMA/CD",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "Slotted Aloha",
+      "correct": true,
+      "isMarkdown": false
+    }
+  ],
+  "createdAt": 1737310457504,
+  "$schema": "../../../schemas/subject-patch.json"
+}
