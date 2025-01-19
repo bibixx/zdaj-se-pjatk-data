@@ -1,0 +1,29 @@
+{
+  "id": "1001",
+  "question": "W radiowych sieciach lokalnych kolizje nie zawsze są wykrywane, gdyż:",
+  "isMarkdown": false,
+  "answers": [
+    {
+      "answer": "Kolizje są zawsze wykrywane, a ramki są retransmitowane w standardzie 802.11g",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "Kolizja wykryta u odbiorcy nie musi występować też u nadawcy",
+      "correct": true,
+      "isMarkdown": false
+    },
+    {
+      "answer": "Stacja nie ma możliwości nadawać i nasłuchiwać jednocześnie",
+      "correct": true,
+      "isMarkdown": false
+    },
+    {
+      "answer": "Stacja nadająca nie ma możliwości poprawnego stwierdzenia wystąpienia kolizji",
+      "correct": true,
+      "isMarkdown": false
+    }
+  ],
+  "createdAt": 1737311416651,
+  "$schema": "../../../schemas/subject-patch.json"
+}
