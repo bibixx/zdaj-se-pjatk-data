@@ -122,6 +122,586 @@
         }
       ],
       "comments": []
+    },
+    {
+      "question": "Written form with notarized signatures is required during",
+      "id": 3087,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "share in an Ltd company and, in justified cases, the sale of the company",
+          "correct": false
+        },
+        {
+          "answer": "sale of the company and, in justified cases, participation in an Ltd company",
+          "correct": false
+        },
+        {
+          "answer": "sale of the company, share in an Ltd company",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "The form of a notarial act must be retained in the case of",
+      "id": 3088,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "real estate sale, perpetual usufruct, cooperative ownership right to residential premises",
+          "correct": true
+        },
+        {
+          "answer": "real estate sale, perpetual usufruct, cooperative ownership to the dwelling, inheritance",
+          "correct": false
+        },
+        {
+          "answer": "sale of real estate, cooperative ownership to the dwelling, inheritance",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "The bodies of an Ltd company are",
+      "id": 3089,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "General Assembly of Shareholders, Assembly of Shareholders, Board",
+          "correct": false
+        },
+        {
+          "answer": "General Meeting of shareholders, Board of Directors, Supervisory Board",
+          "correct": true
+        },
+        {
+          "answer": "General Assembly of Shareholders, Assembly of Shareholders",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "In an Ltd company shareholders resolutions are being made",
+      "id": 3090,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "at the general meeting of shareholders and the Board",
+          "correct": false
+        },
+        {
+          "answer": "at the shareholders meeting",
+          "correct": true
+        },
+        {
+          "answer": "at the Board meeting",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Asset is a",
+      "id": 3091,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "cash contribution to a trading company",
+          "correct": false
+        },
+        {
+          "answer": "in-kind contribution to a trading company",
+          "correct": true
+        },
+        {
+          "answer": "cash contribution to a civil partnership",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Audit Committee of Ltd company consists of at least",
+      "id": 3092,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "2 members",
+          "correct": false
+        },
+        {
+          "answer": "3 members",
+          "correct": true
+        },
+        {
+          "answer": "5 members",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "According to the CCC, the Supervisory Board of a joint-stock company should be called as required, but not less than",
+      "id": 3093,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "once a year",
+          "correct": false
+        },
+        {
+          "answer": "three times in a financial year",
+          "correct": true
+        },
+        {
+          "answer": "four times in a financial year",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "The subject of the sale agreement is",
+      "id": 3094,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "movable and immovable assets, electricity, property rights",
+          "correct": true
+        },
+        {
+          "answer": "movable assets, electricity, property rights",
+          "correct": false
+        },
+        {
+          "answer": "movable and immovable assets and electricity",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "According to the Civil Code, if the leasing agreement is concluded by the parties, the beneficiary",
+      "id": 3095,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "can never make any changes to the lease given to him without the donor's approval",
+          "correct": false
+        },
+        {
+          "answer": "can make any changes to the leased property under the condition of notyfing the sponsor",
+          "correct": false
+        },
+        {
+          "answer": "it cannot make a change in the lease, without the sponsor's consent, unless it results from the destination of the thing",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Partnership company",
+      "id": 3096,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "is not an entrepreneur, entrepreneurs can be shareholders of a partnership company",
+          "correct": false
+        },
+        {
+          "answer": "is an entrepreneur, but entrepreneurs cannot be partners in a partnership company",
+          "correct": false
+        },
+        {
+          "answer": "is not an entrepreneur, entrepreneurs cannot be shareholders of a partnership company",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Choose the right sentence.",
+      "id": 3097,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "The withdrawal of a partner from a multi-person company is a legal event whereby the company's relationship ceases with respect to all shareholders",
+          "correct": false
+        },
+        {
+          "answer": "The withdrawal of a partner from a multi-person company is a legal event whereby the company's relationship nevertheless ceases to exist with respect to a particular partner",
+          "correct": false
+        },
+        {
+          "answer": "The withdrawal of a partner from a multi-person company is a legal event whereby the company's relationship ceases only with respect to a particular partner, with the further existence of a partnership with other partners",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "According to the Civil Code, the contracts",
+      "id": 3098,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "in the first place rely on its literal wording",
+          "correct": false
+        },
+        {
+          "answer": "examine only the economic purpose of the contract",
+          "correct": false
+        },
+        {
+          "answer": "examine rather what was the intent of the parties and the purpose of the agreement, rather than rely on its literal wording",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Specify what contract should be included in the following situation: Antoni M. pledged to mediate the sales of \"Oponex\" tires and recived a 16% commision to each finalized transaction.",
+      "id": 3099,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "agency contract",
+          "correct": true
+        },
+        {
+          "answer": "contract for specified task",
+          "correct": false
+        },
+        {
+          "answer": "commision contract",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "By commission contract, person accepting the order",
+      "id": 3100,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "undertakes to perform a specific legal or factual act for the principal",
+          "correct": true
+        },
+        {
+          "answer": "undertakes to perform a specific factual activity for the principal",
+          "correct": false
+        },
+        {
+          "answer": "makes a commitment to a specific legal action for the principal",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "According to the Civil Code, each party to the agency contract",
+      "id": 3101,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "may remain obligated to maintain loyalty to the other party, in acontract",
+          "correct": false
+        },
+        {
+          "answer": "may be obliged to maintain loyalty to the other party, in a contract with a certain date",
+          "correct": false
+        },
+        {
+          "answer": "is required to maintain loyalty to the other party",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "According to the Civil Code, the provisions of an agreement with a third party, aimed at thwarting the right of pre-emption, are in relation to the entitled person.",
+      "id": 3102,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "unsuccessful",
+          "correct": true
+        },
+        {
+          "answer": "important when it comes to the content of the legal action",
+          "correct": false
+        },
+        {
+          "answer": "important but defective",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "According to the Civil Code, sales claims made in the business of the seller's business expire after",
+      "id": 3103,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "a year",
+          "correct": false
+        },
+        {
+          "answer": "three years",
+          "correct": true
+        },
+        {
+          "answer": "two years",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "According to the Civil Code, the installment sale is made in the scope of the company's activity of selling a moving item to an individual for a price paid in specified installments, if the contract is to be issued to the buyer according to the contract.",
+      "id": 3104,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "after paying half of the price",
+          "correct": false
+        },
+        {
+          "answer": "after full payment",
+          "correct": true
+        },
+        {
+          "answer": "before full payment",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "According to the Civil Code, whoever by his fault causes a damage to another person",
+      "id": 3105,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "is obliged to repair it only if the damage is significant",
+          "correct": false
+        },
+        {
+          "answer": "is obliged to repair it",
+          "correct": true
+        },
+        {
+          "answer": "is not obliged to make repairs if he pleaded guilty in the course of the proceedings and repented",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "According to the Civil Code, the business relationship may be canceled prior to the conclusion of the contract if",
+      "id": 3106,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "cancellation notice was submitted to the other party before the statement of acceptance was sent",
+          "correct": true
+        },
+        {
+          "answer": "cancellation notice was submitted to the other party after sending the statement of acceptance of the offer",
+          "correct": false
+        },
+        {
+          "answer": "cancellation notice was not submitted to the other party before sending the statement of acceptance of the offer",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "According to the Civil Code, the contract for impossible provision",
+      "id": 3107,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "is important but does not produce legal effects until the service becomes possible",
+          "correct": false
+        },
+        {
+          "answer": "is valid, but the provision for the impossible provision is considered non-reserved",
+          "correct": false
+        },
+        {
+          "answer": "is not valid",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "According to the Civil Code, acceptance of an offer made subject to change or supplementation of its content is considered",
+      "id": 3108,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "original offer",
+          "correct": false
+        },
+        {
+          "answer": "new offer",
+          "correct": true
+        },
+        {
+          "answer": "annex to the offer",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "According to the Civil Code, a statement by the other party willing to conclude an agreement that defines the essential provisions of this contract is",
+      "id": 3109,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "invitation to prognosis",
+          "correct": false
+        },
+        {
+          "answer": "invitation to negotiate",
+          "correct": false
+        },
+        {
+          "answer": "offer",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Specific contract provisions, such as a sales contract, are part of the definition for",
+      "id": 3110,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "innominate contracts",
+          "correct": false
+        },
+        {
+          "answer": "mixed contracts",
+          "correct": false
+        },
+        {
+          "answer": "nominate contracts",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "According to the Civil Code, if there is an error as to the content of the legal action you",
+      "id": 3111,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "cannot be omitted from the legal consequences of your will statement",
+          "correct": false
+        },
+        {
+          "answer": "can be omitted from the legal consequences of your will statement",
+          "correct": true
+        },
+        {
+          "answer": "can be omitted from the legal consequences of your statement only if the error was significant",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Choose the correct sentence",
+      "id": 3112,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Once the business is registered, the tax number will be assigned / verified and placed in the Central Bussiness Activity Registration and Information Office entrepreneur entry automatically",
+          "correct": true
+        },
+        {
+          "answer": "The entrepreneur may not specify in the application for entry in Central Bussiness Activity Registration and Information Office a later date of starting a business activity than the day of filing the application",
+          "correct": false
+        },
+        {
+          "answer": "After registration of business activity, the tax number will be assigned / verified and placed in the entrepreneur's entry at Central Bussiness Activity Registration and Information Office within the time specified by the Administrative Procedure Code regulations.",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Antonina has just graduated from a reputable university. She has a great idae for a business. She has sufficient knowledge and would like to expand her business. Unfortunately, her idea requires a big startup capital. Antonina managed to persuade her uncle to declare that he could provide the capital but because of his work he did not want to get involved in the company's current business. For the above situation, match the appropriate organisational and legal form",
+      "id": 3113,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Ltd company",
+          "correct": true
+        },
+        {
+          "answer": "limited partnership",
+          "correct": false
+        },
+        {
+          "answer": "partnership company",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "According to the Commercial Companies Code, partner of the partnership company",
+      "id": 3114,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "is responsible for the obligations of the company arising from the performance by the other partners of the free profession of the company",
+          "correct": false
+        },
+        {
+          "answer": "is responsible for the obligations of the company resulting from the actions or omissions of persons employed by the company on the basis of an employment contract or other legal relationship which was subject to the management of another partner in the provision of services related to the subject-matter of the company's activities",
+          "correct": true
+        },
+        {
+          "answer": "is not responsible for the obligations of companies arising in connection with the performance by the other partners of the free profession of the company, unless the contract of the company provides otherwise",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "According to the Code of Commercial Companies, dissolution of a public company",
+      "id": 3115,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "is not caused by the bankruptcy of the company",
+          "correct": false
+        },
+        {
+          "answer": "is not caused by termination of a partnership agreement by a partner or creditor of a partner",
+          "correct": false
+        },
+        {
+          "answer": "is caused by the death of a partner or the announcement of his bankruptcy",
+          "correct": true
+        }
+      ],
+      "comments": []
     }
   ],
   "updatedAt": 1717800145540
