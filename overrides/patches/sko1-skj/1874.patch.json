@@ -1,0 +1,29 @@
+{
+  "id": "1874",
+  "question": "Od czego zależy czas retransmisji w protokole niezawodnej komunikacji, który używa negatywnych potwierdzeń (NAK)?",
+  "isMarkdown": false,
+  "answers": [
+    {
+      "answer": "od czasu transmisji kolejnego pakietu",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "od systemu operacyjnego",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "od rodzaju protokołu",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "jest stały, ustalony doświadczalnie",
+      "correct": true,
+      "isMarkdown": false
+    }
+  ],
+  "createdAt": 1738514923364,
+  "$schema": "../../../schemas/subject-patch.json"
+}
