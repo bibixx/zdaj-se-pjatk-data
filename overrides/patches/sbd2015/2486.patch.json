@@ -1,0 +1,29 @@
+{
+  "id": "2486",
+  "question": "<p class=\"MsoNormal\"><span>Wskazać poprawne zapytanie SQL (dialekt ORACLE) znajdujące departamenty zatrudniające powyżej trzech pracowników :</span><span></span></p>",
+  "isMarkdown": false,
+  "answers": [
+    {
+      "answer": "<span>SELECT deptno, COUNT(*) FROM emp GROUP BY deptno HAVING COUNT (*) &gt; 3;</span>",
+      "correct": true,
+      "isMarkdown": false
+    },
+    {
+      "answer": "<span>SELECT deptno, COUNT(*) FROM emp HAVING COUNT (*) &gt; 3 GROUP BY deptno;&nbsp;</span>",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "<span>SELECT deptno, job, COUNT(*) GROUP BY deptno, job HAVING COUNT (*) &gt; 3;</span>",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "<p class=\"MsoNormal\"><span>SELECT deptno, COUNT(*) FROM emp WHERE COUNT (*) &gt; 3 GROUP BY deptno;</span></p>",
+      "correct": false,
+      "isMarkdown": false
+    }
+  ],
+  "createdAt": 1738624205705,
+  "$schema": "../../../schemas/subject-patch.json"
+}
