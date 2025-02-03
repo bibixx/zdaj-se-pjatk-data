@@ -1,0 +1,29 @@
+{
+  "id": "2178",
+  "question": "<strong>Usługą, która nie wykazuje zjawiska ,,lokalności odwołan\" jest</strong>",
+  "isMarkdown": false,
+  "answers": [
+    {
+      "answer": "NFS",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "Telnet",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "e-mail",
+      "correct": true,
+      "isMarkdown": false
+    },
+    {
+      "answer": "WWW",
+      "correct": false,
+      "isMarkdown": false
+    }
+  ],
+  "createdAt": 1738575176438,
+  "$schema": "../../../schemas/subject-patch.json"
+}
