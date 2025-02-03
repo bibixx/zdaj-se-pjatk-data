@@ -1,0 +1,29 @@
+{
+  "id": "2155",
+  "question": "Wyrażenie &lt;!-- &nbsp;--&gt; w dokumencie XML sklasyfikujemy jako:",
+  "isMarkdown": false,
+  "answers": [
+    {
+      "answer": "Deklarację XML",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "Instrukcję przetwarzania",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "Encję parametryczną",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "Element tekstowy",
+      "correct": true,
+      "isMarkdown": false
+    }
+  ],
+  "createdAt": 1738575570749,
+  "$schema": "../../../schemas/subject-patch.json"
+}
