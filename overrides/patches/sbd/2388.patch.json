@@ -1,0 +1,24 @@
+{
+  "id": "2388",
+  "question": "<span>Wskazać poprawne (w Oraclu) zapytanie SQL znajdujące średnie zarobki tylko tych departamentów, które zatrudniają więcej niż trzech pracowników.</span>",
+  "isMarkdown": false,
+  "answers": [
+    {
+      "answer": "<span>SELECT deptno, AVG(sal) FROM emp HAVING COUNT (*) &gt; 3 GROUP BY deptno;</span>",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "<span>SELECT deptno, AVG(sal) FROM emp GROUP BY deptno HAVING COUNT (*) &gt; 3;</span>",
+      "correct": true,
+      "isMarkdown": false
+    },
+    {
+      "answer": "<table>\n<tbody>\n<tr>\n<td>SELECT deptno, AVG(sal) FROM emp GROUP BY deptno WHERE COUNT (*) &gt; 3;</td>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>",
+      "correct": false,
+      "isMarkdown": false
+    }
+  ],
+  "createdAt": 1739143057413,
+  "$schema": "../../../schemas/subject-patch.json"
+}
