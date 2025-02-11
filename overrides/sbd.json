@@ -89,6 +89,33 @@
       ]
     },
     {
+      "id": "716",
+      "question": "Wskazać poprawne zapytanie SQL znajdujące średnie zarobki tylko tych departamentów, które zatrudniają więcej niż trzech pracowników.",
+      "isMarkdown": false,
+      "answers": [
+        {
+          "answer": "SELECT deptno, AVG(sal) FROM emp GROUP BY deptno HAVING COUNT (*) &gt; 3;",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "SELECT deptno, AVG(sal) FROM emp HAVING COUNT (*) &gt; 3;GROUP BY deptno ;",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "SELECT deptno, AVG(sal) FROM emp GROUP BY deptno WHERE COUNT (*) &gt; 3;",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "SELECT deptno, AVG(sal) FROM emp WHERE COUNT (*) &gt; 3;GROUP BY deptno ;",
+          "correct": false,
+          "isMarkdown": false
+        }
+      ]
+    },
+    {
       "question": "<strong>W których z wymienionych sytuacji mówimy o problemie fantomów?</strong>",
       "isMarkdown": false,
       "answers": [
