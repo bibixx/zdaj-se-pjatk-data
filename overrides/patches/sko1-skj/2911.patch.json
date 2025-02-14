@@ -1,0 +1,29 @@
+{
+  "id": "2911",
+  "question": "Kategoria 5. kabla UTD umożliwia stosowanie technologii",
+  "isMarkdown": false,
+  "answers": [
+    {
+      "answer": "10Base2",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "10Base5",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "10BaseF",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "10BaseTX",
+      "correct": true,
+      "isMarkdown": false
+    }
+  ],
+  "createdAt": 1739555218163,
+  "$schema": "../../../schemas/subject-patch.json"
+}
