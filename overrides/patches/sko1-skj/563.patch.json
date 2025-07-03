@@ -1,17 +1,13 @@
 {
-  "id": "563",
-  "question": "Zastąpienie koncentratorów przełącznikami, powoduje w sieci:",
-  "isMarkdown": false,
-  "comments": [],
   "answers": [
     {
       "answer": "zmniejszenie ilości domen rozgłoszeniowych",
-      "correct": true,
+      "correct": false,
       "isMarkdown": false
     },
     {
       "answer": "zmniejszenie ilości domen kolizyjnych",
-      "correct": false,
+      "correct": true,
       "isMarkdown": false
     },
     {
@@ -25,6 +21,11 @@
       "isMarkdown": false
     }
   ],
-  "createdAt": 1707393065568,
+  "comments": [],
+  "isMarkdown": false,
+  "contributors": [],
+  "id": "563",
+  "question": "Zastąpienie koncentratorów przełącznikami, powoduje w sieci:",
+  "createdAt": 1751560265216,
   "$schema": "../../../schemas/subject-patch.json"
 }
