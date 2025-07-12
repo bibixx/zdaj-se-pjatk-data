@@ -1,25 +1,25 @@
 {
   "id": "2663",
-  "question": "Kto jest twórcą relacyjnego modelu danych:",
+  "question": "Kto jest twórcą relacyjnego modelu danych",
   "isMarkdown": false,
   "answers": [
     {
-      "answer": "<span lang=\"PL\">Edgar Codd</span>",
+      "answer": "Edgar Codd",
       "correct": true,
       "isMarkdown": false
     },
     {
-      "answer": "<span lang=\"PL\">Bill Gates&nbsp;</span>",
+      "answer": "Bill Gates",
       "correct": false,
       "isMarkdown": false
     },
     {
-      "answer": "<span lang=\"PL\">Niels Bohr</span>",
+      "answer": "Niels Bohr",
       "correct": false,
       "isMarkdown": false
     },
     {
-      "answer": "<span lang=\"PL\">Alan Turing</span>",
+      "answer": "Alan Turing",
       "correct": false,
       "isMarkdown": false
     }
