@@ -5,6 +5,33 @@
   "updatedAt": 1675678458235,
   "data": [
     {
+      "id": "2663",
+      "question": "Kto jest twórcą relacyjnego modelu danych",
+      "isMarkdown": false,
+      "answers": [
+        {
+          "answer": "Edgar Codd",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "Bill Gates",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "Niels Bohr",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "Alan Turing",
+          "correct": false,
+          "isMarkdown": false
+        }
+      ]
+    },
+    {
       "id": "3191",
       "question": "Które z poniższych stwierdzeń są prawdziwe:",
       "isMarkdown": false,
