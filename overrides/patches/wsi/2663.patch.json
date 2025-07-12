@@ -1,0 +1,29 @@
+{
+  "id": "2663",
+  "question": "Kto jest twórcą relacyjnego modelu danych",
+  "isMarkdown": false,
+  "answers": [
+    {
+      "answer": "Edgar Codd",
+      "correct": true,
+      "isMarkdown": false
+    },
+    {
+      "answer": "Bill Gates",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "Niels Bohr",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "Alan Turing",
+      "correct": false,
+      "isMarkdown": false
+    }
+  ],
+  "createdAt": 1739540396112,
+  "$schema": "../../../schemas/subject-patch.json"
+}
