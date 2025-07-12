@@ -1,0 +1,29 @@
+{
+  "id": "3476",
+  "question": "Czy dane stwierdzenie jest prawdziwe?",
+  "isMarkdown": false,
+  "answers": [
+    {
+      "answer": "Determinizacja automatu skończonego może spowodować wykładniczą eksplozję liczby stanów.",
+      "correct": true,
+      "isMarkdown": false
+    },
+    {
+      "answer": "Eliminacja ε-przejść w automacie skończonym prowadzi do automatu równoważnego automatowi wejściowemu.",
+      "correct": true,
+      "isMarkdown": false
+    },
+    {
+      "answer": "Eliminacja ε-przejść w automacie skończonym może zmienić język akceptowany przez automat.",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "Eliminacja ε-przejść w automacie skończonym nie powoduje wzrostu liczby jego stanów.",
+      "correct": true,
+      "isMarkdown": false
+    }
+  ],
+  "createdAt": 1751912300658,
+  "$schema": "../../../schemas/subject-patch.json"
+}
