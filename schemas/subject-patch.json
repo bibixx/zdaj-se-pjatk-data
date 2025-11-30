@@ -95,5 +95,6 @@
       "default": false
     }
   },
-  "required": ["question", "id", "createdAt"]
+  "required": ["question", "id", "createdAt"],
+  "x-validate-file-id": "true"
 }
