@@ -1,0 +1,46 @@
+{
+  "question": "Który protokół dostępu do współdzielonego medium zapewnia, że maksymalny czas oczekiwania na skuteczną transmisje nie przekroczy pewnej wartości:",
+  "isMarkdown": false,
+  "answers": [
+    {
+      "answer": "odpytywanie",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "token ring",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "CSMA/CA",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "CSMA/CD",
+      "correct": true,
+      "isMarkdown": false
+    },
+    {
+      "answer": "Ethernet",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "slotted Aloha",
+      "correct": false,
+      "isMarkdown": false
+    }
+  ],
+  "id": "z-08-f59ca72a-d800-4aed-ac28-cf2fdaef847c",
+  "createdAt": 1707393065568,
+  "comments": [
+    {
+      "author": "zdaj.se (via AI)",
+      "comment": "Uwaga: CSMA/CD używa exponential backoff, który teoretycznie nie gwarantuje ograniczonego maksymalnego czasu oczekiwania (choć w praktyce są limity prób). Protokoły takie jak Token Ring lub odpytywanie (polling) zapewniają gwarantowany maksymalny czas oczekiwania, ponieważ każda stacja otrzymuje token/uprawnienie w określonym czasie. Obecna odpowiedź może być niepoprawna - Token Ring lub odpytywanie byłyby bardziej odpowiednie.",
+      "date": "30-11-2025 13:08:27"
+    }
+  ],
+  "$schema": "../../../schemas/subject-patch.json"
+}

@@ -1,0 +1,29 @@
+{
+  "question": "W warstwie fizycznej mówimy o:",
+  "isMarkdown": false,
+  "answers": [
+    {
+      "answer": "bitach",
+      "correct": true,
+      "isMarkdown": false
+    },
+    {
+      "answer": "ramkach",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "pakietach",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "segmentach",
+      "correct": false,
+      "isMarkdown": false
+    }
+  ],
+  "id": "z-03-902dce16-3782-4e25-8dd7-e9feed92093b",
+  "createdAt": 1707393065568,
+  "$schema": "../../../schemas/subject-patch.json"
+}

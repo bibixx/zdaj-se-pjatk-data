@@ -4,6 +4,128 @@
   "updatedAt": 1707393065568,
   "data": [
     {
+      "question": "Rozważamy rekord DNS typu MX. Wartością rekordu jest:",
+      "id": "1723",
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "nazwa serwera pocztowego",
+          "correct": true
+        },
+        {
+          "answer": "nie ma rekordu o typie MX",
+          "correct": false
+        },
+        {
+          "answer": "nazwa serwera dns",
+          "correct": false
+        },
+        {
+          "answer": "ip serwera dns",
+          "correct": false
+        },
+        {
+          "answer": "ip serwera pocztowego",
+          "correct": false
+        },
+        {
+          "answer": "adres ip serwera MS Exchange",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "FTP jest protokołem bezstanowym.",
+      "id": "1856",
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "tak",
+          "correct": false
+        },
+        {
+          "answer": "nie",
+          "correct": true
+        },
+        {
+          "answer": "zależy od używanego oprogramowania klienckiego",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Które z wymienionych to funkcje TCP?",
+      "id": "1889",
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "kontrola przeciążenia",
+          "correct": true
+        },
+        {
+          "answer": "kontrola przepływu",
+          "correct": true
+        },
+        {
+          "answer": "numery sekwencyjne 128 bitowe",
+          "correct": false
+        },
+        {
+          "answer": "gwarancja przepustowości",
+          "correct": false
+        },
+        {
+          "answer": "sprawiedliwy podział przepustowości łącza",
+          "correct": true
+        },
+        {
+          "answer": "gwarancja maksymalnego opóźnienia",
+          "correct": false
+        },
+        {
+          "answer": "kontrola bez połączenia",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Rozważamy rekord DNS typu A. Wartością rekordu jest:",
+      "id": "1892",
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "nie ma takiego rekordu",
+          "correct": false
+        },
+        {
+          "answer": "nazwa hosta",
+          "correct": false
+        },
+        {
+          "answer": "adres IPv4 hosta",
+          "correct": true
+        },
+        {
+          "answer": "adres IPv6 hosta",
+          "correct": false
+        },
+        {
+          "answer": "adres IP serwera pocztowego",
+          "correct": false
+        }
+      ],
+      "comments": [
+        {
+          "author": "zdaj.se (via AI)",
+          "comment": "Rekord DNS typu A przechowuje wyłącznie adresy IPv4. Adresy IPv6 są przechowywane w rekordach typu AAAA. Poprawiono odpowiedź - adres IPv6 hosta nie jest poprawną wartością rekordu A.",
+          "date": "30-11-2025 13:08:27"
+        }
+      ]
+    },
+    {
       "id": "2565",
       "question": "Ile ma warstw model internetowy?",
       "isMarkdown": false,
@@ -88,6 +210,58 @@
       ]
     },
     {
+      "question": "Integralność polega na:",
+      "id": "583",
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "przesyłane dane mogą zostać zmienione, ale można odtworzyć oryginalną wiadomość",
+          "correct": false
+        },
+        {
+          "answer": "odbiorca może praktycznie z 100%-ową pewnością stwierdzić, czy wysłane do niego dane nie zostały zmodyfikowane",
+          "correct": true
+        },
+        {
+          "answer": "żadna z odpowiedzi nie jest prawidłowa",
+          "correct": false
+        },
+        {
+          "answer": "wiadomość może zostać zmodyfikowana przez każdy z węzłów sieci",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Klasyczny model sieci OSI składa się z:",
+      "id": "601",
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "siedmiu warstw",
+          "correct": true
+        },
+        {
+          "answer": "czterech warstw",
+          "correct": false
+        },
+        {
+          "answer": "trzech warstw",
+          "correct": false
+        },
+        {
+          "answer": "pięciu warstw",
+          "correct": false
+        },
+        {
+          "answer": "między innymi z warstwy sprzętowej",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
       "question": "Jakie usługi oferuje sieć IP dla swoich aplikacji?",
       "isMarkdown": false,
       "answers": [
@@ -140,6 +314,290 @@
         }
       ],
       "id": "z-01-622bd2e8-b452-4725-a1f9-f87413985b35"
+    },
+    {
+      "question": "W modelu internetowym warstwę aplikacji stanowią \"połączone\" warstwy prezentacji i aplikacji z modelu OSI/ISO",
+      "isMarkdown": false,
+      "answers": [
+        {
+          "answer": "Tak",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "Nie",
+          "correct": false,
+          "isMarkdown": false
+        }
+      ],
+      "id": "z-02-77a30b15-458e-4a44-863a-7d8cdb4b4f37"
+    },
+    {
+      "question": "W warstwie fizycznej mówimy o:",
+      "isMarkdown": false,
+      "answers": [
+        {
+          "answer": "bitach",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "ramkach",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "pakietach",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "segmentach",
+          "correct": false,
+          "isMarkdown": false
+        }
+      ],
+      "id": "z-03-902dce16-3782-4e25-8dd7-e9feed92093b"
+    },
+    {
+      "question": "(...) jest to rozproszony algorytm, który definiuje format oraz kolejność wymiany komunikatów pomiędzy dwoma lub więcej komunikującymi się systemami.",
+      "isMarkdown": false,
+      "answers": [
+        {
+          "answer": "protokół",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "warstwa aplikacji",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "program",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "chmura obliczeniowa",
+          "correct": false,
+          "isMarkdown": false
+        }
+      ],
+      "id": "z-04-2299b58d-b693-4fd3-b0e9-39be52935597"
+    },
+    {
+      "question": "Jeżeli na jednym łączu w tym samym czasie, na tej samej częstotliwości i w tym samym miejscu komunikuje się wiele urządzeń, to jaki jest to rodzaj multipleksacji? Podaj skrót.",
+      "isMarkdown": false,
+      "answers": [
+        {
+          "answer": "TDM",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "CDM",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "WDM",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "FDM",
+          "correct": false,
+          "isMarkdown": false
+        }
+      ],
+      "id": "z-05-abb356c7-4334-4af1-8a67-411c84a6be6c",
+      "comments": [
+        {
+          "author": "zdaj.se (via AI)",
+          "comment": "Gdy wiele urządzeń komunikuje się jednocześnie na tej samej częstotliwości i w tym samym miejscu, jest to multipleksacja kodowa (CDM - Code Division Multiplexing), znana również jako CDMA. TDM dzieli czas, FDM dzieli częstotliwości, WDM dzieli długości fal, ale tylko CDM pozwala na jednoczesną transmisję na tej samej częstotliwości.",
+          "date": "30-11-2025 13:08:27"
+        }
+      ]
+    },
+    {
+      "question": "Wybierz protokoły warstwy aplikacji, niekorzystające z protokołu UDP",
+      "isMarkdown": false,
+      "answers": [
+        {
+          "answer": "DNS",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "HTTP",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "ARP",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "FTP",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "SMTP",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "ICMP",
+          "correct": false,
+          "isMarkdown": false
+        }
+      ],
+      "id": "z-06-e1906659-7693-4fbc-b824-e348b6bc5938"
+    },
+    {
+      "question": "Zaznacz protokoły wysyłania grupowego:",
+      "isMarkdown": false,
+      "answers": [
+        {
+          "answer": "rozgłaszanie multiplikatywne",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "pójdź o N",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "idź o N",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "cofnij się o N",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "negatywne powtarzanie",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "selektywne powtarzanie",
+          "correct": false,
+          "isMarkdown": false
+        }
+      ],
+      "id": "z-07-a5cccacb-8eee-487b-ad7c-124d22788f7b",
+      "comments": [
+        {
+          "author": "zdaj.se (via AI)",
+          "comment": "Protokoły 'cofnij się o N' (go back N) i 'selektywne powtarzanie' (selective repeat) to protokoły ARQ (Automatic Repeat Request) służące do kontroli błędów, a nie protokoły wysyłania grupowego. Protokoły wysyłania grupowego to np. multicast (IGMP, PIM) czy broadcast. Poprawiono odpowiedzi - oba protokoły ARQ nie są protokołami wysyłania grupowego.",
+          "date": "30-11-2025 13:08:27"
+        }
+      ]
+    },
+    {
+      "question": "Który protokół dostępu do współdzielonego medium zapewnia, że maksymalny czas oczekiwania na skuteczną transmisje nie przekroczy pewnej wartości:",
+      "isMarkdown": false,
+      "answers": [
+        {
+          "answer": "odpytywanie",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "token ring",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "CSMA/CA",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "CSMA/CD",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "Ethernet",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "slotted Aloha",
+          "correct": false,
+          "isMarkdown": false
+        }
+      ],
+      "id": "z-08-f59ca72a-d800-4aed-ac28-cf2fdaef847c",
+      "comments": [
+        {
+          "author": "zdaj.se (via AI)",
+          "comment": "Uwaga: CSMA/CD używa exponential backoff, który teoretycznie nie gwarantuje ograniczonego maksymalnego czasu oczekiwania (choć w praktyce są limity prób). Protokoły takie jak Token Ring lub odpytywanie (polling) zapewniają gwarantowany maksymalny czas oczekiwania, ponieważ każda stacja otrzymuje token/uprawnienie w określonym czasie. Obecna odpowiedź może być niepoprawna - Token Ring lub odpytywanie byłyby bardziej odpowiednie.",
+          "date": "30-11-2025 13:08:27"
+        }
+      ]
+    },
+    {
+      "question": "Protokoły routingu dynamicznego nie reagują na zmiany topologii sieci oraz na jej przeciążenie:",
+      "isMarkdown": false,
+      "answers": [
+        {
+          "answer": "Tak",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "Nie",
+          "correct": true,
+          "isMarkdown": false
+        }
+      ],
+      "id": "z-09-011b71af-6307-4afe-bf4b-7b08fc8b15e4"
+    },
+    {
+      "question": "Sieci radiowe w standardzie 802.11n pracują z następującą maksymalną teoretyczną szybkością przesyłania przy wykorzystaniu technologii MIMO:",
+      "isMarkdown": false,
+      "answers": [
+        {
+          "answer": "750 Mb/s",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "100 Mb/s",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "450 Mb/s",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "300 Mb/s",
+          "correct": false,
+          "isMarkdown": false
+        },
+        {
+          "answer": "600 Mb/s",
+          "correct": true,
+          "isMarkdown": false
+        },
+        {
+          "answer": "150 Mb/s",
+          "correct": false,
+          "isMarkdown": false
+        }
+      ],
+      "id": "z-10-8bd53e63-560f-49b9-9429-16746783172e"
     }
   ]
 }

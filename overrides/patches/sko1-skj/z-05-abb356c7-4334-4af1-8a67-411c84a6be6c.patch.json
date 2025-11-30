@@ -1,0 +1,36 @@
+{
+  "question": "Jeżeli na jednym łączu w tym samym czasie, na tej samej częstotliwości i w tym samym miejscu komunikuje się wiele urządzeń, to jaki jest to rodzaj multipleksacji? Podaj skrót.",
+  "isMarkdown": false,
+  "answers": [
+    {
+      "answer": "TDM",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "CDM",
+      "correct": true,
+      "isMarkdown": false
+    },
+    {
+      "answer": "WDM",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "FDM",
+      "correct": false,
+      "isMarkdown": false
+    }
+  ],
+  "id": "z-05-abb356c7-4334-4af1-8a67-411c84a6be6c",
+  "createdAt": 1707393065568,
+  "comments": [
+    {
+      "author": "zdaj.se (via AI)",
+      "comment": "Gdy wiele urządzeń komunikuje się jednocześnie na tej samej częstotliwości i w tym samym miejscu, jest to multipleksacja kodowa (CDM - Code Division Multiplexing), znana również jako CDMA. TDM dzieli czas, FDM dzieli częstotliwości, WDM dzieli długości fal, ale tylko CDM pozwala na jednoczesną transmisję na tej samej częstotliwości.",
+      "date": "30-11-2025 13:08:27"
+    }
+  ],
+  "$schema": "../../../schemas/subject-patch.json"
+}

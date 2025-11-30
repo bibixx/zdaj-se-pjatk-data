@@ -1,0 +1,22 @@
+{
+  "question": "FTP jest protokołem bezstanowym.",
+  "id": "1856",
+  "numberOfComments": 0,
+  "answers": [
+    {
+      "answer": "tak",
+      "correct": false
+    },
+    {
+      "answer": "nie",
+      "correct": true
+    },
+    {
+      "answer": "zależy od używanego oprogramowania klienckiego",
+      "correct": false
+    }
+  ],
+  "comments": [],
+  "createdAt": 1707393065568,
+  "$schema": "../../../schemas/subject-patch.json"
+}

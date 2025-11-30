@@ -1,0 +1,30 @@
+{
+  "question": "Klasyczny model sieci OSI składa się z:",
+  "id": "601",
+  "numberOfComments": 0,
+  "answers": [
+    {
+      "answer": "siedmiu warstw",
+      "correct": true
+    },
+    {
+      "answer": "czterech warstw",
+      "correct": false
+    },
+    {
+      "answer": "trzech warstw",
+      "correct": false
+    },
+    {
+      "answer": "pięciu warstw",
+      "correct": false
+    },
+    {
+      "answer": "między innymi z warstwy sprzętowej",
+      "correct": false
+    }
+  ],
+  "comments": [],
+  "createdAt": 1707393065568,
+  "$schema": "../../../schemas/subject-patch.json"
+}

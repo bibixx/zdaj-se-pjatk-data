@@ -1,0 +1,34 @@
+{
+  "question": "Rozważamy rekord DNS typu MX. Wartością rekordu jest:",
+  "id": "1723",
+  "numberOfComments": 0,
+  "answers": [
+    {
+      "answer": "nazwa serwera pocztowego",
+      "correct": true
+    },
+    {
+      "answer": "nie ma rekordu o typie MX",
+      "correct": false
+    },
+    {
+      "answer": "nazwa serwera dns",
+      "correct": false
+    },
+    {
+      "answer": "ip serwera dns",
+      "correct": false
+    },
+    {
+      "answer": "ip serwera pocztowego",
+      "correct": false
+    },
+    {
+      "answer": "adres ip serwera MS Exchange",
+      "correct": false
+    }
+  ],
+  "comments": [],
+  "createdAt": 1707393065568,
+  "$schema": "../../../schemas/subject-patch.json"
+}

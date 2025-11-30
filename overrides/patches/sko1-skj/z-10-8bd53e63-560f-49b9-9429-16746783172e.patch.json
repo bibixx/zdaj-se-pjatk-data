@@ -1,0 +1,39 @@
+{
+  "question": "Sieci radiowe w standardzie 802.11n pracują z następującą maksymalną teoretyczną szybkością przesyłania przy wykorzystaniu technologii MIMO:",
+  "isMarkdown": false,
+  "answers": [
+    {
+      "answer": "750 Mb/s",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "100 Mb/s",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "450 Mb/s",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "300 Mb/s",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "600 Mb/s",
+      "correct": true,
+      "isMarkdown": false
+    },
+    {
+      "answer": "150 Mb/s",
+      "correct": false,
+      "isMarkdown": false
+    }
+  ],
+  "id": "z-10-8bd53e63-560f-49b9-9429-16746783172e",
+  "createdAt": 1707393065568,
+  "$schema": "../../../schemas/subject-patch.json"
+}
