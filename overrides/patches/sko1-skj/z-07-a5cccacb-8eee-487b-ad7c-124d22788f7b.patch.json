@@ -19,7 +19,7 @@
     },
     {
       "answer": "cofnij się o N",
-      "correct": true,
+      "correct": false,
       "isMarkdown": false
     },
     {
@@ -29,11 +29,18 @@
     },
     {
       "answer": "selektywne powtarzanie",
-      "correct": true,
+      "correct": false,
       "isMarkdown": false
     }
   ],
   "id": "z-07-a5cccacb-8eee-487b-ad7c-124d22788f7b",
   "createdAt": 1707393065568,
+  "comments": [
+    {
+      "author": "zdaj.se (via AI)",
+      "comment": "Protokoły 'cofnij się o N' (go back N) i 'selektywne powtarzanie' (selective repeat) to protokoły ARQ (Automatic Repeat Request) służące do kontroli błędów, a nie protokoły wysyłania grupowego. Protokoły wysyłania grupowego to np. multicast (IGMP, PIM) czy broadcast. Poprawiono odpowiedzi - oba protokoły ARQ nie są protokołami wysyłania grupowego.",
+      "date": "30-11-2025 13:08:27"
+    }
+  ],
   "$schema": "../../../schemas/subject-patch.json"
 }

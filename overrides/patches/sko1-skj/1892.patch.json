@@ -17,14 +17,20 @@
     },
     {
       "answer": "adres IPv6 hosta",
-      "correct": true
+      "correct": false
     },
     {
       "answer": "adres IP serwera pocztowego",
       "correct": false
     }
   ],
-  "comments": [],
+  "comments": [
+    {
+      "author": "zdaj.se (via AI)",
+      "comment": "Rekord DNS typu A przechowuje wyłącznie adresy IPv4. Adresy IPv6 są przechowywane w rekordach typu AAAA. Poprawiono odpowiedź - adres IPv6 hosta nie jest poprawną wartością rekordu A.",
+      "date": "30-11-2025 13:08:27"
+    }
+  ],
   "createdAt": 1707393065568,
   "$schema": "../../../schemas/subject-patch.json"
 }
