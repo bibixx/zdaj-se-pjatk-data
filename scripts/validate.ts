@@ -7,11 +7,12 @@ const rootFilesPath = join(import.meta.dir, "..");
 const subjectsScanPath = rootFilesPath;
 const overridesScanPath = resolve(rootFilesPath, "overrides");
 const ajv = new Ajv();
+ajv.addKeyword("x-validate-file-id");
 
 type ValidationResult =
   | {
       valid: false;
-      errors: undefined | null | ErrorObject[];
+      errors: undefined | null | (ErrorObject | Error | string)[];
     }
   | {
       valid: true;
@@ -31,11 +32,21 @@ async function validate(filePath: string): Promise<ValidationResult> {
   const validate = ajv.getSchema(schema.$id) ?? ajv.compile(schema);
   const valid = validate(jsonData);
 
-  if (valid) {
-    return { valid: true };
+  if (!valid) {
+    return { valid: false, errors: validate.errors };
   }
 
-  return { valid: false, errors: validate.errors };
+  if (schema["x-validate-file-id"]) {
+    const inFileId = jsonData.id;
+    const fileName = parse(filePath).name;
+    const [fileNameId] = fileName.split(".");
+
+    if (inFileId !== fileNameId) {
+      return { valid: false, errors: [`File ID ${inFileId} does not match file name ${fileName}`] };
+    }
+  }
+
+  return { valid: true };
 }
 
 const glob = new Glob("*.json");
@@ -46,7 +57,15 @@ const overridesScanResult = Array.from(glob.scanSync({ cwd: overridesScanPath, a
 const patchesScanResult = Array.from(patchesGlob.scanSync({ cwd: overridesScanPath, absolute: true }));
 
 const resultsPromises = [subjectsScanResult, patchesScanResult, overridesScanResult].map((scanResult) =>
-  Promise.all(scanResult.map(async (path) => ({ path, result: await validate(path) })))
+  Promise.all(
+    scanResult.map(async (path) => {
+      try {
+        return { path, result: await validate(path) };
+      } catch (error) {
+        return { path, result: { valid: false, errors: [error as Error] } };
+      }
+    })
+  )
 );
 
 const [subjectsValidationResults, patchesScanResults, overridesValidationResults] = await Promise.all(resultsPromises);
