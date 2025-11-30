@@ -1,0 +1,29 @@
+{
+  "question": "(...) jest to rozproszony algorytm, który definiuje format oraz kolejność wymiany komunikatów pomiędzy dwoma lub więcej komunikującymi się systemami.",
+  "isMarkdown": false,
+  "answers": [
+    {
+      "answer": "protokół",
+      "correct": true,
+      "isMarkdown": false
+    },
+    {
+      "answer": "warstwa aplikacji",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "program",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "chmura obliczeniowa",
+      "correct": false,
+      "isMarkdown": false
+    }
+  ],
+  "id": "z-04-2299b58d-b693-4fd3-b0e9-39be52935597",
+  "createdAt": 1707393065568,
+  "$schema": "../../../schemas/subject-patch.json"
+}

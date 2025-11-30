@@ -1,0 +1,36 @@
+{
+  "question": "Rozważamy rekord DNS typu A. Wartością rekordu jest:",
+  "id": "1892",
+  "numberOfComments": 0,
+  "answers": [
+    {
+      "answer": "nie ma takiego rekordu",
+      "correct": false
+    },
+    {
+      "answer": "nazwa hosta",
+      "correct": false
+    },
+    {
+      "answer": "adres IPv4 hosta",
+      "correct": true
+    },
+    {
+      "answer": "adres IPv6 hosta",
+      "correct": false
+    },
+    {
+      "answer": "adres IP serwera pocztowego",
+      "correct": false
+    }
+  ],
+  "comments": [
+    {
+      "author": "zdaj.se (via AI)",
+      "comment": "Rekord DNS typu A przechowuje wyłącznie adresy IPv4. Adresy IPv6 są przechowywane w rekordach typu AAAA. Poprawiono odpowiedź - adres IPv6 hosta nie jest poprawną wartością rekordu A.",
+      "date": "30-11-2025 13:08:27"
+    }
+  ],
+  "createdAt": 1707393065568,
+  "$schema": "../../../schemas/subject-patch.json"
+}
