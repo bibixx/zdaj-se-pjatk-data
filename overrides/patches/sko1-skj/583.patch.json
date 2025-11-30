@@ -1,0 +1,26 @@
+{
+  "question": "Integralność polega na:",
+  "id": "583",
+  "numberOfComments": 0,
+  "answers": [
+    {
+      "answer": "przesyłane dane mogą zostać zmienione, ale można odtworzyć oryginalną wiadomość",
+      "correct": false
+    },
+    {
+      "answer": "odbiorca może praktycznie z 100%-ową pewnością stwierdzić, czy wysłane do niego dane nie zostały zmodyfikowane",
+      "correct": true
+    },
+    {
+      "answer": "żadna z odpowiedzi nie jest prawidłowa",
+      "correct": false
+    },
+    {
+      "answer": "wiadomość może zostać zmodyfikowana przez każdy z węzłów sieci",
+      "correct": false
+    }
+  ],
+  "comments": [],
+  "createdAt": 1707393065568,
+  "$schema": "../../../schemas/subject-patch.json"
+}

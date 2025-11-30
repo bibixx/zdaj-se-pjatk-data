@@ -1,0 +1,39 @@
+{
+  "question": "Zaznacz protokoły wysyłania grupowego:",
+  "isMarkdown": false,
+  "answers": [
+    {
+      "answer": "rozgłaszanie multiplikatywne",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "pójdź o N",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "idź o N",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "cofnij się o N",
+      "correct": true,
+      "isMarkdown": false
+    },
+    {
+      "answer": "negatywne powtarzanie",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "selektywne powtarzanie",
+      "correct": true,
+      "isMarkdown": false
+    }
+  ],
+  "id": "z-07-a5cccacb-8eee-487b-ad7c-124d22788f7b",
+  "createdAt": 1707393065568,
+  "$schema": "../../../schemas/subject-patch.json"
+}

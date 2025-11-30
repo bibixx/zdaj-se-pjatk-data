@@ -1,0 +1,39 @@
+{
+  "question": "Wybierz protokoły warstwy aplikacji, niekorzystające z protokołu UDP",
+  "isMarkdown": false,
+  "answers": [
+    {
+      "answer": "DNS",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "HTTP",
+      "correct": true,
+      "isMarkdown": false
+    },
+    {
+      "answer": "ARP",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "FTP",
+      "correct": true,
+      "isMarkdown": false
+    },
+    {
+      "answer": "SMTP",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "ICMP",
+      "correct": false,
+      "isMarkdown": false
+    }
+  ],
+  "id": "z-06-e1906659-7693-4fbc-b824-e348b6bc5938",
+  "createdAt": 1707393065568,
+  "$schema": "../../../schemas/subject-patch.json"
+}

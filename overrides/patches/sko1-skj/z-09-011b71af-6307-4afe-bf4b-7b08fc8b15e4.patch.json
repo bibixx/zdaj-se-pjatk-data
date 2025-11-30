@@ -1,0 +1,19 @@
+{
+  "question": "Protokoły routingu dynamicznego nie reagują na zmiany topologii sieci oraz na jej przeciążenie:",
+  "isMarkdown": false,
+  "answers": [
+    {
+      "answer": "Tak",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "Nie",
+      "correct": true,
+      "isMarkdown": false
+    }
+  ],
+  "id": "z-09-011b71af-6307-4afe-bf4b-7b08fc8b15e4",
+  "createdAt": 1707393065568,
+  "$schema": "../../../schemas/subject-patch.json"
+}
