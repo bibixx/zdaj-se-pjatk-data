@@ -1,0 +1,29 @@
+{
+  "id": "659",
+  "question": "Relacja R ma atrybut a. Jaka liczba może być wynikiem wykonania instrukcji SELECT Count(*) FROM R WHERE a=a",
+  "isMarkdown": false,
+  "answers": [
+    {
+      "answer": "0",
+      "correct": true,
+      "isMarkdown": false
+    },
+    {
+      "answer": "1",
+      "correct": true,
+      "isMarkdown": false
+    },
+    {
+      "answer": "zawsze tyle jaka jest liczebność relacji R.",
+      "correct": false,
+      "isMarkdown": false
+    },
+    {
+      "answer": "dowolna liczba całkowita",
+      "correct": true,
+      "isMarkdown": false
+    }
+  ],
+  "createdAt": 1765372935089,
+  "$schema": "../../../schemas/subject-patch.json"
+}
