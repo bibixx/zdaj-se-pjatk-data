@@ -1,0 +1,9 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "zdaj-se-pjatk-data",
+  "compatibility_date": "2025-12-25",
+  "assets": {
+    "directory": "./dist"
+  },
+  "preview_urls": false
+}

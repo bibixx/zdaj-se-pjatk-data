@@ -2,6 +2,7 @@ import { mkdir, readdir, rmdir, unlink } from "node:fs/promises";
 import { join, parse, relative } from "node:path";
 import { type Root as RootOverrides } from "./schemas/subjectOverride.ts";
 
+const outPath = join(import.meta.dir, "dist", "overrides");
 const overridesPath = join(import.meta.dir, "..", "overrides");
 const overridesPatchesPath = join(overridesPath, "patches");
 const schemasJSONFolder = join(import.meta.dir, "..", "schemas");
@@ -31,8 +32,8 @@ async function processRootIndexPatch(name: string) {
   const schemaPath = relative(overridesPath, schemaAbsolutePath);
   indexPatchContents.$schema = schemaPath;
 
-  const outPath = join(overridesPath, "index.json");
-  await Bun.write(outPath, stringify(indexPatchContents));
+  const outFilePath = join(outPath, "index.json");
+  await Bun.write(outFilePath, stringify(indexPatchContents));
 }
 
 async function processSubject(subjectId: string) {
@@ -77,7 +78,7 @@ async function processSubject(subjectId: string) {
 
   outData.updatedAt = updatedAt;
 
-  const outFile = Bun.file(join(overridesPath, `${subjectId}.json`));
+  const outFile = Bun.file(join(outPath, `${subjectId}.json`));
   await Bun.write(outFile, stringify(outData));
 }
 

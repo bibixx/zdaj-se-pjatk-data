@@ -1,11 +1,15 @@
 import { resolve, join, relative, parse } from "node:path";
+import { existsSync } from "node:fs";
 import { Glob } from "bun";
 import Ajv, { type ErrorObject } from "ajv";
 import chalk from "chalk";
 
-const rootFilesPath = join(import.meta.dir, "..");
+const rootFilesPath = Bun.argv[2]
+  ? resolve(Bun.argv[2])
+  : join(import.meta.dir, "..");
 const subjectsScanPath = rootFilesPath;
 const overridesScanPath = resolve(rootFilesPath, "overrides");
+const hasOverrides = existsSync(overridesScanPath);
 const ajv = new Ajv();
 ajv.addKeyword("x-validate-file-id");
 
@@ -53,8 +57,12 @@ const glob = new Glob("*.json");
 const patchesGlob = new Glob("patches/**/*.json");
 
 const subjectsScanResult = Array.from(glob.scanSync({ cwd: subjectsScanPath, absolute: true }));
-const overridesScanResult = Array.from(glob.scanSync({ cwd: overridesScanPath, absolute: true }));
-const patchesScanResult = Array.from(patchesGlob.scanSync({ cwd: overridesScanPath, absolute: true }));
+const overridesScanResult = hasOverrides
+  ? Array.from(glob.scanSync({ cwd: overridesScanPath, absolute: true }))
+  : [];
+const patchesScanResult = hasOverrides
+  ? Array.from(patchesGlob.scanSync({ cwd: overridesScanPath, absolute: true }))
+  : [];
 
 const resultsPromises = [subjectsScanResult, patchesScanResult, overridesScanResult].map((scanResult) =>
   Promise.all(
@@ -91,13 +99,15 @@ const logValidationResults = (
 console.log(chalk.cyan.bold.underline("Subjects & Index"));
 logValidationResults(subjectsValidationResults);
 
-console.log("");
-console.log(chalk.cyan.bold.underline("Patches"));
-logValidationResults(patchesScanResults);
+if (hasOverrides) {
+  console.log("");
+  console.log(chalk.cyan.bold.underline("Patches"));
+  logValidationResults(patchesScanResults);
 
-console.log("");
-console.log(chalk.cyan.bold.underline("Overrides"));
-logValidationResults(overridesValidationResults);
+  console.log("");
+  console.log(chalk.cyan.bold.underline("Overrides"));
+  logValidationResults(overridesValidationResults);
+}
 
 console.log("");
 if (didAnythingFail) {
