@@ -33,9 +33,17 @@ jobs:
         working-directory: scripts
         run: bun run build
 
+      - name: Copy schemas
+        working-directory: scripts
+        run: cp -a ../schemas ./dist
+
       - name: Validate
         working-directory: scripts
         run: bun run validate:dist
+
+      - name: Delete schemas
+        working-directory: scripts
+        run: rm -rf ./dist/schemas
 
       - name: Build & Deploy Worker
         uses: cloudflare/wrangler-action@v3
