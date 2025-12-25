@@ -9,4 +9,4 @@ find ../ -maxdepth 1 -name "*.json" -exec cp -a {} ./dist \;
 
 bun run implodeOverrides
 
-cp -a ./public/. ./dist/
+cp -a ./public/* ./dist/
