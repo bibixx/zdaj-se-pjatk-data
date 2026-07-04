@@ -122,7 +122,7 @@
       "answers": [
         {
           "answer": "Jest to część framework'u .NET. Technologia ta umożliwia realizowanie zapytań na kolekcjach obiektów. Składnia LINQ przypomina nieco SQL.&nbsp; LINQ może działać na dowolnej kolekcji, która implementuje interfejs IEnumerable.",
-          "correct": false
+          "correct": true
         },
         {
           "answer": "Jest to część framework'u .NET. Technologia ta umożliwia bezpośrednią komunikację z relacyjną bazą danych z pominięciem języka SQL. Zapytanie jest wysyłane do bazy danych w zupełnie innej postaci (protokół 2PC).",
@@ -146,19 +146,19 @@
       "answers": [
         {
           "answer": "EF pozwala nam na częściowe poradzenie sobie z problemem opisywanym poprzez termin \"rożnica impedancji\"",
-          "correct": false
+          "correct": true
         },
         {
           "answer": "EF pozwala nam zapisywać historię zmian w strukturze bazy danych za pomocąmechanizmu migracji (podejście CodeFirst)",
-          "correct": false
+          "correct": true
         },
         {
           "answer": "Wykorzystanie EF pozwala nam na uniezależnienie się od konkretnej bazy danych (np. Oracle, MS SQL Server). Dzieki temu możemy znacznie łatwiej zmienić bazę danych , jeśli zajdzie taka potrzeba.",
-          "correct": false
+          "correct": true
         },
         {
           "answer": "Przyspieszenie procesu wytwarzania oprogramowania. Możemy skupić się wyłącznie na pisaniu kodu aplikacji (nie martwiąc się o kod SQL).",
-          "correct": false
+          "correct": true
         }
       ],
       "comments": []
@@ -170,7 +170,7 @@
       "answers": [
         {
           "answer": "Visual Basic",
-          "correct": false
+          "correct": true
         },
         {
           "answer": "JavaScript",
@@ -178,7 +178,7 @@
         },
         {
           "answer": "C#",
-          "correct": false
+          "correct": true
         },
         {
           "answer": "HTML",
@@ -194,15 +194,15 @@
       "answers": [
         {
           "answer": "Zmiany w strukturze bazy danych wykonywane są z poziomu języka SQL (np. poprzez Sql Managment Studio) przez administratora bazy danych",
-          "correct": false
+          "correct": true
         },
         {
           "answer": "Nie mamy potrzeby modyfikacji struktury bazy danych (np. tabel, indeksów) z poziomu języka C#",
-          "correct": false
+          "correct": true
         },
         {
           "answer": "Chcemy korzystać głównie ze skomplikowanych procedur składowych",
-          "correct": false
+          "correct": true
         },
         {
           "answer": "Chcemy wersjonować zmiany w strukturze bazy danych. innymi słowy chcemy mieć pełną historię zmiany jakie zachodziły w naszej bazie danych (np. dodanie tabeli, kolumny w tabeli itp.). Taka historia pozwoli nam szybko wycofać zmiany, które np. okazały się problematyczne i spowodowały błąd.",
@@ -218,11 +218,11 @@
       "answers": [
         {
           "answer": "Klasy modelowe mogą być opisane przez dodatkowe metadane, któe służą określeniu np. reguł walidacyjnych związanych z danym modelem. Np. dane pole jest wymagane lub jego długość nie może przekroczyć 30 znaków.",
-          "correct": false
+          "correct": true
         },
         {
           "answer": "Model w aplikacji ASP.NET MVC reprezentują zazwyczaj proste klasy C# mapujące tabele z relacyjnej bazy danych. Klasy te często noszą miano \"POCO\" (Plain Old C# Objects).",
-          "correct": false
+          "correct": true
         },
         {
           "answer": "Klasy modelowe odpowiadają za obsługe żądania HTTP. Zaleznie od rodzaju żądania pobierają, aktualizują, usuwają lub wyświetlają dane.",
@@ -254,7 +254,7 @@
         },
         {
           "answer": "Widok może odpowiadać za odpowiednie formatowanie wyniku żądania HTTP GET i jego wyświetlenie. Inny przykład to wyświetlenie daty w różny sposób w zależności od ustawień języka przeglądarki. Pozwala to na internacjonalizowanie naszej aplikalcji.",
-          "correct": false
+          "correct": true
         }
       ],
       "comments": []
@@ -290,11 +290,11 @@
       "answers": [
         {
           "answer": "Fragment kodu mógłby wykorzystywać blok using w celu implementacji w pełni bezpiecznego sposobu zwalniania zasobów (obiekt sqlConnection i sqlCommand).",
-          "correct": false
+          "correct": true
         },
         {
           "answer": "Fragment kodu umożliwia przeprowadzenie ataku SqlInjection",
-          "correct": false
+          "correct": true
         },
         {
           "answer": "Fragment kodu prezentuje w pełni bezpieczny sposób na zwalnianie zasobów. W tym wypadku zwalnianym zasobem jest m.in. połączenie do bazy danych",
@@ -302,7 +302,7 @@
         },
         {
           "answer": "Klasa ConfigurationManager pozwala na pobranie ConnectionString'a z ustawień aplikacji",
-          "correct": false
+          "correct": true
         }
       ],
       "comments": []
@@ -338,15 +338,15 @@
       "answers": [
         {
           "answer": "korzystając z podejścia DatabaseFirst istnieje możliwość późniejszej zmiany metody pracy z bazą danych na CodeFirst",
-          "correct": false
+          "correct": true
         },
         {
           "answer": "istnieje możliwość wycofania migracji uruchomionej na bazie danych do określonej migracji wstecz",
-          "correct": false
+          "correct": true
         },
         {
           "answer": "migracje w podejściu CodeFirst działają przyrostowo",
-          "correct": false
+          "correct": true
         }
       ],
       "comments": []
@@ -358,7 +358,7 @@
       "answers": [
         {
           "answer": "Język LINQ wykorzystywany w połączeniu z EF nie ma takiego samego poziomu ekspresji jak język SQL. Innymi słowy nie każde zapytanie zapisane w języku SQL potrafimy zapisać w języku LINQ.",
-          "correct": false
+          "correct": true
         },
         {
           "answer": "EF potrafi współdziałać jedynie z bazą danych MS SQL Server. Jeśli chcemy wykorzystać inną bazę danych - musimy posłużyć się inną biblioteką ORM.",
@@ -366,11 +366,11 @@
         },
         {
           "answer": "Zapytania wykorzystujące EF są zazwyczaj mniej wydajne niż te same zapytania zapisane za pomocą czystego SQL i bibliotek SqlConnection/SqlCommand (szczególnie te bardziej skomplikowane zapytania)",
-          "correct": false
+          "correct": true
         },
         {
           "answer": "Podejście Code First nie zawsze prowadzi do wygenerowania schematu bazy danych zgodnej z 3NF",
-          "correct": false
+          "correct": true
         }
       ],
       "comments": []
@@ -390,11 +390,11 @@
         },
         {
           "answer": "Mając odpowiedni access token możemy z jego pomocą uzyskać dostęp do zaprojektowanej końcówki aplikacji typu API (zakładając, że token nie wygasł).",
-          "correct": false
+          "correct": true
         },
         {
           "answer": "Token JWT może przechowywać informacje opisujące użytkownika",
-          "correct": false
+          "correct": true
         }
       ],
       "comments": []
@@ -406,7 +406,7 @@
       "answers": [
         {
           "answer": "ułatwiają parcę z bazami danych",
-          "correct": false
+          "correct": true
         },
         {
           "answer": "wymagają od programisty znajomości SQLa",
@@ -418,7 +418,7 @@
         },
         {
           "answer": "mogą powodować generowanie nieoptymalnego kodu SQL",
-          "correct": false
+          "correct": true
         }
       ],
       "comments": []
@@ -434,7 +434,7 @@
         },
         {
           "answer": "Sytuacja nieptymalnego wykorzystanie trybu \"lazy loading\". ORM wykonuje nadmiarową liczbę zapytań ze względu na \"dociąganie\" brakujących danych w locie (np. podczas wykonywania instrukcji pętli).",
-          "correct": false
+          "correct": true
         },
         {
           "answer": "Termin związany jest z błędem występujących w ORM'ach w trakcie zmiany sterownika do bazy danych i generowania nieptymalnego kodu SQl (jest to następstwo zmiany sterownika bazy danych bez zmiany konfiguracji context'u).",
@@ -454,11 +454,11 @@
       "answers": [
         {
           "answer": "EF pozwala nam na częściowe poradzenie sobie z problemem opisywanym poprzez termin \"różnica impedancji\".",
-          "correct": false
+          "correct": true
         },
         {
           "answer": "Wykorzystanie EF pozwala nam na uniezależnienie się od konkretnej bazy danych (np. Oracle, MS SQL Server). Dzięki temu możemy znacznie łatwiej zmienić bazę danych, jeśli zajdzie taka potrzeba.",
-          "correct": false
+          "correct": true
         },
         {
           "answer": "EF jest najszybszym i najbardziej optymalnym sposobem na komunikację z bazą danych",
@@ -466,7 +466,7 @@
         },
         {
           "answer": "Przyspieszenie procesu wytwarzania oprogramowania. Możemy skupić się wyłącznie na pisaniu kodu aplikacji (nie martwiąc się<p></p>\n<p>o kod SQL).</p>",
-          "correct": false
+          "correct": true
         }
       ],
       "comments": []
@@ -478,15 +478,15 @@
       "answers": [
         {
           "answer": "korzystając z podejścia DatabaseFirst istnieje możliwość późniejszej zmiany metody pracy z bazą danych na CodeFirst",
-          "correct": false
+          "correct": true
         },
         {
           "answer": "istnieje możliwość wycofania migracji uruchomionej na bazie danych do określonej migracji wstecz",
-          "correct": false
+          "correct": true
         },
         {
           "answer": "migracje w podejściu CodeFirst działają przyrostowo",
-          "correct": false
+          "correct": true
         }
       ],
       "comments": []
@@ -542,15 +542,15 @@
       "answers": [
         {
           "answer": "Język LINQ wykorzystywany w połączeniu z EF nie ma takiego samego poziomu ekspresji jak język SQL. Innymi słowy nie każde zapytanie zapisane w języku SQL potrafimy zapisać w języku LINQ.",
-          "correct": false
+          "correct": true
         },
         {
           "answer": "Zapytania wykorzystujące EF są zazwyczaj mniej wydajne niż te same zapytania zapisane za pomocą czystego SQL i bibliotek SqlConnection/SqlCommand (szczególnie te bardziej skomplikowane zapytania)",
-          "correct": false
+          "correct": true
         },
         {
           "answer": "EF nie zawsze pozwala nam skorzystać ze wszystkich funkcjonalności wykorzystywanej bazy danych (np. nietypowe typy danych występujące tylko w danej bazie danych).",
-          "correct": false
+          "correct": true
         }
       ],
       "comments": []
@@ -610,7 +610,7 @@
       "answers": [
         {
           "answer": "Chcemy mieć możliwość generowania i modyfikowania struktury bazy danych z poziomu języka C# (np. dodania tabeli, zmiany typu danych kolumny itp.)",
-          "correct": false
+          "correct": true
         },
         {
           "answer": "Zmiany w strukturze bazy danych wykonywane są poprzez język SQL (np. z poziomu Sql Management Studio) przez administratora bazy danych",
@@ -618,11 +618,11 @@
         },
         {
           "answer": "Dzięki temu możemy np. łatwo wycofać zmiany w bazie danych w przypadku błędu.",
-          "correct": false
+          "correct": true
         },
         {
           "answer": "Chcemy wersjonować wszystkie zmiany w strukturze naszej bazy danych. Innymi słowy chcemy zachowywać pełną historię zmian zachodzących w strukturze naszej bazy danych.",
-          "correct": false
+          "correct": true
         }
       ],
       "comments": []
@@ -634,7 +634,7 @@
       "answers": [
         {
           "answer": "zawiera metody służące do budowania zależności w projekcie",
-          "correct": false
+          "correct": true
         },
         {
           "answer": "jest klasą rozruchową - posiada metode main",
@@ -642,7 +642,7 @@
         },
         {
           "answer": "jest niezbędna do zbudowania projektu w przypadk udomyślnej konfiguracji",
-          "correct": false
+          "correct": true
         }
       ],
       "comments": []
@@ -658,7 +658,7 @@
         },
         {
           "answer": "wymaga dodatkowego sterownika bazodanowego",
-          "correct": false
+          "correct": true
         },
         {
           "answer": "nie pozwala na pisanie instrukcji SQL",
@@ -666,7 +666,7 @@
         },
         {
           "answer": "komunikuje się z bazą danych poprzez kontekst bazodanowy",
-          "correct": false
+          "correct": true
         }
       ],
       "comments": []
